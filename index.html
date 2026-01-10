@@ -19,20 +19,96 @@
   --muted:#a1a1a6;
 }
 
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg);color:var(--text)}
-header{background:var(--card);padding:12px;border-bottom:1px solid var(--border)}
-.titlebar{display:flex;justify-content:space-between;align-items:center}
-.titlebar h1{font-size:18px;margin:0}
-.titlebar button{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 12px}
-.persons{display:flex;overflow-x:auto;gap:8px;padding:10px 0}
-.person{padding:8px 14px;border-radius:18px;background:#2c2c2e;cursor:pointer}
-.person.active{background:var(--accent)}
-main{padding:12px}
-.controls button{padding:8px 14px;border-radius:8px;border:1px solid var(--border);background:#2c2c2e;color:#fff;margin-right:6px}
-.controls button.active{background:var(--accent)}
-.status{font-size:12px;color:var(--muted);margin-bottom:6px}
-pre{background:var(--card);padding:14px;border-radius:12px;white-space:pre-wrap}
-canvas{width:100%;height:260px;background:var(--card);border-radius:12px}
+body {
+  margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,sans-serif;
+  background:var(--bg);
+  color:var(--text);
+}
+
+header {
+  background:var(--card);
+  padding:12px;
+  border-bottom:1px solid var(--border);
+}
+
+.titlebar {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.titlebar h1 {
+  font-size:18px;
+  margin:0;
+}
+
+.titlebar button {
+  background:var(--accent);
+  color:#fff;
+  border:none;
+  border-radius:8px;
+  padding:8px 12px;
+  font-size:14px;
+}
+
+.persons {
+  display:flex;
+  overflow-x:auto;
+  gap:8px;
+  padding:10px 0 4px;
+}
+
+.person {
+  white-space:nowrap;
+  padding:8px 14px;
+  border-radius:18px;
+  background:#2c2c2e;
+  font-size:14px;
+  cursor:pointer;
+}
+
+.person.active {
+  background:var(--accent);
+}
+
+main {
+  padding:12px;
+}
+
+.controls button {
+  padding:8px 14px;
+  border-radius:8px;
+  border:1px solid var(--border);
+  background:#2c2c2e;
+  color:var(--text);
+  margin:4px 6px 4px 0;
+}
+
+.controls button.active {
+  background:var(--accent);
+}
+
+.status {
+  font-size:12px;
+  color:var(--muted);
+  margin:6px 0;
+}
+
+pre {
+  background:var(--card);
+  padding:14px;
+  border-radius:12px;
+  font-size:14px;
+  white-space:pre-wrap;
+}
+
+canvas {
+  width:100%;
+  height:260px;
+  background:var(--card);
+  border-radius:12px;
+}
 </style>
 </head>
 
@@ -41,108 +117,148 @@ canvas{width:100%;height:260px;background:var(--card);border-radius:12px}
 <header>
   <div class="titlebar">
     <h1>PilotApp</h1>
-    <button onclick="manualRefresh()">↻</button>
+    <button onclick="load()">↻</button>
   </div>
   <div class="persons" id="persons"></div>
 </header>
 
 <main>
-  <div class="controls">
-    <button id="btnShort" onclick="setMode('short')">Short</button>
-    <button id="btnLong" onclick="setMode('long')">Long</button>
-    <button id="btnGraph" onclick="setMode('graph')">📈 Graph</button>
-  </div>
 
-  <div class="controls" id="graphControls" style="display:none">
-    <button onclick="setHours(3)">3h</button>
-    <button onclick="setHours(6)">6h</button>
-    <button onclick="setHours(12)">12h</button>
-    <button onclick="setHours(24)">24h</button>
-  </div>
+<div class="controls">
+  <button id="btnShort" onclick="setMode('short')">Short</button>
+  <button id="btnLong" onclick="setMode('long')">Long</button>
+  <button id="btnGraph" onclick="setMode('graph')">📈 Graph</button>
+</div>
 
-  <div class="status" id="status">–</div>
+<div class="controls" id="graphControls" style="display:none">
+  <button onclick="setRange(3)">3h</button>
+  <button onclick="setRange(6)">6h</button>
+  <button onclick="setRange(12)">12h</button>
+  <button onclick="setRange(24)" class="active">24h</button>
+</div>
 
-  <pre id="content"></pre>
-  <canvas id="graph" style="display:none"></canvas>
+<div class="status" id="status">–</div>
+
+<pre id="content">Lade Daten…</pre>
+<canvas id="graph" style="display:none"></canvas>
+
 </main>
 
 <script>
-const DATA="data/";
-let persons=[],currentKey=null,mode="short",hours=24;
+const DATA_DIR = "data/";
+const USER = "rvfxghpjnm-a11y";
+const REPO = "PilotApp-View";
+const BRANCH = "main";
 
+let persons=[];
+let currentKey = localStorage.getItem("pilotapp_person");
+let mode = localStorage.getItem("pilotapp_mode") || "short";
+let rangeH = 24;
+
+/* ================= PERSONEN ================= */
 async function loadPersons(){
- const r=await fetch("https://api.github.com/repos/rvfxghpjnm-a11y/PilotApp-View/contents/data");
- const j=await r.json();
- persons=j.filter(f=>f.name.endsWith("_short.json")).map(f=>f.name.replace("_short.json",""));
- currentKey=localStorage.getItem("pilotapp_person")||persons[0];
- renderPersons(); load();
+  const url=`https://api.github.com/repos/${USER}/${REPO}/contents/data?ref=${BRANCH}`;
+  const res=await fetch(url);
+  const files=await res.json();
+  persons=files.filter(f=>f.name.endsWith("_short.json"))
+               .map(f=>f.name.replace("_short.json",""));
+  if(!currentKey) currentKey=persons[0];
+  renderPersons();
+  setMode(mode,false);
 }
 
 function renderPersons(){
- const p=document.getElementById("persons"); p.innerHTML="";
- persons.forEach(k=>{
-  const d=document.createElement("div");
-  d.className="person"+(k===currentKey?" active":"");
-  d.textContent=k.replace("_"," ");
-  d.onclick=()=>{currentKey=k;localStorage.setItem("pilotapp_person",k);renderPersons();load();}
-  p.appendChild(d);
- })
+  const box=document.getElementById("persons");
+  box.innerHTML="";
+  persons.forEach(p=>{
+    const d=document.createElement("div");
+    d.className="person"+(p===currentKey?" active":"");
+    d.textContent=p.replace("_"," ");
+    d.onclick=()=>{currentKey=p;localStorage.setItem("pilotapp_person",p);load();}
+    box.appendChild(d);
+  });
 }
 
-function setMode(m){
- mode=m;
- ["Short","Long","Graph"].forEach(x=>{
-  document.getElementById("btn"+x).classList.toggle("active",m===x.toLowerCase())
- });
- document.getElementById("graphControls").style.display=m==="graph"?"block":"none";
- load();
+/* ================= MODE ================= */
+function setMode(m,doLoad=true){
+  mode=m;
+  localStorage.setItem("pilotapp_mode",m);
+
+  ["Short","Long","Graph"].forEach(x=>{
+    document.getElementById("btn"+x).classList.toggle("active",m===x.toLowerCase());
+  });
+
+  document.getElementById("content").style.display=m==="graph"?"none":"block";
+  document.getElementById("graph").style.display=m==="graph"?"block":"none";
+  document.getElementById("graphControls").style.display=m==="graph"?"block":"none";
+
+  if(doLoad) load();
 }
 
-function setHours(h){hours=h;drawGraph();}
+function setRange(h){
+  rangeH=h;
+  document.querySelectorAll("#graphControls button").forEach(b=>b.classList.remove("active"));
+  event.target.classList.add("active");
+  drawGraph();
+}
 
+/* ================= LOAD ================= */
 async function load(){
- document.getElementById("graph").style.display=mode==="graph"?"block":"none";
- document.getElementById("content").style.display=mode==="graph"?"none":"block";
+  if(mode==="graph") return drawGraph();
 
- if(mode==="short"||mode==="long"){
-  const r=await fetch(`${DATA}${currentKey}_${mode}.json?ts=${Date.now()}`);
-  const j=await r.json();
-  content.textContent=j[mode];
- }
- if(mode==="graph") drawGraph();
- status.textContent="Aktualisiert "+new Date().toLocaleTimeString();
+  const url=`${DATA_DIR}${currentKey}_${mode}.json?ts=${Date.now()}`;
+  const res=await fetch(url,{cache:"no-store"});
+  const data=await res.json();
+
+  document.getElementById("content").textContent=data.short||data.long;
+  document.getElementById("status").textContent="Aktualisiert "+new Date().toLocaleTimeString();
 }
 
+/* ================= GRAPH ================= */
 async function drawGraph(){
- const c=document.getElementById("graph");
- const ctx=c.getContext("2d");
- ctx.clearRect(0,0,c.width,c.height);
+  const url=`${DATA_DIR}workstart_history_${currentKey}.jsonl?ts=${Date.now()}`;
+  const res=await fetch(url,{cache:"no-store"});
+  const text=await res.text();
 
- const r=await fetch(`${DATA}workstart_history_${currentKey}.jsonl?ts=${Date.now()}`);
- const lines=(await r.text()).trim().split("\n").map(l=>JSON.parse(l));
+  const rows=text.trim().split("\n").map(l=>JSON.parse(l));
+  const cutoff=Date.now()-rangeH*3600*1000;
+  const data=rows.filter(r=>new Date(r.ts).getTime()>=cutoff);
 
- const now=Date.now();
- const from=now-hours*3600000;
- const data=lines.filter(x=>new Date(x.ts).getTime()>=from);
+  const c=document.getElementById("graph");
+  const ctx=c.getContext("2d");
 
- if(!data.length) return;
+  /* 🔑 WICHTIGER FIX */
+  const dpr=window.devicePixelRatio||1;
+  c.width=c.clientWidth*dpr;
+  c.height=c.clientHeight*dpr;
+  ctx.setTransform(dpr,0,0,dpr,0,0);
 
- const xs=data.map(x=>new Date(x.ts).getTime());
- const ys=data.map(x=>x.minutes);
+  ctx.clearRect(0,0,c.width,c.height);
 
- const minX=Math.min(...xs),maxX=Math.max(...xs);
- const minY=Math.min(...ys),maxY=Math.max(...ys);
+  if(!data.length) return;
 
- ctx.strokeStyle="#0a84ff"; ctx.beginPath();
- data.forEach((p,i)=>{
-  const x=(xs[i]-minX)/(maxX-minX)*(c.width-20)+10;
-  const y=c.height-((ys[i]-minY)/(maxY-minY)*(c.height-20)+10);
-  i?ctx.lineTo(x,y):ctx.moveTo(x,y);
- });
- ctx.stroke();
+  const minT=Math.min(...data.map(d=>new Date(d.ts)));
+  const maxT=Math.max(...data.map(d=>new Date(d.ts)));
+  const minY=Math.min(...data.map(d=>d.minutes));
+  const maxY=Math.max(...data.map(d=>d.minutes));
+
+  const W=c.clientWidth;
+  const H=c.clientHeight;
+  const pad=20;
+
+  ctx.strokeStyle="#0a84ff";
+  ctx.lineWidth=2;
+  ctx.beginPath();
+
+  data.forEach((d,i)=>{
+    const x=pad+(new Date(d.ts)-minT)/(maxT-minT||1)*(W-2*pad);
+    const y=H-pad-(d.minutes-minY)/(maxY-minY||1)*(H-2*pad);
+    i?ctx.lineTo(x,y):ctx.moveTo(x,y);
+  });
+
+  ctx.stroke();
 }
 
-function manualRefresh(){load();}
 loadPersons();
 setInterval(load,60000);
 </script>
