@@ -5,18 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PilotApp</title>
 
-<!-- PWA / Standalone -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#000000">
 
 <style>
 :root {
-  --bg: #000000;
+  --bg: #000;
   --card: #1c1c1e;
   --accent: #0a84ff;
   --border: #2c2c2e;
-  --text: #ffffff;
+  --text: #fff;
   --muted: #a1a1a6;
 }
 
@@ -67,12 +66,10 @@ header {
   background: #2c2c2e;
   font-size: 14px;
   cursor: pointer;
-  color: var(--text);
 }
 
 .person.active {
   background: var(--accent);
-  color: #fff;
 }
 
 main {
@@ -95,7 +92,6 @@ main {
 
 .controls button.active {
   background: var(--accent);
-  color: #fff;
 }
 
 .status {
@@ -110,7 +106,13 @@ pre {
   border-radius: 12px;
   white-space: pre-wrap;
   font-size: 14px;
-  overflow-x: auto;
+}
+
+canvas {
+  width: 100%;
+  height: 260px;
+  background: var(--card);
+  border-radius: 12px;
 }
 </style>
 </head>
@@ -129,138 +131,134 @@ pre {
   <div class="controls">
     <button id="btnShort" onclick="setMode('short')">Short</button>
     <button id="btnLong" onclick="setMode('long')">Long</button>
+    <button id="btnGraph" onclick="setMode('graph')">📈 Graph</button>
   </div>
 
   <div class="status" id="status">–</div>
+
   <pre id="content">Lade Daten…</pre>
+  <canvas id="graph" style="display:none"></canvas>
 </main>
 
 <script>
-/* ============================================================
-   KONFIG
-============================================================ */
 const DATA_DIR = "data/";
 const GITHUB_USER = "rvfxghpjnm-a11y";
 const GITHUB_REPO = "PilotApp-View";
 const GITHUB_BRANCH = "main";
 
-/* ============================================================
-   STATE (persistiert)
-============================================================ */
 let persons = [];
-let currentKey =
-  localStorage.getItem("pilotapp_person") || null;
+let currentKey = localStorage.getItem("pilotapp_person");
+let currentMode = localStorage.getItem("pilotapp_mode") || "short";
 
-let currentMode =
-  localStorage.getItem("pilotapp_mode") || "short";
-
-/* ============================================================
-   PERSONEN LADEN (GitHub API – stabil!)
-============================================================ */
 async function loadPersons() {
-  try {
-    const apiUrl =
-      `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/data?ref=${GITHUB_BRANCH}`;
+  const api =
+    `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/data?ref=${GITHUB_BRANCH}`;
+  const res = await fetch(api);
+  const files = await res.json();
 
-    const res = await fetch(apiUrl, { cache: "no-store" });
-    const files = await res.json();
+  persons = files
+    .filter(f => f.name.endsWith("_short.json"))
+    .map(f => f.name.replace("_short.json", ""))
+    .sort();
 
-    persons = files
-      .filter(f => f.name.endsWith("_short.json"))
-      .map(f => f.name.replace("_short.json", ""))
-      .sort();
-
-    if (!persons.length) {
-      document.getElementById("content").textContent =
-        "❌ Keine Daten gefunden";
-      return;
-    }
-
-    if (!currentKey || !persons.includes(currentKey)) {
-      currentKey = persons[0];
-      localStorage.setItem("pilotapp_person", currentKey);
-    }
-
-    renderPersons();
-    setMode(currentMode, false);
-
-  } catch (e) {
-    console.error(e);
-    document.getElementById("content").textContent =
-      "❌ Personenliste nicht ladbar";
+  if (!currentKey || !persons.includes(currentKey)) {
+    currentKey = persons[0];
+    localStorage.setItem("pilotapp_person", currentKey);
   }
+
+  renderPersons();
+  setMode(currentMode, false);
 }
 
-/* ============================================================
-   UI
-============================================================ */
 function renderPersons() {
   const box = document.getElementById("persons");
   box.innerHTML = "";
-
   persons.forEach(k => {
-    const div = document.createElement("div");
-    div.className = "person";
-    div.textContent = k.replace("_", " ");
-    if (k === currentKey) div.classList.add("active");
-
-    div.onclick = () => {
+    const d = document.createElement("div");
+    d.className = "person" + (k === currentKey ? " active" : "");
+    d.textContent = k.replace("_", " ");
+    d.onclick = () => {
       currentKey = k;
       localStorage.setItem("pilotapp_person", k);
       renderPersons();
       load();
     };
-
-    box.appendChild(div);
+    box.appendChild(d);
   });
 }
 
-function setMode(m, doLoad = true) {
+function setMode(m, loadNow = true) {
   currentMode = m;
   localStorage.setItem("pilotapp_mode", m);
 
-  document.getElementById("btnShort")
-    .classList.toggle("active", m === "short");
-  document.getElementById("btnLong")
-    .classList.toggle("active", m === "long");
+  ["short","long","graph"].forEach(x =>
+    document.getElementById("btn"+x.charAt(0).toUpperCase()+x.slice(1))
+      .classList.toggle("active", m===x)
+  );
 
-  if (doLoad) load();
+  document.getElementById("content").style.display =
+    m === "graph" ? "none" : "block";
+  document.getElementById("graph").style.display =
+    m === "graph" ? "block" : "none";
+
+  if (loadNow) load();
 }
 
-/* ============================================================
-   DATEN LADEN
-============================================================ */
 async function load() {
   if (!currentKey) return;
 
-  const url =
-    `${DATA_DIR}${currentKey}_${currentMode}.json?ts=${Date.now()}`;
-
-  try {
-    const res = await fetch(url, { cache: "no-store" });
-    const data = await res.json();
-
-    document.getElementById("content").textContent =
-      data.short || data.long || "Keine Daten";
-
-    document.getElementById("status").textContent =
-      `Aktualisiert: ${new Date().toLocaleTimeString()}`;
-
-  } catch {
-    document.getElementById("content").textContent =
-      "❌ Fehler beim Laden";
+  if (currentMode === "graph") {
+    drawGraph();
+    return;
   }
+
+  const url = `${DATA_DIR}${currentKey}_${currentMode}.json?ts=${Date.now()}`;
+  const res = await fetch(url);
+  const data = await res.json();
+
+  document.getElementById("content").textContent =
+    data.short || data.long || "–";
+
+  document.getElementById("status").textContent =
+    "Aktualisiert: " + new Date().toLocaleTimeString();
 }
 
-function manualRefresh() {
-  load();
+async function drawGraph() {
+  const url = `${DATA_DIR}workstart_history_${currentKey}.jsonl?ts=${Date.now()}`;
+  const res = await fetch(url);
+  const text = await res.text();
+
+  const rows = text.trim().split("\n").map(JSON.parse);
+  const ctx = document.getElementById("graph").getContext("2d");
+  ctx.clearRect(0,0,1000,300);
+
+  if (!rows.length) return;
+
+  const xs = rows.map((_,i)=>i);
+  const ys = rows.map(r=>r.minutes);
+
+  const minY = Math.min(...ys);
+  const maxY = Math.max(...ys);
+
+  ctx.strokeStyle = "#0a84ff";
+  ctx.beginPath();
+  rows.forEach((r,i)=>{
+    const x = i*(ctx.canvas.width/(rows.length-1));
+    const y = ctx.canvas.height -
+      ((r.minutes-minY)/(maxY-minY||1))*ctx.canvas.height;
+    if (i===0) ctx.moveTo(x,y);
+    else ctx.lineTo(x,y);
+  });
+  ctx.stroke();
+
+  document.getElementById("status").textContent =
+    "Workstart-Historie";
 }
 
-/* ============================================================
-   START
-============================================================ */
+function manualRefresh(){ load(); }
+
 loadPersons();
-setInterval(load, 60000);
+setInterval(load,60000);
 </script>
 
 </body>
