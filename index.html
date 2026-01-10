@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PilotApp</title>
+
+<!-- PWA / Standalone -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#000000">
+
+<style>
+:root {
+  --bg: #000000;
+  --card: #1c1c1e;
+  --accent: #0a84ff;
+  --border: #2c2c2e;
+  --text: #ffffff;
+  --muted: #a1a1a6;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  background: var(--card);
+  padding: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.titlebar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.titlebar h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.titlebar button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+.persons {
+  display: flex;
+  overflow-x: auto;
+  gap: 8px;
+  padding: 10px 0 4px;
+}
+
+.person {
+  white-space: nowrap;
+  padding: 8px 14px;
+  border-radius: 18px;
+  background: #2c2c2e;
+  font-size: 14px;
+  cursor: pointer;
+  color: var(--text);
+}
+
+.person.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+main {
+  padding: 12px;
+}
+
+.controls {
+  margin-bottom: 10px;
+}
+
+.controls button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #2c2c2e;
+  color: var(--text);
+  margin-right: 6px;
+  font-size: 14px;
+}
+
+.controls button.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+.status {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+pre {
+  background: var(--card);
+  padding: 14px;
+  border-radius: 12px;
+  white-space: pre-wrap;
+  font-size: 14px;
+  overflow-x: auto;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="titlebar">
+    <h1>PilotApp</h1>
+    <button onclick="manualRefresh()">↻</button>
+  </div>
+  <div class="persons" id="persons"></div>
+</header>
+
+<main>
+  <div class="controls">
+    <button id="btnShort" onclick="setMode('short')">Short</button>
+    <button id="btnLong" onclick="setMode('long')">Long</button>
+  </div>
+
+  <div class="status" id="status">–</div>
+  <pre id="content">Lade Daten…</pre>
+</main>
+
+<script>
+/* ============================================================
+   KONFIG
+============================================================ */
+const DATA_DIR = "data/";
+const GITHUB_USER = "rvfxghpjnm-a11y";
+const GITHUB_REPO = "PilotApp-View";
+const GITHUB_BRANCH = "main";
+
+/* ============================================================
+   STATE (persistiert)
+============================================================ */
+let persons = [];
+let currentKey =
+  localStorage.getItem("pilotapp_person") || null;
+
+let currentMode =
+  localStorage.getItem("pilotapp_mode") || "short";
+
+/* ============================================================
+   PERSONEN LADEN (GitHub API – stabil!)
+============================================================ */
+async function loadPersons() {
+  try {
+    const apiUrl =
+      `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/data?ref=${GITHUB_BRANCH}`;
+
+    const res = await fetch(apiUrl, { cache: "no-store" });
+    const files = await res.json();
+
+    persons = files
+      .filter(f => f.name.endsWith("_short.json"))
+      .map(f => f.name.replace("_short.json", ""))
+      .sort();
+
+    if (!persons.length) {
+      document.getElementById("content").textContent =
+        "❌ Keine Daten gefunden";
+      return;
+    }
+
+    if (!currentKey || !persons.includes(currentKey)) {
+      currentKey = persons[0];
+      localStorage.setItem("pilotapp_person", currentKey);
+    }
+
+    renderPersons();
+    setMode(currentMode, false);
+
+  } catch (e) {
+    console.error(e);
+    document.getElementById("content").textContent =
+      "❌ Personenliste nicht ladbar";
+  }
+}
+
+/* ============================================================
+   UI
+============================================================ */
+function renderPersons() {
+  const box = document.getElementById("persons");
+  box.innerHTML = "";
+
+  persons.forEach(k => {
+    const div = document.createElement("div");
+    div.className = "person";
+    div.textContent = k.replace("_", " ");
+    if (k === currentKey) div.classList.add("active");
+
+    div.onclick = () => {
+      currentKey = k;
+      localStorage.setItem("pilotapp_person", k);
+      renderPersons();
+      load();
+    };
+
+    box.appendChild(div);
+  });
+}
+
+function setMode(m, doLoad = true) {
+  currentMode = m;
+  localStorage.setItem("pilotapp_mode", m);
+
+  document.getElementById("btnShort")
+    .classList.toggle("active", m === "short");
+  document.getElementById("btnLong")
+    .classList.toggle("active", m === "long");
+
+  if (doLoad) load();
+}
+
+/* ============================================================
+   DATEN LADEN
+============================================================ */
+async function load() {
+  if (!currentKey) return;
+
+  const url =
+    `${DATA_DIR}${currentKey}_${currentMode}.json?ts=${Date.now()}`;
+
+  try {
+    const res = await fetch(url, { cache: "no-store" });
+    const data = await res.json();
+
+    document.getElementById("content").textContent =
+      data.short || data.long || "Keine Daten";
+
+    document.getElementById("status").textContent =
+      `Aktualisiert: ${new Date().toLocaleTimeString()}`;
+
+  } catch {
+    document.getElementById("content").textContent =
+      "❌ Fehler beim Laden";
+  }
+}
+
+function manualRefresh() {
+  load();
+}
+
+/* ============================================================
+   START
+============================================================ */
+loadPersons();
+setInterval(load, 60000);
+</script>
+
+</body>
+</html>
