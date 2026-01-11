@@ -1,19 +1,37 @@
-/* Simple view router */
-import { state, saveState } from "./state.js";
+window.AppRouter = {
+  async load(view) {
+    AppState.view = view;
+    saveState();
 
-export async function loadView(viewName) {
-  state.view = viewName;
-  saveState();
+    const res = await fetch(`views/${view}.html`);
+    document.getElementById("content").innerHTML = await res.text();
 
-  const main = document.querySelector("main");
-  if (!main) return;
+    document.getElementById("refreshTime").textContent =
+      new Date().toLocaleTimeString();
+  }
+};
 
-  let path = "";
-  if (viewName === "short") path = "views/short.html";
-  else if (viewName === "long") path = "views/long.html";
-  else return;
+(async () => {
+  const persons = ["konietzka_stefan", "crotogino_philipp"];
+  const pb = document.getElementById("personButtons");
 
-  const res = await fetch(path, { cache: "no-store" });
-  const html = await res.text();
-  main.innerHTML = html;
-}
+  persons.forEach(p => {
+    const b = document.createElement("button");
+    b.textContent = p.replace("_", " ");
+    b.onclick = () => {
+      AppState.person = p;
+      saveState();
+      AppRouter.load(AppState.view);
+    };
+    pb.appendChild(b);
+  });
+
+  document.querySelectorAll("[data-view]").forEach(btn => {
+    btn.onclick = () => AppRouter.load(btn.dataset.view);
+  });
+
+  document.getElementById("refreshBtn").onclick =
+    () => AppRouter.load(AppState.view);
+
+  AppRouter.load(AppState.view);
+})();

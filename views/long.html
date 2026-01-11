@@ -1,5 +1,13 @@
-<!-- Long View -->
-<section id="view-long">
+<div class="card">
   <h2>Long</h2>
-  <pre id="long-content">Lade Long…</pre>
-</section>
+  <pre id="longContent">Lade Daten …</pre>
+</div>
+
+<script>
+(async () => {
+  const { person } = window.AppState;
+  const res = await fetch(`data/${person}_long.json`);
+  const data = await res.json();
+  document.getElementById("longContent").textContent = data.long || "–";
+})();
+</script>

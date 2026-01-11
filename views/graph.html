@@ -1,0 +1,63 @@
+<div class="card">
+  <h2>Workstart-Verlauf</h2>
+
+  <div class="time-buttons">
+    <button data-h="3">3h</button>
+    <button data-h="6">6h</button>
+    <button data-h="12">12h</button>
+    <button data-h="24">24h</button>
+  </div>
+
+  <canvas id="graph" height="200"></canvas>
+</div>
+
+<script>
+(async () => {
+  const { person, graphHours } = window.AppState;
+
+  const res = await fetch(`data/workstart_history_${person}.json`);
+  const json = await res.json();
+
+  const now = Date.now();
+  const maxAge = graphHours * 3600 * 1000;
+
+  const points = json.entries
+    .map(e => ({
+      t: new Date(e.ts).getTime(),
+      pos: e.pos
+    }))
+    .filter(p => now - p.t <= maxAge);
+
+  const canvas = document.getElementById("graph");
+  const ctx = canvas.getContext("2d");
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  if (!points.length) {
+    ctx.fillText("Keine Daten", 20, 20);
+    return;
+  }
+
+  const minPos = Math.min(...points.map(p => p.pos));
+  const maxPos = Math.max(...points.map(p => p.pos));
+
+  points.forEach((p, i) => {
+    const x = (i / (points.length - 1)) * canvas.width;
+    const y = canvas.height - ((p.pos - minPos) / (maxPos - minPos || 1)) * canvas.height;
+
+    if (i === 0) ctx.moveTo(x, y);
+    else ctx.lineTo(x, y);
+  });
+
+  ctx.strokeStyle = "#4ea1ff";
+  ctx.lineWidth = 2;
+  ctx.stroke();
+
+  document.querySelectorAll(".time-buttons button").forEach(btn => {
+    btn.onclick = () => {
+      window.AppState.graphHours = Number(btn.dataset.h);
+      window.AppRouter.load("graph");
+    };
+  });
+})();
+</script>

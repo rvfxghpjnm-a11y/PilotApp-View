@@ -1,12 +1,11 @@
-/* Global state + persistence */
-export const state = {
-  person: localStorage.getItem("pilotapp_person"),
-  mode: localStorage.getItem("pilotapp_mode") || "short",
-  view: localStorage.getItem("pilotapp_view") || "short", // short | long | graph
+window.AppState = {
+  person: localStorage.getItem("person") || "konietzka_stefan",
+  view: localStorage.getItem("view") || "short",
+  graphHours: Number(localStorage.getItem("graphHours") || 24)
 };
 
-export function saveState() {
-  if (state.person) localStorage.setItem("pilotapp_person", state.person);
-  localStorage.setItem("pilotapp_mode", state.mode);
-  localStorage.setItem("pilotapp_view", state.view);
-}
+window.saveState = () => {
+  localStorage.setItem("person", AppState.person);
+  localStorage.setItem("view", AppState.view);
+  localStorage.setItem("graphHours", AppState.graphHours);
+};
