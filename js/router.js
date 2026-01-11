@@ -1,72 +1,124 @@
 // js/router.js
-import { state, setPerson, setView, restoreState } from "./state.js";
+// ============================================================
+// PILOTAPP ROUTER – FINAL
+// ============================================================
 
-const content = document.getElementById("content");
-const personButtons = document.getElementById("personButtons");
-const viewButtons = document.querySelectorAll("[data-view]");
+import { state, setPerson, setView, initState } from "./state.js";
+
+// ------------------------------------------------------------
+// DOM
+// ------------------------------------------------------------
+
+const contentEl = document.getElementById("content");
+const personButtonsEl = document.getElementById("personButtons");
+const viewButtons = document.querySelectorAll(".view-buttons button");
 const refreshBtn = document.getElementById("refreshBtn");
-const refreshTime = document.getElementById("refreshTime");
+const refreshTimeEl = document.getElementById("refreshTime");
 
-restoreState();
+// ------------------------------------------------------------
+// INIT
+// ------------------------------------------------------------
 
-async function loadPersons() {
-  // HIER feste Liste – später dynamisch
-  state.persons = [
-    "konietzka_stefan",
-    "crotogino_philipp"
-  ];
+document.addEventListener("DOMContentLoaded", async () => {
+  await initState();
+  renderPersons();
+  renderViews();
+  loadCurrentView();
+  updateRefreshTime();
+});
 
-  if (!state.currentPerson) {
-    setPerson(state.persons[0]);
-  }
+// ------------------------------------------------------------
+// PERSON BUTTONS
+// ------------------------------------------------------------
 
-  renderPersonButtons();
-}
-
-function renderPersonButtons() {
-  personButtons.innerHTML = "";
+function renderPersons() {
+  personButtonsEl.innerHTML = "";
 
   state.persons.forEach(p => {
     const btn = document.createElement("button");
-    btn.textContent = p.replace("_", " ");
-    btn.className = p === state.currentPerson ? "active" : "";
+    btn.textContent = `${p.vorname} ${p.nachname}`;
+    btn.dataset.person = p.key;
+
+    if (p.key === state.currentPerson) {
+      btn.classList.add("active");
+    }
+
     btn.onclick = () => {
-      setPerson(p);
-      renderPersonButtons();
-      loadView(state.currentView);
+      setPerson(p.key);
+      renderPersons();
+      loadCurrentView();
     };
-    personButtons.appendChild(btn);
+
+    personButtonsEl.appendChild(btn);
   });
 }
 
-async function loadView(view) {
-  if (!state.currentPerson) return;
+// ------------------------------------------------------------
+// VIEW BUTTONS
+// ------------------------------------------------------------
 
-  setView(view);
+function renderViews() {
+  viewButtons.forEach(btn => {
+    const view = btn.dataset.view;
 
-  const res = await fetch(`views/${view}.html`);
-  content.innerHTML = await res.text();
+    if (view === state.currentView) {
+      btn.classList.add("active");
+    } else {
+      btn.classList.remove("active");
+    }
 
-  highlightViewButtons();
-}
-
-function highlightViewButtons() {
-  viewButtons.forEach(b => {
-    b.classList.toggle(
-      "active",
-      b.dataset.view === state.currentView
-    );
+    btn.onclick = () => {
+      setView(view);
+      renderViews();
+      loadCurrentView();
+    };
   });
 }
 
-viewButtons.forEach(btn => {
-  btn.onclick = () => loadView(btn.dataset.view);
-});
+// ------------------------------------------------------------
+// VIEW LOADER
+// ------------------------------------------------------------
 
-refreshBtn.onclick = () => {
-  loadView(state.currentView);
-  refreshTime.textContent = new Date().toLocaleTimeString();
+async function loadCurrentView() {
+  if (!state.currentPerson) {
+    contentEl.innerHTML = "<p>Keine Person ausgewählt</p>";
+    return;
+  }
+
+  const view = state.currentView;
+  const url = `views/${view}.html`;
+
+  try {
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error("View nicht ladbar");
+
+    const html = await res.text();
+    contentEl.innerHTML = html;
+
+    // Graph braucht Person-Key global
+    if (view === "graph") {
+      window.PILOTAPP_PERSON = state.currentPerson;
+    }
+
+  } catch (err) {
+    contentEl.innerHTML = `<p>Fehler beim Laden von ${view}</p>`;
+    console.error(err);
+  }
+}
+
+// ------------------------------------------------------------
+// REFRESH
+// ------------------------------------------------------------
+
+refreshBtn.onclick = async () => {
+  await initState();
+  renderPersons();
+  renderViews();
+  loadCurrentView();
+  updateRefreshTime();
 };
 
-await loadPersons();
-await loadView(state.currentView);
+function updateRefreshTime() {
+  const now = new Date();
+  refreshTimeEl.textContent = now.toLocaleTimeString("de-DE");
+}
