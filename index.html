@@ -1,169 +1,254 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="UTF-8">
-<title>PilotApp – Workstart History</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PilotApp</title>
 
+<!-- PWA -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#000000">
+
+<!-- Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
 
 <style>
-body {
-  background: #0f1115;
-  color: #e5e7eb;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  margin: 0;
-  padding: 20px;
+:root {
+  --bg: #000;
+  --card: #1c1c1e;
+  --accent: #0a84ff;
+  --border: #2c2c2e;
+  --text: #fff;
+  --muted: #a1a1a6;
 }
 
-h1 {
-  text-align: center;
-  font-size: 20px;
-  margin-bottom: 20px;
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  background: var(--card);
+  padding: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.titlebar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.titlebar h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.titlebar button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
+.persons {
+  display: flex;
+  overflow-x: auto;
+  gap: 8px;
+  padding: 10px 0 4px;
+}
+
+.person {
+  white-space: nowrap;
+  padding: 8px 14px;
+  border-radius: 18px;
+  background: #2c2c2e;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.person.active {
+  background: var(--accent);
+}
+
+main {
+  padding: 12px;
+}
+
+.controls {
+  margin-bottom: 10px;
+}
+
+.controls button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #2c2c2e;
+  color: var(--text);
+  margin-right: 6px;
+}
+
+.controls button.active {
+  background: var(--accent);
+}
+
+.status {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+pre {
+  background: var(--card);
+  padding: 14px;
+  border-radius: 12px;
+  white-space: pre-wrap;
+  font-size: 14px;
+}
+
+section {
+  margin-top: 20px;
+  background: var(--card);
+  padding: 12px;
+  border-radius: 12px;
 }
 
 canvas {
-  max-width: 1400px;
-  margin: auto;
-  display: block;
+  width: 100% !important;
 }
 </style>
 </head>
 
 <body>
 
-<h1>Workstart – Positionsverlauf (4-Time-Glance)</h1>
-<canvas id="chart"></canvas>
+<header>
+  <div class="titlebar">
+    <h1>PilotApp</h1>
+    <button onclick="load()">↻</button>
+  </div>
+  <div class="persons" id="persons"></div>
+</header>
+
+<main>
+
+  <div class="controls">
+    <button id="btnShort" onclick="setMode('short')">Short</button>
+    <button id="btnLong" onclick="setMode('long')">Long</button>
+  </div>
+
+  <div class="status" id="status">–</div>
+  <pre id="content">Lade Daten…</pre>
+
+  <!-- WORKSTART -->
+  <section>
+    <h2>Workstart-Verlauf</h2>
+    <canvas id="workstartChart" height="140"></canvas>
+  </section>
+
+</main>
 
 <script>
-const FILE = "workstart_history_konietzka_stefan.json";
+const DATA_DIR = "data/";
+let persons = [];
+let currentKey = localStorage.getItem("pilotapp_person");
+let currentMode = localStorage.getItem("pilotapp_mode") || "short";
+let chart = null;
 
-/* ---------------------------------------------------------
-   Helpers
---------------------------------------------------------- */
-function parseTime(ts) {
-  if (!ts) return null;
-  return new Date(ts.replace(" ", "T"));
+async function loadPersons() {
+  const res = await fetch("data/");
+  const html = await res.text();
+
+  persons = [...html.matchAll(/href="([^"]+)_short\.json"/g)]
+    .map(m => m[1])
+    .sort();
+
+  if (!currentKey || !persons.includes(currentKey)) {
+    currentKey = persons[0];
+  }
+
+  renderPersons();
+  setMode(currentMode, false);
 }
 
-fetch(FILE)
-  .then(r => r.json())
-  .then(data => {
-    const entries = data.entries || [];
+function renderPersons() {
+  const box = document.getElementById("persons");
+  box.innerHTML = "";
 
-    const labels = entries.map(e => e.ts_calc);
+  persons.forEach(k => {
+    const d = document.createElement("div");
+    d.className = "person" + (k === currentKey ? " active" : "");
+    d.textContent = k.replace("_", " ");
+    d.onclick = () => {
+      currentKey = k;
+      localStorage.setItem("pilotapp_person", k);
+      renderPersons();
+      load();
+      loadWorkstart();
+    };
+    box.appendChild(d);
+  });
+}
 
-    const pos = entries.map(e => e.pos);
+function setMode(m, reload = true) {
+  currentMode = m;
+  localStorage.setItem("pilotapp_mode", m);
+  btnShort.classList.toggle("active", m === "short");
+  btnLong.classList.toggle("active", m === "long");
+  if (reload) load();
+}
 
-    const t_meld = entries.map(e =>
-      e.from_meldung ? e.pos : null
-    );
+async function load() {
+  const res = await fetch(`${DATA_DIR}${currentKey}_${currentMode}.json?ts=${Date.now()}`);
+  const data = await res.json();
+  content.textContent = data[currentMode] || "–";
+  status.textContent = "Aktualisiert: " + new Date().toLocaleTimeString();
+}
 
-    const t_alt = entries.map(e =>
-      e.from_meldung_alt ? e.pos : null
-    );
+async function loadWorkstart() {
+  const res = await fetch(`${DATA_DIR}workstart_history_${currentKey}.json`);
+  const data = await res.json();
 
-    const t_div2 = entries.map(e =>
-      e.calc_div2 ? e.pos : null
-    );
+  const toDate = s => s ? new Date(s.replace(" ", "T")) : null;
 
-    const t_div3 = entries.map(e =>
-      e.calc_div3 ? e.pos : null
-    );
+  const labels = data.entries.map(e => toDate(e.ts_calc));
+  const line = k => data.entries.map(e => toDate(e[k]));
 
-    new Chart(document.getElementById("chart"), {
-      type: "line",
-      data: {
-        labels,
-        datasets: [
-          {
-            label: "Position",
-            data: pos,
-            borderColor: "#4f46e5",
-            backgroundColor: "rgba(79,70,229,0.15)",
-            tension: 0.15,
-            pointRadius: 0,
-          },
-          {
-            label: "Meldung (primär)",
-            data: t_meld,
-            borderColor: "#22c55e",
-            borderDash: [6,4],
-            pointRadius: 3,
-          },
-          {
-            label: "Meldung (alternativ)",
-            data: t_alt,
-            borderColor: "#16a34a",
-            borderDash: [2,6],
-            pointRadius: 3,
-          },
-          {
-            label: "Div 2",
-            data: t_div2,
-            borderColor: "#f59e0b",
-            borderDash: [8,4],
-            pointRadius: 2,
-          },
-          {
-            label: "Div 3",
-            data: t_div3,
-            borderColor: "#ef4444",
-            borderDash: [4,4],
-            pointRadius: 2,
-          }
-        ]
-      },
-      options: {
-        responsive: true,
-        interaction: {
-          mode: "index",
-          intersect: false
-        },
-        plugins: {
-          legend: {
-            labels: {
-              color: "#e5e7eb"
-            }
-          },
-          tooltip: {
-            callbacks: {
-              label: ctx => `${ctx.dataset.label}: Pos ${ctx.parsed.y}`
-            }
-          }
-        },
-        scales: {
-          y: {
-            reverse: true,
-            title: {
-              display: true,
-              text: "Position",
-              color: "#9ca3af"
-            },
-            ticks: {
-              color: "#9ca3af"
-            },
-            grid: {
-              color: "rgba(255,255,255,0.05)"
-            }
-          },
-          x: {
-            ticks: {
-              maxTicksLimit: 12,
-              color: "#9ca3af"
-            },
-            grid: {
-              color: "rgba(255,255,255,0.05)"
-            }
+  if (chart) chart.destroy();
+
+  chart = new Chart(workstartChart, {
+    type: "line",
+    data: {
+      labels,
+      datasets: [
+        { label: "DIV 2", data: line("calc_div2"), borderColor: "#4caf50" },
+        { label: "DIV 3", data: line("calc_div3"), borderColor: "#2196f3" },
+        { label: "Meldung", data: line("from_meldung"), borderColor: "#ff9800", borderDash: [5,5] },
+        { label: "Alt. Meldung", data: line("from_meldung_alt"), borderColor: "#f44336", borderDash: [2,4] }
+      ]
+    },
+    options: {
+      interaction: { mode: "index", intersect: false },
+      scales: {
+        x: { type: "time" },
+        y: {
+          ticks: {
+            callback: v => new Date(v).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})
           }
         }
       }
-    });
-  })
-  .catch(err => {
-    document.body.innerHTML =
-      "<h2 style='color:red'>Fehler beim Laden der Workstart-Daten</h2>";
-    console.error(err);
+    }
   });
+}
+
+loadPersons().then(() => {
+  load();
+  loadWorkstart();
+});
 </script>
 
 </body>
