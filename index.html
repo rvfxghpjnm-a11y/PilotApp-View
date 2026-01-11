@@ -61,6 +61,10 @@ canvas {
   width: 100% !important;
   height: 320px !important;
 }
+
+.hidden {
+  display: none;
+}
 </style>
 </head>
 
@@ -73,28 +77,26 @@ canvas {
   <!-- PERSONEN -->
   <div id="persons"></div>
 
-  <!-- SHORT / LONG -->
+  <!-- MODUS -->
   <div style="margin-top:10px">
     <button id="btnShort" class="active" onclick="setMode('short')">Short</button>
     <button id="btnLong" onclick="setMode('long')">Long</button>
+    <button id="btnGraph" onclick="setMode('graph')">Graph</button>
   </div>
 
   <!-- TEXT -->
-  <div class="card">
+  <div id="textCard" class="card">
     <pre id="content">Lade Daten…</pre>
   </div>
 
-  <!-- ZEITFENSTER -->
-  <div style="margin-top:10px">
-    <button onclick="setWindow(3)">3h</button>
-    <button onclick="setWindow(6)">6h</button>
-    <button onclick="setWindow(12)">12h</button>
-    <button class="active" onclick="setWindow(24)">24h</button>
-  </div>
-
   <!-- GRAPH -->
-  <div class="card">
-    <h3>Workstart-Verlauf</h3>
+  <div id="graphCard" class="card hidden">
+    <div style="margin-bottom:10px">
+      <button onclick="setWindow(3)">3h</button>
+      <button onclick="setWindow(6)">6h</button>
+      <button onclick="setWindow(12)">12h</button>
+      <button class="active" onclick="setWindow(24)">24h</button>
+    </div>
     <canvas id="chart"></canvas>
   </div>
 
@@ -121,7 +123,6 @@ let chart;
 
 renderPersons();
 loadText();
-loadWorkstart();
 
 /* ==============================
    UI
@@ -138,8 +139,7 @@ function renderPersons() {
     b.onclick = () => {
       currentKey = p;
       renderPersons();
-      loadText();
-      loadWorkstart();
+      reload();
     };
     box.appendChild(b);
   });
@@ -147,20 +147,34 @@ function renderPersons() {
 
 function setMode(m) {
   mode = m;
+
   document.getElementById("btnShort").classList.toggle("active", m === "short");
   document.getElementById("btnLong").classList.toggle("active", m === "long");
-  loadText();
+  document.getElementById("btnGraph").classList.toggle("active", m === "graph");
+
+  document.getElementById("textCard").classList.toggle("hidden", m === "graph");
+  document.getElementById("graphCard").classList.toggle("hidden", m !== "graph");
+
+  reload();
+}
+
+function reload() {
+  if (mode === "graph") {
+    loadWorkstart();
+  } else {
+    loadText();
+  }
 }
 
 function setWindow(h) {
   windowHours = h;
-  document.querySelectorAll("button").forEach(b => b.classList.remove("active"));
+  document.querySelectorAll("#graphCard button").forEach(b => b.classList.remove("active"));
   event.target.classList.add("active");
   loadWorkstart();
 }
 
 /* ==============================
-   TEXT (SHORT / LONG)
+   SHORT / LONG
 ============================== */
 
 async function loadText() {
@@ -178,8 +192,7 @@ async function loadText() {
 ============================== */
 
 async function loadWorkstart() {
-  const url = `data/workstart_history_${currentKey}.json`;
-  const res = await fetch(url);
+  const res = await fetch(`data/workstart_history_${currentKey}.json`);
   if (!res.ok) return;
 
   const data = await res.json();
@@ -188,15 +201,13 @@ async function loadWorkstart() {
   const now = Date.now();
   const cutoff = now - windowHours * 3600 * 1000;
 
-  const norm = e => ({
-    ts: parseISO(e.ts_calc),
-    m: parseISO(e.from_meldung),
-    a: parseISO(e.from_meldung_alt),
-    d2: parseISO(e.calc_div2),
-    d3: parseISO(e.calc_div3),
-  }).filter(x => x.ts && x.ts.getTime() >= cutoff);
-
-  const rows = entries.map(norm).filter(Boolean);
+  const rows = entries.map(e => ({
+    ts: new Date(e.ts),
+    m: parseHM(e.from_meldung),
+    a: parseHM(e.from_meldung_alt),
+    d2: parseHM(e.calc_div2),
+    d3: parseHM(e.calc_div3),
+  })).filter(r => r.ts && r.ts.getTime() >= cutoff);
 
   drawChart(rows);
 }
@@ -227,17 +238,16 @@ function drawChart(rows) {
 function mk(label, rows, key, color) {
   return {
     label,
-    data: rows.map(r => ({ x: r.ts, y: r[key] })),
-    borderColor: color,
+    data: rows.map(r => r[key] ? { x: r.ts, y: r[key] } : null),
     spanGaps: true,
+    borderColor: color,
     tension: 0.25
   };
 }
 
-function parseISO(v) {
+function parseHM(v) {
   if (!v) return null;
-  if (v.includes("T")) return new Date(v);
-  const m = v.match(/(\d{2}):(\d{2})$/);
+  const m = v.match(/(\d{2}):(\d{2})/);
   if (!m) return null;
   const d = new Date();
   d.setHours(+m[1], +m[2], 0, 0);
