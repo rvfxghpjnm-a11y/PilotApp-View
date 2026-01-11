@@ -1,223 +1,68 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PilotApp</title>
-
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="theme-color" content="#000">
-
-<style>
-:root {
-  --bg:#000;
-  --card:#1c1c1e;
-  --accent:#0a84ff;
-  --border:#2c2c2e;
-  --text:#fff;
-  --muted:#a1a1a6;
-}
-
-body {
-  margin:0;
-  font-family:-apple-system,BlinkMacSystemFont,sans-serif;
-  background:var(--bg);
-  color:var(--text);
-}
-
-header {
-  background:var(--card);
-  padding:12px;
-  border-bottom:1px solid var(--border);
-}
-
-.titlebar {
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-}
-
-.persons {
-  display:flex;
-  gap:8px;
-  overflow-x:auto;
-  padding:10px 0 4px;
-  -webkit-overflow-scrolling:touch;
-  touch-action:pan-x;
-}
-
-.person {
-  padding:8px 14px;
-  border-radius:18px;
-  background:#2c2c2e;
-  cursor:pointer;
-  white-space:nowrap;
-}
-
-.person.active { background:var(--accent); }
-
-main { padding:12px; }
-
-.controls button {
-  padding:8px 14px;
-  border-radius:8px;
-  border:1px solid var(--border);
-  background:#2c2c2e;
-  color:#fff;
-  margin-right:6px;
-}
-
-.controls button.active { background:var(--accent); }
-
-pre {
-  background:var(--card);
-  padding:14px;
-  border-radius:12px;
-  white-space:pre-wrap;
-}
-
-canvas {
-  display:block;
-  width:100%;
-  height:260px;
-  background:var(--card);
-  border-radius:12px;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>Workstart History</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      background: #111;
+      color: #eee;
+      font-family: system-ui, sans-serif;
+    }
+    canvas {
+      max-width: 1200px;
+      margin: 40px auto;
+      display: block;
+    }
+  </style>
 </head>
-
 <body>
 
-<header>
-  <div class="titlebar">
-    <h1>PilotApp</h1>
-    <button onclick="load()">↻</button>
-  </div>
-  <div class="persons" id="persons"></div>
-</header>
-
-<main>
-  <div class="controls">
-    <button id="btnShort" onclick="setMode('short')">Short</button>
-    <button id="btnLong" onclick="setMode('long')">Long</button>
-    <button id="btnGraph" onclick="setMode('graph')">📈 Graph</button>
-  </div>
-
-  <div class="controls" id="graphControls" style="display:none">
-    <button onclick="setRange(3)">3h</button>
-    <button onclick="setRange(6)">6h</button>
-    <button onclick="setRange(12)">12h</button>
-    <button onclick="setRange(24)" class="active">24h</button>
-  </div>
-
-  <pre id="content">Lade Daten…</pre>
-  <canvas id="graph" width="800" height="260"></canvas>
-</main>
+<h2 style="text-align:center;">Workstart – Positionsverlauf</h2>
+<canvas id="chart"></canvas>
 
 <script>
-const DATA_DIR="data/";
-let persons=[];
-let currentKey=localStorage.getItem("pilotapp_person");
-let mode=localStorage.getItem("pilotapp_mode")||"short";
-let rangeH=24;
-let initialized=false;
+fetch("workstart_history_konietzka_stefan.json")
+  .then(r => r.json())
+  .then(data => {
+    const entries = data.entries;
 
-/* Personen */
-async function loadPersons(){
-  const res=await fetch("https://api.github.com/repos/rvfxghpjnm-a11y/PilotApp-View/contents/data");
-  const files=await res.json();
-  persons=files.filter(f=>f.name.endsWith("_short.json"))
-               .map(f=>f.name.replace("_short.json",""));
-  if(!currentKey||!persons.includes(currentKey)) currentKey=persons[0];
-  renderPersons();
-  if(!initialized){
-    initialized=true;
-    setMode(mode,true);
-  }
-}
+    const labels = entries.map(e => e.ts_calc);
+    const pos = entries.map(e => e.pos);
 
-function renderPersons(){
-  const box=document.getElementById("persons");
-  box.innerHTML="";
-  persons.forEach(p=>{
-    const d=document.createElement("div");
-    d.className="person"+(p===currentKey?" active":"");
-    d.textContent=p.replace("_"," ");
-    d.onclick=()=>{currentKey=p;load();}
-    box.appendChild(d);
+    new Chart(document.getElementById("chart"), {
+      type: "line",
+      data: {
+        labels,
+        datasets: [{
+          label: "Position",
+          data: pos,
+          borderColor: "#4fd1c5",
+          backgroundColor: "rgba(79,209,197,0.2)",
+          tension: 0.2,
+          pointRadius: 0
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            reverse: true,
+            title: {
+              display: true,
+              text: "Position"
+            }
+          },
+          x: {
+            ticks: {
+              maxTicksLimit: 12
+            }
+          }
+        }
+      }
+    });
   });
-}
-
-/* Mode */
-function setMode(m,doLoad=true){
-  mode=m;
-  localStorage.setItem("pilotapp_mode",m);
-
-  ["short","long","graph"].forEach(x=>{
-    document.getElementById("btn"+x.charAt(0).toUpperCase()+x.slice(1))
-      .classList.toggle("active",x===m);
-  });
-
-  document.getElementById("content").style.display=m==="graph"?"none":"block";
-  document.getElementById("graph").style.display=m==="graph"?"block":"none";
-  document.getElementById("graphControls").style.display=m==="graph"?"block":"none";
-
-  if(doLoad) load();
-}
-
-function setRange(h){rangeH=h;drawGraph();}
-
-/* Load */
-async function load(){
-  if(mode==="graph"){ drawGraph(); return; }
-  const res=await fetch(`${DATA_DIR}${currentKey}_${mode}.json?ts=${Date.now()}`);
-  const data=await res.json();
-  document.getElementById("content").textContent=data.short||data.long;
-}
-
-/* Graph */
-async function drawGraph(){
-  const url=`${DATA_DIR}workstart_history_${currentKey}.jsonl`;
-  let res;
-  try {
-    res=await fetch(url,{cache:"no-store"});
-    if(!res.ok) throw 0;
-  } catch {
-    document.getElementById("content").style.display="block";
-    document.getElementById("content").textContent="❌ Keine Workstart-Historie";
-    return;
-  }
-
-  const rows=(await res.text()).trim().split("\n").map(JSON.parse);
-  if(!rows.length) return;
-
-  const c=document.getElementById("graph");
-  const ctx=c.getContext("2d");
-  ctx.clearRect(0,0,c.width,c.height);
-
-  const now=Date.now();
-  const data=rows.filter(r=>now-new Date(r.ts)<rangeH*3600*1000);
-  if(!data.length) return;
-
-  const minT=Math.min(...data.map(d=>new Date(d.ts)));
-  const maxT=Math.max(...data.map(d=>new Date(d.ts)));
-  const minY=Math.min(...data.map(d=>d.minutes));
-  const maxY=Math.max(...data.map(d=>d.minutes));
-
-  ctx.strokeStyle="#0a84ff";
-  ctx.lineWidth=2;
-  ctx.beginPath();
-
-  data.forEach((d,i)=>{
-    const x=20+(new Date(d.ts)-minT)/(maxT-minT||1)*(c.width-40);
-    const y=c.height-20-(d.minutes-minY)/(maxY-minY||1)*(c.height-40);
-    i?ctx.lineTo(x,y):ctx.moveTo(x,y);
-  });
-  ctx.stroke();
-}
-
-loadPersons();
-setInterval(load,60000);
 </script>
+
 </body>
 </html>
