@@ -1,23 +1,25 @@
 // js/state.js
-// =====================================================
-// ZENTRALER APP-STATE (STABIL)
-// =====================================================
-
-const AppState = {
-  person: localStorage.getItem("person") || "konietzka_stefan",
-  view: localStorage.getItem("view") || "short",
+export const state = {
+  persons: [],
+  currentPerson: null,
+  currentView: "short",
+  lastRefresh: null
 };
 
-export function setPerson(p) {
-  AppState.person = p;
-  localStorage.setItem("person", p);
+export function setPerson(person) {
+  state.currentPerson = person;
+  localStorage.setItem("pilotapp_person", person);
 }
 
-export function setView(v) {
-  AppState.view = v;
-  localStorage.setItem("view", v);
+export function setView(view) {
+  state.currentView = view;
+  localStorage.setItem("pilotapp_view", view);
 }
 
-export function getState() {
-  return { ...AppState };
+export function restoreState() {
+  const p = localStorage.getItem("pilotapp_person");
+  const v = localStorage.getItem("pilotapp_view");
+
+  if (p) state.currentPerson = p;
+  if (v) state.currentView = v;
 }

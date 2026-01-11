@@ -1,73 +1,76 @@
 // js/graph.js
-// =====================================================
-// WORKSTART GRAPH (STABIL)
-// =====================================================
+import { state } from "./state.js";
 
-import { getState } from "./state.js";
-
-let chart = null;
-
-async function loadData(hours) {
-  const { person } = getState();
-  const url = `data/workstart_history_${person}.json`;
-
-  const res = await fetch(url, { cache: "no-store" });
-  const json = await res.json();
-
-  const now = Date.now();
-  const limit = now - hours * 3600 * 1000;
-
-  return json.entries
-    .filter(e => new Date(e.ts).getTime() >= limit)
-    .map(e => ({
-      x: new Date(e.ts),
-      y: e.pos,
-    }));
+const canvas = document.getElementById("workstartChart");
+if (!canvas) {
+  console.warn("Canvas nicht gefunden");
 }
 
-async function draw(hours) {
-  const data = await loadData(hours);
-  const ctx = document.getElementById("workstartChart");
+if (!state.currentPerson) {
+  console.warn("Keine Person gesetzt – Graph abgebrochen");
+  return;
+}
 
-  if (!ctx) return;
+const ctx = canvas.getContext("2d");
+
+async function loadData(hours = 24) {
+  const file = `data/workstart_history_${state.currentPerson}.json`;
+
+  const res = await fetch(file);
+  if (!res.ok) {
+    console.warn("Workstart JSON nicht gefunden:", file);
+    return [];
+  }
+
+  const json = await res.json();
+  const now = Date.now();
+  const cutoff = now - hours * 3600 * 1000;
+
+  return json.entries.filter(e =>
+    new Date(e.ts).getTime() >= cutoff
+  );
+}
+
+let chart;
+
+async function render(hours = 24) {
+  const data = await loadData(hours);
+
+  const labels = data.map(e =>
+    new Date(e.ts).toLocaleTimeString()
+  );
+  const values = data.map(e => e.pos);
 
   if (chart) chart.destroy();
 
   chart = new Chart(ctx, {
     type: "line",
     data: {
+      labels,
       datasets: [{
-        label: "Position",
-        data,
-        borderWidth: 2,
-        tension: 0.2
+        label: state.currentPerson.replace("_", " "),
+        data: values,
+        borderWidth: 2
       }]
     },
     options: {
-      parsing: false,
+      responsive: true,
       scales: {
-        x: {
-          type: "time",
-          time: { unit: "hour" }
-        },
-        y: {
-          reverse: true,
-          title: { display: true, text: "Position" }
-        }
+        y: { reverse: true }
       }
     }
   });
 }
 
-// Buttons
-document.querySelectorAll(".time-buttons button").forEach(btn => {
-  btn.addEventListener("click", () => {
-    document.querySelectorAll(".time-buttons button")
-      .forEach(b => b.classList.remove("active"));
-    btn.classList.add("active");
-    draw(Number(btn.dataset.hours));
-  });
-});
+render();
 
-// Initial
-draw(24);
+document.querySelectorAll(".time-buttons button").forEach(btn => {
+  btn.onclick = () => {
+    document
+      .querySelectorAll(".time-buttons button")
+      .forEach(b => b.classList.remove("active"));
+
+    btn.classList.add("active");
+    render(Number(btn.dataset.hours));
+  };
+});

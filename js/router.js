@@ -1,39 +1,72 @@
 // js/router.js
-// =====================================================
-// VIEW-ROUTER (STABIL)
-// =====================================================
-
-import { getState, setView } from "./state.js";
+import { state, setPerson, setView, restoreState } from "./state.js";
 
 const content = document.getElementById("content");
+const personButtons = document.getElementById("personButtons");
 const viewButtons = document.querySelectorAll("[data-view]");
+const refreshBtn = document.getElementById("refreshBtn");
+const refreshTime = document.getElementById("refreshTime");
 
-async function loadView(view) {
-  setView(view);
+restoreState();
 
-  viewButtons.forEach(b =>
-    b.classList.toggle("active", b.dataset.view === view)
-  );
+async function loadPersons() {
+  // HIER feste Liste – später dynamisch
+  state.persons = [
+    "konietzka_stefan",
+    "crotogino_philipp"
+  ];
 
-  content.innerHTML = `<div class="placeholder">Ansicht wird geladen …</div>`;
-
-  try {
-    const res = await fetch(`views/${view}.html`, { cache: "no-store" });
-    const html = await res.text();
-    content.innerHTML = html;
-  } catch (e) {
-    content.innerHTML = `<div class="error">Fehler beim Laden der Ansicht</div>`;
-    console.error(e);
+  if (!state.currentPerson) {
+    setPerson(state.persons[0]);
   }
+
+  renderPersonButtons();
 }
 
-// Button-Handler
+function renderPersonButtons() {
+  personButtons.innerHTML = "";
+
+  state.persons.forEach(p => {
+    const btn = document.createElement("button");
+    btn.textContent = p.replace("_", " ");
+    btn.className = p === state.currentPerson ? "active" : "";
+    btn.onclick = () => {
+      setPerson(p);
+      renderPersonButtons();
+      loadView(state.currentView);
+    };
+    personButtons.appendChild(btn);
+  });
+}
+
+async function loadView(view) {
+  if (!state.currentPerson) return;
+
+  setView(view);
+
+  const res = await fetch(`views/${view}.html`);
+  content.innerHTML = await res.text();
+
+  highlightViewButtons();
+}
+
+function highlightViewButtons() {
+  viewButtons.forEach(b => {
+    b.classList.toggle(
+      "active",
+      b.dataset.view === state.currentView
+    );
+  });
+}
+
 viewButtons.forEach(btn => {
-  btn.addEventListener("click", () => loadView(btn.dataset.view));
+  btn.onclick = () => loadView(btn.dataset.view);
 });
 
-// Initial
-document.addEventListener("DOMContentLoaded", () => {
-  const { view } = getState();
-  loadView(view);
-});
+refreshBtn.onclick = () => {
+  loadView(state.currentView);
+  refreshTime.textContent = new Date().toLocaleTimeString();
+};
+
+await loadPersons();
+await loadView(state.currentView);
