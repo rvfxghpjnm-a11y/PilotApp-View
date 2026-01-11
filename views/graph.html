@@ -1,63 +1,184 @@
-<div class="card">
-  <h2>Workstart-Verlauf</h2>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Workstart Graph</title>
 
-  <div class="time-buttons">
-    <button data-h="3">3h</button>
-    <button data-h="6">6h</button>
-    <button data-h="12">12h</button>
-    <button data-h="24">24h</button>
+  <style>
+    .graph-container {
+      padding: 1rem;
+    }
+
+    .graph-toolbar {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .graph-toolbar button {
+      padding: 0.4rem 0.8rem;
+      border: 1px solid #555;
+      background: #222;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    .graph-toolbar button.active {
+      background: #0a84ff;
+      border-color: #0a84ff;
+    }
+
+    canvas {
+      width: 100%;
+      max-height: 400px;
+      background: #111;
+    }
+
+    .hint {
+      opacity: 0.7;
+      font-size: 0.9rem;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<div class="graph-container">
+
+  <div class="graph-toolbar">
+    <strong>Zeitfenster:</strong>
+    <button data-window="3">3h</button>
+    <button data-window="6">6h</button>
+    <button data-window="12">12h</button>
+    <button data-window="24">24h</button>
   </div>
 
-  <canvas id="graph" height="200"></canvas>
+  <canvas id="workstartChart"></canvas>
+
+  <div class="hint">
+    Linien: Meldung · Alt · Ø/2 · Ø/3
+  </div>
+
 </div>
 
+<!-- Chart.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 <script>
-(async () => {
-  const { person, graphHours } = window.AppState;
+/* ============================================================
+   STATE
+   ============================================================ */
 
-  const res = await fetch(`data/workstart_history_${person}.json`);
-  const json = await res.json();
+const state = window.PilotAppState;
+const person = state.person;
+const timeWindow = state.window || 12;
 
-  const now = Date.now();
-  const maxAge = graphHours * 3600 * 1000;
+/* ============================================================
+   BUTTON STATE
+   ============================================================ */
 
-  const points = json.entries
-    .map(e => ({
-      t: new Date(e.ts).getTime(),
-      pos: e.pos
-    }))
-    .filter(p => now - p.t <= maxAge);
-
-  const canvas = document.getElementById("graph");
-  const ctx = canvas.getContext("2d");
-
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-  if (!points.length) {
-    ctx.fillText("Keine Daten", 20, 20);
-    return;
+document.querySelectorAll('[data-window]').forEach(btn => {
+  if (Number(btn.dataset.window) === timeWindow) {
+    btn.classList.add('active');
   }
 
-  const minPos = Math.min(...points.map(p => p.pos));
-  const maxPos = Math.max(...points.map(p => p.pos));
+  btn.addEventListener('click', () => {
+    state.window = Number(btn.dataset.window);
+    state.save();
+    location.reload();
+  });
+});
 
-  points.forEach((p, i) => {
-    const x = (i / (points.length - 1)) * canvas.width;
-    const y = canvas.height - ((p.pos - minPos) / (maxPos - minPos || 1)) * canvas.height;
+/* ============================================================
+   DATA LOADING
+   ============================================================ */
 
-    if (i === 0) ctx.moveTo(x, y);
-    else ctx.lineTo(x, y);
+const dataUrl = `data/workstart_history_${person.nachname}_${person.vorname}.json`;
+
+fetch(dataUrl)
+  .then(r => r.json())
+  .then(renderGraph)
+  .catch(err => {
+    console.error("Graph Datenfehler:", err);
   });
 
-  ctx.strokeStyle = "#4ea1ff";
-  ctx.lineWidth = 2;
-  ctx.stroke();
+/* ============================================================
+   GRAPH LOGIC
+   ============================================================ */
 
-  document.querySelectorAll(".time-buttons button").forEach(btn => {
-    btn.onclick = () => {
-      window.AppState.graphHours = Number(btn.dataset.h);
-      window.AppRouter.load("graph");
-    };
+function renderGraph(data) {
+  const now = new Date();
+  const cutoff = new Date(now.getTime() - timeWindow * 3600 * 1000);
+
+  const entries = data.entries.filter(e => {
+    return new Date(e.ts_calc || e.ts) >= cutoff;
   });
-})();
+
+  const labels = entries.map(e =>
+    new Date(e.ts_calc || e.ts).toLocaleTimeString("de-DE", {
+      hour: "2-digit",
+      minute: "2-digit"
+    })
+  );
+
+  const line = key =>
+    entries.map(e => timeToFloat(e[key]));
+
+  const datasets = [
+    makeLine("from_meldung", "Meldung", "#00c853"),
+    makeLine("from_meldung_alt", "Alt", "#ffab00"),
+    makeLine("calc_div2", "Ø / 2", "#2979ff"),
+    makeLine("calc_div3", "Ø / 3", "#d500f9"),
+  ];
+
+  const ctx = document.getElementById("workstartChart").getContext("2d");
+
+  new Chart(ctx, {
+    type: "line",
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        y: {
+          ticks: {
+            callback: v => floatToTime(v)
+          }
+        }
+      }
+    }
+  });
+}
+
+/* ============================================================
+   HELPERS
+   ============================================================ */
+
+function makeLine(key, label, color) {
+  return {
+    label,
+    data: line(key),
+    borderColor: color,
+    backgroundColor: color,
+    tension: 0.2,
+    spanGaps: true,
+  };
+}
+
+function timeToFloat(t) {
+  if (!t) return null;
+  const [h, m] = t.slice(-5).split(":").map(Number);
+  return h + m / 60;
+}
+
+function floatToTime(f) {
+  if (f == null) return "";
+  const h = Math.floor(f);
+  const m = Math.round((f - h) * 60);
+  return `${String(h).padStart(2,"0")}:${String(m).padStart(2,"0")}`;
+}
 </script>
+
+</body>
+</html>
