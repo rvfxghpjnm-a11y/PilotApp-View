@@ -1,43 +1,39 @@
-const Router = {
-  async loadView(view) {
-    const main = document.getElementById("content");
-    const res = await fetch(`views/${view}.html`);
-    main.innerHTML = await res.text();
+// js/router.js
+// =====================================================
+// VIEW-ROUTER (STABIL)
+// =====================================================
 
-    if (view === "graph" && typeof initGraph === "function") {
-      initGraph();
-    }
+import { getState, setView } from "./state.js";
 
-    updateViewButtons();
+const content = document.getElementById("content");
+const viewButtons = document.querySelectorAll("[data-view]");
+
+async function loadView(view) {
+  setView(view);
+
+  viewButtons.forEach(b =>
+    b.classList.toggle("active", b.dataset.view === view)
+  );
+
+  content.innerHTML = `<div class="placeholder">Ansicht wird geladen …</div>`;
+
+  try {
+    const res = await fetch(`views/${view}.html`, { cache: "no-store" });
+    const html = await res.text();
+    content.innerHTML = html;
+  } catch (e) {
+    content.innerHTML = `<div class="error">Fehler beim Laden der Ansicht</div>`;
+    console.error(e);
   }
-};
-
-function updateViewButtons() {
-  document.querySelectorAll(".view-buttons button").forEach(btn => {
-    btn.classList.toggle(
-      "active",
-      btn.dataset.view === AppState.view
-    );
-  });
 }
 
-function updatePersonButtons() {
-  document.querySelectorAll("#personButtons button").forEach(btn => {
-    btn.classList.toggle(
-      "active",
-      btn.dataset.person === AppState.person
-    );
-  });
-}
+// Button-Handler
+viewButtons.forEach(btn => {
+  btn.addEventListener("click", () => loadView(btn.dataset.view));
+});
 
-document.addEventListener("click", e => {
-  const viewBtn = e.target.closest("[data-view]");
-  if (viewBtn) {
-    AppState.setView(viewBtn.dataset.view);
-  }
-
-  const personBtn = e.target.closest("[data-person]");
-  if (personBtn) {
-    AppState.setPerson(personBtn.dataset.person);
-  }
+// Initial
+document.addEventListener("DOMContentLoaded", () => {
+  const { view } = getState();
+  loadView(view);
 });

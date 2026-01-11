@@ -1,39 +1,23 @@
+// js/state.js
+// =====================================================
+// ZENTRALER APP-STATE (STABIL)
+// =====================================================
+
 const AppState = {
-  person: null,
-  view: "short",
-
-  load() {
-    const saved = localStorage.getItem("pilotapp_state");
-    if (saved) {
-      Object.assign(this, JSON.parse(saved));
-    }
-  },
-
-  save() {
-    localStorage.setItem(
-      "pilotapp_state",
-      JSON.stringify({
-        person: this.person,
-        view: this.view
-      })
-    );
-  },
-
-  setPerson(p) {
-    this.person = p;
-    this.save();
-    updatePersonButtons();
-    Router.loadView(this.view);
-  },
-
-  setView(v) {
-    this.view = v;
-    this.save();
-    updateViewButtons();
-    Router.loadView(v);
-  }
+  person: localStorage.getItem("person") || "konietzka_stefan",
+  view: localStorage.getItem("view") || "short",
 };
 
-window.addEventListener("load", () => {
-  AppState.load();
-});
+export function setPerson(p) {
+  AppState.person = p;
+  localStorage.setItem("person", p);
+}
+
+export function setView(v) {
+  AppState.view = v;
+  localStorage.setItem("view", v);
+}
+
+export function getState() {
+  return { ...AppState };
+}

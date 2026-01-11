@@ -1,7 +1,6 @@
 <section class="view graph-view">
   <h2>Workstart-Verlauf</h2>
 
-  <!-- Zeitfenster -->
   <div class="time-buttons">
     <button data-hours="3">3h</button>
     <button data-hours="6">6h</button>
@@ -9,11 +8,9 @@
     <button data-hours="24" class="active">24h</button>
   </div>
 
-  <!-- Graph -->
   <div class="graph-container">
-    <canvas id="workstartChart"></canvas>
+    <canvas id="workstartChart" height="120"></canvas>
   </div>
-</section>
 
-<!-- Graph-Logik -->
-<script src="js/graph.js"></script>
+  <script src="js/graph.js"></script>
+</section>
