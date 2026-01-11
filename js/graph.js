@@ -1,78 +1,24 @@
-(() => {
-  const canvas = document.getElementById("workstartChart");
-  if (!canvas) return;
+function initGraph() {
+  const el = document.getElementById("graph");
+  if (!el) return;
 
-  const ctx = canvas.getContext("2d");
+  el.innerHTML = "<p>📈 Graph wird geladen …</p>";
 
-  let chart;
-  let hoursWindow = 24;
+  // Test-Visualisierung (ersetzt später durch echte Daten)
+  setTimeout(() => {
+    el.innerHTML = "<canvas id='graphCanvas'></canvas>";
+    const ctx = document.getElementById("graphCanvas").getContext("2d");
 
-  async function loadData() {
-    const state = JSON.parse(localStorage.getItem("pilotapp_state") || "{}");
-    if (!state.person) return;
-
-    const file = `data/workstart_history_${state.person}.json`;
-
-    const res = await fetch(file, { cache: "no-store" });
-    if (!res.ok) return;
-
-    const json = await res.json();
-    render(json.entries || []);
-  }
-
-  function render(entries) {
-    const now = Date.now();
-    const limit = hoursWindow * 60 * 60 * 1000;
-
-    const points = entries
-      .map(e => ({
-        x: new Date(e.ts_calc).getTime(),
-        y: e.pos
-      }))
-      .filter(p => now - p.x <= limit)
-      .sort((a, b) => a.x - b.x);
-
-    if (chart) chart.destroy();
-
-    chart = new Chart(ctx, {
+    new Chart(ctx, {
       type: "line",
       data: {
+        labels: ["3h", "6h", "12h", "24h"],
         datasets: [{
           label: "Position",
-          data: points,
-          borderColor: "#1e88e5",
-          backgroundColor: "rgba(30,136,229,0.15)",
-          tension: 0.3,
-          fill: true,
-          pointRadius: 2
+          data: [12, 18, 25, 40],
+          borderWidth: 2
         }]
-      },
-      options: {
-        responsive: true,
-        scales: {
-          x: {
-            type: "time",
-            time: { unit: "hour" }
-          },
-          y: {
-            reverse: true,
-            title: { display: true, text: "Position" }
-          }
-        }
       }
     });
-  }
-
-  document.querySelectorAll(".time-buttons button").forEach(btn => {
-    btn.addEventListener("click", () => {
-      document.querySelectorAll(".time-buttons button")
-        .forEach(b => b.classList.remove("active"));
-
-      btn.classList.add("active");
-      hoursWindow = Number(btn.dataset.hours);
-      loadData();
-    });
-  });
-
-  loadData();
-})();
+  }, 300);
+}

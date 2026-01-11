@@ -1,37 +1,43 @@
-window.AppRouter = {
-  async load(view) {
-    AppState.view = view;
-    saveState();
-
+const Router = {
+  async loadView(view) {
+    const main = document.getElementById("content");
     const res = await fetch(`views/${view}.html`);
-    document.getElementById("content").innerHTML = await res.text();
+    main.innerHTML = await res.text();
 
-    document.getElementById("refreshTime").textContent =
-      new Date().toLocaleTimeString();
+    if (view === "graph" && typeof initGraph === "function") {
+      initGraph();
+    }
+
+    updateViewButtons();
   }
 };
 
-(async () => {
-  const persons = ["konietzka_stefan", "crotogino_philipp"];
-  const pb = document.getElementById("personButtons");
-
-  persons.forEach(p => {
-    const b = document.createElement("button");
-    b.textContent = p.replace("_", " ");
-    b.onclick = () => {
-      AppState.person = p;
-      saveState();
-      AppRouter.load(AppState.view);
-    };
-    pb.appendChild(b);
+function updateViewButtons() {
+  document.querySelectorAll(".view-buttons button").forEach(btn => {
+    btn.classList.toggle(
+      "active",
+      btn.dataset.view === AppState.view
+    );
   });
+}
 
-  document.querySelectorAll("[data-view]").forEach(btn => {
-    btn.onclick = () => AppRouter.load(btn.dataset.view);
+function updatePersonButtons() {
+  document.querySelectorAll("#personButtons button").forEach(btn => {
+    btn.classList.toggle(
+      "active",
+      btn.dataset.person === AppState.person
+    );
   });
+}
 
-  document.getElementById("refreshBtn").onclick =
-    () => AppRouter.load(AppState.view);
+document.addEventListener("click", e => {
+  const viewBtn = e.target.closest("[data-view]");
+  if (viewBtn) {
+    AppState.setView(viewBtn.dataset.view);
+  }
 
-  AppRouter.load(AppState.view);
-})();
+  const personBtn = e.target.closest("[data-person]");
+  if (personBtn) {
+    AppState.setPerson(personBtn.dataset.person);
+  }
+});
