@@ -10,9 +10,13 @@ export const state = {
   lastRefresh: null
 };
 
-export function setPerson(key) {
-  state.currentPerson = key;
-  localStorage.setItem("pilotapp_person", key);
+// ------------------------------------------------------------
+// STATE SETTER
+// ------------------------------------------------------------
+
+export function setPerson(personKey) {
+  state.currentPerson = personKey;
+  localStorage.setItem("pilotapp_person", personKey);
 }
 
 export function setView(view) {
@@ -20,23 +24,34 @@ export function setView(view) {
   localStorage.setItem("pilotapp_view", view);
 }
 
+// ------------------------------------------------------------
+// INIT STATE (LÄDT PERSONEN!!)
+// ------------------------------------------------------------
+
 export async function initState() {
-  // Restore view/person
-  const p = localStorage.getItem("pilotapp_person");
-  const v = localStorage.getItem("pilotapp_view");
-  if (p) state.currentPerson = p;
-  if (v) state.currentView = v;
-
-  // 🔑 PERSONEN AUS INDEX LADEN
+  // 1️⃣ Personenindex laden
   const res = await fetch("data/workstart_index.json", { cache: "no-store" });
-  const data = await res.json();
+  if (!res.ok) {
+    throw new Error("workstart_index.json nicht ladbar");
+  }
 
-  state.persons = data.persons || [];
+  const index = await res.json();
+  state.persons = index.persons || [];
 
-  // Fallback: erste Person automatisch
-  if (!state.currentPerson && state.persons.length > 0) {
+  // 2️⃣ View aus Storage
+  const savedView = localStorage.getItem("pilotapp_view");
+  if (savedView) {
+    state.currentView = savedView;
+  }
+
+  // 3️⃣ Person aus Storage oder erste verfügbare
+  const savedPerson = localStorage.getItem("pilotapp_person");
+  if (savedPerson && state.persons.some(p => p.key === savedPerson)) {
+    state.currentPerson = savedPerson;
+  } else if (state.persons.length > 0) {
     state.currentPerson = state.persons[0].key;
   }
 
+  // 4️⃣ Refresh-Zeit
   state.lastRefresh = new Date();
 }
