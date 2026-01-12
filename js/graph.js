@@ -1,144 +1,86 @@
-// js/graph.js
 // ============================================================
-// WORKSTART GRAPH – STABIL & FEHLERTOLERANT
+// GRAPH LOGIC – ISOLIERT & STABIL
 // ============================================================
 
 let chart = null;
-let currentHours = 24;
 
 // ------------------------------------------------------------
-// WAIT UNTIL READY
+// PUBLIC API
 // ------------------------------------------------------------
-
-function waitForReady() {
-  const canvas = document.getElementById("workstartChart");
-
-  if (!canvas || !window.PILOTAPP_PERSON || !window.Chart) {
-    setTimeout(waitForReady, 50);
-    return;
-  }
-
-  initGraph(canvas);
-}
-
-waitForReady();
-
-// ------------------------------------------------------------
-// INIT
-// ------------------------------------------------------------
-
-function initGraph(canvas) {
-  document
-    .querySelectorAll(".time-buttons button")
-    .forEach(btn => {
-      btn.onclick = () => {
-        document
-          .querySelectorAll(".time-buttons button")
-          .forEach(b => b.classList.remove("active"));
-
-        btn.classList.add("active");
-        currentHours = Number(btn.dataset.hours);
-        loadGraph(canvas);
-      };
-    });
-
-  loadGraph(canvas);
-}
-
-// ------------------------------------------------------------
-// LOAD DATA
-// ------------------------------------------------------------
-
-async function loadGraph(canvas) {
-  const file =
-    `data/workstart_history_${window.PILOTAPP_PERSON}.json`;
-
-  try {
-    const res = await fetch(file, { cache: "no-store" });
-    if (!res.ok) throw new Error("JSON nicht ladbar");
-
-    const json = await res.json();
-    drawGraph(canvas, json.entries || []);
-
-  } catch (err) {
-    showError(canvas, "Workstart-Daten konnten nicht geladen werden");
-    console.error(err);
-  }
-}
-
-// ------------------------------------------------------------
-// DRAW
-// ------------------------------------------------------------
-
-function drawGraph(canvas, entries) {
+export function renderWorkstartChart(entries, hours) {
   if (chart) chart.destroy();
 
-  if (!entries.length) {
-    showError(canvas, "Keine Daten vorhanden");
-    return;
-  }
-
   const now = Date.now();
-  const cutoff = now - currentHours * 3600 * 1000;
+  const cutoff = now - hours * 3600 * 1000;
 
   const points = entries
     .map(e => ({
-      x: parseTime(e.ts_calc),
-      y: parseTime(e.calc_div3)
+      x: toDate(e.ts_calc),
+      from_meldung:     toDate(e.from_meldung),
+      from_meldung_alt: toDate(e.from_meldung_alt),
+      calc_div2:        toDate(e.calc_div2),
+      calc_div3:        toDate(e.calc_div3)
     }))
-    .filter(p => p.x && p.y && p.x.getTime() >= cutoff);
+    .filter(p => p.x && p.x.getTime() >= cutoff);
 
-  if (!points.length) {
-    showError(canvas, "Keine Daten im Zeitfenster");
-    return;
-  }
+  const datasets = [
+    makeDataset("Meldung", points, "from_meldung", "#fbbf24"),
+    makeDataset("Meldung alt", points, "from_meldung_alt", "#60a5fa"),
+    makeDataset("Calc /2", points, "calc_div2", "#ef4444"),
+    makeDataset("Calc /3", points, "calc_div3", "#22c55e")
+  ];
 
-  chart = new Chart(canvas.getContext("2d"), {
+  chart = new Chart(document.getElementById("chart"), {
     type: "line",
-    data: {
-      datasets: [{
-        label: "Prognose Arbeitsbeginn",
-        data: points,
-        borderColor: "#4aa3ff",
-        backgroundColor: "#4aa3ff",
-        tension: 0.25,
-        pointRadius: 0
-      }]
-    },
+    data: { datasets },
     options: {
       responsive: true,
+      interaction: { mode: "nearest", intersect: false },
       scales: {
         x: {
           type: "time",
-          time: { unit: "hour" },
-          ticks: { color: "#ccc" }
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: { color: "#1f2937" }
         },
         y: {
           type: "time",
-          time: { unit: "hour" },
-          ticks: { color: "#ccc" }
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: {
+            color: ctx => {
+              const d = new Date(ctx.tick.value);
+              return d.getHours() === 0 ? "#334155" : "#1f2937";
+            }
+          }
         }
       },
       plugins: {
-        legend: {
-          labels: { color: "#ccc" }
-        }
+        legend: { labels: { color: "#e5e7eb" } }
       }
     }
   });
 }
 
 // ------------------------------------------------------------
-// HELPERS
+// HELFER
 // ------------------------------------------------------------
-
-function parseTime(str) {
-  if (!str) return null;
-  const d = new Date(str.replace(" ", "T"));
+function toDate(v) {
+  if (!v) return null;
+  const d = new Date(v.replace(" ", "T"));
   return isNaN(d) ? null : d;
 }
 
-function showError(canvas, msg) {
-  canvas.parentElement.innerHTML =
-    `<div class="error-box">${msg}</div>`;
+function makeDataset(label, points, key, color) {
+  return {
+    label,
+    data: points
+      .filter(p => p[key])
+      .map(p => ({ x: p.x, y: p[key] })),
+    borderColor: color,
+    backgroundColor: color,
+    borderWidth: 2,
+    tension: 0.2,
+    pointRadius: 0
+  };
 }
