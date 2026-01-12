@@ -185,19 +185,20 @@ function buildChart(entries) {
 
   const points = entries
     .map(e => ({
-      x: new Date(e.ts_calc),
-      meldung: toDate(e.from_meldung),
-      calc2: toDate(e.calc_div2),
-      calc3: toDate(e.calc_div3),
-      real: toDate(e.real_start)
+      x: toDate(e.ts_calc),
+
+      from_meldung:     toDate(e.from_meldung),
+      from_meldung_alt: toDate(e.from_meldung_alt),
+      calc_div2:        toDate(e.calc_div2),
+      calc_div3:        toDate(e.calc_div3)
     }))
     .filter(p => p.x && p.x.getTime() >= cutoff);
 
   const datasets = [
-    makeDataset("Meldung", points, "meldung", "#fbbf24"),
-    makeDataset("Calc /3", points, "calc3", "#22c55e"),
-    makeDataset("Calc /2", points, "calc2", "#ef4444"),
-    makeDataset("Real", points, "real", "#ffffff", true)
+    makeDataset("Meldung", points, "from_meldung", "#fbbf24"),
+    makeDataset("Meldung alt", points, "from_meldung_alt", "#60a5fa"),
+    makeDataset("Calc /2", points, "calc_div2", "#ef4444"),
+    makeDataset("Calc /3", points, "calc_div3", "#22c55e")
   ];
 
   chart = new Chart(document.getElementById("chart"), {
