@@ -8,6 +8,7 @@ console.log("APP.JS LOADED");
 let currentPerson = null;
 let currentHours = 24;
 let currentView = "short";
+let lastEntries = [];
 
 // ------------------------------------------------------------
 // INIT
@@ -21,39 +22,33 @@ function init() {
 }
 
 // ------------------------------------------------------------
-// VIEW BUTTONS (Short / Long / Graph)
+// VIEW BUTTONS (Short | Long | Graph)
 // ------------------------------------------------------------
 function bindViewButtons() {
   document.querySelectorAll("button[data-view]").forEach(btn => {
     btn.onclick = () => {
-      document
-        .querySelectorAll("button[data-view]")
+      document.querySelectorAll("button[data-view]")
         .forEach(b => b.classList.remove("active"));
-
       btn.classList.add("active");
-      currentView = btn.dataset.view;
 
-      renderView();
+      currentView = btn.dataset.view;
+      renderCurrentView();
     };
   });
 }
 
 // ------------------------------------------------------------
-// HOUR BUTTONS (Graph)
+// HOUR BUTTONS (nur Graph relevant)
 // ------------------------------------------------------------
 function bindHourButtons() {
   document.querySelectorAll("button[data-hours]").forEach(btn => {
     btn.onclick = () => {
-      document
-        .querySelectorAll("button[data-hours]")
+      document.querySelectorAll("button[data-hours]")
         .forEach(b => b.classList.remove("active"));
-
       btn.classList.add("active");
-      currentHours = Number(btn.dataset.hours);
 
-      if (currentView === "graph" && currentPerson) {
-        loadGraph();
-      }
+      currentHours = Number(btn.dataset.hours);
+      if (currentView === "graph") renderCurrentView();
     };
   });
 }
@@ -75,13 +70,12 @@ async function loadPersons() {
       btn.textContent = `${p.vorname} ${p.nachname}`;
 
       btn.onclick = () => {
-        document
-          .querySelectorAll("#persons button")
+        document.querySelectorAll("#persons button")
           .forEach(b => b.classList.remove("active"));
-
         btn.classList.add("active");
+
         currentPerson = p;
-        renderView();
+        loadPersonData();
       };
 
       if (i === 0) {
@@ -92,7 +86,7 @@ async function loadPersons() {
       wrap.appendChild(btn);
     });
 
-    renderView();
+    if (currentPerson) loadPersonData();
 
   } catch (err) {
     console.error(err);
@@ -102,46 +96,79 @@ async function loadPersons() {
 }
 
 // ------------------------------------------------------------
-// VIEW RENDERING
+// PERSONENDATEN LADEN
 // ------------------------------------------------------------
-function renderView() {
+async function loadPersonData() {
+  try {
+    const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
+    if (!res.ok) throw new Error("History nicht ladbar");
+
+    const data = await res.json();
+    lastEntries = data.entries || [];
+
+    document.getElementById("status").textContent =
+      new Date().toLocaleTimeString("de-DE");
+
+    renderCurrentView();
+
+  } catch (err) {
+    console.error(err);
+  }
+}
+
+// ------------------------------------------------------------
+// VIEW RENDER
+// ------------------------------------------------------------
+function renderCurrentView() {
   const content = document.getElementById("content");
   content.innerHTML = "";
 
-  if (!currentPerson) return;
-
-  if (currentView === "short") {
-    content.innerHTML = `<div class="placeholder">Short View (kommt gleich)</div>`;
+  if (!lastEntries.length) {
+    content.innerHTML = "<div class='error'>Keine Daten</div>";
+    return;
   }
 
-  if (currentView === "long") {
-    content.innerHTML = `<div class="placeholder">Long View (kommt gleich)</div>`;
+  if (currentView === "short") {
+    renderShortView(content);
   }
 
   if (currentView === "graph") {
     const canvas = document.createElement("canvas");
     canvas.id = "chart";
     content.appendChild(canvas);
-    loadGraph();
+    renderWorkstartChart(lastEntries, currentHours);
+  }
+
+  if (currentView === "long") {
+    content.innerHTML =
+      "<div class='error'>Long View kommt im nächsten Schritt</div>";
   }
 }
 
 // ------------------------------------------------------------
-// GRAPH LADEN
+// SHORT VIEW
 // ------------------------------------------------------------
-async function loadGraph() {
-  try {
-    const file = `data/${currentPerson.file}`;
-    const res = await fetch(file, { cache: "no-store" });
-    if (!res.ok) throw new Error("Workstart-Datei nicht ladbar");
+function renderShortView(container) {
+  const latest = lastEntries[lastEntries.length - 1];
 
-    const data = await res.json();
-    renderWorkstartChart(data.entries || [], currentHours);
+  const box = document.createElement("div");
+  box.className = "short-view";
 
-    document.getElementById("status").textContent =
-      new Date().toLocaleTimeString("de-DE");
+  box.innerHTML = `
+    <div><b>Position:</b> ${latest.pos ?? "-"}</div>
+    <div><b>Meldung:</b> ${fmt(latest.from_meldung)}</div>
+    <div><b>Meldung alt:</b> ${fmt(latest.from_meldung_alt)}</div>
+    <div><b>Calc /2:</b> ${fmt(latest.calc_div2)}</div>
+    <div><b>Calc /3:</b> ${fmt(latest.calc_div3)}</div>
+  `;
 
-  } catch (err) {
-    console.error(err);
-  }
+  container.appendChild(box);
+}
+
+// ------------------------------------------------------------
+// HELFER
+// ------------------------------------------------------------
+function fmt(v) {
+  if (!v) return "–";
+  return v.replace(" ", " ");
 }
