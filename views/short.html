@@ -5,7 +5,7 @@
 
 <script>
 (async () => {
-  const { person } = window.AppState;
+  const person = window.PILOTAPP_PERSON;
   const res = await fetch(`data/${person}_short.json`);
   const data = await res.json();
   document.getElementById("shortContent").textContent = data.short || "–";

@@ -9,7 +9,7 @@ let chart = null;
 export function renderWorkstartChart(entries, hours) {
   if (!window.Chart) {
     console.error("Chart.js nicht geladen (window.Chart fehlt)");
-    const chartCanvas = document.getElementById("chart");
+    const chartCanvas = document.getElementById("workstartChart");
     if (chartCanvas) {
       const errorDiv = document.createElement("div");
       errorDiv.style.cssText = "color:#f87171; padding:20px; font-size:14px;";
@@ -47,9 +47,9 @@ export function renderWorkstartChart(entries, hours) {
     makeDataset("Calc /3",     points, "calc_div3",        "#22c55e")
   ];
 
-  const ctx = document.getElementById("chart");
+  const ctx = document.getElementById("workstartChart");
   if (!ctx) {
-    console.error("Canvas #chart nicht gefunden");
+    console.error("Canvas #workstartChart nicht gefunden");
     return;
   }
 
