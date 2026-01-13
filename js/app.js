@@ -57,7 +57,7 @@ function saveState() {
 // ------------------------------------------------------------
 function bindAutoRefresh() {
   const btn = document.getElementById("autoBtn");
-  if (!btn) return; // ✅ WICHTIG: Abbruch, wenn Button nicht da ist
+  if (!btn) return;
 
   if (autoRefresh) enableAutoRefresh();
 
