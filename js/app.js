@@ -1,6 +1,6 @@
 /* =========================================================
    PilotApp – app.js
-   Persistenter State + Auto Refresh
+   Short / Long / Graph STABIL
    ========================================================= */
 
 console.log("APP.JS LOADED");
@@ -11,7 +11,6 @@ console.log("APP.JS LOADED");
 let currentPerson = null;
 let currentView = localStorage.getItem("pilotapp_view") || "short";
 let currentHours = Number(localStorage.getItem("pilotapp_hours")) || 24;
-let autoTimer = null;
 
 // ---------------------------------------------------------
 // DOM
@@ -19,6 +18,7 @@ let autoTimer = null;
 const personsEl = document.getElementById("persons");
 const contentEl = document.getElementById("content");
 const statusEl = document.getElementById("status");
+const timeControlsEl = document.getElementById("timeControls");
 
 // ---------------------------------------------------------
 // INIT
@@ -28,9 +28,10 @@ init();
 function init() {
   bindViewButtons();
   bindHourButtons();
-  bindManualRefresh();
+  bindRefreshButton();
   loadPersons();
-  startAutoRefresh();
+
+  setInterval(refreshCurrentView, 60000); // Auto-Refresh immer
 }
 
 // ---------------------------------------------------------
@@ -43,22 +44,16 @@ async function loadPersons() {
 
     personsEl.innerHTML = "";
 
-    const savedPersonKey = localStorage.getItem("pilotapp_person");
-
-    data.persons.forEach((p, i) => {
+    data.persons.forEach(p => {
       const btn = document.createElement("button");
       btn.textContent = `${p.vorname} ${p.nachname}`;
-      btn.dataset.key = p.key;
-
-      btn.onclick = () => selectPerson(p, btn);
-
+      btn.onclick = (e) => selectPerson(p, e.target);
       personsEl.appendChild(btn);
-
-      // 🔑 Restore letzte Person
-      if (p.key === savedPersonKey || (!savedPersonKey && i === 0)) {
-        selectPerson(p, btn, true);
-      }
     });
+
+    if (data.persons.length) {
+      selectPerson(data.persons[0], personsEl.children[0]);
+    }
 
   } catch (e) {
     personsEl.textContent = "Fehler beim Laden der Personen";
@@ -66,14 +61,14 @@ async function loadPersons() {
   }
 }
 
-function selectPerson(person, btn, silent = false) {
+function selectPerson(person, btn) {
   currentPerson = person;
   localStorage.setItem("pilotapp_person", person.key);
 
   [...personsEl.children].forEach(b => b.classList.remove("active"));
   btn.classList.add("active");
 
-  if (!silent) renderView();
+  renderView();
 }
 
 // ---------------------------------------------------------
@@ -81,18 +76,12 @@ function selectPerson(person, btn, silent = false) {
 // ---------------------------------------------------------
 function bindViewButtons() {
   document.querySelectorAll("[data-view]").forEach(btn => {
-    const view = btn.dataset.view;
-
-    // 🔑 Restore View
-    if (view === currentView) btn.classList.add("active");
-    else btn.classList.remove("active");
-
     btn.onclick = () => {
       document.querySelectorAll("[data-view]").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
 
-      currentView = view;
-      localStorage.setItem("pilotapp_view", view);
+      currentView = btn.dataset.view;
+      localStorage.setItem("pilotapp_view", currentView);
 
       renderView();
     };
@@ -105,55 +94,61 @@ function renderView() {
     return;
   }
 
+  timeControlsEl.style.display = currentView === "graph" ? "flex" : "none";
+
   if (currentView === "short") loadShort();
   if (currentView === "long") loadLong();
-  if (currentView === "graph") {
-    contentEl.innerHTML = "<canvas id='chart'></canvas>";
-    if (typeof loadGraph === "function") loadGraph();
-  }
-
-  statusEl.textContent = new Date().toLocaleTimeString("de-DE");
+  if (currentView === "graph") loadGraphView();
 }
 
 // ---------------------------------------------------------
-// SHORT
+// SHORT / LONG
 // ---------------------------------------------------------
 async function loadShort() {
-  contentEl.innerHTML = "<h2>Short</h2><p>Lade Daten …</p>";
-  const res = await fetch(`data/${currentPerson.key}_short.json`, { cache: "no-store" });
+  contentEl.innerHTML = "<h2>Short</h2><p>Lade …</p>";
+  const res = await fetch(`data/${currentPerson.key}_short.json`);
   const data = await res.json();
   contentEl.innerHTML = `<h2>Short</h2><pre>${data.short}</pre>`;
 }
 
-// ---------------------------------------------------------
-// LONG
-// ---------------------------------------------------------
 async function loadLong() {
-  contentEl.innerHTML = "<h2>Long</h2><p>Lade Daten …</p>";
-  const res = await fetch(`data/${currentPerson.key}_long.json`, { cache: "no-store" });
+  contentEl.innerHTML = "<h2>Long</h2><p>Lade …</p>";
+  const res = await fetch(`data/${currentPerson.key}_long.json`);
   const data = await res.json();
   contentEl.innerHTML = `<h2>Long</h2><pre>${data.long}</pre>`;
 }
 
 // ---------------------------------------------------------
-// ZEITFILTER (Graph)
+// GRAPH
+// ---------------------------------------------------------
+async function loadGraphView() {
+  contentEl.innerHTML = `<canvas id="chart"></canvas>`;
+  await loadGraph();
+}
+
+async function loadGraph() {
+  const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
+  const data = await res.json();
+
+  const mod = await import("./graph.js");
+  mod.renderWorkstartChart(data.entries || [], currentHours);
+
+  statusEl.textContent = new Date().toLocaleTimeString("de-DE");
+}
+
+// ---------------------------------------------------------
+// ZEITFILTER
 // ---------------------------------------------------------
 function bindHourButtons() {
   document.querySelectorAll("[data-hours]").forEach(btn => {
-    const hours = Number(btn.dataset.hours);
-
-    // 🔑 Restore Stunden
-    if (hours === currentHours) btn.classList.add("active");
-    else btn.classList.remove("active");
-
     btn.onclick = () => {
       document.querySelectorAll("[data-hours]").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
 
-      currentHours = hours;
-      localStorage.setItem("pilotapp_hours", hours);
+      currentHours = Number(btn.dataset.hours);
+      localStorage.setItem("pilotapp_hours", currentHours);
 
-      if (currentView === "graph" && typeof loadGraph === "function") loadGraph();
+      if (currentView === "graph") loadGraph();
     };
   });
 }
@@ -161,14 +156,12 @@ function bindHourButtons() {
 // ---------------------------------------------------------
 // REFRESH
 // ---------------------------------------------------------
-function bindManualRefresh() {
-  const btn = document.getElementById("refreshNow");
-  if (!btn) return;
-  btn.onclick = () => renderView();
+function bindRefreshButton() {
+  document.getElementById("refreshNow").onclick = refreshCurrentView;
 }
 
-function startAutoRefresh() {
-  autoTimer = setInterval(() => {
-    if (currentPerson) renderView();
-  }, 60000);
+function refreshCurrentView() {
+  if (currentView === "graph") loadGraph();
+  if (currentView === "short") loadShort();
+  if (currentView === "long") loadLong();
 }
