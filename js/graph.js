@@ -1,6 +1,7 @@
 // ============================================================
 // GRAPH LOGIC – WORKSTART VERLAUF (KORREKT & LESBAR)
 // ============================================================
+console.log("GRAPH.JS LOADED");
 
 let chart = null;
 
