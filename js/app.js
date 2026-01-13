@@ -37,16 +37,22 @@ function init() {
 // ---------------------------------------------------------
 async function loadPersons() {
   try {
-    const res = await fetch("data/workstart_index.json");
+    const res = await fetch("data/workstart_index.json", { cache: "no-store" });
     const data = await res.json();
 
     personsEl.innerHTML = "";
-    data.persons.forEach(p => {
+    data.persons.forEach((p, i) => {
       const btn = document.createElement("button");
       btn.textContent = `${p.vorname} ${p.nachname}`;
       btn.onclick = (e) => selectPerson(p, e);
+      if (i === 0) {
+        btn.classList.add("active");
+        currentPerson = p;
+      }
       personsEl.appendChild(btn);
     });
+
+    if (currentPerson) renderView();
 
   } catch (e) {
     personsEl.textContent = "Fehler beim Laden der Personen";
@@ -91,10 +97,8 @@ function renderView() {
 // ---------------------------------------------------------
 async function loadShort() {
   contentEl.innerHTML = "<h2>Short</h2><p>Lade Daten …</p>";
-
   const res = await fetch(`data/${currentPerson.key}_short.json`);
   const data = await res.json();
-
   contentEl.innerHTML = `<h2>Short</h2><pre>${data.short}</pre>`;
 }
 
@@ -103,23 +107,28 @@ async function loadShort() {
 // ---------------------------------------------------------
 async function loadLong() {
   contentEl.innerHTML = "<h2>Long</h2><p>Lade Daten …</p>";
-
   const res = await fetch(`data/${currentPerson.key}_long.json`);
   const data = await res.json();
-
   contentEl.innerHTML = `<h2>Long</h2><pre>${data.long}</pre>`;
 }
 
 // ---------------------------------------------------------
-// GRAPH (DAS HAT GEFEHLT)
+// GRAPH ✅ FIX HIER
 // ---------------------------------------------------------
 async function loadGraph() {
   contentEl.innerHTML = `<canvas id="chart"></canvas>`;
 
-  const res = await fetch(`data/workstart_history_${currentPerson.key}.json`);
-  const entries = await res.json();
-  console.log("GRAPH entries:", entries);
-  renderWorkstartChart(entries, currentHours);
+  const res = await fetch(
+    `data/workstart_history_${currentPerson.key}.json`,
+    { cache: "no-store" }
+  );
+
+  const json = await res.json();
+
+  // 🔑 WICHTIG: entries übergeben, nicht das ganze Objekt
+  renderWorkstartChart(json.entries || [], currentHours);
+
+  statusEl.textContent = new Date().toLocaleTimeString("de-DE");
 }
 
 // ---------------------------------------------------------
