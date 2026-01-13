@@ -1,13 +1,39 @@
-<div class="card">
-  <h2>Long</h2>
-  <pre id="longContent">Lade Daten …</pre>
-</div>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Long</title>
+</head>
+<body>
+
+<section class="view">
+  <pre id="longContent">Lade Long-Daten …</pre>
+</section>
 
 <script>
 (async () => {
-  const { person } = window.AppState;
-  const res = await fetch(`data/${person}_long.json`);
-  const data = await res.json();
-  document.getElementById("longContent").textContent = data.long || "–";
+  if (!window.PILOTAPP_PERSON) {
+    document.getElementById("longContent").textContent = "Keine Person ausgewählt";
+    return;
+  }
+
+  const file = `data/${window.PILOTAPP_PERSON.key.replace("_", "_")}_long.json`;
+
+  try {
+    const res = await fetch(file, { cache: "no-store" });
+    if (!res.ok) throw new Error("Long JSON nicht ladbar");
+
+    const data = await res.json();
+    document.getElementById("longContent").textContent =
+      JSON.stringify(data, null, 2);
+
+  } catch (e) {
+    document.getElementById("longContent").textContent =
+      "Fehler beim Laden der Long-Daten";
+    console.error(e);
+  }
 })();
 </script>
+
+</body>
+</html>

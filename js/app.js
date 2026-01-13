@@ -1,28 +1,18 @@
 import { renderWorkstartChart } from "./graph.js";
 
-console.log("APP.JS LOADED");
-
-// ------------------------------------------------------------
-// STATE
-// ------------------------------------------------------------
 let currentPerson = null;
-let currentHours = 24;
 let currentView = "short";
-let lastEntries = [];
+let currentHours = 24;
 
 // ------------------------------------------------------------
 // INIT
 // ------------------------------------------------------------
-init();
-
-function init() {
-  bindViewButtons();
-  bindHourButtons();
-  loadPersons();
-}
+loadPersons();
+bindViewButtons();
+bindTimeButtons();
 
 // ------------------------------------------------------------
-// VIEW BUTTONS (Short | Long | Graph)
+// VIEW BUTTONS
 // ------------------------------------------------------------
 function bindViewButtons() {
   document.querySelectorAll("button[data-view]").forEach(btn => {
@@ -32,15 +22,15 @@ function bindViewButtons() {
       btn.classList.add("active");
 
       currentView = btn.dataset.view;
-      renderCurrentView();
+      loadView();
     };
   });
 }
 
 // ------------------------------------------------------------
-// HOUR BUTTONS (nur Graph relevant)
+// TIME BUTTONS (GRAPH)
 // ------------------------------------------------------------
-function bindHourButtons() {
+function bindTimeButtons() {
   document.querySelectorAll("button[data-hours]").forEach(btn => {
     btn.onclick = () => {
       document.querySelectorAll("button[data-hours]")
@@ -48,127 +38,63 @@ function bindHourButtons() {
       btn.classList.add("active");
 
       currentHours = Number(btn.dataset.hours);
-      if (currentView === "graph") renderCurrentView();
+      if (currentView === "graph") loadView();
     };
   });
 }
 
 // ------------------------------------------------------------
-// PERSONEN LADEN
+// PERSONEN
 // ------------------------------------------------------------
 async function loadPersons() {
-  try {
-    const res = await fetch("data/workstart_index.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("Index nicht ladbar");
+  const res = await fetch("data/workstart_index.json", { cache: "no-store" });
+  const index = await res.json();
 
-    const index = await res.json();
-    const wrap = document.getElementById("persons");
-    wrap.innerHTML = "";
+  const wrap = document.getElementById("persons");
+  wrap.innerHTML = "";
 
-    index.persons.forEach((p, i) => {
-      const btn = document.createElement("button");
-      btn.textContent = `${p.vorname} ${p.nachname}`;
+  index.persons.forEach((p, i) => {
+    const btn = document.createElement("button");
+    btn.textContent = `${p.vorname} ${p.nachname}`;
+    btn.onclick = () => {
+      document.querySelectorAll("#persons button")
+        .forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
 
-      btn.onclick = () => {
-        document.querySelectorAll("#persons button")
-          .forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
+      currentPerson = p;
+      loadView();
+    };
 
-        currentPerson = p;
-        loadPersonData();
-      };
+    if (i === 0) {
+      btn.classList.add("active");
+      currentPerson = p;
+    }
 
-      if (i === 0) {
-        btn.classList.add("active");
-        currentPerson = p;
-      }
+    wrap.appendChild(btn);
+  });
 
-      wrap.appendChild(btn);
-    });
-
-    if (currentPerson) loadPersonData();
-
-  } catch (err) {
-    console.error(err);
-    document.getElementById("persons").innerHTML =
-      `<div class="error">Personen konnten nicht geladen werden</div>`;
-  }
+  loadView();
 }
 
 // ------------------------------------------------------------
-// PERSONENDATEN LADEN
+// VIEW LOADER
 // ------------------------------------------------------------
-async function loadPersonData() {
-  try {
-    const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
-    if (!res.ok) throw new Error("History nicht ladbar");
+async function loadView() {
+  if (!currentPerson) return;
 
-    const data = await res.json();
-    lastEntries = data.entries || [];
+  window.PILOTAPP_PERSON = currentPerson;
 
-    document.getElementById("status").textContent =
-      new Date().toLocaleTimeString("de-DE");
-
-    renderCurrentView();
-
-  } catch (err) {
-    console.error(err);
-  }
-}
-
-// ------------------------------------------------------------
-// VIEW RENDER
-// ------------------------------------------------------------
-function renderCurrentView() {
   const content = document.getElementById("content");
   content.innerHTML = "";
 
-  if (!lastEntries.length) {
-    content.innerHTML = "<div class='error'>Keine Daten</div>";
+  if (currentView === "graph") {
+    const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
+    const data = await res.json();
+    content.innerHTML = `<canvas id="chart"></canvas>`;
+    renderWorkstartChart(data.entries || [], currentHours);
     return;
   }
 
-  if (currentView === "short") {
-    renderShortView(content);
-  }
-
-  if (currentView === "graph") {
-    const canvas = document.createElement("canvas");
-    canvas.id = "chart";
-    content.appendChild(canvas);
-    renderWorkstartChart(lastEntries, currentHours);
-  }
-
-  if (currentView === "long") {
-    content.innerHTML =
-      "<div class='error'>Long View kommt im nächsten Schritt</div>";
-  }
-}
-
-// ------------------------------------------------------------
-// SHORT VIEW
-// ------------------------------------------------------------
-function renderShortView(container) {
-  const latest = lastEntries[lastEntries.length - 1];
-
-  const box = document.createElement("div");
-  box.className = "short-view";
-
-  box.innerHTML = `
-    <div><b>Position:</b> ${latest.pos ?? "-"}</div>
-    <div><b>Meldung:</b> ${fmt(latest.from_meldung)}</div>
-    <div><b>Meldung alt:</b> ${fmt(latest.from_meldung_alt)}</div>
-    <div><b>Calc /2:</b> ${fmt(latest.calc_div2)}</div>
-    <div><b>Calc /3:</b> ${fmt(latest.calc_div3)}</div>
-  `;
-
-  container.appendChild(box);
-}
-
-// ------------------------------------------------------------
-// HELFER
-// ------------------------------------------------------------
-function fmt(v) {
-  if (!v) return "–";
-  return v.replace(" ", " ");
+  const res = await fetch(`views/${currentView}.html`, { cache: "no-store" });
+  content.innerHTML = await res.text();
 }
