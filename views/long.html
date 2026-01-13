@@ -12,12 +12,13 @@
 
 <script>
 (async () => {
-  if (!window.PILOTAPP_PERSON) {
+  const person = window.PILOTAPP_PERSON;
+  if (!person) {
     document.getElementById("longContent").textContent = "Keine Person ausgewählt";
     return;
   }
 
-  const file = `data/${window.PILOTAPP_PERSON.key.replace("_", "_")}_long.json`;
+  const file = `data/${person}_long.json`;
 
   try {
     const res = await fetch(file, { cache: "no-store" });
