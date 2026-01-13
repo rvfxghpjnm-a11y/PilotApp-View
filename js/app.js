@@ -1,6 +1,6 @@
 /* =========================================================
    PilotApp – app.js
-   Fokus: Short, Long & Graph STABIL
+   Fokus: Short, Long & Graph STABIL + SICHTBAR
    ========================================================= */
 
 import { renderWorkstartChart } from "./graph.js";
@@ -58,7 +58,7 @@ async function loadPersons() {
     if (currentPerson) renderView();
 
   } catch (e) {
-    personsEl.textContent = "Fehler beim Laden der Personen";
+    personsEl.innerHTML = "<b>❌ Personen konnten nicht geladen werden</b>";
     console.error(e);
   }
 }
@@ -114,18 +114,41 @@ async function loadLong() {
 }
 
 // ---------------------------------------------------------
-// GRAPH  ✅ FIX HIER
+// GRAPH  🔥 HARTER DEBUG-MODUS
 // ---------------------------------------------------------
 async function loadGraph() {
-  contentEl.innerHTML = `<canvas id="chart"></canvas>`;
+  contentEl.innerHTML = `
+    <div style="padding:8px; font-size:13px; opacity:.8">
+      Lade Graph für <b>${currentPerson.key}</b><br>
+      Datei: <code>${currentPerson.file}</code>
+    </div>
+    <canvas id="chart" style="height:520px"></canvas>
+  `;
 
-  // 🔴 WICHTIG: exakt der Dateiname aus workstart_index.json
-  const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
-  const data = await res.json();
+  try {
+    const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
+    if (!res.ok) throw new Error("Fetch fehlgeschlagen");
 
-  renderWorkstartChart(data.entries || [], currentHours);
+    const data = await res.json();
 
-  statusEl.textContent = new Date().toLocaleTimeString("de-DE");
+    if (!Array.isArray(data.entries) || data.entries.length === 0) {
+      contentEl.insertAdjacentHTML(
+        "afterbegin",
+        "<div style='color:#f87171'>❌ Keine Einträge in workstart_history</div>"
+      );
+      return;
+    }
+
+    renderWorkstartChart(data.entries, currentHours);
+    statusEl.textContent = "Graph aktualisiert " + new Date().toLocaleTimeString("de-DE");
+
+  } catch (err) {
+    contentEl.insertAdjacentHTML(
+      "afterbegin",
+      `<div style="color:#f87171">❌ Graph-Fehler: ${err.message}</div>`
+    );
+    console.error(err);
+  }
 }
 
 // ---------------------------------------------------------
