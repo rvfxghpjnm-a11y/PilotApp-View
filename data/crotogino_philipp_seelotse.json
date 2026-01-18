@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:50:37",
+  "generated_at": "2026-01-18T14:52:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,14 +64,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PRIMA LADY",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 13:41:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:56",
+        "eta_rueb": "15:20",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "04:40"
+      },
+      "eta_rueb": "15:20",
+      "eta_schleuse": "18:56",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -85,14 +90,14 @@
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": {
         "eta_schleuse": "18:45",
-        "eta_rueb": "15:12",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:42"
+        "eta_rueb": "15:11",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "15:12",
+      "eta_rueb": "15:11",
       "eta_schleuse": "18:45",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:42"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -306,15 +311,15 @@
       "route": "AHL → RÜB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "06:02",
-        "delta_rueb_schleuse": "2286588:44",
-        "delta_start_rueb": "128:48"
+        "eta_schleuse": "20:14",
+        "eta_rueb": "15:47",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:57"
       },
-      "eta_rueb": "06:02",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2286588:44",
-      "delta_start_rueb": "128:48"
+      "eta_rueb": "15:47",
+      "eta_schleuse": "20:14",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:57"
     },
     {
       "is_target": false,
@@ -505,14 +510,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PRIMA LADY",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 13:41:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:56",
+        "eta_rueb": "15:20",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "04:40"
+      },
+      "eta_rueb": "15:20",
+      "eta_schleuse": "18:56",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -526,14 +536,14 @@
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": {
         "eta_schleuse": "18:45",
-        "eta_rueb": "15:12",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:42"
+        "eta_rueb": "15:11",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "15:12",
+      "eta_rueb": "15:11",
       "eta_schleuse": "18:45",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:42"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -651,15 +661,15 @@
       "route": "AHL → RÜB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "06:02",
-        "delta_rueb_schleuse": "2286588:44",
-        "delta_start_rueb": "128:48"
+        "eta_schleuse": "20:14",
+        "eta_rueb": "15:47",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:57"
       },
-      "eta_rueb": "06:02",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2286588:44",
-      "delta_start_rueb": "128:48"
+      "eta_rueb": "15:47",
+      "eta_schleuse": "20:14",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:57"
     },
     {
       "is_target": false,
@@ -770,13 +780,6 @@
       "ship": "FALKENSTEIN + HÖRN20",
       "q_gruppe": "4",
       "route": "NOB → LÜW"
-    },
-    {
-      "eta_rueb_kiel": "15:20",
-      "eta_rueb": "15:20",
-      "ship": "PRIMA LADY",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "17:24",
