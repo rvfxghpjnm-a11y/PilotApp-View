@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T16:50:39",
+  "generated_at": "2026-01-18T16:52:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,15 +68,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 14:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:54",
-        "eta_rueb": "20:23",
+        "eta_schleuse": "00:52",
+        "eta_rueb": "20:21",
         "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "04:51"
+        "delta_start_rueb": "04:49"
       },
-      "eta_rueb": "20:23",
-      "eta_schleuse": "00:54",
+      "eta_rueb": "20:21",
+      "eta_schleuse": "00:52",
       "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "04:51"
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -89,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 14:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:50",
+        "eta_schleuse": "00:49",
         "eta_rueb": "19:52",
-        "delta_rueb_schleuse": "04:58",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "19:52",
-      "eta_schleuse": "00:50",
-      "delta_rueb_schleuse": "04:58",
+      "eta_schleuse": "00:49",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:14"
     },
     {
@@ -440,15 +440,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 14:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:54",
-        "eta_rueb": "20:23",
+        "eta_schleuse": "00:52",
+        "eta_rueb": "20:21",
         "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "04:51"
+        "delta_start_rueb": "04:49"
       },
-      "eta_rueb": "20:23",
-      "eta_schleuse": "00:54",
+      "eta_rueb": "20:21",
+      "eta_schleuse": "00:52",
       "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "04:51"
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -461,14 +461,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 14:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:50",
+        "eta_schleuse": "00:49",
         "eta_rueb": "19:52",
-        "delta_rueb_schleuse": "04:58",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "19:52",
-      "eta_schleuse": "00:50",
-      "delta_rueb_schleuse": "04:58",
+      "eta_schleuse": "00:49",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:14"
     },
     {
@@ -685,6 +685,13 @@
       "ship": "KERDA",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "21:33",
+      "eta_rueb": "21:15",
+      "ship": "X-PRESS ELBE",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
     }
   ]
 }
