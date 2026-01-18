@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:48:40",
+  "generated_at": "2026-01-18T14:50:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,14 +106,14 @@
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": {
         "eta_schleuse": "18:49",
-        "eta_rueb": "15:15",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:39"
+        "eta_rueb": "15:14",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:38"
       },
-      "eta_rueb": "15:15",
+      "eta_rueb": "15:14",
       "eta_schleuse": "18:49",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:39"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -122,14 +122,19 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SOLEA",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 13:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:52",
+        "eta_rueb": "15:18",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "15:18",
+      "eta_schleuse": "18:52",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:42"
     },
     {
       "is_target": false,
@@ -300,11 +305,16 @@
       "fahrzeug": "LEVENSAU",
       "route": "AHL → RÜB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "06:02",
+        "delta_rueb_schleuse": "2286588:44",
+        "delta_start_rueb": "128:48"
+      },
+      "eta_rueb": "06:02",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2286588:44",
+      "delta_start_rueb": "128:48"
     },
     {
       "is_target": false,
@@ -537,14 +547,14 @@
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": {
         "eta_schleuse": "18:49",
-        "eta_rueb": "15:15",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:39"
+        "eta_rueb": "15:14",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:38"
       },
-      "eta_rueb": "15:15",
+      "eta_rueb": "15:14",
       "eta_schleuse": "18:49",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:39"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -553,14 +563,19 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SOLEA",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 13:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:52",
+        "eta_rueb": "15:18",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "15:18",
+      "eta_schleuse": "18:52",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:42"
     },
     {
       "is_target": false,
@@ -635,11 +650,16 @@
       "fahrzeug": "LEVENSAU",
       "route": "AHL → RÜB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "06:02",
+        "delta_rueb_schleuse": "2286588:44",
+        "delta_start_rueb": "128:48"
+      },
+      "eta_rueb": "06:02",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2286588:44",
+      "delta_start_rueb": "128:48"
     },
     {
       "is_target": false,
@@ -752,14 +772,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "15:18",
-      "eta_rueb": "15:15",
-      "ship": "SOLEA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "15:22",
+      "eta_rueb_kiel": "15:20",
       "eta_rueb": "15:20",
       "ship": "PRIMA LADY",
       "q_gruppe": "5",
