@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T17:36:48",
+  "generated_at": "2026-01-18T17:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -111,8 +111,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Jan 18 13:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -230,9 +230,14 @@
       "fahrzeug": "STEENBANK",
       "route": "HOS → UTG",
       "time": "Sun Jan 18 12:55:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -247,14 +252,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:48",
+        "eta_schleuse": "20:47",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "20:48",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "20:47",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:10"
     },
     {
@@ -264,19 +269,14 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "ECO PONENTE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 11:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:30",
-        "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "17:42",
-      "eta_schleuse": "22:30",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "04:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -342,14 +342,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:39",
+        "eta_schleuse": "17:41",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:46",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:39",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "17:41",
+      "delta_rueb_schleuse": "04:46",
       "delta_start_rueb": "04:25"
     },
     {
@@ -560,14 +560,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:48",
+        "eta_schleuse": "20:47",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "20:48",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "20:47",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:10"
     },
     {
@@ -577,19 +577,14 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "ECO PONENTE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 11:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:30",
-        "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "17:42",
-      "eta_schleuse": "22:30",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "04:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -623,14 +618,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:39",
+        "eta_schleuse": "17:41",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:46",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:39",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "17:41",
+      "delta_rueb_schleuse": "04:46",
       "delta_start_rueb": "04:25"
     },
     {
