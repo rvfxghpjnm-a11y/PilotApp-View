@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T20:36:48",
+  "generated_at": "2026-01-18T20:38:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -180,14 +180,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KERDA",
+      "route": "RÜB → UTG",
       "time": "Sun Jan 18 15:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:00",
+        "eta_rueb": "21:03",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "21:03",
+      "eta_schleuse": "01:00",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -280,14 +285,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:41",
+        "eta_schleuse": "20:42",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "20:41",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "20:42",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -447,14 +452,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KERDA",
+      "route": "RÜB → UTG",
       "time": "Sun Jan 18 15:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:00",
+        "eta_rueb": "21:03",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "21:03",
+      "eta_schleuse": "01:00",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -499,14 +509,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:41",
+        "eta_schleuse": "20:42",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "20:41",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "20:42",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -518,13 +528,6 @@
       "ship": "FALKENSTEIN + HÖRN20",
       "q_gruppe": "4",
       "route": "NOB → LÜW"
-    },
-    {
-      "eta_rueb_kiel": "21:03",
-      "eta_rueb": "20:48",
-      "ship": "KERDA",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "21:27",
