@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T16:04:39",
+  "generated_at": "2026-01-18T16:06:42",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -174,8 +174,8 @@
       "name": "Janning Otten",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Jan 18 12:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -348,14 +348,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:05",
+        "eta_schleuse": "16:06",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "16:05",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "16:06",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "04:39"
     },
     {
@@ -672,14 +672,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:05",
+        "eta_schleuse": "16:06",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "16:05",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "16:06",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "04:39"
     },
     {
@@ -762,7 +762,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "17:13",
+      "eta_rueb_kiel": "17:12",
       "eta_rueb": "17:00",
       "ship": "BAYMAR",
       "q_gruppe": "4",
