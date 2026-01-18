@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-18T21:00:51",
+  "generated_at": "2026-01-18T21:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
     "see": 4
   },
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 18 20:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
+        "eta_schleuse": "21:05",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:10"
     },
     {
@@ -37,14 +37,19 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "X-PRESS ELBE",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 20:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:09",
+        "eta_rueb": "21:27",
+        "delta_rueb_schleuse": "03:42",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "21:27",
+      "eta_schleuse": "01:09",
+      "delta_rueb_schleuse": "03:42",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -142,15 +147,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Jan 18 18:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:33",
-        "eta_rueb": "22:06",
+        "eta_schleuse": "02:32",
+        "eta_rueb": "22:05",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:26"
+        "delta_start_rueb": "06:25"
       },
-      "eta_rueb": "22:06",
-      "eta_schleuse": "02:33",
+      "eta_rueb": "22:05",
+      "eta_schleuse": "02:32",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:26"
+      "delta_start_rueb": "06:25"
     },
     {
       "is_target": false,
@@ -217,27 +222,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 18 14:04:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Michael",
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "LADY ANNE-LYN",
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 14:04:00 CET 2026",
@@ -253,7 +242,7 @@
       "nachname": "Ehlers",
       "name": "Sören Ehlers",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "EMS HIGHWAY",
       "route": "KLT → HOS",
       "time": "Sun Jan 18 13:41:00 CET 2026",
@@ -269,7 +258,7 @@
       "nachname": "Heyenga",
       "name": "Dennis Heyenga",
       "aufgabe": "Seebört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "HUMBER RUNNER",
       "route": "KLT → HOS",
       "time": "Sun Jan 18 13:40:00 CET 2026",
@@ -285,19 +274,19 @@
       "nachname": "Reimer",
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "BAYMAR",
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
+        "eta_schleuse": "21:05",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -309,14 +298,19 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "X-PRESS ELBE",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 20:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:09",
+        "eta_rueb": "21:27",
+        "delta_rueb_schleuse": "03:42",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "21:27",
+      "eta_schleuse": "01:09",
+      "delta_rueb_schleuse": "03:42",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -398,15 +392,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Jan 18 18:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:33",
-        "eta_rueb": "22:06",
+        "eta_schleuse": "02:32",
+        "eta_rueb": "22:05",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:26"
+        "delta_start_rueb": "06:25"
       },
-      "eta_rueb": "22:06",
-      "eta_schleuse": "02:33",
+      "eta_rueb": "22:05",
+      "eta_schleuse": "02:32",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:26"
+      "delta_start_rueb": "06:25"
     },
     {
       "is_target": false,
@@ -473,27 +467,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 18 14:04:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Michael",
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "LADY ANNE-LYN",
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 14:04:00 CET 2026",
@@ -509,19 +487,19 @@
       "nachname": "Reimer",
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "BAYMAR",
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
+        "eta_schleuse": "21:05",
         "eta_rueb": "17:06",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "17:06",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -533,13 +511,6 @@
       "ship": "FALKENSTEIN + HÖRN20",
       "q_gruppe": "4",
       "route": "NOB → LÜW"
-    },
-    {
-      "eta_rueb_kiel": "21:27",
-      "eta_rueb": "21:15",
-      "ship": "X-PRESS ELBE",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
     }
   ]
 }
