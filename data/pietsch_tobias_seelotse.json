@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-22T23:06:39",
+  "generated_at": "2026-01-22T23:08:38",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
     "nachname": "Pietsch",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "RÜB",
-    "from": null,
-    "to": null,
+    "fahrzeug": "PASILA",
+    "from": "RÜB",
+    "to": "HOS",
     "time": "Thu Jan 22 15:42:00 CET 2026",
     "nr": 12
   },
@@ -16,7 +16,12 @@
     "wach": 1,
     "see": 4
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "03:41",
+    "eta_rueb": "23:34",
+    "delta_rueb_schleuse": "04:07",
+    "delta_start_rueb": "05:58"
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -104,14 +109,14 @@
       "time": "Thu Jan 22 19:24:00 CET 2026",
       "times": {
         "eta_schleuse": "05:05",
-        "eta_rueb": "00:08",
-        "delta_rueb_schleuse": "04:57",
-        "delta_start_rueb": "03:42"
+        "eta_rueb": "00:09",
+        "delta_rueb_schleuse": "04:56",
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "00:08",
+      "eta_rueb": "00:09",
       "eta_schleuse": "05:05",
-      "delta_rueb_schleuse": "04:57",
-      "delta_start_rueb": "03:42"
+      "delta_rueb_schleuse": "04:56",
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -231,14 +236,19 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PASILA",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 15:42:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:41",
+        "eta_rueb": "23:34",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "05:58"
+      },
+      "eta_rueb": "23:34",
+      "eta_schleuse": "03:41",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "05:58"
     },
     {
       "is_target": false,
@@ -272,14 +282,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 15:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:43",
+        "eta_schleuse": "01:42",
         "eta_rueb": "20:59",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "05:21"
       },
       "eta_rueb": "20:59",
-      "eta_schleuse": "01:43",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "01:42",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "05:21"
     },
     {
@@ -293,14 +303,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 14:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:39",
+        "eta_schleuse": "01:37",
         "eta_rueb": "20:56",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "05:18"
       },
       "eta_rueb": "20:56",
-      "eta_schleuse": "01:39",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "01:37",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "05:18"
     }
   ],
@@ -359,14 +369,14 @@
       "time": "Thu Jan 22 19:24:00 CET 2026",
       "times": {
         "eta_schleuse": "05:05",
-        "eta_rueb": "00:08",
-        "delta_rueb_schleuse": "04:57",
-        "delta_start_rueb": "03:42"
+        "eta_rueb": "00:09",
+        "delta_rueb_schleuse": "04:56",
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "00:08",
+      "eta_rueb": "00:09",
       "eta_schleuse": "05:05",
-      "delta_rueb_schleuse": "04:57",
-      "delta_start_rueb": "03:42"
+      "delta_rueb_schleuse": "04:56",
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -428,14 +438,19 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PASILA",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 15:42:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:41",
+        "eta_rueb": "23:34",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "05:58"
+      },
+      "eta_rueb": "23:34",
+      "eta_schleuse": "03:41",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "05:58"
     },
     {
       "is_target": false,
@@ -469,14 +484,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 15:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:43",
+        "eta_schleuse": "01:42",
         "eta_rueb": "20:59",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "05:21"
       },
       "eta_rueb": "20:59",
-      "eta_schleuse": "01:43",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "01:42",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "05:21"
     },
     {
@@ -490,14 +505,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 14:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:39",
+        "eta_schleuse": "01:37",
         "eta_rueb": "20:56",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "05:18"
       },
       "eta_rueb": "20:56",
-      "eta_schleuse": "01:39",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "01:37",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "05:18"
     }
   ],
@@ -525,13 +540,6 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "23:34",
-      "eta_rueb": "23:30",
-      "ship": "PASILA",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "23:41",
       "eta_rueb": "23:33",
       "ship": "ELBSUN",
@@ -539,7 +547,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:37",
+      "eta_rueb_kiel": "23:38",
       "eta_rueb": "23:36",
       "ship": "DINTELBORG",
       "q_gruppe": "3",
