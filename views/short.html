@@ -1,0 +1,13 @@
+<div class="card">
+  <h2>Short</h2>
+  <pre id="shortContent">Lade Daten …</pre>
+</div>
+
+<script>
+(async () => {
+  const person = window.PILOTAPP_PERSON;
+  const res = await fetch(`data/${person}_short.json`);
+  const data = await res.json();
+  document.getElementById("shortContent").textContent = data.short || "–";
+})();
+</script>
