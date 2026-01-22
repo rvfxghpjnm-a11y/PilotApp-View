@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T23:08:38",
+  "generated_at": "2026-01-22T23:10:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -220,14 +220,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "DINTELBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 17:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:44",
+        "eta_rueb": "23:38",
+        "delta_rueb_schleuse": "04:06",
+        "delta_start_rueb": "08:04"
+      },
+      "eta_rueb": "23:38",
+      "eta_schleuse": "03:44",
+      "delta_rueb_schleuse": "04:06",
+      "delta_start_rueb": "08:04"
     },
     {
       "is_target": true,
@@ -422,14 +427,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "DINTELBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 17:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:44",
+        "eta_rueb": "23:38",
+        "delta_rueb_schleuse": "04:06",
+        "delta_start_rueb": "08:04"
+      },
+      "eta_rueb": "23:38",
+      "eta_schleuse": "03:44",
+      "delta_rueb_schleuse": "04:06",
+      "delta_start_rueb": "08:04"
     },
     {
       "is_target": true,
@@ -544,13 +554,6 @@
       "eta_rueb": "23:33",
       "ship": "ELBSUN",
       "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:38",
-      "eta_rueb": "23:36",
-      "ship": "DINTELBORG",
-      "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
   ]
