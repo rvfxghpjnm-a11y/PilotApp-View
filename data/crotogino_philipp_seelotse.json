@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T23:12:56",
+  "generated_at": "2026-01-22T23:14:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -148,14 +148,19 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSUN",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 17:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:48",
+        "eta_rueb": "23:41",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "23:41",
+      "eta_schleuse": "03:48",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": false,
@@ -188,16 +193,11 @@
       "fahrzeug": "CONGA",
       "route": "HOS → KLT",
       "time": "Thu Jan 22 17:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "12:30",
-        "delta_rueb_schleuse": "2286366:16",
-        "delta_start_rueb": "03:04"
-      },
-      "eta_rueb": "12:30",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2286366:16",
-      "delta_start_rueb": "03:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -397,14 +397,19 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSUN",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 17:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:48",
+        "eta_rueb": "23:41",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "23:41",
+      "eta_schleuse": "03:48",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": false,
@@ -534,13 +539,6 @@
       "ship": "FALKENSTEIN + HÖRN20",
       "q_gruppe": "4",
       "route": "NOB → LÜW"
-    },
-    {
-      "eta_rueb_kiel": "23:41",
-      "eta_rueb": "23:33",
-      "ship": "ELBSUN",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
     }
   ]
 }
