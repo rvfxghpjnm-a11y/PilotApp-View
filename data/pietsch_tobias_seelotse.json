@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T22:48:38",
+  "generated_at": "2026-01-22T22:50:38",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -83,14 +83,14 @@
       "time": "Thu Jan 22 19:55:00 CET 2026",
       "times": {
         "eta_schleuse": "07:17",
-        "eta_rueb": "02:22",
-        "delta_rueb_schleuse": "04:55",
-        "delta_start_rueb": "04:46"
+        "eta_rueb": "02:17",
+        "delta_rueb_schleuse": "05:00",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "02:22",
+      "eta_rueb": "02:17",
       "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "04:55",
-      "delta_start_rueb": "04:46"
+      "delta_rueb_schleuse": "05:00",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -176,9 +176,14 @@
       "fahrzeug": "TRADE NAVIGATOR",
       "route": "HOR → UTG",
       "time": "Thu Jan 22 17:25:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "00:42",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "00:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -333,14 +338,14 @@
       "time": "Thu Jan 22 19:55:00 CET 2026",
       "times": {
         "eta_schleuse": "07:17",
-        "eta_rueb": "02:22",
-        "delta_rueb_schleuse": "04:55",
-        "delta_start_rueb": "04:46"
+        "eta_rueb": "02:17",
+        "delta_rueb_schleuse": "05:00",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "02:22",
+      "eta_rueb": "02:17",
       "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "04:55",
-      "delta_start_rueb": "04:46"
+      "delta_rueb_schleuse": "05:00",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -499,14 +504,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:04",
+      "eta_rueb_kiel": "04:03",
       "eta_rueb": "03:20",
       "ship": "WILSON DIEPPE",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "04:07",
+      "eta_rueb_kiel": "04:06",
       "eta_rueb": "03:25",
       "ship": "DANICA HAV",
       "q_gruppe": "5",
@@ -520,21 +525,21 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "23:35",
+      "eta_rueb_kiel": "23:33",
       "eta_rueb": "23:30",
       "ship": "PASILA",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:41",
+      "eta_rueb_kiel": "23:40",
       "eta_rueb": "23:33",
       "ship": "ELBSUN",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:38",
+      "eta_rueb_kiel": "23:37",
       "eta_rueb": "23:36",
       "ship": "DINTELBORG",
       "q_gruppe": "3",
