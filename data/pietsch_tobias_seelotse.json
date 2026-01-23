@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T12:34:46",
+  "generated_at": "2026-01-23T12:36:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,14 +106,14 @@
       "time": "Fri Jan 23 10:38:00 CET 2026",
       "times": {
         "eta_schleuse": "19:39",
-        "eta_rueb": "15:13",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "15:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "15:13",
+      "eta_rueb": "15:11",
       "eta_schleuse": "19:39",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -196,19 +196,14 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "REM TRADER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 23 08:03:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:56",
-        "eta_rueb": "12:29",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:29"
-      },
-      "eta_rueb": "12:29",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:29"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -217,8 +212,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -233,8 +228,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -420,14 +415,14 @@
       "time": "Fri Jan 23 10:38:00 CET 2026",
       "times": {
         "eta_schleuse": "19:39",
-        "eta_rueb": "15:13",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "15:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "15:13",
+      "eta_rueb": "15:11",
       "eta_schleuse": "19:39",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -494,19 +489,14 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "REM TRADER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 23 08:03:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:56",
-        "eta_rueb": "12:29",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:29"
-      },
-      "eta_rueb": "12:29",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:29"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -515,8 +505,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -531,8 +521,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
