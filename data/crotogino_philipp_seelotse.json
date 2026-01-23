@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T22:16:48",
+  "generated_at": "2026-01-23T22:18:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -333,14 +333,19 @@
       "name": "Claas Cramer",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NATIG ALIYEV",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:44",
+        "eta_rueb": "22:31",
+        "delta_rueb_schleuse": "04:13",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "22:31",
+      "eta_schleuse": "02:44",
+      "delta_rueb_schleuse": "04:13",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -610,14 +615,19 @@
       "name": "Claas Cramer",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NATIG ALIYEV",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:44",
+        "eta_rueb": "22:31",
+        "delta_rueb_schleuse": "04:13",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "22:31",
+      "eta_schleuse": "02:44",
+      "delta_rueb_schleuse": "04:13",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -660,14 +670,7 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "22:31",
-      "eta_rueb": "22:25",
-      "ship": "NATIG ALIYEV",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:06",
+      "eta_rueb_kiel": "23:05",
       "eta_rueb": "23:00",
       "ship": "ORAHOLM",
       "q_gruppe": "4",
