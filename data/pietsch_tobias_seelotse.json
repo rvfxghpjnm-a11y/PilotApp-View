@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T17:48:47",
+  "generated_at": "2026-01-23T17:50:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -78,15 +78,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 23 15:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:59",
-        "eta_rueb": "21:32",
+        "eta_schleuse": "02:02",
+        "eta_rueb": "21:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:22"
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "21:32",
-      "eta_schleuse": "01:59",
+      "eta_rueb": "21:35",
+      "eta_schleuse": "02:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:22"
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -99,15 +99,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 23 15:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:45",
-        "eta_rueb": "21:18",
+        "eta_schleuse": "01:59",
+        "eta_rueb": "21:32",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:18"
+        "delta_start_rueb": "04:32"
       },
-      "eta_rueb": "21:18",
-      "eta_schleuse": "01:45",
+      "eta_rueb": "21:32",
+      "eta_schleuse": "01:59",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:18"
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -201,14 +201,19 @@
       "name": "Andreas Arlt",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY ALEXANDRA",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 11:31:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:09",
+        "eta_rueb": "18:20",
+        "delta_rueb_schleuse": "03:49",
+        "delta_start_rueb": "04:12"
+      },
+      "eta_rueb": "18:20",
+      "eta_schleuse": "22:09",
+      "delta_rueb_schleuse": "03:49",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -360,15 +365,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 23 15:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:59",
-        "eta_rueb": "21:32",
+        "eta_schleuse": "02:02",
+        "eta_rueb": "21:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:22"
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "21:32",
-      "eta_schleuse": "01:59",
+      "eta_rueb": "21:35",
+      "eta_schleuse": "02:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:22"
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -381,15 +386,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 23 15:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:45",
-        "eta_rueb": "21:18",
+        "eta_schleuse": "01:59",
+        "eta_rueb": "21:32",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:18"
+        "delta_start_rueb": "04:32"
       },
-      "eta_rueb": "21:18",
-      "eta_schleuse": "01:45",
+      "eta_rueb": "21:32",
+      "eta_schleuse": "01:59",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:18"
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -435,14 +440,19 @@
       "name": "Andreas Arlt",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY ALEXANDRA",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 11:31:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:09",
+        "eta_rueb": "18:20",
+        "delta_rueb_schleuse": "03:49",
+        "delta_start_rueb": "04:12"
+      },
+      "eta_rueb": "18:20",
+      "eta_schleuse": "22:09",
+      "delta_rueb_schleuse": "03:49",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -497,13 +507,6 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "18:21",
-      "eta_rueb": "18:20",
-      "ship": "LADY ALEXANDRA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "18:36",
       "eta_rueb": "18:30",
       "ship": "KAIRIIN",
@@ -525,7 +528,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:24",
+      "eta_rueb_kiel": "20:23",
       "eta_rueb": "20:10",
       "ship": "HENDRIK S",
       "q_gruppe": "5",
@@ -546,7 +549,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:36",
+      "eta_rueb_kiel": "22:34",
       "eta_rueb": "22:25",
       "ship": "NATIG ALIYEV",
       "q_gruppe": "1",
