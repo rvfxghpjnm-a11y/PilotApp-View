@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T01:40:39",
+  "generated_at": "2026-01-23T01:42:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -75,16 +75,11 @@
       "fahrzeug": "SALTSTRAUM",
       "route": "HOS → KLT",
       "time": "Fri Jan 23 01:03:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:38",
-        "eta_rueb": "20:56",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "05:18"
-      },
-      "eta_rueb": "20:56",
-      "eta_schleuse": "01:38",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "05:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -97,15 +92,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Jan 23 00:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:10",
+        "eta_schleuse": "09:39",
+        "eta_rueb": "05:12",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:20"
+        "delta_start_rueb": "06:22"
       },
-      "eta_rueb": "05:10",
-      "eta_schleuse": "09:37",
+      "eta_rueb": "05:12",
+      "eta_schleuse": "09:39",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:20"
+      "delta_start_rueb": "06:22"
     },
     {
       "is_target": false,
@@ -355,16 +350,11 @@
       "fahrzeug": "SALTSTRAUM",
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 14:17:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:38",
-        "eta_rueb": "20:56",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "05:18"
-      },
-      "eta_rueb": "20:56",
-      "eta_schleuse": "01:38",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "05:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -379,15 +369,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Jan 23 00:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:10",
+        "eta_schleuse": "09:39",
+        "eta_rueb": "05:12",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:20"
+        "delta_start_rueb": "06:22"
       },
-      "eta_rueb": "05:10",
-      "eta_schleuse": "09:37",
+      "eta_rueb": "05:12",
+      "eta_schleuse": "09:39",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:20"
+      "delta_start_rueb": "06:22"
     },
     {
       "is_target": false,
@@ -573,29 +563,24 @@
       "fahrzeug": "SALTSTRAUM",
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 14:17:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:38",
-        "eta_rueb": "20:56",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "05:18"
-      },
-      "eta_rueb": "20:56",
-      "eta_schleuse": "01:38",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "05:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:58",
+      "eta_rueb_kiel": "03:57",
       "eta_rueb": "03:45",
       "ship": "WILSON DIEPPE",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "04:02",
+      "eta_rueb_kiel": "04:01",
       "eta_rueb": "03:50",
       "ship": "DANICA HAV",
       "q_gruppe": "5",
