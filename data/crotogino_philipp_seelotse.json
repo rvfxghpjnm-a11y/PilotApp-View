@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T05:34:46",
+  "generated_at": "2026-01-23T05:36:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AMANDA",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 04:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:48",
+        "eta_rueb": "06:14",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "06:14",
+      "eta_schleuse": "09:48",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -32,14 +37,19 @@
       "name": "Jan Hilpert",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RUBIKON 78",
+      "route": "RÜB → UTG",
       "time": "Fri Jan 23 04:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:52",
+        "eta_rueb": "06:05",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "05:05"
+      },
+      "eta_rueb": "06:05",
+      "eta_schleuse": "09:52",
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -48,14 +58,19 @@
       "name": "Merten Wachs",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VANQUISH",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 04:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:44",
+        "eta_rueb": "06:00",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "05:00"
+      },
+      "eta_rueb": "06:00",
+      "eta_schleuse": "09:44",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "05:00"
     },
     {
       "is_target": false,
@@ -68,13 +83,13 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 23 04:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:33",
+        "eta_schleuse": "13:36",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "13:33",
+      "eta_schleuse": "13:36",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -244,14 +259,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORATANK",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 20:07:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:40",
+        "eta_rueb": "05:56",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "04:56"
+      },
+      "eta_rueb": "05:56",
+      "eta_schleuse": "09:40",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "04:56"
     },
     {
       "is_target": false,
@@ -280,14 +300,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 19:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:34",
         "eta_rueb": "03:57",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "03:57",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "07:34",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:33"
     },
     {
@@ -315,14 +335,19 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AMANDA",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 04:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:48",
+        "eta_rueb": "06:14",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "06:14",
+      "eta_schleuse": "09:48",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -331,14 +356,19 @@
       "name": "Jan Hilpert",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RUBIKON 78",
+      "route": "RÜB → UTG",
       "time": "Fri Jan 23 04:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:52",
+        "eta_rueb": "06:05",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "05:05"
+      },
+      "eta_rueb": "06:05",
+      "eta_schleuse": "09:52",
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -347,14 +377,19 @@
       "name": "Merten Wachs",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VANQUISH",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 23 04:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:44",
+        "eta_rueb": "06:00",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "05:00"
+      },
+      "eta_rueb": "06:00",
+      "eta_schleuse": "09:44",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "05:00"
     },
     {
       "is_target": false,
@@ -367,13 +402,13 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 23 04:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:33",
+        "eta_schleuse": "13:36",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "13:33",
+      "eta_schleuse": "13:36",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -447,14 +482,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORATANK",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 22 20:07:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:40",
+        "eta_rueb": "05:56",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "04:56"
+      },
+      "eta_rueb": "05:56",
+      "eta_schleuse": "09:40",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "04:56"
     },
     {
       "is_target": false,
@@ -467,14 +507,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 19:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:34",
         "eta_rueb": "03:57",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "03:57",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "07:34",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:33"
     },
     {
@@ -496,34 +536,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:56",
-      "eta_rueb": "05:58",
-      "ship": "ORATANK",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "06:00",
-      "eta_rueb": "06:00",
-      "ship": "VANQUISH",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "06:05",
-      "eta_rueb": "06:03",
-      "ship": "RUBIKON 78",
-      "q_gruppe": "1",
-      "route": "RÜB → UTG"
-    },
-    {
-      "eta_rueb_kiel": "06:14",
-      "eta_rueb": "06:10",
-      "ship": "AMANDA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "07:00",
