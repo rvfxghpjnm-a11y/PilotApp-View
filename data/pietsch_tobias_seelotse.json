@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T00:38:46",
+  "generated_at": "2026-01-24T00:40:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 1,
-    "see": 10
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -131,14 +131,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 23 19:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:43",
+        "eta_schleuse": "00:45",
         "eta_rueb": "21:06",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "21:06",
-      "eta_schleuse": "00:43",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "00:45",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:02"
     },
     {
@@ -153,14 +153,14 @@
       "time": "Fri Jan 23 19:37:00 CET 2026",
       "times": {
         "eta_schleuse": "06:26",
-        "eta_rueb": "01:23",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "04:35"
+        "eta_rueb": "01:22",
+        "delta_rueb_schleuse": "05:04",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "01:23",
+      "eta_rueb": "01:22",
       "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "04:35"
+      "delta_rueb_schleuse": "05:04",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -294,9 +294,14 @@
       "fahrzeug": "BIRGIT",
       "route": "HOS → UTG",
       "time": "Fri Jan 23 17:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -336,54 +341,6 @@
       "eta_schleuse": "02:43",
       "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:49"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "name": "Sören Engler",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 23 15:47:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Buch",
-      "name": "Helge Buch",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 23 15:39:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Hark",
-      "nachname": "Borggräfe",
-      "name": "Hark Borggräfe",
-      "aufgabe": "Seebört",
-      "nr": 21,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 23 15:38:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -462,14 +419,14 @@
       "time": "Fri Jan 23 19:37:00 CET 2026",
       "times": {
         "eta_schleuse": "06:26",
-        "eta_rueb": "01:23",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "04:35"
+        "eta_rueb": "01:22",
+        "delta_rueb_schleuse": "05:04",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "01:23",
+      "eta_rueb": "01:22",
       "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "04:35"
+      "delta_rueb_schleuse": "05:04",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
