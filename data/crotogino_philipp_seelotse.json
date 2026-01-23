@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-23T17:40:47",
+  "generated_at": "2026-01-23T17:42:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 1,
     "see": 6
   },
@@ -273,9 +273,14 @@
       "fahrzeug": "MAIKE",
       "route": "NHF → HOS",
       "time": "Fri Jan 23 10:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -299,22 +304,6 @@
       "eta_schleuse": "18:42",
       "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "04:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hüseyin",
-      "nachname": "Ünsal",
-      "name": "Hüseyin Ünsal",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "PEAK BELFAST",
-      "route": "RÜB → NHF",
-      "time": "Fri Jan 23 08:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -496,22 +485,6 @@
       "eta_schleuse": "18:42",
       "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "04:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hüseyin",
-      "nachname": "Ünsal",
-      "name": "Hüseyin Ünsal",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "PEAK BELFAST",
-      "route": "RÜB → NHF",
-      "time": "Fri Jan 23 08:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
