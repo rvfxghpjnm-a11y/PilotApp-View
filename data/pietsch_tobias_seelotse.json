@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-23T06:06:46",
+  "generated_at": "2026-01-23T06:08:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
-    "wach": 1,
+    "kanal": 10,
+    "wach": 0,
     "see": 7
   },
   "times": null,
@@ -94,14 +94,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 23 04:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:50",
+        "eta_schleuse": "09:43",
         "eta_rueb": "05:59",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "05:59",
-      "eta_schleuse": "09:50",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "09:43",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:59"
     },
     {
@@ -307,27 +307,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sven Kare",
-      "nachname": "Tietjens",
-      "name": "Sven Kare Tietjens",
-      "aufgabe": "Wachgänger",
-      "nr": 17,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Thu Jan 22 20:01:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jens",
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "DANICA HAV",
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 19:24:00 CET 2026",
@@ -341,22 +325,6 @@
       "eta_schleuse": "07:34",
       "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:33"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hartmut",
-      "nachname": "Köller",
-      "name": "Hartmut Köller",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 22 18:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -429,14 +397,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 23 04:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:50",
+        "eta_schleuse": "09:43",
         "eta_rueb": "05:59",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "05:59",
-      "eta_schleuse": "09:50",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "09:43",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:59"
     },
     {
@@ -550,7 +518,7 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "DANICA HAV",
       "route": "RÜB → HOS",
       "time": "Thu Jan 22 19:24:00 CET 2026",
@@ -564,22 +532,6 @@
       "eta_schleuse": "07:34",
       "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:33"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hartmut",
-      "nachname": "Köller",
-      "name": "Hartmut Köller",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 22 18:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
