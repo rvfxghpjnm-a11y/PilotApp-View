@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T01:36:46",
+  "generated_at": "2026-01-24T01:38:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -95,14 +95,14 @@
       "time": "Fri Jan 23 20:37:00 CET 2026",
       "times": {
         "eta_schleuse": "06:29",
-        "eta_rueb": "01:44",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "01:43",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "01:44",
+      "eta_rueb": "01:43",
       "eta_schleuse": "06:29",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -388,14 +388,14 @@
       "time": "Fri Jan 23 20:37:00 CET 2026",
       "times": {
         "eta_schleuse": "06:29",
-        "eta_rueb": "01:44",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "01:43",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "01:44",
+      "eta_rueb": "01:43",
       "eta_schleuse": "06:29",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -517,7 +517,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:16",
+      "eta_rueb_kiel": "03:14",
       "eta_rueb": "03:10",
       "ship": "FILIA ARIEA",
       "q_gruppe": "5",
@@ -529,6 +529,13 @@
       "ship": "BIRGIT DEYMANN",
       "q_gruppe": "5",
       "route": "KRH → RÜB"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "11:00",
+      "ship": "HENDRIK S",
+      "q_gruppe": "5",
+      "route": "RDP → RÜB"
     }
   ]
 }
