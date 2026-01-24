@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T09:32:38",
+  "generated_at": "2026-01-24T09:34:38",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 18,
     "wach": 0,
-    "see": 7
+    "see": 6
   },
   "times": {
     "eta_schleuse": "11:03",
@@ -114,15 +114,15 @@
       "route": "UTG → RÜB",
       "time": "Sat Jan 24 08:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:40",
-        "eta_rueb": "14:13",
+        "eta_schleuse": "18:43",
+        "eta_rueb": "14:16",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "09:57"
+        "delta_start_rueb": "10:00"
       },
-      "eta_rueb": "14:13",
-      "eta_schleuse": "18:40",
+      "eta_rueb": "14:16",
+      "eta_schleuse": "18:43",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "09:57"
+      "delta_start_rueb": "10:00"
     },
     {
       "is_target": false,
@@ -231,14 +231,14 @@
       "time": "Sat Jan 24 06:08:00 CET 2026",
       "times": {
         "eta_schleuse": "17:13",
-        "eta_rueb": "12:00",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "04:42"
+        "eta_rueb": "11:59",
+        "delta_rueb_schleuse": "05:14",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "12:00",
+      "eta_rueb": "11:59",
       "eta_schleuse": "17:13",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "04:42"
+      "delta_rueb_schleuse": "05:14",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": true,
@@ -384,27 +384,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Knut Paul",
-      "nachname": "Klüver",
-      "name": "Knut Paul Klüver",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "ARKLOW FALCON",
-      "route": "KLT → HOS",
-      "time": "Sat Jan 24 03:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Nickolaj",
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Seebört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sat Jan 24 03:00:00 CET 2026",
@@ -420,7 +404,7 @@
       "nachname": "Reimer",
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "POZONI",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 02:57:00 CET 2026",
@@ -441,7 +425,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "PATRIA SEAWAYS",
       "route": "KLT → SWK",
       "time": "Sat Jan 24 02:18:00 CET 2026",
@@ -457,7 +441,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "BOTHNIABORG",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 01:25:00 CET 2026",
@@ -478,7 +462,7 @@
       "nachname": "Malik",
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "LARISSA B",
       "route": "RÜB → HOS",
       "time": "Fri Jan 23 21:55:00 CET 2026",
@@ -538,15 +522,15 @@
       "route": "UTG → RÜB",
       "time": "Sat Jan 24 08:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:40",
-        "eta_rueb": "14:13",
+        "eta_schleuse": "18:43",
+        "eta_rueb": "14:16",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "09:57"
+        "delta_start_rueb": "10:00"
       },
-      "eta_rueb": "14:13",
-      "eta_schleuse": "18:40",
+      "eta_rueb": "14:16",
+      "eta_schleuse": "18:43",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "09:57"
+      "delta_start_rueb": "10:00"
     },
     {
       "is_target": false,
@@ -655,14 +639,14 @@
       "time": "Sat Jan 24 06:08:00 CET 2026",
       "times": {
         "eta_schleuse": "17:13",
-        "eta_rueb": "12:00",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "04:42"
+        "eta_rueb": "11:59",
+        "delta_rueb_schleuse": "05:14",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "12:00",
+      "eta_rueb": "11:59",
       "eta_schleuse": "17:13",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "04:42"
+      "delta_rueb_schleuse": "05:14",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": true,
@@ -796,7 +780,7 @@
       "nachname": "Reimer",
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "POZONI",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 02:57:00 CET 2026",
@@ -817,7 +801,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "BOTHNIABORG",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 01:25:00 CET 2026",
@@ -838,7 +822,7 @@
       "nachname": "Malik",
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "LARISSA B",
       "route": "RÜB → HOS",
       "time": "Fri Jan 23 21:55:00 CET 2026",
@@ -889,6 +873,13 @@
       "eta_rueb": "12:00",
       "ship": "ELBIA",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:30",
+      "ship": "SWE-FREIGHTER",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
