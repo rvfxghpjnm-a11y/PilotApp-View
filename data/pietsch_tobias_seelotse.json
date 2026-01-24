@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-01-24T09:58:43",
+  "generated_at": "2026-01-24T10:00:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
     "nachname": "Pietsch",
-    "aufgabe": "Kanalbört",
+    "aufgabe": "Seebört",
     "fahrzeug": "CORAL IVORY",
-    "from": "RÜB",
-    "to": "HOS",
+    "from": "HOS",
+    "to": "KLT",
     "time": "Sat Jan 24 05:55:00 CET 2026",
     "nr": 17
   },
   "gruppen": {
-    "kanal": 20,
+    "kanal": 19,
     "wach": 0,
-    "see": 7
+    "see": 8
   },
   "times": {
     "eta_schleuse": "11:03",
@@ -167,15 +167,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Jan 24 08:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:45",
-        "eta_rueb": "14:17",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:31"
+        "eta_schleuse": "18:41",
+        "eta_rueb": "14:14",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:28"
       },
-      "eta_rueb": "14:17",
-      "eta_schleuse": "18:45",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:31"
+      "eta_rueb": "14:14",
+      "eta_schleuse": "18:41",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -188,15 +188,15 @@
       "route": "UTG → RÜB",
       "time": "Sat Jan 24 08:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:41",
-        "eta_rueb": "14:14",
+        "eta_schleuse": "18:44",
+        "eta_rueb": "14:17",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "09:58"
+        "delta_start_rueb": "10:01"
       },
-      "eta_rueb": "14:14",
-      "eta_schleuse": "18:41",
+      "eta_rueb": "14:17",
+      "eta_schleuse": "18:44",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "09:58"
+      "delta_start_rueb": "10:01"
     },
     {
       "is_target": false,
@@ -324,10 +324,10 @@
       "vorname": "Tobias",
       "nachname": "Pietsch",
       "name": "Tobias Pietsch",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 17,
       "fahrzeug": "CORAL IVORY",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Jan 24 05:55:00 CET 2026",
       "times": {
         "eta_schleuse": "11:03",
@@ -643,15 +643,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Jan 24 08:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:45",
-        "eta_rueb": "14:17",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:31"
+        "eta_schleuse": "18:41",
+        "eta_rueb": "14:14",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:28"
       },
-      "eta_rueb": "14:17",
-      "eta_schleuse": "18:45",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:31"
+      "eta_rueb": "14:14",
+      "eta_schleuse": "18:41",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -664,15 +664,15 @@
       "route": "UTG → RÜB",
       "time": "Sat Jan 24 08:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:41",
-        "eta_rueb": "14:14",
+        "eta_schleuse": "18:44",
+        "eta_rueb": "14:17",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "09:58"
+        "delta_start_rueb": "10:01"
       },
-      "eta_rueb": "14:14",
-      "eta_schleuse": "18:41",
+      "eta_rueb": "14:17",
+      "eta_schleuse": "18:44",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "09:58"
+      "delta_start_rueb": "10:01"
     },
     {
       "is_target": false,
@@ -794,27 +794,6 @@
       "eta_schleuse": "17:11",
       "delta_rueb_schleuse": "05:14",
       "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": true,
-      "vorname": "Tobias",
-      "nachname": "Pietsch",
-      "name": "Tobias Pietsch",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "CORAL IVORY",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 05:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:03",
-        "eta_rueb": "07:31",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "04:43"
-      },
-      "eta_rueb": "07:31",
-      "eta_schleuse": "11:03",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -995,7 +974,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:58",
+      "eta_rueb_kiel": "13:56",
       "eta_rueb": "14:02",
       "ship": "SONGA TAURUS",
       "q_gruppe": "2",
