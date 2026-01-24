@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T07:00:49",
+  "generated_at": "2026-01-24T07:02:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -531,6 +531,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "07:15",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "08:02",
       "eta_rueb": "08:10",
       "ship": "COE GISELA",
@@ -580,7 +587,7 @@
       "route": "RDP → RÜB"
     },
     {
-      "eta_rueb_kiel": "11:03",
+      "eta_rueb_kiel": "11:01",
       "eta_rueb": "11:00",
       "ship": "CELLUS",
       "q_gruppe": "4",
@@ -591,6 +598,13 @@
       "eta_rueb": "11:02",
       "ship": "OCEAN TRANGA",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "11:48",
+      "eta_rueb": "12:00",
+      "ship": "ELBIA",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
