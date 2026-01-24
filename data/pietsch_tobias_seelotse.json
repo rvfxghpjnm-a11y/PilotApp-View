@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-24T13:20:39",
+  "generated_at": "2026-01-24T13:22:41",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
     "nachname": "Pietsch",
     "aufgabe": "Seebört",
-    "fahrzeug": "KLT",
-    "from": null,
-    "to": null,
+    "fahrzeug": "TRAVETAL",
+    "from": "KLT",
+    "to": "HOS",
     "time": "Sat Jan 24 05:55:00 CET 2026",
     "nr": 24
   },
@@ -88,14 +88,14 @@
       "time": "Sat Jan 24 11:14:00 CET 2026",
       "times": {
         "eta_schleuse": "21:24",
-        "eta_rueb": "16:19",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:49"
+        "eta_rueb": "16:17",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "16:19",
+      "eta_rueb": "16:17",
       "eta_schleuse": "21:24",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:49"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -109,14 +109,14 @@
       "time": "Sat Jan 24 11:01:00 CET 2026",
       "times": {
         "eta_schleuse": "21:21",
-        "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:46"
+        "eta_rueb": "16:14",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "16:16",
+      "eta_rueb": "16:14",
       "eta_schleuse": "21:21",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:46"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -225,14 +225,19 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONGA TAURUS",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 09:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:20",
+        "eta_rueb": "13:47",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "13:47",
+      "eta_schleuse": "17:20",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -278,8 +283,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "POZONI",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 24 09:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -468,8 +473,8 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Seebört",
       "nr": 24,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "TRAVETAL",
+      "route": "KLT → HOS",
       "time": "Sat Jan 24 05:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -602,14 +607,14 @@
       "time": "Sat Jan 24 11:14:00 CET 2026",
       "times": {
         "eta_schleuse": "21:24",
-        "eta_rueb": "16:19",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:49"
+        "eta_rueb": "16:17",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "16:19",
+      "eta_rueb": "16:17",
       "eta_schleuse": "21:24",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:49"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -623,14 +628,14 @@
       "time": "Sat Jan 24 11:01:00 CET 2026",
       "times": {
         "eta_schleuse": "21:21",
-        "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:46"
+        "eta_rueb": "16:14",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "16:16",
+      "eta_rueb": "16:14",
       "eta_schleuse": "21:21",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:46"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -723,14 +728,19 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONGA TAURUS",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 09:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:20",
+        "eta_rueb": "13:47",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "13:47",
+      "eta_schleuse": "17:20",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -899,14 +909,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:47",
-      "eta_rueb": "14:02",
-      "ship": "SONGA TAURUS",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "15:00",
+      "eta_rueb_kiel": "14:59",
       "eta_rueb": "14:55",
       "ship": "KEY FJORD",
       "q_gruppe": "4",
