@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T05:20:47",
+  "generated_at": "2026-01-24T05:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -122,8 +122,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SCHELDE HIGHWAY",
+      "route": "KLT → HOS",
       "time": "Sat Jan 24 02:18:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -380,7 +380,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:20",
+      "eta_rueb_kiel": "07:19",
       "eta_rueb": "07:11",
       "ship": "CORALIUS",
       "q_gruppe": "4",
@@ -440,6 +440,13 @@
       "eta_rueb": "09:21",
       "ship": "WILSON ROTTERDAM",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "09:45",
+      "eta_rueb": "09:24",
+      "ship": "ECO OSTRO",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
