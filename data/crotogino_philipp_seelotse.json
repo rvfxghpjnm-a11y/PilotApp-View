@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T14:28:46",
+  "generated_at": "2026-01-24T14:30:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 20,
     "wach": 0,
-    "see": 11
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -305,14 +305,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 09:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:18",
+        "eta_schleuse": "17:22",
         "eta_rueb": "13:46",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "13:46",
-      "eta_schleuse": "17:18",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "17:22",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:30"
     },
     {
@@ -439,8 +439,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Seebört",
       "nr": 24,
-      "fahrzeug": "JOHN T. ESSBERGER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -512,14 +512,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 06:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:13",
+        "eta_schleuse": "17:19",
         "eta_rueb": "13:37",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "13:37",
-      "eta_schleuse": "17:13",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "17:19",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:35"
     },
     {
@@ -530,38 +530,6 @@
       "aufgabe": "Seebört",
       "nr": 29,
       "fahrzeug": "TRAVETAL",
-      "route": "KLT → HOS",
-      "time": "Sat Jan 24 05:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Nik",
-      "nachname": "Suermann",
-      "name": "Nik Suermann",
-      "aufgabe": "Seebört",
-      "nr": 30,
-      "fahrzeug": "BREYDEL",
-      "route": "KLT → HOS",
-      "time": "Sat Jan 24 05:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "René",
-      "nachname": "Winkler",
-      "name": "René Winkler",
-      "aufgabe": "Seebört",
-      "nr": 31,
-      "fahrzeug": "Leerfahrt",
       "route": "KLT → HOS",
       "time": "Sat Jan 24 05:55:00 CET 2026",
       "times": null,
@@ -815,14 +783,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 09:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:18",
+        "eta_schleuse": "17:22",
         "eta_rueb": "13:46",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "13:46",
-      "eta_schleuse": "17:18",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "17:22",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:30"
     },
     {
@@ -942,14 +910,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 06:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:13",
+        "eta_schleuse": "17:19",
         "eta_rueb": "13:37",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "13:37",
-      "eta_schleuse": "17:13",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "17:19",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:35"
     }
   ],
