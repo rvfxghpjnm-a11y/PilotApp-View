@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T13:18:46",
+  "generated_at": "2026-01-24T13:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -252,14 +252,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 24 09:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:19",
+        "eta_schleuse": "13:20",
         "eta_rueb": "09:39",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "09:39",
-      "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "13:20",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:27"
     },
     {
@@ -401,14 +401,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX RIVER",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 07:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:16",
+        "eta_rueb": "13:25",
+        "delta_rueb_schleuse": "03:51",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "13:25",
+      "eta_schleuse": "17:16",
+      "delta_rueb_schleuse": "03:51",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -433,14 +438,19 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONGA SAPPHIRE",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 06:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:13",
+        "eta_rueb": "13:38",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:36"
+      },
+      "eta_rueb": "13:38",
+      "eta_schleuse": "17:13",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -501,14 +511,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 04:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:19",
+        "eta_schleuse": "13:20",
         "eta_rueb": "09:39",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "09:39",
-      "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "13:20",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:27"
     }
   ],
@@ -804,14 +814,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX RIVER",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 07:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:16",
+        "eta_rueb": "13:25",
+        "delta_rueb_schleuse": "03:51",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "13:25",
+      "eta_schleuse": "17:16",
+      "delta_rueb_schleuse": "03:51",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -836,14 +851,19 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONGA SAPPHIRE",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 06:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:13",
+        "eta_rueb": "13:38",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:36"
+      },
+      "eta_rueb": "13:38",
+      "eta_schleuse": "17:13",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -856,33 +876,19 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 04:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:19",
+        "eta_schleuse": "13:20",
         "eta_rueb": "09:39",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "09:39",
-      "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "13:20",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:27"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "13:27",
-      "eta_rueb": "13:32",
-      "ship": "RIX RIVER",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "13:38",
-      "eta_rueb": "14:00",
-      "ship": "SONGA SAPPHIRE",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "13:47",
       "eta_rueb": "14:02",
