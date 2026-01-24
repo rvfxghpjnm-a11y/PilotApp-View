@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T12:44:43",
+  "generated_at": "2026-01-24T12:46:38",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -46,14 +46,14 @@
       "time": "Sat Jan 24 11:25:00 CET 2026",
       "times": {
         "eta_schleuse": "21:29",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "16:23",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": null,
+      "eta_rueb": "16:23",
       "eta_schleuse": "21:29",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -220,8 +220,8 @@
       "name": "Hannes Rink",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Sat Jan 24 09:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -415,8 +415,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SWE-FREIGHTER",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 07:44:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -555,14 +555,14 @@
       "time": "Sat Jan 24 11:25:00 CET 2026",
       "times": {
         "eta_schleuse": "21:29",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "16:23",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": null,
+      "eta_rueb": "16:23",
       "eta_schleuse": "21:29",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -813,8 +813,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SWE-FREIGHTER",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 07:44:00 CET 2026",
       "times": null,
       "eta_rueb": null,
