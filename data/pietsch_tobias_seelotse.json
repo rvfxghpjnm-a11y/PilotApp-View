@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T08:54:40",
+  "generated_at": "2026-01-24T08:56:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -78,8 +78,8 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -94,8 +94,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -110,8 +110,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -147,14 +147,14 @@
       "time": "Sat Jan 24 07:44:00 CET 2026",
       "times": {
         "eta_schleuse": "17:11",
-        "eta_rueb": "12:24",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "12:23",
+        "delta_rueb_schleuse": "04:48",
+        "delta_start_rueb": "03:33"
       },
-      "eta_rueb": "12:24",
+      "eta_rueb": "12:23",
       "eta_schleuse": "17:11",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "04:48",
+      "delta_start_rueb": "03:33"
     },
     {
       "is_target": false,
@@ -487,8 +487,8 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -503,8 +503,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -519,8 +519,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 24 08:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -556,14 +556,14 @@
       "time": "Sat Jan 24 07:44:00 CET 2026",
       "times": {
         "eta_schleuse": "17:11",
-        "eta_rueb": "12:24",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "12:23",
+        "delta_rueb_schleuse": "04:48",
+        "delta_start_rueb": "03:33"
       },
-      "eta_rueb": "12:24",
+      "eta_rueb": "12:23",
       "eta_schleuse": "17:11",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "04:48",
+      "delta_start_rueb": "03:33"
     },
     {
       "is_target": false,
@@ -814,7 +814,7 @@
       "route": "RDP → RÜB"
     },
     {
-      "eta_rueb_kiel": "10:55",
+      "eta_rueb_kiel": "10:53",
       "eta_rueb": "11:00",
       "ship": "CELLUS",
       "q_gruppe": "4",
