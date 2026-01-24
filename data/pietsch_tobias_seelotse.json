@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T09:52:42",
+  "generated_at": "2026-01-24T09:54:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -205,14 +205,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON ROTTERDAM",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 08:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:33",
+        "eta_rueb": "10:17",
+        "delta_rueb_schleuse": "04:16",
+        "delta_start_rueb": "05:07"
+      },
+      "eta_rueb": "10:17",
+      "eta_schleuse": "14:33",
+      "delta_rueb_schleuse": "04:16",
+      "delta_start_rueb": "05:07"
     },
     {
       "is_target": false,
@@ -676,14 +681,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON ROTTERDAM",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 08:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:33",
+        "eta_rueb": "10:17",
+        "delta_rueb_schleuse": "04:16",
+        "delta_start_rueb": "05:07"
+      },
+      "eta_rueb": "10:17",
+      "eta_schleuse": "14:33",
+      "delta_rueb_schleuse": "04:16",
+      "delta_start_rueb": "05:07"
     },
     {
       "is_target": false,
@@ -978,13 +988,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:17",
-      "eta_rueb": "10:45",
-      "ship": "WILSON ROTTERDAM",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": null,
       "eta_rueb": "11:00",
       "ship": "HENDRIK S",
@@ -999,7 +1002,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:54",
+      "eta_rueb_kiel": "10:53",
       "eta_rueb": "11:02",
       "ship": "OCEAN TRANGA",
       "q_gruppe": "4",
