@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-24T17:38:46",
+  "generated_at": "2026-01-24T17:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 22,
+    "kanal": 21,
     "wach": 0,
     "see": 7
   },
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 24 16:57:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:39",
+        "eta_schleuse": "17:40",
         "eta_rueb": "13:46",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "13:46",
-      "eta_schleuse": "17:39",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "17:40",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:30"
     },
     {
@@ -437,14 +437,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 09:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:39",
+        "eta_schleuse": "17:40",
         "eta_rueb": "13:46",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "13:46",
-      "eta_schleuse": "17:39",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "17:40",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:30"
     },
     {
@@ -528,27 +528,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Dennis",
-      "nachname": "Heyenga",
-      "name": "Dennis Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 28,
-      "fahrzeug": "SWE-FREIGHTER",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 07:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Niklas",
       "nachname": "Dalecki",
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
-      "nr": 29,
+      "nr": 28,
       "fahrzeug": "SONGA SAPPHIRE",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 06:08:00 CET 2026",
@@ -871,14 +855,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 09:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:39",
+        "eta_schleuse": "17:40",
         "eta_rueb": "13:46",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "13:46",
-      "eta_schleuse": "17:39",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "17:40",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:30"
     },
     {
@@ -962,27 +946,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Dennis",
-      "nachname": "Heyenga",
-      "name": "Dennis Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 28,
-      "fahrzeug": "SWE-FREIGHTER",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 07:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Niklas",
       "nachname": "Dalecki",
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
-      "nr": 29,
+      "nr": 28,
       "fahrzeug": "SONGA SAPPHIRE",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 06:08:00 CET 2026",
@@ -996,7 +964,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:43",
+      "eta_rueb_kiel": "19:41",
       "eta_rueb": "19:35",
       "ship": "LADY HANNAH",
       "q_gruppe": "5",
@@ -1073,7 +1041,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "22:33",
       "eta_rueb": "22:15",
       "ship": "YASA SATURN",
       "q_gruppe": "0",
