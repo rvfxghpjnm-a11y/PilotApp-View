@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T12:28:39",
+  "generated_at": "2026-01-24T12:30:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -44,9 +44,14 @@
       "fahrzeug": "MARIELYST",
       "route": "HOS → RÜB",
       "time": "Sat Jan 24 11:25:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -60,11 +65,16 @@
       "fahrzeug": "SEELAND",
       "route": "HOS → RÜB",
       "time": "Sat Jan 24 11:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:26",
+        "eta_rueb": "16:23",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "03:53"
+      },
+      "eta_rueb": "16:23",
+      "eta_schleuse": "21:26",
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -76,11 +86,16 @@
       "fahrzeug": "FRI SKIEN",
       "route": "HOS → RÜB",
       "time": "Sat Jan 24 11:01:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": "16:17",
+        "delta_rueb_schleuse": "05:05",
+        "delta_start_rueb": "03:47"
+      },
+      "eta_rueb": "16:17",
+      "eta_schleuse": "21:22",
+      "delta_rueb_schleuse": "05:05",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -451,9 +466,14 @@
       "fahrzeug": "WILSON TWISTEDEN",
       "route": "HOR → UTG",
       "time": "Sat Jan 24 05:55:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:45",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:45",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -538,9 +558,14 @@
       "fahrzeug": "MARIELYST",
       "route": "HOS → RÜB",
       "time": "Sat Jan 24 11:25:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -554,11 +579,16 @@
       "fahrzeug": "SEELAND",
       "route": "HOS → RÜB",
       "time": "Sat Jan 24 11:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:26",
+        "eta_rueb": "16:23",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "03:53"
+      },
+      "eta_rueb": "16:23",
+      "eta_schleuse": "21:26",
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -570,11 +600,16 @@
       "fahrzeug": "FRI SKIEN",
       "route": "HOS → RÜB",
       "time": "Sat Jan 24 11:01:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": "16:17",
+        "delta_rueb_schleuse": "05:05",
+        "delta_start_rueb": "03:47"
+      },
+      "eta_rueb": "16:17",
+      "eta_schleuse": "21:22",
+      "delta_rueb_schleuse": "05:05",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
