@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T04:14:48",
+  "generated_at": "2026-01-24T04:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,9 +40,14 @@
       "fahrzeug": "MANAS",
       "route": "HOS → UTG",
       "time": "Sat Jan 24 03:08:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:01",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:01",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
