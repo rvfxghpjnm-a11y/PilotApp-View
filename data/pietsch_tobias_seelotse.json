@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T00:20:48",
+  "generated_at": "2026-01-25T00:22:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HAAFJELL",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:17",
+        "eta_rueb": "00:44",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:18"
+      },
+      "eta_rueb": "00:44",
+      "eta_schleuse": "04:17",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:18"
     },
     {
       "is_target": false,
@@ -101,14 +106,19 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAURA",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:30",
+        "eta_rueb": "00:48",
+        "delta_rueb_schleuse": "03:42",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "00:48",
+      "eta_schleuse": "04:30",
+      "delta_rueb_schleuse": "03:42",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -500,14 +510,19 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HAAFJELL",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:17",
+        "eta_rueb": "00:44",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:18"
+      },
+      "eta_rueb": "00:44",
+      "eta_schleuse": "04:17",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:18"
     },
     {
       "is_target": false,
@@ -569,14 +584,19 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAURA",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:30",
+        "eta_rueb": "00:48",
+        "delta_rueb_schleuse": "03:42",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "00:48",
+      "eta_schleuse": "04:30",
+      "delta_rueb_schleuse": "03:42",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -802,20 +822,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:44",
-      "eta_rueb": "00:39",
-      "ship": "HAAFJELL",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "00:48",
-      "eta_rueb": "00:42",
-      "ship": "LAURA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "00:51",
       "eta_rueb": "00:45",
