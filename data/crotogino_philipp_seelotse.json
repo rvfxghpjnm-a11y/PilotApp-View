@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T17:46:39",
+  "generated_at": "2026-01-25T17:48:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 1,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -72,21 +72,16 @@
       "vorname": "Tobias",
       "nachname": "Pietsch",
       "name": "Tobias Pietsch",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "SPEYK",
-      "route": "RÜB → HOS",
+      "fahrzeug": "ELBRUNNER",
+      "route": "HOS → KLT",
       "time": "Sun Jan 25 12:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:45",
-        "eta_rueb": "14:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "14:16",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -120,14 +115,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 25 12:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:47",
+        "eta_schleuse": "17:49",
         "eta_rueb": "14:01",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "14:01",
-      "eta_schleuse": "17:47",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "17:49",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:31"
     },
     {
@@ -189,14 +184,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Jan 25 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:57",
+        "eta_schleuse": "19:56",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "19:57",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:02"
     },
     {
@@ -378,27 +373,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Tobias",
-      "nachname": "Pietsch",
-      "name": "Tobias Pietsch",
-      "aufgabe": "Kanalbört",
-      "nr": 4,
-      "fahrzeug": "SPEYK",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 12:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:45",
-        "eta_rueb": "14:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "14:16",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "04:20"
-    },
-    {
-      "is_target": false,
       "vorname": "Michael",
       "nachname": "Krebs",
       "name": "Michael Krebs",
@@ -440,14 +414,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Jan 25 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:57",
+        "eta_schleuse": "19:56",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "19:57",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:02"
     },
     {
@@ -537,7 +511,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:43",
+      "eta_rueb_kiel": "18:42",
       "eta_rueb": "18:35",
       "ship": "RIX MELODY",
       "q_gruppe": "5",
@@ -562,6 +536,13 @@
       "eta_rueb": "20:35",
       "ship": "NORTHERN ROCK",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "22:49",
+      "eta_rueb": "22:30",
+      "ship": "AKACIA",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
