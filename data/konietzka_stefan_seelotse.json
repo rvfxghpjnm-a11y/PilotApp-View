@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T20:20:39",
+  "generated_at": "2026-01-25T20:22:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -96,14 +96,19 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORTHERN ROCK",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 25 19:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:28",
+        "eta_rueb": "20:48",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "05:26"
+      },
+      "eta_rueb": "20:48",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "05:26"
     },
     {
       "is_target": false,
@@ -495,14 +500,19 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORTHERN ROCK",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 25 19:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:28",
+        "eta_rueb": "20:48",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "05:26"
+      },
+      "eta_rueb": "20:48",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "05:26"
     },
     {
       "is_target": false,
@@ -713,14 +723,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:48",
-      "eta_rueb": "20:43",
-      "ship": "NORTHERN ROCK",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "22:52",
+      "eta_rueb_kiel": "22:51",
       "eta_rueb": "22:40",
       "ship": "AKACIA",
       "q_gruppe": "2",
