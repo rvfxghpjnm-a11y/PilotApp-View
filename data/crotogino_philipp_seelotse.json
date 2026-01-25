@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-25T13:30:42",
+  "generated_at": "2026-01-25T13:32:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 1,
     "see": 5
   },
@@ -83,9 +83,14 @@
       "fahrzeug": "NORDBORG",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 12:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "22:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "22:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -253,14 +258,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Jan 25 09:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:01",
+        "eta_schleuse": "20:00",
         "eta_rueb": "14:28",
-        "delta_rueb_schleuse": "05:33",
+        "delta_rueb_schleuse": "05:32",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "14:28",
-      "eta_schleuse": "20:01",
-      "delta_rueb_schleuse": "05:33",
+      "eta_schleuse": "20:00",
+      "delta_rueb_schleuse": "05:32",
       "delta_start_rueb": "03:36"
     },
     {
@@ -274,14 +279,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 09:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:57",
+        "eta_schleuse": "19:56",
         "eta_rueb": "14:21",
-        "delta_rueb_schleuse": "05:36",
+        "delta_rueb_schleuse": "05:35",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "14:21",
-      "eta_schleuse": "19:57",
-      "delta_rueb_schleuse": "05:36",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "05:35",
       "delta_start_rueb": "03:33"
     },
     {
@@ -296,14 +301,14 @@
       "time": "Sun Jan 25 09:35:00 CET 2026",
       "times": {
         "eta_schleuse": "19:53",
-        "eta_rueb": "14:34",
-        "delta_rueb_schleuse": "05:19",
-        "delta_start_rueb": "03:52"
+        "eta_rueb": "14:33",
+        "delta_rueb_schleuse": "05:20",
+        "delta_start_rueb": "03:51"
       },
-      "eta_rueb": "14:34",
+      "eta_rueb": "14:33",
       "eta_schleuse": "19:53",
-      "delta_rueb_schleuse": "05:19",
-      "delta_start_rueb": "03:52"
+      "delta_rueb_schleuse": "05:20",
+      "delta_start_rueb": "03:51"
     },
     {
       "is_target": false,
@@ -410,22 +415,6 @@
       "eta_schleuse": "17:37",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:11"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "name": "Sören Engler",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "THUN RESOURCE",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 02:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -503,9 +492,14 @@
       "fahrzeug": "NORDBORG",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 12:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "22:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "22:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -641,14 +635,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Jan 25 09:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:01",
+        "eta_schleuse": "20:00",
         "eta_rueb": "14:28",
-        "delta_rueb_schleuse": "05:33",
+        "delta_rueb_schleuse": "05:32",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "14:28",
-      "eta_schleuse": "20:01",
-      "delta_rueb_schleuse": "05:33",
+      "eta_schleuse": "20:00",
+      "delta_rueb_schleuse": "05:32",
       "delta_start_rueb": "03:36"
     },
     {
@@ -662,14 +656,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 09:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:57",
+        "eta_schleuse": "19:56",
         "eta_rueb": "14:21",
-        "delta_rueb_schleuse": "05:36",
+        "delta_rueb_schleuse": "05:35",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "14:21",
-      "eta_schleuse": "19:57",
-      "delta_rueb_schleuse": "05:36",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "05:35",
       "delta_start_rueb": "03:33"
     },
     {
@@ -684,14 +678,14 @@
       "time": "Sun Jan 25 09:35:00 CET 2026",
       "times": {
         "eta_schleuse": "19:53",
-        "eta_rueb": "14:34",
-        "delta_rueb_schleuse": "05:19",
-        "delta_start_rueb": "03:52"
+        "eta_rueb": "14:33",
+        "delta_rueb_schleuse": "05:20",
+        "delta_start_rueb": "03:51"
       },
-      "eta_rueb": "14:34",
+      "eta_rueb": "14:33",
       "eta_schleuse": "19:53",
-      "delta_rueb_schleuse": "05:19",
-      "delta_start_rueb": "03:52"
+      "delta_rueb_schleuse": "05:20",
+      "delta_start_rueb": "03:51"
     },
     {
       "is_target": false,
@@ -734,22 +728,6 @@
       "eta_schleuse": "17:37",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:11"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "name": "Sören Engler",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "THUN RESOURCE",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 02:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -769,15 +747,15 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:15",
-      "eta_rueb": "14:20",
+      "eta_rueb_kiel": "14:14",
+      "eta_rueb": "14:13",
       "ship": "SPEYK",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "14:30",
+      "eta_rueb": "14:15",
       "ship": "EMS POWER+EMS PONTON10+BOESCH",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
@@ -790,7 +768,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:39",
+      "eta_rueb_kiel": "16:38",
       "eta_rueb": "17:00",
       "ship": "SONGA PEARL",
       "q_gruppe": "2",
