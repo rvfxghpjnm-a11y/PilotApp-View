@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T18:14:39",
+  "generated_at": "2026-01-25T18:16:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -170,14 +170,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX MELODY",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 25 12:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:16",
+        "eta_rueb": "18:41",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:25"
+      },
+      "eta_rueb": "18:41",
+      "eta_schleuse": "22:16",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -191,14 +196,14 @@
       "time": "Sun Jan 25 12:08:00 CET 2026",
       "times": {
         "eta_schleuse": "22:13",
-        "eta_rueb": "18:39",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:25"
+        "eta_rueb": "18:38",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": "18:39",
+      "eta_rueb": "18:38",
       "eta_schleuse": "22:13",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:25"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -227,14 +232,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Jan 25 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:56",
+        "eta_schleuse": "19:55",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "19:56",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:55",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:02"
     },
     {
@@ -248,14 +253,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 25 11:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:09",
+        "eta_schleuse": "22:08",
         "eta_rueb": "18:34",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "18:34",
-      "eta_schleuse": "22:09",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "22:08",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:24"
     },
     {
@@ -410,14 +415,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX MELODY",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 25 12:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:16",
+        "eta_rueb": "18:41",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:25"
+      },
+      "eta_rueb": "18:41",
+      "eta_schleuse": "22:16",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -431,14 +441,14 @@
       "time": "Sun Jan 25 12:08:00 CET 2026",
       "times": {
         "eta_schleuse": "22:13",
-        "eta_rueb": "18:39",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:25"
+        "eta_rueb": "18:38",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": "18:39",
+      "eta_rueb": "18:38",
       "eta_schleuse": "22:13",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:25"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -451,14 +461,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Jan 25 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:56",
+        "eta_schleuse": "19:55",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "19:56",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:55",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:02"
     },
     {
@@ -472,14 +482,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 25 11:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:09",
+        "eta_schleuse": "22:08",
         "eta_rueb": "18:34",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "18:34",
-      "eta_schleuse": "22:09",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "22:08",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:24"
     },
     {
@@ -506,13 +516,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "18:42",
-      "eta_rueb": "18:35",
-      "ship": "RIX MELODY",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "19:34",
       "eta_rueb": "19:30",
