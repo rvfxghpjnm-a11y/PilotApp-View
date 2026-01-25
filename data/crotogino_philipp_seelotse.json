@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T21:28:47",
+  "generated_at": "2026-01-25T21:30:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,14 +68,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:26",
+        "eta_schleuse": "05:56",
         "eta_rueb": "00:59",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "00:59",
-      "eta_schleuse": "05:26",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "05:56",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:09"
     },
     {
@@ -323,8 +323,8 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Seebört",
       "nr": 18,
-      "fahrzeug": "MERSEY",
-      "route": "KLT → OUH",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Jan 25 12:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -339,8 +339,8 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Seebört",
       "nr": 19,
-      "fahrzeug": "REGINA SEAWAYS",
-      "route": "KLT → OUH",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Jan 25 12:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -440,14 +440,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:26",
+        "eta_schleuse": "05:56",
         "eta_rueb": "00:59",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "00:59",
-      "eta_schleuse": "05:26",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "05:56",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:09"
     },
     {
@@ -682,7 +682,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:46",
+      "eta_rueb_kiel": "22:44",
       "eta_rueb": "22:35",
       "ship": "AKACIA",
       "q_gruppe": "2",
