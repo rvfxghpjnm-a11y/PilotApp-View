@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T03:50:47",
+  "generated_at": "2026-01-25T03:52:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 12,
     "wach": 2,
-    "see": 8
+    "see": 12
   },
   "times": null,
   "lotsen": [
@@ -151,10 +151,10 @@
       "vorname": "Alexander",
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "HAAFJELL",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Jan 24 23:15:00 CET 2026",
       "times": {
         "eta_schleuse": "04:35",
@@ -172,10 +172,10 @@
       "vorname": "Jonas",
       "nachname": "Krämer",
       "name": "Jonas Krämer",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "ECHO ELISA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Jan 24 23:15:00 CET 2026",
       "times": {
         "eta_schleuse": "04:32",
@@ -190,13 +190,34 @@
     },
     {
       "is_target": false,
+      "vorname": "Sebastian",
+      "nachname": "Lüttge",
+      "name": "Sebastian Lüttge",
+      "aufgabe": "Seebört",
+      "nr": 10,
+      "fahrzeug": "LAURA",
+      "route": "HOS → KLT",
+      "time": "Sat Jan 24 23:15:00 CET 2026",
+      "times": {
+        "eta_schleuse": "04:39",
+        "eta_rueb": "00:47",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "00:47",
+      "eta_schleuse": "04:39",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "04:49"
+    },
+    {
+      "is_target": false,
       "vorname": "Alexander",
       "nachname": "Migge",
       "name": "Alexander Migge",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
+      "aufgabe": "Seebört",
+      "nr": 11,
       "fahrzeug": "CONTAINERSHIPS AURORA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Jan 24 23:15:00 CET 2026",
       "times": {
         "eta_schleuse": "04:47",
@@ -215,7 +236,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 12,
       "fahrzeug": "FWN SPIRIT",
       "route": "RÜB → UTG",
       "time": "Sat Jan 24 23:15:00 CET 2026",
@@ -229,27 +250,6 @@
       "eta_schleuse": "04:39",
       "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "LAURA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:39",
-        "eta_rueb": "00:47",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "04:49"
-      },
-      "eta_rueb": "00:47",
-      "eta_schleuse": "04:39",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -594,74 +594,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "HAAFJELL",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:35",
-        "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "00:43",
-      "eta_schleuse": "04:35",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "05:17"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jonas",
-      "nachname": "Krämer",
-      "name": "Jonas Krämer",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "ECHO ELISA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:32",
-        "eta_rueb": "00:39",
-        "delta_rueb_schleuse": "03:53",
-        "delta_start_rueb": "05:23"
-      },
-      "eta_rueb": "00:39",
-      "eta_schleuse": "04:32",
-      "delta_rueb_schleuse": "03:53",
-      "delta_start_rueb": "05:23"
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Migge",
-      "name": "Alexander Migge",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "CONTAINERSHIPS AURORA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:47",
-        "eta_rueb": "00:57",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "05:01"
-      },
-      "eta_rueb": "00:57",
-      "eta_schleuse": "04:47",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "05:01"
-    },
-    {
-      "is_target": false,
       "vorname": "Marius Paul",
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 12,
       "fahrzeug": "FWN SPIRIT",
       "route": "RÜB → UTG",
       "time": "Sat Jan 24 23:15:00 CET 2026",
@@ -675,27 +612,6 @@
       "eta_schleuse": "04:39",
       "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "LAURA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 24 23:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:39",
-        "eta_rueb": "00:47",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "04:49"
-      },
-      "eta_rueb": "00:47",
-      "eta_schleuse": "04:39",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
