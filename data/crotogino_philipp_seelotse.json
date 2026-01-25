@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T19:28:38",
+  "generated_at": "2026-01-25T19:30:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -131,9 +131,14 @@
       "fahrzeug": "TIMCA",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 18:29:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -168,9 +173,14 @@
       "fahrzeug": "WAALSTROOM",
       "route": "HOR → RÜB",
       "time": "Sun Jan 25 17:59:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -488,9 +498,14 @@
       "fahrzeug": "TIMCA",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 18:29:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -525,9 +540,14 @@
       "fahrzeug": "WAALSTROOM",
       "route": "HOR → RÜB",
       "time": "Sun Jan 25 17:59:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
