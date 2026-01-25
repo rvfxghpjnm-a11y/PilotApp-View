@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T16:34:39",
+  "generated_at": "2026-01-25T16:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -42,14 +42,14 @@
       "time": "Sun Jan 25 15:12:00 CET 2026",
       "times": {
         "eta_schleuse": "02:12",
-        "eta_rueb": "21:03",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:33"
+        "eta_rueb": "21:04",
+        "delta_rueb_schleuse": "05:08",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "21:03",
+      "eta_rueb": "21:04",
       "eta_schleuse": "02:12",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:33"
+      "delta_rueb_schleuse": "05:08",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -93,10 +93,10 @@
       "vorname": "Sven",
       "nachname": "Reimer",
       "name": "Sven Reimer",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 5,
       "fahrzeug": "SCHELDE HIGHWAY",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Jan 25 12:50:00 CET 2026",
       "times": {
         "eta_schleuse": "17:43",
@@ -387,14 +387,14 @@
       "time": "Sun Jan 25 15:12:00 CET 2026",
       "times": {
         "eta_schleuse": "02:12",
-        "eta_rueb": "21:03",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:33"
+        "eta_rueb": "21:04",
+        "delta_rueb_schleuse": "05:08",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "21:03",
+      "eta_rueb": "21:04",
       "eta_schleuse": "02:12",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:33"
+      "delta_rueb_schleuse": "05:08",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -432,27 +432,6 @@
       "eta_schleuse": "17:46",
       "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sven",
-      "nachname": "Reimer",
-      "name": "Sven Reimer",
-      "aufgabe": "Kanalbört",
-      "nr": 5,
-      "fahrzeug": "SCHELDE HIGHWAY",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 12:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:43",
-        "eta_rueb": "14:12",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:34"
-      },
-      "eta_rueb": "14:12",
-      "eta_schleuse": "17:43",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
