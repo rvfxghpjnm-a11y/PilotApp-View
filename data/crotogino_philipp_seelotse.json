@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T06:22:46",
+  "generated_at": "2026-01-25T06:24:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -117,14 +117,19 @@
       "name": "Janning Otten",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FREDO",
+      "route": "RÜB → KRH",
       "time": "Sun Jan 25 00:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:27",
+        "eta_rueb": "06:51",
+        "delta_rueb_schleuse": "00:36",
+        "delta_start_rueb": "04:21"
+      },
+      "eta_rueb": "06:51",
+      "eta_schleuse": "07:27",
+      "delta_rueb_schleuse": "00:36",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -379,14 +384,19 @@
       "name": "Janning Otten",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FREDO",
+      "route": "RÜB → KRH",
       "time": "Sun Jan 25 00:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:27",
+        "eta_rueb": "06:51",
+        "delta_rueb_schleuse": "00:36",
+        "delta_start_rueb": "04:21"
+      },
+      "eta_rueb": "06:51",
+      "eta_schleuse": "07:27",
+      "delta_rueb_schleuse": "00:36",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -470,13 +480,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "06:51",
-      "eta_rueb": "06:45",
-      "ship": "FREDO",
-      "q_gruppe": "5",
-      "route": "RÜB → KRH"
-    },
     {
       "eta_rueb_kiel": "08:34",
       "eta_rueb": "08:00",
