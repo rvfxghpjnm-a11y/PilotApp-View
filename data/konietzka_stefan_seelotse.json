@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T14:32:39",
+  "generated_at": "2026-01-25T14:34:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -311,14 +311,14 @@
       "time": "Sun Jan 25 09:35:00 CET 2026",
       "times": {
         "eta_schleuse": "19:50",
-        "eta_rueb": "14:36",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "14:37",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "14:36",
+      "eta_rueb": "14:37",
       "eta_schleuse": "19:50",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -656,14 +656,14 @@
       "time": "Sun Jan 25 09:35:00 CET 2026",
       "times": {
         "eta_schleuse": "19:50",
-        "eta_rueb": "14:36",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "14:37",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "14:36",
+      "eta_rueb": "14:37",
       "eta_schleuse": "19:50",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -718,11 +718,32 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:36",
+      "eta_rueb_kiel": "16:35",
       "eta_rueb": "16:30",
       "ship": "SONGA PEARL",
       "q_gruppe": "2",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "18:45",
+      "eta_rueb": "18:30",
+      "ship": "OSTBORG",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "18:49",
+      "eta_rueb": "18:33",
+      "ship": "VAASABORG",
+      "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "18:52",
+      "eta_rueb": "18:35",
+      "ship": "RIX MELODY",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
