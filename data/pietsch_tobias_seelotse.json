@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T05:12:46",
+  "generated_at": "2026-01-25T05:14:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 2,
-    "see": 9
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -100,14 +100,14 @@
       "time": "Sun Jan 25 00:26:00 CET 2026",
       "times": {
         "eta_schleuse": "10:30",
-        "eta_rueb": "06:03",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "06:02",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "06:03",
+      "eta_rueb": "06:02",
       "eta_schleuse": "10:30",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -249,8 +249,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON FLEX IV",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 21:22:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -291,46 +291,14 @@
       "time": "Sat Jan 24 21:06:00 CET 2026",
       "times": {
         "eta_schleuse": "09:15",
-        "eta_rueb": "05:16",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "06:00"
+        "eta_rueb": "05:15",
+        "delta_rueb_schleuse": "04:00",
+        "delta_start_rueb": "05:59"
       },
-      "eta_rueb": "05:16",
+      "eta_rueb": "05:15",
       "eta_schleuse": "09:15",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "06:00"
-    },
-    {
-      "is_target": false,
-      "vorname": "Klaus",
-      "nachname": "Eidenschink",
-      "name": "Klaus Eidenschink",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sat Jan 24 21:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Knut Paul",
-      "nachname": "Klüver",
-      "name": "Knut Paul Klüver",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sat Jan 24 21:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:00",
+      "delta_start_rueb": "05:59"
     },
     {
       "is_target": false,
@@ -338,7 +306,7 @@
       "nachname": "Heeren",
       "name": "Rainer Heeren",
       "aufgabe": "Wachgänger",
-      "nr": 19,
+      "nr": 17,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sat Jan 24 20:00:00 CET 2026",
@@ -354,7 +322,7 @@
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Wachgänger",
-      "nr": 20,
+      "nr": 18,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sat Jan 24 20:00:00 CET 2026",
@@ -370,7 +338,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 19,
       "fahrzeug": "KEY NORTH",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 19:51:00 CET 2026",
@@ -462,14 +430,14 @@
       "time": "Sun Jan 25 00:26:00 CET 2026",
       "times": {
         "eta_schleuse": "10:30",
-        "eta_rueb": "06:03",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "06:02",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "06:03",
+      "eta_rueb": "06:02",
       "eta_schleuse": "10:30",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -515,8 +483,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON FLEX IV",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 24 21:22:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -557,14 +525,14 @@
       "time": "Sat Jan 24 21:06:00 CET 2026",
       "times": {
         "eta_schleuse": "09:15",
-        "eta_rueb": "05:16",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "06:00"
+        "eta_rueb": "05:15",
+        "delta_rueb_schleuse": "04:00",
+        "delta_start_rueb": "05:59"
       },
-      "eta_rueb": "05:16",
+      "eta_rueb": "05:15",
       "eta_schleuse": "09:15",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "06:00"
+      "delta_rueb_schleuse": "04:00",
+      "delta_start_rueb": "05:59"
     },
     {
       "is_target": false,
@@ -572,7 +540,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 19,
       "fahrzeug": "KEY NORTH",
       "route": "RÜB → HOS",
       "time": "Sat Jan 24 19:51:00 CET 2026",
@@ -590,13 +558,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "05:08",
-      "ship": "WILSON FLEX IV",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:54",
       "eta_rueb": "06:45",
