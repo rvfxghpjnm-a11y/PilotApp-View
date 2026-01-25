@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T10:40:45",
+  "generated_at": "2026-01-25T10:42:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,9 +99,14 @@
       "fahrzeug": "KEY STREAM",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 09:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:10",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:10",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -144,8 +149,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "IDA RAMBOW",
-      "route": "HOS → KLT",
+      "fahrzeug": "GIOCONDA",
+      "route": "KLT → HOS",
       "time": "Sun Jan 25 08:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -446,9 +451,14 @@
       "fahrzeug": "KEY STREAM",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 09:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:10",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:10",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -575,7 +585,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:30",
+      "eta_rueb_kiel": "13:29",
       "eta_rueb": "14:00",
       "ship": "ELBRUNNER",
       "q_gruppe": "2",
