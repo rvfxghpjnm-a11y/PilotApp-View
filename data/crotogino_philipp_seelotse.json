@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T01:02:46",
+  "generated_at": "2026-01-25T01:04:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -407,14 +407,14 @@
       "time": "Sat Jan 24 19:51:00 CET 2026",
       "times": {
         "eta_schleuse": "06:35",
-        "eta_rueb": "01:11",
-        "delta_rueb_schleuse": "05:24",
-        "delta_start_rueb": "04:07"
+        "eta_rueb": "01:14",
+        "delta_rueb_schleuse": "05:21",
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "01:11",
+      "eta_rueb": "01:14",
       "eta_schleuse": "06:35",
-      "delta_rueb_schleuse": "05:24",
-      "delta_start_rueb": "04:07"
+      "delta_rueb_schleuse": "05:21",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -863,14 +863,14 @@
       "time": "Sat Jan 24 19:51:00 CET 2026",
       "times": {
         "eta_schleuse": "06:35",
-        "eta_rueb": "01:11",
-        "delta_rueb_schleuse": "05:24",
-        "delta_start_rueb": "04:07"
+        "eta_rueb": "01:14",
+        "delta_rueb_schleuse": "05:21",
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "01:11",
+      "eta_rueb": "01:14",
       "eta_schleuse": "06:35",
-      "delta_rueb_schleuse": "05:24",
-      "delta_start_rueb": "04:07"
+      "delta_rueb_schleuse": "05:21",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -939,16 +939,23 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:26",
+      "eta_rueb_kiel": "05:25",
       "eta_rueb": "05:00",
       "ship": "KEY NORTH",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:32",
+      "eta_rueb_kiel": "05:33",
       "eta_rueb": "05:05",
       "ship": "ALANA",
+      "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:36",
+      "eta_rueb": "05:08",
+      "ship": "IDA RAMBOW",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
