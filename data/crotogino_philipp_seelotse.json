@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T10:46:40",
+  "generated_at": "2026-01-25T10:48:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "TARA POLAR STATION",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 09:36:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -419,9 +424,14 @@
       "fahrzeug": "TARA POLAR STATION",
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 09:36:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
