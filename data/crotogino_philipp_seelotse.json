@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T16:46:43",
+  "generated_at": "2026-01-25T16:48:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -56,10 +56,10 @@
       "vorname": "Carsten",
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 3,
       "fahrzeug": "EMS POWER+EMS PONTON10+BOESCH",
-      "route": "RÜB → HOS",
+      "route": "HOS → LDW",
       "time": "Sun Jan 25 12:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -194,14 +194,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Jan 25 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:58",
+        "eta_schleuse": "19:56",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "19:58",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:02"
     },
     {
@@ -393,22 +393,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Bachholz",
-      "name": "Carsten Bachholz",
-      "aufgabe": "Kanalbört",
-      "nr": 3,
-      "fahrzeug": "EMS POWER+EMS PONTON10+BOESCH",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 12:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Tobias",
       "nachname": "Pietsch",
       "name": "Tobias Pietsch",
@@ -476,14 +460,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Jan 25 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:58",
+        "eta_schleuse": "19:56",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "19:58",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:02"
     },
     {
@@ -569,21 +553,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:39",
+      "eta_rueb_kiel": "18:40",
       "eta_rueb": "18:30",
       "ship": "OSTBORG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:42",
+      "eta_rueb_kiel": "18:44",
       "eta_rueb": "18:33",
       "ship": "VAASABORG",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:45",
+      "eta_rueb_kiel": "18:47",
       "eta_rueb": "18:35",
       "ship": "RIX MELODY",
       "q_gruppe": "5",
