@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T07:40:46",
+  "generated_at": "2026-01-25T07:42:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -122,8 +122,8 @@
       "name": "Helge Buch",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "TARA POLAR STATION",
+      "route": "KLT → HOS",
       "time": "Sun Jan 25 05:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -210,11 +210,16 @@
       "fahrzeug": "PHANTOM",
       "route": "KRH → RÜB",
       "time": "Sun Jan 25 00:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "12:11",
+        "delta_rueb_schleuse": "2286318:35",
+        "delta_start_rueb": "19:31"
+      },
+      "eta_rueb": "12:11",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2286318:35",
+      "delta_start_rueb": "19:31"
     },
     {
       "is_target": false,
@@ -408,11 +413,16 @@
       "fahrzeug": "PHANTOM",
       "route": "KRH → RÜB",
       "time": "Sun Jan 25 00:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "12:11",
+        "delta_rueb_schleuse": "2286318:35",
+        "delta_start_rueb": "19:31"
+      },
+      "eta_rueb": "12:11",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2286318:35",
+      "delta_start_rueb": "19:31"
     },
     {
       "is_target": false,
@@ -534,14 +544,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:37",
+      "eta_rueb_kiel": "11:36",
       "eta_rueb": "12:15",
       "ship": "LAGANBORG",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:40",
+      "eta_rueb_kiel": "11:39",
       "eta_rueb": "12:17",
       "ship": "KLARA",
       "q_gruppe": "4",
