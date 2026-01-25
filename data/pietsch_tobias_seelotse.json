@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T07:34:44",
+  "generated_at": "2026-01-25T07:36:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -33,7 +33,7 @@
       "aufgabe": "Seebört",
       "nr": 2,
       "fahrzeug": "FWN SPIRIT",
-      "route": "UTG → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Jan 25 07:20:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -54,7 +54,7 @@
       "aufgabe": "Seebört",
       "nr": 3,
       "fahrzeug": "FWN SKY",
-      "route": "UTG → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Jan 25 07:20:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -158,15 +158,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 02:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:15",
-        "eta_rueb": "07:48",
+        "eta_schleuse": "12:14",
+        "eta_rueb": "07:47",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "07:48",
-      "eta_schleuse": "12:15",
+      "eta_rueb": "07:47",
+      "eta_schleuse": "12:14",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -226,16 +226,11 @@
       "fahrzeug": "FREDO",
       "route": "RÜB → KRH",
       "time": "Sun Jan 25 00:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "07:33",
-        "eta_rueb": "06:50",
-        "delta_rueb_schleuse": "00:43",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "06:50",
-      "eta_schleuse": "07:33",
-      "delta_rueb_schleuse": "00:43",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -361,15 +356,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 25 02:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:15",
-        "eta_rueb": "07:48",
+        "eta_schleuse": "12:14",
+        "eta_rueb": "07:47",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "07:48",
-      "eta_schleuse": "12:15",
+      "eta_rueb": "07:47",
+      "eta_schleuse": "12:14",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -429,16 +424,11 @@
       "fahrzeug": "FREDO",
       "route": "RÜB → KRH",
       "time": "Sun Jan 25 00:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "07:33",
-        "eta_rueb": "06:50",
-        "delta_rueb_schleuse": "00:43",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "06:50",
-      "eta_schleuse": "07:33",
-      "delta_rueb_schleuse": "00:43",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
