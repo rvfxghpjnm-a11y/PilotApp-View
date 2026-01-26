@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T20:44:46",
+  "generated_at": "2026-01-26T20:46:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -215,16 +215,11 @@
       "fahrzeug": "ORALYNN",
       "route": "HOS → KLT",
       "time": "Mon Jan 26 15:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:43",
-        "eta_rueb": "16:36",
-        "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "16:36",
-      "eta_schleuse": "20:43",
-      "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "04:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -543,7 +538,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:54",
+      "eta_rueb_kiel": "00:55",
       "eta_rueb": "01:00",
       "ship": "PALMBORG",
       "q_gruppe": "5",
@@ -557,7 +552,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:17",
+      "eta_rueb_kiel": "23:16",
       "eta_rueb": "23:30",
       "ship": "CORAL ENERGICE",
       "q_gruppe": "1",
