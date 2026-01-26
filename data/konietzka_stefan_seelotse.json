@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T20:26:47",
+  "generated_at": "2026-01-26T20:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "NECKARBORG",
+      "route": "KLT → HOS",
       "time": "Mon Jan 26 17:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -153,14 +153,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 16:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:37",
+        "eta_schleuse": "02:39",
         "eta_rueb": "21:28",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:11",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "21:28",
-      "eta_schleuse": "02:37",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "02:39",
+      "delta_rueb_schleuse": "05:11",
       "delta_start_rueb": "03:40"
     },
     {
@@ -382,14 +382,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 16:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:37",
+        "eta_schleuse": "02:39",
         "eta_rueb": "21:28",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:11",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "21:28",
-      "eta_schleuse": "02:37",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "02:39",
+      "delta_rueb_schleuse": "05:11",
       "delta_start_rueb": "03:40"
     },
     {
@@ -523,7 +523,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:28",
+      "eta_rueb_kiel": "01:30",
       "eta_rueb": "01:30",
       "ship": "MISJE LOTUS",
       "q_gruppe": "4",
@@ -544,14 +544,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:16",
+      "eta_rueb_kiel": "23:17",
       "eta_rueb": "23:30",
       "ship": "CORAL ENERGICE",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:22",
+      "eta_rueb_kiel": "23:24",
       "eta_rueb": "23:33",
       "ship": "TEAL ARROW",
       "q_gruppe": "0",
