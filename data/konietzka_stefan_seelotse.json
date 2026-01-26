@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T06:58:46",
+  "generated_at": "2026-01-26T07:00:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "XING HAI WAN",
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 06:11:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -249,9 +254,14 @@
       "fahrzeug": "XING HAI WAN",
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 06:11:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -350,7 +360,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:50",
+      "eta_rueb_kiel": "08:49",
       "eta_rueb": "08:33",
       "ship": "ECHO PETRA",
       "q_gruppe": "5",
