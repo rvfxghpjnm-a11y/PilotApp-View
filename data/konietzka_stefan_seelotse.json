@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T12:40:48",
+  "generated_at": "2026-01-26T12:42:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,14 +85,14 @@
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
         "eta_schleuse": "20:06",
-        "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "03:36"
+        "eta_rueb": "15:15",
+        "delta_rueb_schleuse": "04:51",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "15:16",
+      "eta_rueb": "15:15",
       "eta_schleuse": "20:06",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "03:36"
+      "delta_rueb_schleuse": "04:51",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -181,8 +181,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "PEAK BELFAST",
+      "route": "KLT → HOS",
       "time": "Mon Jan 26 07:38:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -284,14 +284,14 @@
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
         "eta_schleuse": "20:06",
-        "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "03:36"
+        "eta_rueb": "15:15",
+        "delta_rueb_schleuse": "04:51",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "15:16",
+      "eta_rueb": "15:15",
       "eta_schleuse": "20:06",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "03:36"
+      "delta_rueb_schleuse": "04:51",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -344,16 +344,23 @@
     },
     {
       "eta_rueb_kiel": "16:52",
-      "eta_rueb": "16:30",
+      "eta_rueb": "16:40",
       "ship": "ORALYNN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:01",
+      "eta_rueb_kiel": "17:00",
       "eta_rueb": "16:45",
       "ship": "LOLLAND",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:50",
+      "ship": "VESTVIND",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
