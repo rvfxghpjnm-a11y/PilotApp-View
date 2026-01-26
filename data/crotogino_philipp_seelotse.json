@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T16:16:48",
+  "generated_at": "2026-01-26T16:18:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VESTVIND",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 15:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:05",
+        "eta_rueb": "16:51",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "04:13"
+      },
+      "eta_rueb": "16:51",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -348,17 +353,12 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "LAURIERBORG",
-      "route": "KRH → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 07:53:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:41",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "20:41",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -387,14 +387,19 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VESTVIND",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 15:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:05",
+        "eta_rueb": "16:51",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "04:13"
+      },
+      "eta_rueb": "16:51",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -655,37 +660,18 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "LAURIERBORG",
-      "route": "KRH → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 07:53:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:41",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "20:41",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "16:15",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "16:51",
-      "eta_rueb": "16:50",
-      "ship": "VESTVIND",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "18:27",
       "eta_rueb": "19:12",
