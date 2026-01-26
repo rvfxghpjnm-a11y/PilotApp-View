@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T12:06:45",
+  "generated_at": "2026-01-26T12:08:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -190,14 +190,14 @@
       "route": "HOS → KLT",
       "time": "Mon Jan 26 07:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:07",
+        "eta_schleuse": "12:08",
         "eta_rueb": "08:44",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "08:44",
-      "eta_schleuse": "12:07",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "12:08",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "05:50"
     },
     {
@@ -422,5 +422,13 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": []
+  "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:20",
+      "ship": "HBC ACHIEVER",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    }
+  ]
 }
