@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T14:14:48",
+  "generated_at": "2026-01-26T14:16:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "BALTIC SHARK",
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 12:37:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "22:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "22:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -194,9 +199,14 @@
       "fahrzeug": "BALTIC SHARK",
       "route": "KLT → HOS",
       "time": "Mon Jan 26 09:20:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "22:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "22:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -340,9 +350,14 @@
       "fahrzeug": "BALTIC SHARK",
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 12:37:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "22:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "22:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
