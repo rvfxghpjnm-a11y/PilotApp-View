@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T22:12:46",
+  "generated_at": "2026-01-26T22:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -176,8 +176,8 @@
       "name": "Johannes Röhrs",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "CL FLANDERS",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Jan 26 17:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -213,14 +213,19 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SCA OBBOLA",
+      "route": "HOS → KLT",
       "time": "Mon Jan 26 17:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:32",
+        "eta_rueb": "18:54",
+        "delta_rueb_schleuse": "03:38",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "18:54",
+      "eta_schleuse": "22:32",
+      "delta_rueb_schleuse": "03:38",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -277,8 +282,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "ORALYNN",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Jan 26 15:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -572,7 +577,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:01",
+      "eta_rueb_kiel": "00:59",
       "eta_rueb": "00:55",
       "ship": "PALMBORG",
       "q_gruppe": "5",
