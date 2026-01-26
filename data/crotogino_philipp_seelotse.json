@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T12:38:47",
+  "generated_at": "2026-01-26T12:40:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,14 +84,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:08",
+        "eta_schleuse": "20:06",
         "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:52",
+        "delta_rueb_schleuse": "04:50",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "15:16",
-      "eta_schleuse": "20:08",
-      "delta_rueb_schleuse": "04:52",
+      "eta_schleuse": "20:06",
+      "delta_rueb_schleuse": "04:50",
       "delta_start_rueb": "03:36"
     },
     {
@@ -181,8 +181,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Jan 26 07:38:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -283,14 +283,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:08",
+        "eta_schleuse": "20:06",
         "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:52",
+        "delta_rueb_schleuse": "04:50",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "15:16",
-      "eta_schleuse": "20:08",
-      "delta_rueb_schleuse": "04:52",
+      "eta_schleuse": "20:06",
+      "delta_rueb_schleuse": "04:50",
       "delta_start_rueb": "03:36"
     },
     {
@@ -329,21 +329,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "16:29",
       "eta_rueb": "16:20",
       "ship": "HBC ACHIEVER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:35",
+      "eta_rueb_kiel": "16:34",
       "eta_rueb": "16:25",
       "ship": "CL FLANDERS",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:55",
+      "eta_rueb_kiel": "16:52",
       "eta_rueb": "16:30",
       "ship": "ORALYNN",
       "q_gruppe": "4",
