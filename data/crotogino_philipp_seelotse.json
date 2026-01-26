@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T12:10:48",
+  "generated_at": "2026-01-26T12:12:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -189,16 +189,11 @@
       "fahrzeug": "ECHO PETRA",
       "route": "HOS → KLT",
       "time": "Mon Jan 26 07:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "12:10",
-        "eta_rueb": "08:44",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "05:50"
-      },
-      "eta_rueb": "08:44",
-      "eta_schleuse": "12:10",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "05:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -431,7 +426,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:34",
+      "eta_rueb_kiel": "16:36",
       "eta_rueb": "16:25",
       "ship": "CL FLANDERS",
       "q_gruppe": "5",
