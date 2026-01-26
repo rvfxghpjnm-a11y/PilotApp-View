@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T20:46:48",
+  "generated_at": "2026-01-26T20:48:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,16 +99,11 @@
       "fahrzeug": "CL FLANDERS",
       "route": "HOS → KLT",
       "time": "Mon Jan 26 17:47:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:40",
-        "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:23",
-      "eta_schleuse": "20:40",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -347,16 +342,11 @@
       "fahrzeug": "CL FLANDERS",
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 10:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:40",
-        "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:23",
-      "eta_schleuse": "20:40",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -523,29 +513,24 @@
       "fahrzeug": "CL FLANDERS",
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 10:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:40",
-        "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:23",
-      "eta_schleuse": "20:40",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:55",
+      "eta_rueb_kiel": "00:57",
       "eta_rueb": "01:00",
       "ship": "PALMBORG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:27",
+      "eta_rueb_kiel": "01:26",
       "eta_rueb": "01:30",
       "ship": "MISJE LOTUS",
       "q_gruppe": "4",
