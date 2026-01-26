@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T13:42:48",
+  "generated_at": "2026-01-26T13:44:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -239,8 +239,8 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "ECHO PETRA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Jan 26 07:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -413,14 +413,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:27",
+      "eta_rueb_kiel": "16:26",
       "eta_rueb": "16:20",
       "ship": "HBC ACHIEVER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:32",
+      "eta_rueb_kiel": "16:31",
       "eta_rueb": "16:25",
       "ship": "CL FLANDERS",
       "q_gruppe": "5",
@@ -434,16 +434,23 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:57",
+      "eta_rueb_kiel": "16:56",
       "eta_rueb": "16:45",
       "ship": "LOLLAND",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:05",
+      "eta_rueb_kiel": "17:04",
       "eta_rueb": "16:50",
       "ship": "VESTVIND",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:11",
+      "eta_rueb": "19:15",
+      "ship": "SCA OBBOLA",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
