@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T09:04:47",
+  "generated_at": "2026-01-26T09:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "MARJATTA",
       "route": "HOR → RÜB",
       "time": "Mon Jan 26 07:53:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:09",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -285,9 +290,14 @@
       "fahrzeug": "MARJATTA",
       "route": "HOR → RÜB",
       "time": "Mon Jan 26 07:53:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:09",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
