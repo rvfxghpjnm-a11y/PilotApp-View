@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T20:08:48",
+  "generated_at": "2026-01-26T20:10:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -133,8 +133,8 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "AMIKO",
+      "route": "KLT → HOS",
       "time": "Mon Jan 26 17:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -195,14 +195,14 @@
       "route": "HOS → KLT",
       "time": "Mon Jan 26 15:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:52",
+        "eta_schleuse": "20:51",
         "eta_rueb": "16:44",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "16:44",
-      "eta_schleuse": "20:52",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "20:51",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:12"
     },
     {
@@ -537,7 +537,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:06",
+      "eta_rueb_kiel": "21:05",
       "eta_rueb": "21:20",
       "ship": "MARBURG",
       "q_gruppe": "1",
