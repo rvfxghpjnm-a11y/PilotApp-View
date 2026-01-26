@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T11:36:48",
+  "generated_at": "2026-01-26T11:38:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -191,8 +191,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 06:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -207,8 +207,8 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 06:39:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -239,8 +239,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 06:11:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -326,8 +326,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 06:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -342,8 +342,8 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 06:39:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -358,8 +358,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 06:11:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -369,13 +369,5 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "11:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    }
-  ]
+  "ruesterbergen": []
 }
