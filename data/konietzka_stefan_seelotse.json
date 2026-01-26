@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T20:06:48",
+  "generated_at": "2026-01-26T20:08:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
     "wach": 1,
-    "see": 10
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -100,14 +100,14 @@
       "route": "HOS → KLT",
       "time": "Mon Jan 26 17:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:42",
+        "eta_schleuse": "20:41",
         "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:23",
-      "eta_schleuse": "20:42",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "20:41",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "04:17"
     },
     {
@@ -334,39 +334,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Hartmut",
-      "nachname": "Köller",
-      "name": "Hartmut Köller",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Mon Jan 26 11:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Stefan",
       "nachname": "Bruhn",
       "name": "Stefan Bruhn",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "CL FLANDERS",
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:42",
+        "eta_schleuse": "20:41",
         "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:23",
-      "eta_schleuse": "20:42",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "20:41",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "04:17"
     }
   ],
@@ -520,26 +504,26 @@
       "nachname": "Bruhn",
       "name": "Stefan Bruhn",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "CL FLANDERS",
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:42",
+        "eta_schleuse": "20:41",
         "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:23",
-      "eta_schleuse": "20:42",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "20:41",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "04:17"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:25",
+      "eta_rueb_kiel": "01:27",
       "eta_rueb": "01:30",
       "ship": "MISJE LOTUS",
       "q_gruppe": "4",
