@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T12:28:48",
+  "generated_at": "2026-01-26T12:30:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,14 +68,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:11",
+        "eta_schleuse": "20:08",
         "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:55",
+        "delta_rueb_schleuse": "04:52",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "15:16",
-      "eta_schleuse": "20:11",
-      "delta_rueb_schleuse": "04:55",
+      "eta_schleuse": "20:08",
+      "delta_rueb_schleuse": "04:52",
       "delta_start_rueb": "03:36"
     },
     {
@@ -133,8 +133,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EN AVANT 1 + BARGE 6615-1 + STEUERSCHLEPPER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Jan 26 07:57:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -149,19 +149,14 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "MARJATTA",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Jan 26 07:53:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:59",
-        "eta_rueb": "12:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
-      },
-      "eta_rueb": "12:32",
-      "eta_schleuse": "16:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -256,14 +251,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:11",
+        "eta_schleuse": "20:08",
         "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:55",
+        "delta_rueb_schleuse": "04:52",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "15:16",
-      "eta_schleuse": "20:11",
-      "delta_rueb_schleuse": "04:55",
+      "eta_schleuse": "20:08",
+      "delta_rueb_schleuse": "04:52",
       "delta_start_rueb": "03:36"
     },
     {
@@ -273,8 +268,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EN AVANT 1 + BARGE 6615-1 + STEUERSCHLEPPER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Jan 26 07:57:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -289,19 +284,14 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "MARJATTA",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Jan 26 07:53:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:59",
-        "eta_rueb": "12:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
-      },
-      "eta_rueb": "12:32",
-      "eta_schleuse": "16:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -321,7 +311,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:57",
+      "eta_rueb_kiel": "16:55",
       "eta_rueb": "16:30",
       "ship": "ORALYNN",
       "q_gruppe": "4",
