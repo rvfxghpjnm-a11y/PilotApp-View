@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-26T04:56:46",
+  "generated_at": "2026-01-26T04:58:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 5,
+    "kanal": 4,
     "wach": 1,
     "see": 4
   },
@@ -157,22 +157,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Domeier",
-      "name": "Stefan Domeier",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "VAN KINSBERGEN",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 18:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -244,28 +228,12 @@
       "eta_schleuse": "08:08",
       "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:25"
-    },
-    {
-      "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Domeier",
-      "name": "Stefan Domeier",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "VAN KINSBERGEN",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 25 18:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:42",
+      "eta_rueb_kiel": "06:41",
       "eta_rueb": "06:35",
       "ship": "MARIE LEHMANN",
       "q_gruppe": "4",
@@ -286,14 +254,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:40",
+      "eta_rueb_kiel": "08:41",
       "eta_rueb": "08:30",
       "ship": "PRIMA VIKING",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:43",
+      "eta_rueb_kiel": "08:44",
       "eta_rueb": "08:33",
       "ship": "ECHO PETRA",
       "q_gruppe": "5",
