@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T13:20:49",
+  "generated_at": "2026-01-26T13:22:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "AZZARO",
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 11:38:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -298,9 +303,14 @@
       "fahrzeug": "AZZARO",
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 11:38:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
