@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T19:38:46",
+  "generated_at": "2026-01-26T19:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Klaus Eidenschink",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Jan 26 17:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -264,14 +264,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 13:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:37",
+        "eta_schleuse": "22:38",
         "eta_rueb": "18:54",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "18:54",
-      "eta_schleuse": "22:37",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "22:38",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:20"
     },
     {
@@ -514,14 +514,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 13:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:37",
+        "eta_schleuse": "22:38",
         "eta_rueb": "18:54",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "18:54",
-      "eta_schleuse": "22:37",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "22:38",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:20"
     },
     {
@@ -598,7 +598,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:08",
+      "eta_rueb_kiel": "21:07",
       "eta_rueb": "21:20",
       "ship": "MARBURG",
       "q_gruppe": "1",
