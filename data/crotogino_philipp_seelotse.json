@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T21:42:49",
+  "generated_at": "2026-01-26T21:44:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -160,8 +160,8 @@
       "name": "Klaus Eidenschink",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SCOT ISLES",
+      "route": "KLT → HOS",
       "time": "Mon Jan 26 17:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -292,14 +292,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 14:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:39",
+        "eta_schleuse": "00:38",
         "eta_rueb": "21:03",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "05:15"
       },
       "eta_rueb": "21:03",
-      "eta_schleuse": "00:39",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "00:38",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "05:15"
     },
     {
@@ -490,14 +490,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 14:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:39",
+        "eta_schleuse": "00:38",
         "eta_rueb": "21:03",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "05:15"
       },
       "eta_rueb": "21:03",
-      "eta_schleuse": "00:39",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "00:38",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "05:15"
     },
     {
@@ -581,7 +581,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:16",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "03:15",
+      "ship": "SKALAR",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "23:15",
       "eta_rueb": "23:10",
       "ship": "CORAL ENERGICE",
       "q_gruppe": "1",
