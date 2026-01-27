@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T01:56:48",
+  "generated_at": "2026-01-27T01:58:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 1,
-    "see": 3
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -126,15 +126,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 22:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:57",
-        "eta_rueb": "04:30",
+        "eta_schleuse": "08:55",
+        "eta_rueb": "04:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:12"
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "04:30",
-      "eta_schleuse": "08:57",
+      "eta_rueb": "04:28",
+      "eta_schleuse": "08:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:12"
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -147,25 +147,25 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 22:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:54",
-        "eta_rueb": "04:27",
+        "eta_schleuse": "08:52",
+        "eta_rueb": "04:25",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:09"
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "04:27",
-      "eta_schleuse": "08:54",
+      "eta_rueb": "04:25",
+      "eta_schleuse": "08:52",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:09"
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
       "vorname": "Peter",
       "nachname": "Hüpers",
       "name": "Peter Hüpers",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "TEAL ARROW",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Mon Jan 26 21:40:00 CET 2026",
       "times": {
         "eta_schleuse": "03:14",
@@ -413,15 +413,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 22:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:57",
-        "eta_rueb": "04:30",
+        "eta_schleuse": "08:55",
+        "eta_rueb": "04:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:12"
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "04:30",
-      "eta_schleuse": "08:57",
+      "eta_rueb": "04:28",
+      "eta_schleuse": "08:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:12"
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -434,36 +434,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Jan 26 22:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:54",
-        "eta_rueb": "04:27",
+        "eta_schleuse": "08:52",
+        "eta_rueb": "04:25",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:09"
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "04:27",
-      "eta_schleuse": "08:54",
+      "eta_rueb": "04:25",
+      "eta_schleuse": "08:52",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:09"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hüpers",
-      "name": "Peter Hüpers",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "TEAL ARROW",
-      "route": "RÜB → HOS",
-      "time": "Mon Jan 26 21:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "03:14",
-        "eta_rueb": "23:15",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "04:45"
-      },
-      "eta_rueb": "23:15",
-      "eta_schleuse": "03:14",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "04:45"
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
