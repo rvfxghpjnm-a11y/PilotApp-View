@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T21:44:47",
+  "generated_at": "2026-01-27T21:46:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NEULAND",
+      "route": "RÜB → KRH",
       "time": "Tue Jan 27 20:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:52",
+        "eta_rueb": "22:16",
+        "delta_rueb_schleuse": "00:36",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "22:16",
+      "eta_schleuse": "22:52",
+      "delta_rueb_schleuse": "00:36",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -163,14 +168,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 18:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:44",
+        "eta_schleuse": "04:49",
         "eta_rueb": "00:12",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "04:50"
       },
       "eta_rueb": "00:12",
-      "eta_schleuse": "04:44",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "04:49",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "04:50"
     },
     {
@@ -335,14 +340,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NEULAND",
+      "route": "RÜB → KRH",
       "time": "Tue Jan 27 20:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:52",
+        "eta_rueb": "22:16",
+        "delta_rueb_schleuse": "00:36",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "22:16",
+      "eta_schleuse": "22:52",
+      "delta_rueb_schleuse": "00:36",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -418,14 +428,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 18:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:44",
+        "eta_schleuse": "04:49",
         "eta_rueb": "00:12",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "04:50"
       },
       "eta_rueb": "00:12",
-      "eta_schleuse": "04:44",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "04:49",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "04:50"
     },
     {
@@ -542,13 +552,6 @@
       "ship": "STOLT SPRAY",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "22:16",
-      "eta_rueb": "22:13",
-      "ship": "NEULAND",
-      "q_gruppe": "5",
-      "route": "RÜB → KRH"
     },
     {
       "eta_rueb_kiel": "22:21",
