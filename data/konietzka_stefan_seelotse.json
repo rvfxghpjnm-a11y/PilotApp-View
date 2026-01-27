@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T02:18:47",
+  "generated_at": "2026-01-27T02:20:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,9 +40,14 @@
       "fahrzeug": "HEYN",
       "route": "UTG → RÜB",
       "time": "Tue Jan 27 01:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -243,8 +248,8 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 21:04:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -349,9 +354,14 @@
       "fahrzeug": "HEYN",
       "route": "UTG → RÜB",
       "time": "Tue Jan 27 01:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -499,8 +509,8 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 21:04:00 CET 2026",
       "times": null,
       "eta_rueb": null,
