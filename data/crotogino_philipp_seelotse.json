@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T04:12:46",
+  "generated_at": "2026-01-27T04:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -90,8 +90,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "JOHANNA HELENA",
+      "route": "KLT → HOS",
       "time": "Tue Jan 27 00:27:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -185,19 +185,19 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "NECKARBORG",
-      "route": "HOS → RÜB",
+      "fahrzeug": "DEO VOLENTE",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 22:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:42",
-        "eta_rueb": "04:15",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:57"
+        "eta_schleuse": "08:24",
+        "eta_rueb": "04:25",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "04:15",
-      "eta_schleuse": "08:42",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:57"
+      "eta_rueb": "04:25",
+      "eta_schleuse": "08:24",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -361,19 +361,19 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "NECKARBORG",
-      "route": "HOS → RÜB",
+      "fahrzeug": "DEO VOLENTE",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 22:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:42",
-        "eta_rueb": "04:15",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:57"
+        "eta_schleuse": "08:24",
+        "eta_rueb": "04:25",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "04:15",
-      "eta_schleuse": "08:42",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:57"
+      "eta_rueb": "04:25",
+      "eta_schleuse": "08:24",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -400,14 +400,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:25",
-      "eta_rueb": "04:20",
-      "ship": "DEO VOLENTE",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "05:13",
+      "eta_rueb_kiel": "05:12",
       "eta_rueb": "05:05",
       "ship": "NEUENFELDE",
       "q_gruppe": "2",
