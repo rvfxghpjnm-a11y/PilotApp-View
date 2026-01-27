@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T04:04:46",
+  "generated_at": "2026-01-27T04:06:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 1,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -141,10 +141,10 @@
       "vorname": "Tim",
       "nachname": "Woitanowski",
       "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "MISJE LOTUS",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Mon Jan 26 23:25:00 CET 2026",
       "times": {
         "eta_schleuse": "05:10",
@@ -332,27 +332,6 @@
       "eta_schleuse": "04:50",
       "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "07:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "MISJE LOTUS",
-      "route": "RÜB → HOS",
-      "time": "Mon Jan 26 23:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:10",
-        "eta_rueb": "01:12",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "05:24"
-      },
-      "eta_rueb": "01:12",
-      "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "05:24"
     },
     {
       "is_target": false,
