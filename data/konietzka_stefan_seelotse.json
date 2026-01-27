@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T19:36:39",
+  "generated_at": "2026-01-27T19:38:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -125,14 +125,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LUNAMAR",
+      "route": "RÜB → HOS",
       "time": "Tue Jan 27 12:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:33",
+        "eta_rueb": "20:00",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:44"
+      },
+      "eta_rueb": "20:00",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -157,14 +162,19 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW MARSH",
+      "route": "RÜB → HOS",
       "time": "Tue Jan 27 11:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:36",
+        "eta_rueb": "20:03",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "20:03",
+      "eta_schleuse": "23:36",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": true,
@@ -189,8 +199,8 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GERMANICA HAV",
+      "route": "KRH → HOS",
       "time": "Tue Jan 27 08:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -291,14 +301,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LUNAMAR",
+      "route": "RÜB → HOS",
       "time": "Tue Jan 27 12:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:33",
+        "eta_rueb": "20:00",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:44"
+      },
+      "eta_rueb": "20:00",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -323,14 +338,19 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW MARSH",
+      "route": "RÜB → HOS",
       "time": "Tue Jan 27 11:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:36",
+        "eta_rueb": "20:03",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "20:03",
+      "eta_schleuse": "23:36",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -339,8 +359,8 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GERMANICA HAV",
+      "route": "KRH → HOS",
       "time": "Tue Jan 27 08:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -393,27 +413,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "20:00",
-      "eta_rueb": "19:55",
-      "ship": "LUNAMAR",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "20:03",
-      "eta_rueb": "20:00",
-      "ship": "ARKLOW MARSH",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "20:00",
-      "ship": "GERMANICA HAV",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
-    },
     {
       "eta_rueb_kiel": "20:11",
       "eta_rueb": "20:05",
