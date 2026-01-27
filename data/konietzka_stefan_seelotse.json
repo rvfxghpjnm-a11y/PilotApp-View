@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T00:42:44",
+  "generated_at": "2026-01-28T00:44:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 1,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -51,9 +51,14 @@
       "fahrzeug": "GERDA",
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 23:32:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -168,10 +173,10 @@
       "vorname": "Malte",
       "nachname": "Krause",
       "name": "Malte Krause",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "EMS HIGHWAY",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Tue Jan 27 20:45:00 CET 2026",
       "times": {
         "eta_schleuse": "01:44",
@@ -360,9 +365,14 @@
       "fahrzeug": "GERDA",
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 23:32:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -423,27 +433,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Malte",
-      "nachname": "Krause",
-      "name": "Malte Krause",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "EMS HIGHWAY",
-      "route": "RÜB → HOS",
-      "time": "Tue Jan 27 20:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:44",
-        "eta_rueb": "22:11",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "05:31"
-      },
-      "eta_rueb": "22:11",
-      "eta_schleuse": "01:44",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "05:31"
     },
     {
       "is_target": false,
@@ -512,7 +501,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "04:10",
+      "eta_rueb_kiel": "04:09",
       "eta_rueb": "04:50",
       "ship": "SERENADA",
       "q_gruppe": "4",
