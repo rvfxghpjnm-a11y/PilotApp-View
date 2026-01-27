@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T02:46:50",
+  "generated_at": "2026-01-27T02:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -194,14 +194,14 @@
       "route": "HOS → KLT",
       "time": "Mon Jan 26 21:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:10",
+        "eta_schleuse": "03:11",
         "eta_rueb": "23:15",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "23:15",
-      "eta_schleuse": "03:10",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "03:11",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:45"
     },
     {
@@ -211,14 +211,19 @@
       "name": "Jonas Krämer",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKALAR",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 21:13:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:28",
+        "eta_rueb": "03:20",
+        "delta_rueb_schleuse": "04:08",
+        "delta_start_rueb": "05:38"
+      },
+      "eta_rueb": "03:20",
+      "eta_schleuse": "07:28",
+      "delta_rueb_schleuse": "04:08",
+      "delta_start_rueb": "05:38"
     },
     {
       "is_target": false,
@@ -467,14 +472,19 @@
       "name": "Jonas Krämer",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKALAR",
+      "route": "RÜB → HOS",
       "time": "Mon Jan 26 21:13:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:28",
+        "eta_rueb": "03:20",
+        "delta_rueb_schleuse": "04:08",
+        "delta_start_rueb": "05:38"
+      },
+      "eta_rueb": "03:20",
+      "eta_schleuse": "07:28",
+      "delta_rueb_schleuse": "04:08",
+      "delta_start_rueb": "05:38"
     },
     {
       "is_target": false,
@@ -559,13 +569,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:20",
-      "eta_rueb": "03:15",
-      "ship": "SKALAR",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:28",
       "eta_rueb": "04:20",
