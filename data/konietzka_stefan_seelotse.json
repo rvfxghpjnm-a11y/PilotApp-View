@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T15:22:39",
+  "generated_at": "2026-01-27T15:24:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -28,16 +28,11 @@
       "fahrzeug": "SAN BACCO",
       "route": "HOS → KLT",
       "time": "Tue Jan 27 14:51:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:19",
-        "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "07:36"
-      },
-      "eta_rueb": "11:02",
-      "eta_schleuse": "15:19",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "07:36"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -260,16 +255,11 @@
       "fahrzeug": "SAN BACCO",
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 04:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:19",
-        "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "07:36"
-      },
-      "eta_rueb": "11:02",
-      "eta_schleuse": "15:19",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "07:36"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -425,29 +415,24 @@
       "fahrzeug": "SAN BACCO",
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 04:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:19",
-        "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "07:36"
-      },
-      "eta_rueb": "11:02",
-      "eta_schleuse": "15:19",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "07:36"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:17",
+      "eta_rueb_kiel": "20:13",
       "eta_rueb": "19:45",
       "ship": "LUNAMAR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:20",
+      "eta_rueb_kiel": "20:16",
       "eta_rueb": "19:48",
       "ship": "ARKLOW MARSH",
       "q_gruppe": "2",
