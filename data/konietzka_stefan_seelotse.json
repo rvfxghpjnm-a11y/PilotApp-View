@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T13:54:40",
+  "generated_at": "2026-01-27T13:56:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,7 +12,7 @@
     "nr": 4
   },
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
     "see": 3
   },
@@ -71,15 +71,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 11:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:20",
-        "eta_rueb": "16:53",
+        "eta_schleuse": "21:19",
+        "eta_rueb": "16:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:27"
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "16:53",
-      "eta_schleuse": "21:20",
+      "eta_rueb": "16:52",
+      "eta_schleuse": "21:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:27"
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": true,
@@ -157,19 +157,14 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "ARABELLA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Jan 27 08:52:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:08",
-        "eta_rueb": "13:53",
-        "delta_rueb_schleuse": "05:15",
-        "delta_start_rueb": "04:07"
-      },
-      "eta_rueb": "13:53",
-      "eta_schleuse": "19:08",
-      "delta_rueb_schleuse": "05:15",
-      "delta_start_rueb": "04:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -244,22 +239,6 @@
       "eta_schleuse": "15:21",
       "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "07:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Kevin",
-      "nachname": "Koslik",
-      "name": "Kevin Koslik",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SOUTH ENABLER",
-      "route": "RÜB → HOS",
-      "time": "Tue Jan 27 00:53:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -316,15 +295,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 11:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:20",
-        "eta_rueb": "16:53",
+        "eta_schleuse": "21:19",
+        "eta_rueb": "16:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:27"
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "16:53",
-      "eta_schleuse": "21:20",
+      "eta_rueb": "16:52",
+      "eta_schleuse": "21:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:27"
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -354,19 +333,14 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "ARABELLA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Jan 27 08:52:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:08",
-        "eta_rueb": "13:53",
-        "delta_rueb_schleuse": "05:15",
-        "delta_start_rueb": "04:07"
-      },
-      "eta_rueb": "13:53",
-      "eta_schleuse": "19:08",
-      "delta_rueb_schleuse": "05:15",
-      "delta_start_rueb": "04:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -441,22 +415,6 @@
       "eta_schleuse": "15:21",
       "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "07:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Kevin",
-      "nachname": "Koslik",
-      "name": "Kevin Koslik",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SOUTH ENABLER",
-      "route": "RÜB → HOS",
-      "time": "Tue Jan 27 00:53:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
