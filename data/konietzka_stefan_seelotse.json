@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T08:22:48",
+  "generated_at": "2026-01-27T08:24:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -136,16 +136,11 @@
       "fahrzeug": "DEO VOLENTE",
       "route": "HOS → KLT",
       "time": "Tue Jan 27 04:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:21",
-        "eta_rueb": "04:25",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "04:25",
-      "eta_schleuse": "08:21",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -311,16 +306,11 @@
       "fahrzeug": "DEO VOLENTE",
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 22:59:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:21",
-        "eta_rueb": "04:25",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "04:25",
-      "eta_schleuse": "08:21",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -509,16 +499,11 @@
       "fahrzeug": "DEO VOLENTE",
       "route": "RÜB → HOS",
       "time": "Mon Jan 26 22:59:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:21",
-        "eta_rueb": "04:25",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "04:25",
-      "eta_schleuse": "08:21",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -545,7 +530,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:15",
+      "eta_rueb_kiel": "11:12",
       "eta_rueb": "11:00",
       "ship": "SAN BACCO",
       "q_gruppe": "4",
