@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T18:36:42",
+  "generated_at": "2026-01-27T18:38:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -44,9 +44,14 @@
       "fahrzeug": "LADY MARIE CHRISTINE",
       "route": "HOR → RÜB",
       "time": "Tue Jan 27 17:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:35",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:35",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -232,9 +237,14 @@
       "fahrzeug": "LADY MARIE CHRISTINE",
       "route": "HOR → RÜB",
       "time": "Tue Jan 27 17:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:35",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:35",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
