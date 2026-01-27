@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T11:18:39",
+  "generated_at": "2026-01-27T11:20:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -46,14 +46,14 @@
       "time": "Tue Jan 27 10:15:00 CET 2026",
       "times": {
         "eta_schleuse": "15:38",
-        "eta_rueb": "11:44",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "05:00"
+        "eta_rueb": "11:43",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "04:59"
       },
-      "eta_rueb": "11:44",
+      "eta_rueb": "11:43",
       "eta_schleuse": "15:38",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "05:00"
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "04:59"
     },
     {
       "is_target": false,
@@ -140,14 +140,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 08:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:14",
+        "eta_schleuse": "13:13",
         "eta_rueb": "09:48",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "09:48",
-      "eta_schleuse": "13:14",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "13:13",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:24"
     },
     {
@@ -370,14 +370,14 @@
       "time": "Tue Jan 27 10:15:00 CET 2026",
       "times": {
         "eta_schleuse": "15:38",
-        "eta_rueb": "11:44",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "05:00"
+        "eta_rueb": "11:43",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "04:59"
       },
-      "eta_rueb": "11:44",
+      "eta_rueb": "11:43",
       "eta_schleuse": "15:38",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "05:00"
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "04:59"
     },
     {
       "is_target": false,
@@ -432,14 +432,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 08:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:14",
+        "eta_schleuse": "13:13",
         "eta_rueb": "09:48",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "09:48",
-      "eta_schleuse": "13:14",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "13:13",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:24"
     },
     {
@@ -603,6 +603,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": "15:28",
+      "eta_rueb": "15:30",
+      "ship": "EKNOE",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "15:59",
       "eta_rueb": "15:40",
