@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T14:30:39",
+  "generated_at": "2026-01-27T14:32:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -30,14 +30,14 @@
       "time": "Tue Jan 27 12:36:00 CET 2026",
       "times": {
         "eta_schleuse": "21:34",
-        "eta_rueb": "17:07",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "eta_rueb": "17:06",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "17:07",
+      "eta_rueb": "17:06",
       "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -125,8 +125,8 @@
       "name": "Julian Plaisant",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Tue Jan 27 09:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -209,14 +209,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 05:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:29",
+        "eta_schleuse": "15:28",
         "eta_rueb": "11:20",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "11:20",
-      "eta_schleuse": "15:29",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "15:28",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:40"
     },
     {
@@ -230,14 +230,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 04:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:20",
+        "eta_schleuse": "15:19",
         "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "07:36"
       },
       "eta_rueb": "11:02",
-      "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "15:19",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "07:36"
     }
   ],
@@ -254,14 +254,14 @@
       "time": "Tue Jan 27 12:36:00 CET 2026",
       "times": {
         "eta_schleuse": "21:34",
-        "eta_rueb": "17:07",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "eta_rueb": "17:06",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "17:07",
+      "eta_rueb": "17:06",
       "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -385,14 +385,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 05:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:29",
+        "eta_schleuse": "15:28",
         "eta_rueb": "11:20",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "11:20",
-      "eta_schleuse": "15:29",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "15:28",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:40"
     },
     {
@@ -406,14 +406,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 04:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:20",
+        "eta_schleuse": "15:19",
         "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "07:36"
       },
       "eta_rueb": "11:02",
-      "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "15:19",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "07:36"
     }
   ],
@@ -427,7 +427,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:50",
+      "eta_rueb_kiel": "15:49",
       "eta_rueb": "15:40",
       "ship": "ELBSPRING",
       "q_gruppe": "0",
