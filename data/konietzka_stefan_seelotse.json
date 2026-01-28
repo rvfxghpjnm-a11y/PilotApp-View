@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T21:34:46",
+  "generated_at": "2026-01-28T21:36:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -17,7 +17,7 @@
       "aufgabe": "Seebört",
       "nr": 1,
       "fahrzeug": "STENHEIM",
-      "route": "UTG → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 28 21:30:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 16:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:43",
-        "eta_rueb": "22:15",
+        "eta_schleuse": "02:42",
+        "eta_rueb": "22:14",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:07"
+        "delta_start_rueb": "04:06"
       },
-      "eta_rueb": "22:15",
-      "eta_schleuse": "02:43",
+      "eta_rueb": "22:14",
+      "eta_schleuse": "02:42",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:07"
+      "delta_start_rueb": "04:06"
     },
     {
       "is_target": false,
@@ -202,15 +202,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 16:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:43",
-        "eta_rueb": "22:15",
+        "eta_schleuse": "02:42",
+        "eta_rueb": "22:14",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:07"
+        "delta_start_rueb": "04:06"
       },
-      "eta_rueb": "22:15",
-      "eta_schleuse": "02:43",
+      "eta_rueb": "22:14",
+      "eta_schleuse": "02:42",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:07"
+      "delta_start_rueb": "04:06"
     },
     {
       "is_target": false,
@@ -279,7 +279,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:19",
+      "eta_rueb_kiel": "01:18",
       "eta_rueb": "01:10",
       "ship": "AMARANTH",
       "q_gruppe": "4",
