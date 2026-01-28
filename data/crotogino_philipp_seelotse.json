@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T08:12:47",
+  "generated_at": "2026-01-28T08:14:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -112,8 +112,8 @@
       "name": "Sören Ehlers",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Jan 28 06:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -132,14 +132,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 06:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:20",
+        "eta_schleuse": "16:17",
         "eta_rueb": "11:32",
-        "delta_rueb_schleuse": "04:48",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "11:32",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "04:48",
+      "eta_schleuse": "16:17",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:02"
     },
     {
@@ -468,14 +468,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 06:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:20",
+        "eta_schleuse": "16:17",
         "eta_rueb": "11:32",
-        "delta_rueb_schleuse": "04:48",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "11:32",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "04:48",
+      "eta_schleuse": "16:17",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:02"
     },
     {
@@ -603,7 +603,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:44",
+      "eta_rueb_kiel": "08:43",
       "eta_rueb": "08:28",
       "ship": "TRAVETAL",
       "q_gruppe": "4",
