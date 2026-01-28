@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T16:36:46",
+  "generated_at": "2026-01-28T16:38:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,14 +41,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 28 16:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:37",
+        "eta_schleuse": "16:38",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:37",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "16:38",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:46"
     },
     {
@@ -136,15 +136,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 13:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:15",
-        "eta_rueb": "17:48",
+        "eta_schleuse": "22:14",
+        "eta_rueb": "17:47",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "17:48",
-      "eta_schleuse": "22:15",
+      "eta_rueb": "17:47",
+      "eta_schleuse": "22:14",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -222,14 +222,19 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MERSEY",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:51:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:39",
+        "eta_rueb": "17:06",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:34"
+      },
+      "eta_rueb": "17:06",
+      "eta_schleuse": "20:39",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -305,14 +310,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 06:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:37",
+        "eta_schleuse": "16:38",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:37",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "16:38",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:46"
     }
   ],
@@ -386,15 +391,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 13:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:15",
-        "eta_rueb": "17:48",
+        "eta_schleuse": "22:14",
+        "eta_rueb": "17:47",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "17:48",
-      "eta_schleuse": "22:15",
+      "eta_rueb": "17:47",
+      "eta_schleuse": "22:14",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -440,14 +445,19 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MERSEY",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:51:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:39",
+        "eta_rueb": "17:06",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:34"
+      },
+      "eta_rueb": "17:06",
+      "eta_schleuse": "20:39",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -523,26 +533,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 06:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:37",
+        "eta_schleuse": "16:38",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:37",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "16:38",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:46"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:06",
-      "eta_rueb": "17:05",
-      "ship": "MERSEY",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "17:10",
