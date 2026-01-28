@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T19:00:49",
+  "generated_at": "2026-01-28T19:02:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -126,14 +126,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 15:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:11",
+        "eta_schleuse": "00:10",
         "eta_rueb": "20:03",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "20:03",
-      "eta_schleuse": "00:11",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "00:10",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:05"
     },
     {
@@ -313,14 +313,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 15:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:11",
+        "eta_schleuse": "00:10",
         "eta_rueb": "20:03",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "20:03",
-      "eta_schleuse": "00:11",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "00:10",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:05"
     },
     {
@@ -451,6 +451,13 @@
       "eta_rueb": "23:15",
       "ship": "ECO KHAMSIN",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "23:29",
+      "eta_rueb": "23:20",
+      "ship": "HELGAFELL",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
