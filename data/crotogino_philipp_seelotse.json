@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T06:30:48",
+  "generated_at": "2026-01-28T06:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 28 06:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:53",
+        "eta_schleuse": "06:52",
         "eta_rueb": "03:27",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "03:27",
-      "eta_schleuse": "06:53",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "06:52",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:11"
     },
     {
@@ -122,8 +122,8 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "STOC NIKE",
+      "route": "KLT → HOS",
       "time": "Wed Jan 28 04:16:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -159,14 +159,14 @@
       "time": "Wed Jan 28 03:37:00 CET 2026",
       "times": {
         "eta_schleuse": "13:56",
-        "eta_rueb": "09:07",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "04:03"
+        "eta_rueb": "08:53",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "09:07",
+      "eta_rueb": "08:53",
       "eta_schleuse": "13:56",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "04:03"
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -333,14 +333,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 20:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:53",
+        "eta_schleuse": "06:52",
         "eta_rueb": "03:27",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "03:27",
-      "eta_schleuse": "06:53",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "06:52",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:11"
     }
   ],
@@ -394,14 +394,14 @@
       "time": "Wed Jan 28 03:37:00 CET 2026",
       "times": {
         "eta_schleuse": "13:56",
-        "eta_rueb": "09:07",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "04:03"
+        "eta_rueb": "08:53",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "09:07",
+      "eta_rueb": "08:53",
       "eta_schleuse": "13:56",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "04:03"
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -504,21 +504,21 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 20:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:53",
+        "eta_schleuse": "06:52",
         "eta_rueb": "03:27",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "03:27",
-      "eta_schleuse": "06:53",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "06:52",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:11"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:53",
+      "eta_rueb_kiel": "08:39",
       "eta_rueb": "08:20",
       "ship": "NORDIC ITALIA",
       "q_gruppe": "1",
