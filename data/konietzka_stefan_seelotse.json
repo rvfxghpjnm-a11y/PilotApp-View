@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-28T16:56:46",
+  "generated_at": "2026-01-28T16:58:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
     "see": 5
   },
@@ -69,14 +69,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JUDITH",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:07",
+        "eta_rueb": "17:13",
+        "delta_rueb_schleuse": "03:54",
+        "delta_start_rueb": "05:25"
+      },
+      "eta_rueb": "17:13",
+      "eta_schleuse": "21:07",
+      "delta_rueb_schleuse": "03:54",
+      "delta_start_rueb": "05:25"
     },
     {
       "is_target": false,
@@ -201,8 +206,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS 8",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 10:18:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -309,22 +314,6 @@
       "eta_schleuse": "17:22",
       "delta_rueb_schleuse": "03:20",
       "delta_start_rueb": "04:52"
-    },
-    {
-      "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Sattler",
-      "name": "Olaf Sattler",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "CHEM ARGON",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 06:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -351,14 +340,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JUDITH",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:07",
+        "eta_rueb": "17:13",
+        "delta_rueb_schleuse": "03:54",
+        "delta_start_rueb": "05:25"
+      },
+      "eta_rueb": "17:13",
+      "eta_schleuse": "21:07",
+      "delta_rueb_schleuse": "03:54",
+      "delta_start_rueb": "05:25"
     },
     {
       "is_target": false,
@@ -451,8 +445,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS 8",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 10:18:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -543,40 +537,10 @@
       "eta_schleuse": "17:22",
       "delta_rueb_schleuse": "03:20",
       "delta_start_rueb": "04:52"
-    },
-    {
-      "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Sattler",
-      "name": "Olaf Sattler",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "CHEM ARGON",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 06:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "17:10",
-      "ship": "CONTAINERSHIPS 8",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "17:13",
-      "eta_rueb": "17:13",
-      "ship": "JUDITH",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "20:15",
       "eta_rueb": "20:05",
