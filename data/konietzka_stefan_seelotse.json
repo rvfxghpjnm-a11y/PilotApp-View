@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T19:54:45",
+  "generated_at": "2026-01-28T19:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Tim Woitanowski",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Jan 28 17:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -85,8 +85,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Jan 28 16:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -101,8 +101,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Jan 28 16:09:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -353,7 +353,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:06",
+      "eta_rueb_kiel": "20:05",
       "eta_rueb": "20:05",
       "ship": "BALTIC SAIL",
       "q_gruppe": "5",
