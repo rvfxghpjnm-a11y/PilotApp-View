@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-28T16:32:48",
+  "generated_at": "2026-01-28T16:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
     "see": 5
   },
@@ -41,14 +41,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 28 16:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:35",
+        "eta_schleuse": "16:36",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:35",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "16:36",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:46"
     },
     {
@@ -58,8 +58,8 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 28 15:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -263,14 +263,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:34",
+        "eta_schleuse": "17:33",
         "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "14:07",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "17:33",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:55"
     },
     {
@@ -284,14 +284,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:25",
+        "eta_schleuse": "17:24",
         "eta_rueb": "14:02",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:52"
       },
       "eta_rueb": "14:02",
-      "eta_schleuse": "17:25",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "17:24",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:52"
     },
     {
@@ -305,31 +305,15 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 06:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:35",
+        "eta_schleuse": "16:36",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:35",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "16:36",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:46"
-    },
-    {
-      "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "name": "Stefan Bruhn",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "MERIT",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 06:21:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -340,8 +324,8 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 28 15:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -497,14 +481,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:34",
+        "eta_schleuse": "17:33",
         "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "14:07",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "17:33",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:55"
     },
     {
@@ -518,14 +502,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:25",
+        "eta_schleuse": "17:24",
         "eta_rueb": "14:02",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:52"
       },
       "eta_rueb": "14:02",
-      "eta_schleuse": "17:25",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "17:24",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:52"
     },
     {
@@ -539,31 +523,15 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 06:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:35",
+        "eta_schleuse": "16:36",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:35",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "16:36",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:46"
-    },
-    {
-      "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "name": "Stefan Bruhn",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "MERIT",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 06:21:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -583,7 +551,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:17",
+      "eta_rueb_kiel": "17:16",
       "eta_rueb": "17:13",
       "ship": "JUDITH",
       "q_gruppe": "1",
