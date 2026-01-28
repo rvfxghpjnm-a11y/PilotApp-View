@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T14:10:45",
+  "generated_at": "2026-01-28T14:12:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -175,8 +175,8 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "NORDIC ITALIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Jan 28 07:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -195,14 +195,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:41",
+        "eta_schleuse": "17:40",
         "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "14:07",
-      "eta_schleuse": "17:41",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "17:40",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:55"
     },
     {
@@ -275,8 +275,8 @@
       "name": "Michell Fricke",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "TRAVETAL",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Jan 28 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -456,14 +456,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:41",
+        "eta_schleuse": "17:40",
         "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "14:07",
-      "eta_schleuse": "17:41",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "17:40",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:55"
     },
     {
@@ -561,7 +561,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "17:08",
+      "eta_rueb_kiel": "17:16",
       "eta_rueb": "16:50",
       "ship": "MERSEY",
       "q_gruppe": "4",
