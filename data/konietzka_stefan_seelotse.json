@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T11:46:47",
+  "generated_at": "2026-01-28T11:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,15 +36,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 10:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:48",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "20:46",
+        "eta_rueb": "15:59",
+        "delta_rueb_schleuse": "04:47",
+        "delta_start_rueb": "04:15"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "20:48",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "15:59",
+      "eta_schleuse": "20:46",
+      "delta_rueb_schleuse": "04:47",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -158,19 +158,14 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "SHETLAND TRADER",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 28 07:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:15",
-        "eta_rueb": "11:47",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:21"
-      },
-      "eta_rueb": "11:47",
-      "eta_schleuse": "16:15",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -423,15 +418,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 10:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:48",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "20:46",
+        "eta_rueb": "15:59",
+        "delta_rueb_schleuse": "04:47",
+        "delta_start_rueb": "04:15"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "20:48",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "15:59",
+      "eta_schleuse": "20:46",
+      "delta_rueb_schleuse": "04:47",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -545,19 +540,14 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "SHETLAND TRADER",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 28 07:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:15",
-        "eta_rueb": "11:47",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:21"
-      },
-      "eta_rueb": "11:47",
-      "eta_schleuse": "16:15",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -719,7 +709,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:06",
+      "eta_rueb_kiel": "14:05",
       "eta_rueb": "14:00",
       "ship": "BONACIEUX",
       "q_gruppe": "5",
