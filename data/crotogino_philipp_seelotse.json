@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T08:50:45",
+  "generated_at": "2026-01-28T08:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "NEERBORG",
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 07:46:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:43",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:43",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -115,15 +120,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 06:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:35",
-        "eta_rueb": "12:08",
+        "eta_schleuse": "16:34",
+        "eta_rueb": "12:07",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "12:08",
-      "eta_schleuse": "16:35",
+      "eta_rueb": "12:07",
+      "eta_schleuse": "16:34",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -186,7 +191,7 @@
       "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "FL STOROE",
-      "route": "UTG → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 28 06:15:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -391,9 +396,14 @@
       "fahrzeug": "NEERBORG",
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 07:46:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:43",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:43",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -471,15 +481,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 06:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:35",
-        "eta_rueb": "12:08",
+        "eta_schleuse": "16:34",
+        "eta_rueb": "12:07",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "12:08",
-      "eta_schleuse": "16:35",
+      "eta_rueb": "12:07",
+      "eta_schleuse": "16:34",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -636,7 +646,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "12:48",
+      "eta_rueb_kiel": "12:49",
       "eta_rueb": "12:40",
       "ship": "MERIT",
       "q_gruppe": "5",
