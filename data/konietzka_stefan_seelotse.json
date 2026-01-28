@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T14:40:48",
+  "generated_at": "2026-01-28T14:42:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -164,14 +164,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STENHEIM",
+      "route": "RÜB → UTG",
       "time": "Wed Jan 28 07:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:57",
+        "eta_rueb": "15:05",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "15:05",
+      "eta_schleuse": "18:57",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -451,14 +456,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STENHEIM",
+      "route": "RÜB → UTG",
       "time": "Wed Jan 28 07:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:57",
+        "eta_rueb": "15:05",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "15:05",
+      "eta_schleuse": "18:57",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -568,13 +578,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:05",
-      "eta_rueb": "15:10",
-      "ship": "STENHEIM",
-      "q_gruppe": "2",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "17:16",
       "eta_rueb": "16:50",
