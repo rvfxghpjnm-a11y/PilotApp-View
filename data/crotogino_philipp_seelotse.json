@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-28T23:44:45",
+  "generated_at": "2026-01-28T23:46:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 4,
+    "kanal": 3,
     "wach": 0,
     "see": 6
   },
@@ -109,16 +109,11 @@
       "fahrzeug": "FYN",
       "route": "HOS → KLT",
       "time": "Wed Jan 28 17:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:24",
-        "eta_rueb": "20:01",
-        "delta_rueb_schleuse": "03:23",
-        "delta_start_rueb": "04:09"
-      },
-      "eta_rueb": "20:01",
-      "eta_schleuse": "23:24",
-      "delta_rueb_schleuse": "03:23",
-      "delta_start_rueb": "04:09"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -172,27 +167,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Rambadt",
-      "name": "Helge Rambadt",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "BALTIC SAIL",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 15:03:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:31",
-        "eta_rueb": "20:05",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:11"
-      },
-      "eta_rueb": "20:05",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:11"
     }
   ],
   "kanallotsen": [
@@ -253,27 +227,6 @@
       "eta_schleuse": "02:45",
       "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:41"
-    },
-    {
-      "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Rambadt",
-      "name": "Helge Rambadt",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "BALTIC SAIL",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 15:03:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:31",
-        "eta_rueb": "20:05",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:11"
-      },
-      "eta_rueb": "20:05",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:11"
     }
   ],
   "meldungen_kiel": [],
@@ -286,14 +239,14 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "01:11",
+      "eta_rueb_kiel": "01:10",
       "eta_rueb": "01:00",
       "ship": "RIX BAY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:16",
+      "eta_rueb_kiel": "01:15",
       "eta_rueb": "01:05",
       "ship": "KRISTEL",
       "q_gruppe": "5",
