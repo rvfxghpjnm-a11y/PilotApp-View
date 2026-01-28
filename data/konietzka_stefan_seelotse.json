@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T17:46:47",
+  "generated_at": "2026-01-28T17:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -142,14 +142,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 14:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:35",
+        "eta_schleuse": "00:34",
         "eta_rueb": "19:25",
-        "delta_rueb_schleuse": "05:10",
+        "delta_rueb_schleuse": "05:09",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "19:25",
-      "eta_schleuse": "00:35",
-      "delta_rueb_schleuse": "05:10",
+      "eta_schleuse": "00:34",
+      "delta_rueb_schleuse": "05:09",
       "delta_start_rueb": "04:07"
     },
     {
@@ -195,15 +195,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 12:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:22",
-        "eta_rueb": "17:55",
+        "eta_schleuse": "22:20",
+        "eta_rueb": "17:53",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "17:55",
-      "eta_schleuse": "22:22",
+      "eta_rueb": "17:53",
+      "eta_schleuse": "22:20",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -239,27 +239,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Klein",
-      "name": "Sebastian Klein",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "KEIT",
-      "route": "KLT → HOS",
-      "time": "Wed Jan 28 09:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Roman",
       "nachname": "Spiller",
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "MERSEY",
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:51:00 CET 2026",
@@ -280,7 +264,7 @@
       "nachname": "Wulff",
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "STENHEIM",
       "route": "RÜB → UTG",
       "time": "Wed Jan 28 07:46:00 CET 2026",
@@ -294,22 +278,6 @@
       "eta_schleuse": "18:48",
       "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:38"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "KATI",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 07:17:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -382,14 +350,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 14:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:35",
+        "eta_schleuse": "00:34",
         "eta_rueb": "19:25",
-        "delta_rueb_schleuse": "05:10",
+        "delta_rueb_schleuse": "05:09",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "19:25",
-      "eta_schleuse": "00:35",
-      "delta_rueb_schleuse": "05:10",
+      "eta_schleuse": "00:34",
+      "delta_rueb_schleuse": "05:09",
       "delta_start_rueb": "04:07"
     },
     {
@@ -419,15 +387,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 28 12:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:22",
-        "eta_rueb": "17:55",
+        "eta_schleuse": "22:20",
+        "eta_rueb": "17:53",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "17:55",
-      "eta_schleuse": "22:22",
+      "eta_rueb": "17:53",
+      "eta_schleuse": "22:20",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -451,7 +419,7 @@
       "nachname": "Spiller",
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "MERSEY",
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:51:00 CET 2026",
@@ -472,7 +440,7 @@
       "nachname": "Wulff",
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "STENHEIM",
       "route": "RÜB → UTG",
       "time": "Wed Jan 28 07:46:00 CET 2026",
@@ -486,22 +454,6 @@
       "eta_schleuse": "18:48",
       "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:38"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "KATI",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 07:17:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
