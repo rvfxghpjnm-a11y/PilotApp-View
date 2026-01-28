@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T20:28:44",
+  "generated_at": "2026-01-28T20:30:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 5,
     "wach": 0,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -52,14 +52,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 28 17:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:29",
+        "eta_schleuse": "20:30",
         "eta_rueb": "17:03",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "17:03",
-      "eta_schleuse": "20:29",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "20:30",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:31"
     },
     {
@@ -120,10 +120,10 @@
       "vorname": "Henning",
       "nachname": "Kaschke",
       "name": "Henning Kaschke",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "JUDITH",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 28 15:50:00 CET 2026",
       "times": {
         "eta_schleuse": "20:58",
@@ -205,14 +205,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:29",
+        "eta_schleuse": "20:30",
         "eta_rueb": "17:03",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "17:03",
-      "eta_schleuse": "20:29",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "20:30",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:31"
     }
   ],
@@ -240,27 +240,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Kaschke",
-      "name": "Henning Kaschke",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "JUDITH",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 15:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:58",
-        "eta_rueb": "17:12",
-        "delta_rueb_schleuse": "03:46",
-        "delta_start_rueb": "05:24"
-      },
-      "eta_rueb": "17:12",
-      "eta_schleuse": "20:58",
-      "delta_rueb_schleuse": "03:46",
-      "delta_start_rueb": "05:24"
-    },
-    {
-      "is_target": false,
       "vorname": "Helge",
       "nachname": "Rambadt",
       "name": "Helge Rambadt",
@@ -328,14 +307,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 07:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:29",
+        "eta_schleuse": "20:30",
         "eta_rueb": "17:03",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "17:03",
-      "eta_schleuse": "20:29",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "20:30",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:31"
     }
   ],
