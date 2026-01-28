@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-28T15:16:46",
+  "generated_at": "2026-01-28T15:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
     "see": 4
   },
@@ -35,9 +35,14 @@
       "fahrzeug": "RMS RATINGEN",
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 14:06:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "00:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "00:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -291,27 +296,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Kurfeld",
-      "name": "Jan Kurfeld",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "LENA MARIE",
-      "route": "RÜB → TOT",
-      "time": "Wed Jan 28 04:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Distanzbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "ARCTICA HAV",
       "route": "KLT → PTG",
       "time": "Wed Jan 28 01:30:00 CET 2026",
@@ -349,9 +338,14 @@
       "fahrzeug": "RMS RATINGEN",
       "route": "HOR → RÜB",
       "time": "Wed Jan 28 14:06:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "00:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "00:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -538,22 +532,6 @@
       "eta_schleuse": "16:22",
       "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:28"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Kurfeld",
-      "name": "Jan Kurfeld",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "LENA MARIE",
-      "route": "RÜB → TOT",
-      "time": "Wed Jan 28 04:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
