@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T03:58:43",
+  "generated_at": "2026-01-28T04:00:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -105,14 +105,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 23:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:57",
+        "eta_schleuse": "09:55",
         "eta_rueb": "05:20",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "05:20",
-      "eta_schleuse": "09:57",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "09:55",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:36"
     },
     {
@@ -393,14 +393,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Jan 27 23:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:57",
+        "eta_schleuse": "09:55",
         "eta_rueb": "05:20",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "05:20",
-      "eta_schleuse": "09:57",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "09:55",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:36"
     },
     {
@@ -501,6 +501,20 @@
       "eta_rueb_kiel": "08:52",
       "eta_rueb": "09:03",
       "ship": "TRUFFALDINO",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:55",
+      "eta_rueb": "09:05",
+      "ship": "TRAVETAL",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "09:07",
+      "ship": "GT AURIGA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
