@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T04:18:45",
+  "generated_at": "2026-01-28T04:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 8,
     "wach": 2,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -195,14 +195,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 22:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:26",
+        "eta_schleuse": "08:27",
         "eta_rueb": "03:58",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "03:58",
-      "eta_schleuse": "08:26",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "08:27",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "04:12"
     },
     {
@@ -237,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 20:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:58",
+        "eta_schleuse": "06:57",
         "eta_rueb": "03:27",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "03:27",
-      "eta_schleuse": "06:58",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:11"
     },
     {
@@ -297,27 +297,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Dolf",
-      "nachname": "Jenckel",
-      "name": "Dolf Jenckel",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "COE LUISA",
-      "route": "KLT → HOS",
-      "time": "Tue Jan 27 20:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sven Kare",
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Wachgänger",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Tue Jan 27 20:00:00 CET 2026",
@@ -333,7 +317,7 @@
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Seebört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Tue Jan 27 19:00:00 CET 2026",
@@ -349,7 +333,7 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "STOLT SPRAY",
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 18:28:00 CET 2026",
@@ -451,14 +435,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 22:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:26",
+        "eta_schleuse": "08:27",
         "eta_rueb": "03:58",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "03:58",
-      "eta_schleuse": "08:26",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "08:27",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "04:12"
     },
     {
@@ -493,14 +477,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 20:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:58",
+        "eta_schleuse": "06:57",
         "eta_rueb": "03:27",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "03:27",
-      "eta_schleuse": "06:58",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:11"
     },
     {
@@ -509,7 +493,7 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "STOLT SPRAY",
       "route": "RÜB → HOS",
       "time": "Tue Jan 27 18:28:00 CET 2026",
@@ -535,21 +519,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:51",
+      "eta_rueb_kiel": "08:50",
       "eta_rueb": "09:03",
       "ship": "TRUFFALDINO",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:54",
+      "eta_rueb_kiel": "08:53",
       "eta_rueb": "09:05",
       "ship": "TRAVETAL",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:57",
+      "eta_rueb_kiel": "08:56",
       "eta_rueb": "09:07",
       "ship": "GT AURIGA",
       "q_gruppe": "5",
