@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T06:40:37",
+  "generated_at": "2026-01-29T06:42:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,9 +12,9 @@
     "nr": 3
   },
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 1,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -209,10 +209,10 @@
       "vorname": "Christoph",
       "nachname": "Malik",
       "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 12,
       "fahrzeug": "YASA BEGONIA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Jan 29 02:05:00 CET 2026",
       "times": {
         "eta_schleuse": "07:01",
@@ -433,27 +433,6 @@
       "eta_schleuse": "14:35",
       "delta_rueb_schleuse": "04:55",
       "delta_start_rueb": "04:00"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "YASA BEGONIA",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 29 02:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "07:01",
-        "eta_rueb": "03:30",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "05:44"
-      },
-      "eta_rueb": "03:30",
-      "eta_schleuse": "07:01",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "05:44"
     },
     {
       "is_target": false,
