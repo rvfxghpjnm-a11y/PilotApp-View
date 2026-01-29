@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-29T14:46:47",
+  "generated_at": "2026-01-29T14:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 0,
     "see": 4
   },
@@ -52,15 +52,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:05",
-        "eta_rueb": "18:37",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:59"
+        "eta_schleuse": "23:03",
+        "eta_rueb": "18:36",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "18:37",
-      "eta_schleuse": "23:05",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:59"
+      "eta_rueb": "18:36",
+      "eta_schleuse": "23:03",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -73,14 +73,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:08",
+        "eta_schleuse": "23:07",
         "eta_rueb": "18:40",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "18:40",
-      "eta_schleuse": "23:08",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "23:07",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:02"
     },
     {
@@ -95,14 +95,14 @@
       "time": "Thu Jan 29 12:50:00 CET 2026",
       "times": {
         "eta_schleuse": "22:35",
-        "eta_rueb": "17:47",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "03:49"
+        "eta_rueb": "17:45",
+        "delta_rueb_schleuse": "04:50",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "17:47",
+      "eta_rueb": "17:45",
       "eta_schleuse": "22:35",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "03:49"
+      "delta_rueb_schleuse": "04:50",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -115,15 +115,15 @@
       "route": "UTG → RÜB",
       "time": "Thu Jan 29 12:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:22",
-        "eta_rueb": "15:55",
+        "eta_schleuse": "20:23",
+        "eta_rueb": "15:56",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:41"
+        "delta_start_rueb": "05:42"
       },
-      "eta_rueb": "15:55",
-      "eta_schleuse": "20:22",
+      "eta_rueb": "15:56",
+      "eta_schleuse": "20:23",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:41"
+      "delta_start_rueb": "05:42"
     },
     {
       "is_target": false,
@@ -185,27 +185,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Julian",
-      "nachname": "Plaisant",
-      "name": "Julian Plaisant",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Thu Jan 29 09:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Alexander",
       "nachname": "Engel",
       "name": "Alexander Engel",
       "aufgabe": "Seebört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "MISJE SAKURA",
       "route": "HOS → KLT",
       "time": "Thu Jan 29 08:55:00 CET 2026",
@@ -221,7 +205,7 @@
       "nachname": "Koslik",
       "name": "Kevin Koslik",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "HOS",
       "route": null,
       "time": "Thu Jan 29 08:30:00 CET 2026",
@@ -237,7 +221,7 @@
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "BALTIC MERCHANT",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 07:25:00 CET 2026",
@@ -258,7 +242,7 @@
       "nachname": "Meise",
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "ELBSUN",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 07:22:00 CET 2026",
@@ -279,7 +263,7 @@
       "nachname": "Krüger",
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "MIRAMAR",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:50:00 CET 2026",
@@ -300,7 +284,7 @@
       "nachname": "Hilpert",
       "name": "Jan Hilpert",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "DEO VOLENTE",
       "route": "KLT → HOS",
       "time": "Thu Jan 29 06:05:00 CET 2026",
@@ -316,7 +300,7 @@
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "ARKLOW WILLOW",
       "route": "KLT → HOS",
       "time": "Thu Jan 29 06:05:00 CET 2026",
@@ -371,15 +355,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:05",
-        "eta_rueb": "18:37",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:59"
+        "eta_schleuse": "23:03",
+        "eta_rueb": "18:36",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "18:37",
-      "eta_schleuse": "23:05",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:59"
+      "eta_rueb": "18:36",
+      "eta_schleuse": "23:03",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -392,14 +376,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:08",
+        "eta_schleuse": "23:07",
         "eta_rueb": "18:40",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "18:40",
-      "eta_schleuse": "23:08",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "23:07",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:02"
     },
     {
@@ -414,14 +398,14 @@
       "time": "Thu Jan 29 12:50:00 CET 2026",
       "times": {
         "eta_schleuse": "22:35",
-        "eta_rueb": "17:47",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "03:49"
+        "eta_rueb": "17:45",
+        "delta_rueb_schleuse": "04:50",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "17:47",
+      "eta_rueb": "17:45",
       "eta_schleuse": "22:35",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "03:49"
+      "delta_rueb_schleuse": "04:50",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -434,15 +418,15 @@
       "route": "UTG → RÜB",
       "time": "Thu Jan 29 12:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:22",
-        "eta_rueb": "15:55",
+        "eta_schleuse": "20:23",
+        "eta_rueb": "15:56",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:41"
+        "delta_start_rueb": "05:42"
       },
-      "eta_rueb": "15:55",
-      "eta_schleuse": "20:22",
+      "eta_rueb": "15:56",
+      "eta_schleuse": "20:23",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:41"
+      "delta_start_rueb": "05:42"
     },
     {
       "is_target": false,
@@ -488,27 +472,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Julian",
-      "nachname": "Plaisant",
-      "name": "Julian Plaisant",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Thu Jan 29 09:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Kevin",
       "nachname": "Koslik",
       "name": "Kevin Koslik",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "HOS",
       "route": null,
       "time": "Thu Jan 29 08:30:00 CET 2026",
@@ -524,7 +492,7 @@
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "BALTIC MERCHANT",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 07:25:00 CET 2026",
@@ -545,7 +513,7 @@
       "nachname": "Meise",
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "ELBSUN",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 07:22:00 CET 2026",
@@ -566,7 +534,7 @@
       "nachname": "Krüger",
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "MIRAMAR",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:50:00 CET 2026",
