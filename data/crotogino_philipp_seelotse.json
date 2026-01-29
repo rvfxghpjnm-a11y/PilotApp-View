@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T22:08:46",
+  "generated_at": "2026-01-29T22:10:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -138,14 +138,19 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORANESS",
+      "route": "RÜB → UTG",
       "time": "Thu Jan 29 15:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:08",
+        "eta_rueb": "22:36",
+        "delta_rueb_schleuse": "03:32",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "22:36",
+      "eta_schleuse": "02:08",
+      "delta_rueb_schleuse": "03:32",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -304,14 +309,19 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORANESS",
+      "route": "RÜB → UTG",
       "time": "Thu Jan 29 15:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:08",
+        "eta_rueb": "22:36",
+        "delta_rueb_schleuse": "03:32",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "22:36",
+      "eta_schleuse": "02:08",
+      "delta_rueb_schleuse": "03:32",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -359,7 +369,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:47",
+      "eta_rueb_kiel": "00:48",
       "eta_rueb": "00:40",
       "ship": "LADY HESTER",
       "q_gruppe": "5",
@@ -385,13 +395,6 @@
       "ship": "HJORDIS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "22:36",
-      "eta_rueb": "22:40",
-      "ship": "ORANESS",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "22:53",
