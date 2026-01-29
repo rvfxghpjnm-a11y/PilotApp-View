@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T21:46:48",
+  "generated_at": "2026-01-29T21:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -154,8 +154,8 @@
       "name": "Jörn Lielienthal",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BAYMAR",
+      "route": "KLT → HOS",
       "time": "Thu Jan 29 15:29:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -371,6 +371,13 @@
       "ship": "LADY ALIDA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "02:07",
+      "eta_rueb": "01:35",
+      "ship": "FAROMAR",
+      "q_gruppe": "5",
+      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "22:38",
