@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T10:42:45",
+  "generated_at": "2026-01-29T10:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,11 +19,16 @@
       "fahrzeug": "OHIOBORG",
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 09:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:47",
+        "eta_rueb": "14:20",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:36"
+      },
+      "eta_rueb": "14:20",
+      "eta_schleuse": "18:47",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -370,11 +375,16 @@
       "fahrzeug": "OHIOBORG",
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 09:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:47",
+        "eta_rueb": "14:20",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:36"
+      },
+      "eta_rueb": "14:20",
+      "eta_schleuse": "18:47",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
