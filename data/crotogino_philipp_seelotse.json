@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T10:28:45",
+  "generated_at": "2026-01-29T10:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -194,14 +194,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:12",
+        "eta_schleuse": "11:11",
         "eta_rueb": "07:42",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "07:42",
-      "eta_schleuse": "11:12",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "11:11",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:26"
     },
     {
@@ -209,10 +209,10 @@
       "vorname": "Jan",
       "nachname": "Hilpert",
       "name": "Jan Hilpert",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 11,
       "fahrzeug": "STELLA VIRGO",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Jan 29 06:05:00 CET 2026",
       "times": {
         "eta_schleuse": "11:01",
@@ -513,36 +513,15 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:12",
+        "eta_schleuse": "11:11",
         "eta_rueb": "07:42",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "07:42",
-      "eta_schleuse": "11:12",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "11:11",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:26"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Hilpert",
-      "name": "Jan Hilpert",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "STELLA VIRGO",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 29 06:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:01",
-        "eta_rueb": "07:36",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "07:36",
-      "eta_schleuse": "11:01",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
