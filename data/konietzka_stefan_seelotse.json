@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T03:42:45",
+  "generated_at": "2026-01-29T03:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 4,
+    "kanal": 3,
     "wach": 0,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -52,14 +52,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 02:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:04",
+        "eta_schleuse": "07:05",
         "eta_rueb": "03:30",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "03:30",
-      "eta_schleuse": "07:04",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "07:05",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "05:44"
     },
     {
@@ -67,10 +67,10 @@
       "vorname": "Jonas",
       "nachname": "Krämer",
       "name": "Jonas Krämer",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 4,
       "fahrzeug": "AMARANTH",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 28 23:45:00 CET 2026",
       "times": {
         "eta_schleuse": "04:44",
@@ -169,14 +169,14 @@
       "time": "Wed Jan 28 22:57:00 CET 2026",
       "times": {
         "eta_schleuse": "08:49",
-        "eta_rueb": "03:58",
-        "delta_rueb_schleuse": "04:51",
-        "delta_start_rueb": "03:26"
+        "eta_rueb": "03:57",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "03:58",
+      "eta_rueb": "03:57",
       "eta_schleuse": "08:49",
-      "delta_rueb_schleuse": "04:51",
-      "delta_start_rueb": "03:26"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -239,36 +239,15 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 02:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:04",
+        "eta_schleuse": "07:05",
         "eta_rueb": "03:30",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "03:30",
-      "eta_schleuse": "07:04",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "07:05",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "05:44"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jonas",
-      "nachname": "Krämer",
-      "name": "Jonas Krämer",
-      "aufgabe": "Kanalbört",
-      "nr": 4,
-      "fahrzeug": "AMARANTH",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 23:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:44",
-        "eta_rueb": "01:12",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "01:12",
-      "eta_schleuse": "04:44",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -298,14 +277,14 @@
       "time": "Wed Jan 28 22:57:00 CET 2026",
       "times": {
         "eta_schleuse": "08:49",
-        "eta_rueb": "03:58",
-        "delta_rueb_schleuse": "04:51",
-        "delta_start_rueb": "03:26"
+        "eta_rueb": "03:57",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "03:58",
+      "eta_rueb": "03:57",
       "eta_schleuse": "08:49",
-      "delta_rueb_schleuse": "04:51",
-      "delta_start_rueb": "03:26"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "03:25"
     }
   ],
   "meldungen_kiel": [],
@@ -318,7 +297,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:45",
+      "eta_rueb_kiel": "07:44",
       "eta_rueb": "08:00",
       "ship": "STELLA VIRGO",
       "q_gruppe": "4",
