@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T22:24:45",
+  "generated_at": "2026-01-29T22:26:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,15 +20,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 20:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:18",
-        "eta_rueb": "01:51",
+        "eta_schleuse": "07:23",
+        "eta_rueb": "02:56",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "01:51",
-      "eta_schleuse": "06:18",
+      "eta_rueb": "02:56",
+      "eta_schleuse": "07:23",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -127,14 +127,19 @@
       "name": "Helge Rambadt",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PLEIJEL",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 16:31:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:26",
+        "eta_rueb": "22:52",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "22:52",
+      "eta_schleuse": "02:26",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -228,15 +233,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 20:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:18",
-        "eta_rueb": "01:51",
+        "eta_schleuse": "07:23",
+        "eta_rueb": "02:56",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "01:51",
-      "eta_schleuse": "06:18",
+      "eta_rueb": "02:56",
+      "eta_schleuse": "07:23",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -303,14 +308,19 @@
       "name": "Helge Rambadt",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PLEIJEL",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 16:31:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:26",
+        "eta_rueb": "22:52",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "22:52",
+      "eta_schleuse": "02:26",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -393,14 +403,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:06",
+      "eta_rueb_kiel": "02:05",
       "eta_rueb": "01:55",
       "ship": "FAROMAR",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "03:50",
+      "eta_rueb_kiel": "03:56",
       "eta_rueb": "03:35",
       "ship": "HJORDIS",
       "q_gruppe": "4",
