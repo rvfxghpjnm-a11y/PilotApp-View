@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T03:10:46",
+  "generated_at": "2026-01-29T03:12:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 29 02:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -246,8 +246,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 29 02:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -386,6 +386,27 @@
       "eta_rueb": "05:40",
       "ship": "MARIELYST",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "07:43",
+      "eta_rueb": "08:00",
+      "ship": "STELLA VIRGO",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:02",
+      "ship": "LADY IRINA",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:04",
+      "ship": "THETIS D",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     }
   ]
