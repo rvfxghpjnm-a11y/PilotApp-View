@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T10:24:46",
+  "generated_at": "2026-01-29T10:26:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -173,15 +173,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 06:14:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:56",
-        "eta_rueb": "11:45",
+        "eta_schleuse": "15:55",
+        "eta_rueb": "11:44",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:35"
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "11:45",
-      "eta_schleuse": "15:56",
+      "eta_rueb": "11:44",
+      "eta_schleuse": "15:55",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:35"
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -232,8 +232,8 @@
       "name": "Peter Hahn",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 05:34:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -248,8 +248,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 05:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -492,15 +492,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 06:14:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:56",
-        "eta_rueb": "11:45",
+        "eta_schleuse": "15:55",
+        "eta_rueb": "11:44",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:35"
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "11:45",
-      "eta_schleuse": "15:56",
+      "eta_rueb": "11:44",
+      "eta_schleuse": "15:55",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:35"
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -551,8 +551,8 @@
       "name": "Peter Hahn",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 05:34:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -567,8 +567,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 05:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -622,13 +622,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "10:25",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "12:10",
       "eta_rueb": "12:00",
       "ship": "MIRAMAR",
@@ -636,7 +629,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:55",
+      "eta_rueb_kiel": "12:54",
       "eta_rueb": "12:45",
       "ship": "BALTIC MERCHANT",
       "q_gruppe": "5",
