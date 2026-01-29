@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T04:58:44",
+  "generated_at": "2026-01-29T05:00:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -186,14 +186,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MARIELYST",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 22:57:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:10",
+        "eta_rueb": "05:33",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "05:33"
+      },
+      "eta_rueb": "05:33",
+      "eta_schleuse": "09:10",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "05:33"
     },
     {
       "is_target": false,
@@ -289,25 +294,23 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MARIELYST",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 28 22:57:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:10",
+        "eta_rueb": "05:33",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "05:33"
+      },
+      "eta_rueb": "05:33",
+      "eta_schleuse": "09:10",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "05:33"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:33",
-      "eta_rueb": "05:40",
-      "ship": "MARIELYST",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "07:41",
       "eta_rueb": "08:00",
