@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T18:24:46",
+  "generated_at": "2026-01-29T18:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 17:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:14",
+        "eta_schleuse": "02:13",
         "eta_rueb": "21:47",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "21:47",
-      "eta_schleuse": "02:14",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "02:13",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:37"
     },
     {
@@ -111,14 +111,14 @@
       "time": "Thu Jan 29 14:49:00 CET 2026",
       "times": {
         "eta_schleuse": "00:51",
-        "eta_rueb": "19:45",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "03:53"
+        "eta_rueb": "19:44",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "19:45",
+      "eta_rueb": "19:44",
       "eta_schleuse": "00:51",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "03:53"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -148,19 +148,14 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "LENA MARIE",
-      "route": "TOT → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 14:31:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:47",
-        "eta_rueb": "18:31",
-        "delta_rueb_schleuse": "04:16",
-        "delta_start_rueb": "03:35"
-      },
-      "eta_rueb": "18:31",
-      "eta_schleuse": "22:47",
-      "delta_rueb_schleuse": "04:16",
-      "delta_start_rueb": "03:35"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -169,8 +164,8 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -185,8 +180,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -201,8 +196,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 12:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -276,14 +271,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 29 17:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:14",
+        "eta_schleuse": "02:13",
         "eta_rueb": "21:47",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "21:47",
-      "eta_schleuse": "02:14",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "02:13",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:37"
     },
     {
@@ -335,14 +330,14 @@
       "time": "Thu Jan 29 14:49:00 CET 2026",
       "times": {
         "eta_schleuse": "00:51",
-        "eta_rueb": "19:45",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "03:53"
+        "eta_rueb": "19:44",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "19:45",
+      "eta_rueb": "19:44",
       "eta_schleuse": "00:51",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "03:53"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -372,19 +367,14 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "LENA MARIE",
-      "route": "TOT → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 14:31:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:47",
-        "eta_rueb": "18:31",
-        "delta_rueb_schleuse": "04:16",
-        "delta_start_rueb": "03:35"
-      },
-      "eta_rueb": "18:31",
-      "eta_schleuse": "22:47",
-      "delta_rueb_schleuse": "04:16",
-      "delta_start_rueb": "03:35"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -393,8 +383,8 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -409,8 +399,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 13:28:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -425,8 +415,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 12:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -459,13 +449,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "18:30",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "21:33",
       "eta_rueb": "21:20",
       "ship": "ECO MAESTRO",
@@ -487,7 +470,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "23:43",
+      "eta_rueb_kiel": "23:42",
       "eta_rueb": "23:20",
       "ship": "VIKSTRAUM",
       "q_gruppe": "3",
