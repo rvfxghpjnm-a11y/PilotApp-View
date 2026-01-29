@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T18:22:46",
+  "generated_at": "2026-01-29T18:24:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -58,14 +58,14 @@
       "time": "Thu Jan 29 16:31:00 CET 2026",
       "times": {
         "eta_schleuse": "02:57",
-        "eta_rueb": "21:51",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "21:50",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "21:51",
+      "eta_rueb": "21:50",
       "eta_schleuse": "02:57",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -298,14 +298,14 @@
       "time": "Thu Jan 29 16:31:00 CET 2026",
       "times": {
         "eta_schleuse": "02:57",
-        "eta_rueb": "21:51",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "21:50",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "21:51",
+      "eta_rueb": "21:50",
       "eta_schleuse": "02:57",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -459,7 +459,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "21:34",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "18:30",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:33",
       "eta_rueb": "21:20",
       "ship": "ECO MAESTRO",
       "q_gruppe": "0",
