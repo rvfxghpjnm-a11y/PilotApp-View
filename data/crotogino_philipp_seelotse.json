@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T03:40:46",
+  "generated_at": "2026-01-29T03:42:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 4,
     "wach": 0,
-    "see": 6
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -88,10 +88,10 @@
       "vorname": "Stephan",
       "nachname": "Thomaßen",
       "name": "Stephan Thomaßen",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 5,
       "fahrzeug": "RIX BAY",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 28 23:45:00 CET 2026",
       "times": {
         "eta_schleuse": "04:30",
@@ -109,10 +109,10 @@
       "vorname": "Micha",
       "nachname": "Steffens",
       "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 6,
       "fahrzeug": "KRISTEL",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 28 23:45:00 CET 2026",
       "times": {
         "eta_schleuse": "04:34",
@@ -269,48 +269,6 @@
       "eta_schleuse": "04:44",
       "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:22"
-    },
-    {
-      "is_target": false,
-      "vorname": "Stephan",
-      "nachname": "Thomaßen",
-      "name": "Stephan Thomaßen",
-      "aufgabe": "Kanalbört",
-      "nr": 5,
-      "fahrzeug": "RIX BAY",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 23:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:30",
-        "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:28",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "01:02",
-      "eta_schleuse": "04:30",
-      "delta_rueb_schleuse": "03:28",
-      "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "KRISTEL",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 23:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:34",
-        "eta_rueb": "01:08",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "01:08",
-      "eta_schleuse": "04:34",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
