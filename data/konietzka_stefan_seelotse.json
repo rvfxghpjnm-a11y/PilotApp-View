@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T16:54:46",
+  "generated_at": "2026-01-29T16:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -190,14 +190,19 @@
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX ALLIANCE",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 12:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:56",
+        "eta_rueb": "17:23",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "17:23",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -242,14 +247,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 07:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:56",
+        "eta_schleuse": "16:58",
         "eta_rueb": "12:46",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "12:46",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "16:58",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:16"
     },
     {
@@ -440,14 +445,19 @@
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX ALLIANCE",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 12:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:56",
+        "eta_rueb": "17:23",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "17:23",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -460,14 +470,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 07:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:56",
+        "eta_schleuse": "16:58",
         "eta_rueb": "12:46",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "12:46",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "16:58",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:16"
     },
     {
@@ -493,13 +503,5 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:23",
-      "eta_rueb": "17:15",
-      "ship": "RIX ALLIANCE",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    }
-  ]
+  "ruesterbergen": []
 }
