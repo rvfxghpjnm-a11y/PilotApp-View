@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-29T03:12:46",
+  "generated_at": "2026-01-29T03:14:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 0,
     "see": 6
   },
@@ -48,14 +48,19 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "YASA BEGONIA",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 02:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:04",
+        "eta_rueb": "03:31",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:45"
+      },
+      "eta_rueb": "03:31",
+      "eta_schleuse": "07:04",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:45"
     },
     {
       "is_target": false,
@@ -68,14 +73,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 23:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:46",
+        "eta_schleuse": "04:45",
         "eta_rueb": "01:12",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "01:12",
-      "eta_schleuse": "04:46",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "04:45",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:22"
     },
     {
@@ -220,22 +225,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Klaus",
-      "nachname": "Eidenschink",
-      "name": "Klaus Eidenschink",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "ECO KHAMSIN",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 16:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -246,14 +235,19 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "YASA BEGONIA",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 02:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:04",
+        "eta_rueb": "03:31",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:45"
+      },
+      "eta_rueb": "03:31",
+      "eta_schleuse": "07:04",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:45"
     },
     {
       "is_target": false,
@@ -266,14 +260,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 28 23:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:46",
+        "eta_schleuse": "04:45",
         "eta_rueb": "01:12",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "01:12",
-      "eta_schleuse": "04:46",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "04:45",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:22"
     },
     {
@@ -354,33 +348,10 @@
       "eta_schleuse": "08:51",
       "delta_rueb_schleuse": "04:51",
       "delta_start_rueb": "03:28"
-    },
-    {
-      "is_target": false,
-      "vorname": "Klaus",
-      "nachname": "Eidenschink",
-      "name": "Klaus Eidenschink",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "ECO KHAMSIN",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 28 16:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:31",
-      "eta_rueb": "03:50",
-      "ship": "YASA BEGONIA",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "05:37",
       "eta_rueb": "05:40",
@@ -396,7 +367,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "07:41",
       "eta_rueb": "08:02",
       "ship": "LADY IRINA",
       "q_gruppe": "5",
