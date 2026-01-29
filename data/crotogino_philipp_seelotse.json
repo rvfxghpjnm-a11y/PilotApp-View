@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T09:26:46",
+  "generated_at": "2026-01-29T09:28:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 07:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:08",
-        "eta_rueb": "12:38",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:40"
+        "eta_schleuse": "17:10",
+        "eta_rueb": "12:37",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "12:38",
-      "eta_schleuse": "17:08",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:40"
+      "eta_rueb": "12:37",
+      "eta_schleuse": "17:10",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -226,14 +226,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 05:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:56",
+        "eta_schleuse": "14:58",
         "eta_rueb": "10:21",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "03:43"
       },
       "eta_rueb": "10:21",
-      "eta_schleuse": "14:56",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "14:58",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "03:43"
     },
     {
@@ -263,14 +263,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 04:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:52",
+        "eta_schleuse": "14:54",
         "eta_rueb": "09:30",
-        "delta_rueb_schleuse": "05:22",
+        "delta_rueb_schleuse": "05:24",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "09:30",
-      "eta_schleuse": "14:52",
-      "delta_rueb_schleuse": "05:22",
+      "eta_schleuse": "14:54",
+      "delta_rueb_schleuse": "05:24",
       "delta_start_rueb": "03:50"
     },
     {
@@ -440,15 +440,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 07:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:08",
-        "eta_rueb": "12:38",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:40"
+        "eta_schleuse": "17:10",
+        "eta_rueb": "12:37",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "12:38",
-      "eta_schleuse": "17:08",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:40"
+      "eta_rueb": "12:37",
+      "eta_schleuse": "17:10",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -561,14 +561,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 05:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:56",
+        "eta_schleuse": "14:58",
         "eta_rueb": "10:21",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "03:43"
       },
       "eta_rueb": "10:21",
-      "eta_schleuse": "14:56",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "14:58",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "03:43"
     },
     {
@@ -598,14 +598,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 29 04:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:52",
+        "eta_schleuse": "14:54",
         "eta_rueb": "09:30",
-        "delta_rueb_schleuse": "05:22",
+        "delta_rueb_schleuse": "05:24",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "09:30",
-      "eta_schleuse": "14:52",
-      "delta_rueb_schleuse": "05:22",
+      "eta_schleuse": "14:54",
+      "delta_rueb_schleuse": "05:24",
       "delta_start_rueb": "03:50"
     },
     {
@@ -667,6 +667,13 @@
       "eta_rueb": "12:45",
       "ship": "BALTIC MERCHANT",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:45",
+      "ship": "ELBSUN",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
