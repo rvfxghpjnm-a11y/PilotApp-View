@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-29T11:38:37",
+  "generated_at": "2026-01-29T11:40:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "CAROLIN G.",
-    "from": "HOS",
-    "to": "RÜB",
+    "fahrzeug": "Leerfahrt",
+    "from": "RÜB",
+    "to": "HOS",
     "time": "Thu Jan 29 06:14:00 CET 2026",
     "nr": 12
   },
@@ -16,12 +16,7 @@
     "wach": 1,
     "see": 8
   },
-  "times": {
-    "eta_schleuse": "15:50",
-    "eta_rueb": "11:39",
-    "delta_rueb_schleuse": "04:11",
-    "delta_start_rueb": "04:29"
-  },
+  "times": null,
   "lotsen": [
     {
       "is_target": false,
@@ -194,8 +189,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -226,19 +221,14 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "CAROLIN G.",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:50",
-        "eta_rueb": "11:39",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:29"
-      },
-      "eta_rueb": "11:39",
-      "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:29"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -498,8 +488,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -514,19 +504,14 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "CAROLIN G.",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 06:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:50",
-        "eta_rueb": "11:39",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:29"
-      },
-      "eta_rueb": "11:39",
-      "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:29"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -552,13 +537,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "12:07",
-      "eta_rueb": "12:00",
-      "ship": "MIRAMAR",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "12:50",
       "eta_rueb": "12:45",
