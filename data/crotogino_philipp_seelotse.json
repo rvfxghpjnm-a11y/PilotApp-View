@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T17:04:47",
+  "generated_at": "2026-01-30T17:06:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -206,19 +206,14 @@
       "name": "Gregor Kubica",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "SVEN",
-      "route": "HOR → RÜB",
+      "fahrzeug": "NEUSTADT-BP 84",
+      "route": "KRH → HOS",
       "time": "Fri Jan 30 12:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:16",
-        "eta_rueb": "17:10",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "04:08"
-      },
-      "eta_rueb": "17:10",
-      "eta_schleuse": "22:16",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "04:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -390,14 +385,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 08:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:06",
+        "eta_schleuse": "18:05",
         "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "14:32",
-      "eta_schleuse": "18:06",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "18:05",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "05:12"
     },
     {
@@ -593,19 +588,14 @@
       "name": "Gregor Kubica",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "SVEN",
-      "route": "HOR → RÜB",
+      "fahrzeug": "NEUSTADT-BP 84",
+      "route": "KRH → HOS",
       "time": "Fri Jan 30 12:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:16",
-        "eta_rueb": "17:10",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "04:08"
-      },
-      "eta_rueb": "17:10",
-      "eta_schleuse": "22:16",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "04:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -681,14 +671,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 08:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:06",
+        "eta_schleuse": "18:05",
         "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "14:32",
-      "eta_schleuse": "18:06",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "18:05",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "05:12"
     },
     {
@@ -736,13 +726,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "17:45",
-      "ship": "NEUSTADT-BP 84",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
-    },
     {
       "eta_rueb_kiel": "19:02",
       "eta_rueb": "18:30",
