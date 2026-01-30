@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T09:30:47",
+  "generated_at": "2026-01-30T09:32:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 30 09:01:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:33",
+        "eta_schleuse": "09:34",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:33",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:34",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:20"
     },
     {
@@ -354,14 +354,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:33",
+        "eta_schleuse": "09:34",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:33",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:34",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:20"
     }
   ],
@@ -562,14 +562,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:33",
+        "eta_schleuse": "09:34",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:33",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:34",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:20"
     }
   ],
@@ -625,11 +625,18 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:24",
+      "eta_rueb_kiel": "14:25",
       "eta_rueb": "14:05",
       "ship": "JOLYN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:29",
+      "eta_rueb": "14:08",
+      "ship": "TERSCHELLING",
+      "q_gruppe": "4",
+      "route": "RÜB → UTG"
     }
   ]
 }
