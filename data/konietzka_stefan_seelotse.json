@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T18:06:45",
+  "generated_at": "2026-01-30T18:08:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,14 +41,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 30 17:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:07",
+        "eta_schleuse": "18:09",
         "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "14:32",
-      "eta_schleuse": "18:07",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "18:09",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:12"
     },
     {
@@ -95,8 +95,8 @@
       "name": "Nils Föhring",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "ELBIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 30 15:21:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -132,8 +132,8 @@
       "name": "Curt Börnsen",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "BELLIS THERESA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 30 15:19:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -406,14 +406,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 08:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:07",
+        "eta_schleuse": "18:09",
         "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "14:32",
-      "eta_schleuse": "18:07",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "18:09",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:12"
     },
     {
@@ -426,16 +426,11 @@
       "fahrzeug": "TERSCHELLING",
       "route": "RÜB → UTG",
       "time": "Fri Jan 30 08:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:11",
-        "eta_rueb": "14:11",
-        "delta_rueb_schleuse": "04:00",
-        "delta_start_rueb": "04:51"
-      },
-      "eta_rueb": "14:11",
-      "eta_schleuse": "18:11",
-      "delta_rueb_schleuse": "04:00",
-      "delta_start_rueb": "04:51"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -666,14 +661,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 08:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:07",
+        "eta_schleuse": "18:09",
         "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "14:32",
-      "eta_schleuse": "18:07",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "18:09",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:12"
     },
     {
@@ -686,29 +681,24 @@
       "fahrzeug": "TERSCHELLING",
       "route": "RÜB → UTG",
       "time": "Fri Jan 30 08:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:11",
-        "eta_rueb": "14:11",
-        "delta_rueb_schleuse": "04:00",
-        "delta_start_rueb": "04:51"
-      },
-      "eta_rueb": "14:11",
-      "eta_schleuse": "18:11",
-      "delta_rueb_schleuse": "04:00",
-      "delta_start_rueb": "04:51"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:57",
+      "eta_rueb_kiel": "18:56",
       "eta_rueb": "18:50",
       "ship": "GERDA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:52",
+      "eta_rueb_kiel": "20:54",
       "eta_rueb": "20:30",
       "ship": "HENRIKE",
       "q_gruppe": "5",
@@ -729,7 +719,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:01",
+      "eta_rueb_kiel": "21:04",
       "eta_rueb": "20:55",
       "ship": "TARZAN",
       "q_gruppe": "5",
