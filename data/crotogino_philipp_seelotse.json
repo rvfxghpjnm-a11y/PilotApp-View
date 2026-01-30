@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T04:02:45",
+  "generated_at": "2026-01-30T04:04:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -207,14 +207,14 @@
       "time": "Fri Jan 30 00:48:00 CET 2026",
       "times": {
         "eta_schleuse": "11:18",
-        "eta_rueb": "06:13",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "04:15"
+        "eta_rueb": "06:12",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "04:14"
       },
-      "eta_rueb": "06:13",
+      "eta_rueb": "06:12",
       "eta_schleuse": "11:18",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "04:15"
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -223,8 +223,8 @@
       "name": "Mathias Krügel",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "BALTIC DREAM",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Jan 30 00:18:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -239,8 +239,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "TERNVIND",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Jan 30 00:18:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -260,14 +260,14 @@
       "time": "Thu Jan 29 22:55:00 CET 2026",
       "times": {
         "eta_schleuse": "11:14",
-        "eta_rueb": "06:09",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "04:11"
+        "eta_rueb": "06:08",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "06:09",
+      "eta_rueb": "06:08",
       "eta_schleuse": "11:14",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "04:11"
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -354,14 +354,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 17:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:01",
+        "eta_schleuse": "05:00",
         "eta_rueb": "00:44",
-        "delta_rueb_schleuse": "04:17",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "00:44",
-      "eta_schleuse": "05:01",
-      "delta_rueb_schleuse": "04:17",
+      "eta_schleuse": "05:00",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "04:26"
     }
   ],
@@ -468,14 +468,14 @@
       "time": "Fri Jan 30 00:48:00 CET 2026",
       "times": {
         "eta_schleuse": "11:18",
-        "eta_rueb": "06:13",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "04:15"
+        "eta_rueb": "06:12",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "04:14"
       },
-      "eta_rueb": "06:13",
+      "eta_rueb": "06:12",
       "eta_schleuse": "11:18",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "04:15"
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -489,14 +489,14 @@
       "time": "Thu Jan 29 22:55:00 CET 2026",
       "times": {
         "eta_schleuse": "11:14",
-        "eta_rueb": "06:09",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "04:11"
+        "eta_rueb": "06:08",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "06:09",
+      "eta_rueb": "06:08",
       "eta_schleuse": "11:14",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "04:11"
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -567,28 +567,28 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 17:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:01",
+        "eta_schleuse": "05:00",
         "eta_rueb": "00:44",
-        "delta_rueb_schleuse": "04:17",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "00:44",
-      "eta_schleuse": "05:01",
-      "delta_rueb_schleuse": "04:17",
+      "eta_schleuse": "05:00",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "04:26"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:55",
+      "eta_rueb_kiel": "05:54",
       "eta_rueb": "05:45",
       "ship": "WILSON NANJING",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:01",
+      "eta_rueb_kiel": "08:00",
       "eta_rueb": "07:50",
       "ship": "EXPERT",
       "q_gruppe": "1",
