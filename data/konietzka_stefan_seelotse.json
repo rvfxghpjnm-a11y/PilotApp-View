@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T09:40:47",
+  "generated_at": "2026-01-30T09:42:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,14 +68,14 @@
       "route": "UTG → RÜB",
       "time": "Fri Jan 30 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:48",
+        "eta_schleuse": "17:51",
         "eta_rueb": "12:47",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:04",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "12:47",
-      "eta_schleuse": "17:48",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "17:51",
+      "delta_rueb_schleuse": "05:04",
       "delta_start_rueb": "05:33"
     },
     {
@@ -131,15 +131,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 04:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:18",
-        "eta_rueb": "09:44",
-        "delta_rueb_schleuse": "05:34",
-        "delta_start_rueb": "04:10"
+        "eta_schleuse": "15:22",
+        "eta_rueb": "09:43",
+        "delta_rueb_schleuse": "05:39",
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "09:44",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "05:34",
-      "delta_start_rueb": "04:10"
+      "eta_rueb": "09:43",
+      "eta_schleuse": "15:22",
+      "delta_rueb_schleuse": "05:39",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -212,14 +212,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VANQUISH",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 30 03:06:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:48",
+        "eta_rueb": "10:04",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "04:54"
+      },
+      "eta_rueb": "10:04",
+      "eta_schleuse": "13:48",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "04:54"
     },
     {
       "is_target": false,
@@ -399,14 +404,14 @@
       "route": "UTG → RÜB",
       "time": "Fri Jan 30 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:48",
+        "eta_schleuse": "17:51",
         "eta_rueb": "12:47",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:04",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "12:47",
-      "eta_schleuse": "17:48",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "17:51",
+      "delta_rueb_schleuse": "05:04",
       "delta_start_rueb": "05:33"
     },
     {
@@ -462,15 +467,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 04:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:18",
-        "eta_rueb": "09:44",
-        "delta_rueb_schleuse": "05:34",
-        "delta_start_rueb": "04:10"
+        "eta_schleuse": "15:22",
+        "eta_rueb": "09:43",
+        "delta_rueb_schleuse": "05:39",
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "09:44",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "05:34",
-      "delta_start_rueb": "04:10"
+      "eta_rueb": "09:43",
+      "eta_schleuse": "15:22",
+      "delta_rueb_schleuse": "05:39",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -511,14 +516,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VANQUISH",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 30 03:06:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:48",
+        "eta_rueb": "10:04",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "04:54"
+      },
+      "eta_rueb": "10:04",
+      "eta_schleuse": "13:48",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "04:54"
     },
     {
       "is_target": false,
@@ -560,13 +570,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "10:04",
-      "eta_rueb": "10:00",
-      "ship": "VANQUISH",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "12:00",
@@ -610,21 +613,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:24",
+      "eta_rueb_kiel": "14:23",
       "eta_rueb": "14:05",
       "ship": "JOLYN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:27",
+      "eta_rueb_kiel": "14:26",
       "eta_rueb": "14:08",
       "ship": "TERSCHELLING",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "14:31",
+      "eta_rueb_kiel": "14:30",
       "eta_rueb": "14:11",
       "ship": "JUMBO",
       "q_gruppe": "5",
