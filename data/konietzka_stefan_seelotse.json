@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T06:16:46",
+  "generated_at": "2026-01-30T06:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 03:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:29",
+        "eta_schleuse": "13:32",
         "eta_rueb": "08:32",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "03:58"
       },
       "eta_rueb": "08:32",
-      "eta_schleuse": "13:29",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "13:32",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "03:58"
     },
     {
@@ -184,14 +184,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 02:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:04",
+        "eta_schleuse": "07:03",
         "eta_rueb": "03:38",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "03:38",
-      "eta_schleuse": "07:04",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "07:03",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:18"
     },
     {
@@ -302,8 +302,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -322,14 +322,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:21",
+        "eta_schleuse": "09:20",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:21",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "09:20",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:20"
     }
   ],
@@ -382,14 +382,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 03:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:29",
+        "eta_schleuse": "13:32",
         "eta_rueb": "08:32",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "03:58"
       },
       "eta_rueb": "08:32",
-      "eta_schleuse": "13:29",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "13:32",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "03:58"
     },
     {
@@ -445,14 +445,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 02:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:04",
+        "eta_schleuse": "07:03",
         "eta_rueb": "03:38",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "03:38",
-      "eta_schleuse": "07:04",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "07:03",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:18"
     },
     {
@@ -499,8 +499,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -519,21 +519,21 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:21",
+        "eta_schleuse": "09:20",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:21",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "09:20",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:20"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:00",
+      "eta_rueb_kiel": "08:01",
       "eta_rueb": "07:50",
       "ship": "EXPERT",
       "q_gruppe": "1",
