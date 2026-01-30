@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:32:45",
+  "generated_at": "2026-01-30T22:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 0,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -53,14 +53,14 @@
       "time": "Fri Jan 30 21:35:00 CET 2026",
       "times": {
         "eta_schleuse": "02:51",
-        "eta_rueb": "22:57",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "05:07"
+        "eta_rueb": "22:55",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "05:05"
       },
-      "eta_rueb": "22:57",
+      "eta_rueb": "22:55",
       "eta_schleuse": "02:51",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "05:07"
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:31",
-        "eta_rueb": "02:04",
+        "eta_schleuse": "06:32",
+        "eta_rueb": "02:05",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "02:04",
-      "eta_schleuse": "06:31",
+      "eta_rueb": "02:05",
+      "eta_schleuse": "06:32",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -111,14 +111,14 @@
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
         "eta_schleuse": "06:26",
-        "eta_rueb": "01:58",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:36"
+        "eta_rueb": "01:59",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "01:58",
+      "eta_rueb": "01:59",
       "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:36"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -301,31 +301,15 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 14:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:26",
+        "eta_schleuse": "01:27",
         "eta_rueb": "20:53",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "20:53",
-      "eta_schleuse": "01:26",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "01:27",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "05:39"
-    },
-    {
-      "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Weise",
-      "name": "Carsten Weise",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "LOVISA",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 30 14:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -333,19 +317,19 @@
       "nachname": "Wille",
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "ALDEBARAN J",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 13:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:33",
+        "eta_schleuse": "01:34",
         "eta_rueb": "21:04",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:30",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "21:04",
-      "eta_schleuse": "01:33",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "01:34",
+      "delta_rueb_schleuse": "04:30",
       "delta_start_rueb": "05:52"
     },
     {
@@ -354,19 +338,19 @@
       "nachname": "Wäntig",
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "ELBWIND",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 13:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:31",
+        "eta_schleuse": "01:32",
         "eta_rueb": "20:59",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "20:59",
-      "eta_schleuse": "01:31",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "01:32",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "04:41"
     },
     {
@@ -375,7 +359,7 @@
       "nachname": "Böttger",
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "GERDA",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 12:44:00 CET 2026",
@@ -436,14 +420,14 @@
       "time": "Fri Jan 30 21:35:00 CET 2026",
       "times": {
         "eta_schleuse": "02:51",
-        "eta_rueb": "22:57",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "05:07"
+        "eta_rueb": "22:55",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "05:05"
       },
-      "eta_rueb": "22:57",
+      "eta_rueb": "22:55",
       "eta_schleuse": "02:51",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "05:07"
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -472,15 +456,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:31",
-        "eta_rueb": "02:04",
+        "eta_schleuse": "06:32",
+        "eta_rueb": "02:05",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "02:04",
-      "eta_schleuse": "06:31",
+      "eta_rueb": "02:05",
+      "eta_schleuse": "06:32",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -494,14 +478,14 @@
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
         "eta_schleuse": "06:26",
-        "eta_rueb": "01:58",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:36"
+        "eta_rueb": "01:59",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "01:58",
+      "eta_rueb": "01:59",
       "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:36"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -572,14 +556,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 14:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:26",
+        "eta_schleuse": "01:27",
         "eta_rueb": "20:53",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "20:53",
-      "eta_schleuse": "01:26",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "01:27",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "05:39"
     },
     {
@@ -588,19 +572,19 @@
       "nachname": "Wille",
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "ALDEBARAN J",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 13:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:33",
+        "eta_schleuse": "01:34",
         "eta_rueb": "21:04",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:30",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "21:04",
-      "eta_schleuse": "01:33",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "01:34",
+      "delta_rueb_schleuse": "04:30",
       "delta_start_rueb": "05:52"
     },
     {
@@ -609,19 +593,19 @@
       "nachname": "Wäntig",
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "ELBWIND",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 13:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:31",
+        "eta_schleuse": "01:32",
         "eta_rueb": "20:59",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "20:59",
-      "eta_schleuse": "01:31",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "01:32",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "04:41"
     },
     {
@@ -630,7 +614,7 @@
       "nachname": "Böttger",
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "GERDA",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 12:44:00 CET 2026",
@@ -670,7 +654,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "01:30",
+      "eta_rueb_kiel": "01:29",
       "eta_rueb": "01:20",
       "ship": "ANNA",
       "q_gruppe": "5",
