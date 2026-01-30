@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T09:20:49",
+  "generated_at": "2026-01-30T09:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 2,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 30 09:01:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:26",
+        "eta_schleuse": "09:28",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:26",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "09:28",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:20"
     },
     {
@@ -73,14 +73,14 @@
       "route": "UTG → RÜB",
       "time": "Fri Jan 30 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:50",
+        "eta_schleuse": "17:49",
         "eta_rueb": "12:47",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "12:47",
-      "eta_schleuse": "17:50",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "17:49",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "05:33"
     },
     {
@@ -303,39 +303,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Zimmermann",
-      "name": "Martin Zimmermann",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "CORA JO",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 30 01:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jens",
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "EXPERT",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 00:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:28",
+        "eta_schleuse": "11:30",
         "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:50"
       },
       "eta_rueb": "07:58",
-      "eta_schleuse": "11:28",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "11:30",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:50"
     },
     {
@@ -344,7 +328,7 @@
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "PATRIA SEAWAYS",
       "route": "KLT → SWK",
       "time": "Fri Jan 30 00:18:00 CET 2026",
@@ -360,19 +344,19 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "WILSON NANJING",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:26",
+        "eta_schleuse": "09:28",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:26",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "09:28",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:20"
     }
   ],
@@ -420,14 +404,14 @@
       "route": "UTG → RÜB",
       "time": "Fri Jan 30 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:50",
+        "eta_schleuse": "17:49",
         "eta_rueb": "12:47",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "12:47",
-      "eta_schleuse": "17:50",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "17:49",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "05:33"
     },
     {
@@ -542,19 +526,19 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "EXPERT",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 00:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:28",
+        "eta_schleuse": "11:30",
         "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:50"
       },
       "eta_rueb": "07:58",
-      "eta_schleuse": "11:28",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "11:30",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:50"
     },
     {
@@ -563,19 +547,19 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "WILSON NANJING",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 22:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:26",
+        "eta_schleuse": "09:28",
         "eta_rueb": "05:50",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "05:50",
-      "eta_schleuse": "09:26",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "09:28",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:20"
     }
   ],
