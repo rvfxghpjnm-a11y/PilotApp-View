@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T19:32:47",
+  "generated_at": "2026-01-30T19:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 1,
-    "see": 11
+    "see": 12
   },
   "times": null,
   "lotsen": [
@@ -157,10 +157,10 @@
       "vorname": "Jens",
       "nachname": "Röhl",
       "name": "Jens Röhl",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "EMOTION",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Jan 30 15:20:00 CET 2026",
       "times": {
         "eta_schleuse": "20:23",
@@ -421,27 +421,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "name": "Jens Röhl",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "EMOTION",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 30 15:20:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:23",
-        "eta_rueb": "16:44",
-        "delta_rueb_schleuse": "03:39",
-        "delta_start_rueb": "04:34"
-      },
-      "eta_rueb": "16:44",
-      "eta_schleuse": "20:23",
-      "delta_rueb_schleuse": "03:39",
-      "delta_start_rueb": "04:34"
-    },
-    {
-      "is_target": false,
       "vorname": "Micha",
       "nachname": "Steffens",
       "name": "Micha Steffens",
@@ -571,7 +550,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:09",
+      "eta_rueb_kiel": "23:08",
       "eta_rueb": "22:50",
       "ship": "EDITH",
       "q_gruppe": "2",
