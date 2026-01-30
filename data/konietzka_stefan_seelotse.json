@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T07:22:44",
+  "generated_at": "2026-01-30T07:24:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -95,14 +95,14 @@
       "time": "Fri Jan 30 03:20:00 CET 2026",
       "times": {
         "eta_schleuse": "13:33",
-        "eta_rueb": "08:28",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "08:27",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "08:28",
+      "eta_rueb": "08:27",
       "eta_schleuse": "13:33",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -377,14 +377,14 @@
       "time": "Fri Jan 30 03:20:00 CET 2026",
       "times": {
         "eta_schleuse": "13:33",
-        "eta_rueb": "08:28",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "08:27",
+        "delta_rueb_schleuse": "05:06",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "08:28",
+      "eta_rueb": "08:27",
       "eta_schleuse": "13:33",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "05:06",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -480,6 +480,13 @@
       "eta_rueb": "10:00",
       "ship": "VANQUISH",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "12:00",
+      "ship": "SARAH-B",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
