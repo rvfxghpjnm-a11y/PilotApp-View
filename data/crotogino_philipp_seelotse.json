@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T20:08:45",
+  "generated_at": "2026-01-30T20:10:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,16 +40,11 @@
       "fahrzeug": "TERSCHELLING",
       "route": "HOS → KLT",
       "time": "Fri Jan 30 19:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "14:11",
-        "delta_rueb_schleuse": "2286172:35",
-        "delta_start_rueb": "04:51"
-      },
-      "eta_rueb": "14:11",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2286172:35",
-      "delta_start_rueb": "04:51"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -550,7 +545,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:57",
+      "eta_rueb_kiel": "20:56",
       "eta_rueb": "20:48",
       "ship": "TARZAN",
       "q_gruppe": "5",
