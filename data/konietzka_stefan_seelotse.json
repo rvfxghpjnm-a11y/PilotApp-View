@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T11:26:46",
+  "generated_at": "2026-01-30T11:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,16 +35,11 @@
       "fahrzeug": "EXPERT",
       "route": "HOS → KLT",
       "time": "Fri Jan 30 10:57:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:26",
-        "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:28",
-        "delta_start_rueb": "04:50"
-      },
-      "eta_rueb": "07:58",
-      "eta_schleuse": "11:26",
-      "delta_rueb_schleuse": "03:28",
-      "delta_start_rueb": "04:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -88,9 +83,14 @@
       "fahrzeug": "X-PRESS GODAVARI",
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 10:31:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:16",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -143,8 +143,8 @@
       "name": "Alexander Hren",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "WILSON NANJING",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 30 09:01:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -395,16 +395,11 @@
       "fahrzeug": "EXPERT",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 00:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:26",
-        "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:28",
-        "delta_start_rueb": "04:50"
-      },
-      "eta_rueb": "07:58",
-      "eta_schleuse": "11:26",
-      "delta_rueb_schleuse": "03:28",
-      "delta_start_rueb": "04:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -450,9 +445,14 @@
       "fahrzeug": "X-PRESS GODAVARI",
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 10:31:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:16",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -677,16 +677,11 @@
       "fahrzeug": "EXPERT",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 00:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:26",
-        "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:28",
-        "delta_start_rueb": "04:50"
-      },
-      "eta_rueb": "07:58",
-      "eta_schleuse": "11:26",
-      "delta_rueb_schleuse": "03:28",
-      "delta_start_rueb": "04:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
