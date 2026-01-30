@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-30T16:08:47",
+  "generated_at": "2026-01-30T16:10:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 1,
     "see": 8
   },
@@ -32,8 +32,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 30 15:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -258,14 +258,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 30 10:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:09",
+        "eta_schleuse": "16:11",
         "eta_rueb": "12:28",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "12:28",
-      "eta_schleuse": "16:09",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "16:11",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:28"
     },
     {
@@ -468,22 +468,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Hilpert",
-      "name": "Jan Hilpert",
-      "aufgabe": "Kanalbört",
-      "nr": 26,
-      "fahrzeug": "BELLIS THERESA",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 30 03:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -494,8 +478,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 30 15:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -797,22 +781,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Hilpert",
-      "name": "Jan Hilpert",
-      "aufgabe": "Kanalbört",
-      "nr": 26,
-      "fahrzeug": "BELLIS THERESA",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 30 03:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -846,7 +814,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:17",
+      "eta_rueb_kiel": "21:15",
       "eta_rueb": "20:33",
       "ship": "ALDEBARAN J",
       "q_gruppe": "2",
