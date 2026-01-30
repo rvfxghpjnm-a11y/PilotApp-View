@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T17:16:49",
+  "generated_at": "2026-01-30T17:18:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -162,10 +162,10 @@
       "vorname": "Henning",
       "nachname": "Blome",
       "name": "Henning Blome",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "JUMBO",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Jan 30 12:55:00 CET 2026",
       "times": {
         "eta_schleuse": "17:59",
@@ -533,27 +533,6 @@
       "eta_schleuse": "00:25",
       "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Blome",
-      "name": "Henning Blome",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "JUMBO",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 30 12:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:59",
-        "eta_rueb": "14:15",
-        "delta_rueb_schleuse": "03:44",
-        "delta_start_rueb": "04:55"
-      },
-      "eta_rueb": "14:15",
-      "eta_schleuse": "17:59",
-      "delta_rueb_schleuse": "03:44",
-      "delta_start_rueb": "04:55"
     },
     {
       "is_target": false,
