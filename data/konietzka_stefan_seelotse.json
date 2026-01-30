@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T00:44:37",
+  "generated_at": "2026-01-31T00:46:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -78,14 +78,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HARBOUR FASHION",
+      "route": "RÜB → UTG",
       "time": "Fri Jan 30 23:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:06",
+        "eta_rueb": "01:13",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:53"
+      },
+      "eta_rueb": "01:13",
+      "eta_schleuse": "05:06",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:53"
     },
     {
       "is_target": false,
@@ -214,14 +219,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 21:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:53",
+        "eta_schleuse": "02:51",
         "eta_rueb": "22:54",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "22:54",
-      "eta_schleuse": "02:53",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "02:51",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "05:04"
     },
     {
@@ -534,14 +539,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HARBOUR FASHION",
+      "route": "RÜB → UTG",
       "time": "Fri Jan 30 23:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:06",
+        "eta_rueb": "01:13",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:53"
+      },
+      "eta_rueb": "01:13",
+      "eta_schleuse": "05:06",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:53"
     },
     {
       "is_target": false,
@@ -670,14 +680,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 21:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:53",
+        "eta_schleuse": "02:51",
         "eta_rueb": "22:54",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "22:54",
-      "eta_schleuse": "02:53",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "02:51",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "05:04"
     },
     {
@@ -852,13 +862,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:13",
-      "eta_rueb": "01:15",
-      "ship": "HARBOUR FASHION",
-      "q_gruppe": "2",
-      "route": "RÜB → UTG"
-    },
-    {
       "eta_rueb_kiel": "01:25",
       "eta_rueb": "01:20",
       "ship": "ANNA",
@@ -876,6 +879,13 @@
       "eta_rueb_kiel": "04:36",
       "eta_rueb": "03:25",
       "ship": "THUN GARLAND",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:25",
+      "eta_rueb": "05:15",
+      "ship": "BIT FORCE",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
