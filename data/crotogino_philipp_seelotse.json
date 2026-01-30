@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T02:08:46",
+  "generated_at": "2026-01-30T02:10:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,16 +19,11 @@
       "fahrzeug": "LISA LEHMANN",
       "route": "HOS → KLT",
       "time": "Fri Jan 30 01:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "02:03",
-        "eta_rueb": "22:05",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "06:41"
-      },
-      "eta_rueb": "22:05",
-      "eta_schleuse": "02:03",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "06:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -272,16 +267,11 @@
       "fahrzeug": "LISA LEHMANN",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 14:49:00 CET 2026",
-      "times": {
-        "eta_schleuse": "02:03",
-        "eta_rueb": "22:05",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "06:41"
-      },
-      "eta_rueb": "22:05",
-      "eta_schleuse": "02:03",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "06:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -479,16 +469,11 @@
       "fahrzeug": "LISA LEHMANN",
       "route": "RÜB → HOS",
       "time": "Thu Jan 29 14:49:00 CET 2026",
-      "times": {
-        "eta_schleuse": "02:03",
-        "eta_rueb": "22:05",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "06:41"
-      },
-      "eta_rueb": "22:05",
-      "eta_schleuse": "02:03",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "06:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -508,7 +493,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:00",
+      "eta_rueb_kiel": "05:59",
       "eta_rueb": "05:45",
       "ship": "WILSON NANJING",
       "q_gruppe": "3",
