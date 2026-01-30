@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T23:02:47",
+  "generated_at": "2026-01-30T23:04:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,9 +88,14 @@
       "fahrzeug": "X-PRESS ELBE",
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:08",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:08",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -434,9 +439,14 @@
       "fahrzeug": "X-PRESS ELBE",
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:08",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:08",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -635,7 +645,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:48",
+      "eta_rueb_kiel": "01:47",
       "eta_rueb": "01:30",
       "ship": "SUSANNE",
       "q_gruppe": "5",
