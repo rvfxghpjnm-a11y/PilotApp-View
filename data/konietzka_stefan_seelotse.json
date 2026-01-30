@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T21:58:46",
+  "generated_at": "2026-01-30T22:00:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -240,8 +240,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "EMOTION",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 30 15:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -371,14 +371,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 12:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:44",
+        "eta_schleuse": "22:43",
         "eta_rueb": "18:53",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "18:53",
-      "eta_schleuse": "22:44",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "22:43",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:27"
     }
   ],
@@ -585,14 +585,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 12:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:44",
+        "eta_schleuse": "22:43",
         "eta_rueb": "18:53",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "18:53",
-      "eta_schleuse": "22:44",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "22:43",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:27"
     }
   ],
@@ -648,7 +648,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:06",
+      "eta_rueb_kiel": "23:05",
       "eta_rueb": "23:03",
       "ship": "ARNE",
       "q_gruppe": "3",
