@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T08:36:45",
+  "generated_at": "2026-01-31T08:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,16 +35,11 @@
       "fahrzeug": "BIT FORCE",
       "route": "HOS → KLT",
       "time": "Sat Jan 31 08:01:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:32",
-        "eta_rueb": "05:06",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "07:56"
-      },
-      "eta_rueb": "05:06",
-      "eta_schleuse": "08:32",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "07:56"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -321,16 +316,11 @@
       "fahrzeug": "BIT FORCE",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 22:16:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:32",
-        "eta_rueb": "05:06",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "07:56"
-      },
-      "eta_rueb": "05:06",
-      "eta_schleuse": "08:32",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "07:56"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -508,16 +498,11 @@
       "fahrzeug": "BIT FORCE",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 22:16:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:32",
-        "eta_rueb": "05:06",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "07:56"
-      },
-      "eta_rueb": "05:06",
-      "eta_schleuse": "08:32",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "07:56"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -575,7 +560,7 @@
     },
     {
       "eta_rueb_kiel": "12:42",
-      "eta_rueb": "13:00",
+      "eta_rueb": "12:30",
       "ship": "DANIEL DEYMANN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
