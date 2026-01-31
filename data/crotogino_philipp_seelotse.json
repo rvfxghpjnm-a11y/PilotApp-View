@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T04:04:43",
+  "generated_at": "2026-01-31T04:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -221,14 +221,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 23:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:57",
+        "eta_schleuse": "04:56",
         "eta_rueb": "01:03",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "01:03",
-      "eta_schleuse": "04:57",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "04:56",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:37"
     },
     {
@@ -280,19 +280,14 @@
       "name": "Jan Hilpert",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "ECO OSTRO",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 30 22:52:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:33",
-        "eta_rueb": "04:05",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "04:05",
-      "eta_schleuse": "08:33",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -370,8 +365,8 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Seebört",
       "nr": 20,
-      "fahrzeug": "ARNE",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -513,14 +508,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 23:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:57",
+        "eta_schleuse": "04:56",
         "eta_rueb": "01:03",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "01:03",
-      "eta_schleuse": "04:57",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "04:56",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:37"
     },
     {
@@ -572,19 +567,14 @@
       "name": "Jan Hilpert",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "ECO OSTRO",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 30 22:52:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:33",
-        "eta_rueb": "04:05",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "04:05",
-      "eta_schleuse": "08:33",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
