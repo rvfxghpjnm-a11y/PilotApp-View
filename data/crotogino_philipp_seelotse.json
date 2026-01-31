@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T20:48:48",
+  "generated_at": "2026-01-31T20:50:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "BOTHNIABORG",
       "route": "HOR → RÜB",
       "time": "Sat Jan 31 19:50:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:37",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -475,9 +480,14 @@
       "fahrzeug": "BOTHNIABORG",
       "route": "HOR → RÜB",
       "time": "Sat Jan 31 19:50:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:37",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
