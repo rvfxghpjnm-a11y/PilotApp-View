@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T07:46:46",
+  "generated_at": "2026-01-31T07:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,9 +88,14 @@
       "fahrzeug": "LADY HEDWIG",
       "route": "HOR → RÜB",
       "time": "Sat Jan 31 06:44:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:05",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:05",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -339,9 +344,14 @@
       "fahrzeug": "LADY HEDWIG",
       "route": "HOR → RÜB",
       "time": "Sat Jan 31 06:44:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:05",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:05",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -484,7 +494,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "11:45",
+      "eta_rueb_kiel": "11:47",
       "eta_rueb": "11:20",
       "ship": "BALTICBORG",
       "q_gruppe": "1",
@@ -498,7 +508,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:43",
+      "eta_rueb_kiel": "11:44",
       "eta_rueb": "11:20",
       "ship": "SOFIA",
       "q_gruppe": "4",
