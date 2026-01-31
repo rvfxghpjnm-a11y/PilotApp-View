@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T22:24:46",
+  "generated_at": "2026-01-31T22:26:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -273,16 +273,11 @@
       "fahrzeug": "SELENKA",
       "route": "RÜB → UTG",
       "time": "Sat Jan 31 15:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:24",
-        "eta_rueb": "17:23",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "05:13"
-      },
-      "eta_rueb": "17:23",
-      "eta_schleuse": "22:24",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "05:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -507,16 +502,11 @@
       "fahrzeug": "SELENKA",
       "route": "RÜB → UTG",
       "time": "Sat Jan 31 15:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:24",
-        "eta_rueb": "17:23",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "05:13"
-      },
-      "eta_rueb": "17:23",
-      "eta_schleuse": "22:24",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "05:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -559,24 +549,10 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:11",
-      "eta_rueb": "01:53",
-      "ship": "AMADEUS GOLD",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "02:00",
       "eta_rueb": "01:55",
       "ship": "ELBTEAM",
       "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "02:14",
-      "eta_rueb": "01:55",
-      "ship": "RIX AMETHYST",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
@@ -590,6 +566,20 @@
       "eta_rueb_kiel": "02:08",
       "eta_rueb": "02:00",
       "ship": "BALTIC ARROW",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "02:11",
+      "eta_rueb": "02:03",
+      "ship": "AMADEUS GOLD",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "02:14",
+      "eta_rueb": "02:05",
+      "ship": "RIX AMETHYST",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
