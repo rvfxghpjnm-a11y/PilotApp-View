@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T07:06:45",
+  "generated_at": "2026-01-31T07:08:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -237,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 21:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:28",
+        "eta_schleuse": "08:27",
         "eta_rueb": "04:29",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "05:19"
       },
       "eta_rueb": "04:29",
-      "eta_schleuse": "08:28",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "08:27",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "05:19"
     }
   ],
@@ -381,14 +381,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 21:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:28",
+        "eta_schleuse": "08:27",
         "eta_rueb": "04:29",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "05:19"
       },
       "eta_rueb": "04:29",
-      "eta_schleuse": "08:28",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "08:27",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "05:19"
     }
   ],
@@ -413,6 +413,20 @@
       "eta_rueb": "11:20",
       "ship": "BALTICBORG",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "11:33",
+      "eta_rueb": "11:20",
+      "ship": "KARILIIS",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "11:44",
+      "eta_rueb": "11:20",
+      "ship": "SOFIA",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
