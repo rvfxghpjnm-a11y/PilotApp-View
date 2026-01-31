@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-31T14:18:46",
+  "generated_at": "2026-01-31T14:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 7
   },
@@ -96,32 +96,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Buch",
-      "name": "Helge Buch",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "SOFIA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 10:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:20",
-        "eta_rueb": "11:28",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "04:24"
-      },
-      "eta_rueb": "11:28",
-      "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "04:24"
-    },
-    {
-      "is_target": false,
       "vorname": "Christoph",
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
-      "nr": 7,
+      "nr": 6,
       "fahrzeug": "KARILIIS",
       "route": "HOS → KLT",
       "time": "Sat Jan 31 10:00:00 CET 2026",
@@ -135,6 +114,27 @@
       "eta_schleuse": "15:12",
       "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:21"
+    },
+    {
+      "is_target": false,
+      "vorname": "Helge",
+      "nachname": "Buch",
+      "name": "Helge Buch",
+      "aufgabe": "Seebört",
+      "nr": 7,
+      "fahrzeug": "SOFIA",
+      "route": "HOS → KLT",
+      "time": "Sat Jan 31 10:00:00 CET 2026",
+      "times": {
+        "eta_schleuse": "15:20",
+        "eta_rueb": "11:28",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "11:28",
+      "eta_schleuse": "15:20",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -318,27 +318,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Malte",
-      "nachname": "Krause",
-      "name": "Malte Krause",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "ANNALISA P",
-      "route": "KLT → HOS",
-      "time": "Sat Jan 31 07:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "BALTICBORG",
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 06:44:00 CET 2026",
@@ -407,27 +391,6 @@
       "eta_schleuse": "21:02",
       "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "04:04"
-    },
-    {
-      "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Buch",
-      "name": "Helge Buch",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "SOFIA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 10:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:20",
-        "eta_rueb": "11:28",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "04:24"
-      },
-      "eta_rueb": "11:28",
-      "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -551,7 +514,7 @@
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "BALTICBORG",
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 06:44:00 CET 2026",
