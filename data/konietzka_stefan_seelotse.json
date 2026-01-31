@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T11:10:45",
+  "generated_at": "2026-01-31T11:12:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -53,14 +53,14 @@
       "time": "Sat Jan 31 10:00:00 CET 2026",
       "times": {
         "eta_schleuse": "15:21",
-        "eta_rueb": "11:20",
-        "delta_rueb_schleuse": "04:01",
-        "delta_start_rueb": "04:22"
+        "eta_rueb": "11:19",
+        "delta_rueb_schleuse": "04:02",
+        "delta_start_rueb": "04:21"
       },
-      "eta_rueb": "11:20",
+      "eta_rueb": "11:19",
       "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "04:01",
-      "delta_start_rueb": "04:22"
+      "delta_rueb_schleuse": "04:02",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -185,7 +185,7 @@
       "name": "Helge Rambadt",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KEY SOUTH",
+      "fahrzeug": "ANNETTE ESSBERGER",
       "route": "HOS → KLT",
       "time": "Sat Jan 31 08:01:00 CET 2026",
       "times": null,
@@ -259,8 +259,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "KEY SOUTH",
+      "route": "HOS → KLT",
       "time": "Sat Jan 31 07:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -295,15 +295,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Jan 31 06:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:58",
-        "eta_rueb": "11:31",
+        "eta_schleuse": "15:57",
+        "eta_rueb": "11:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "11:31",
-      "eta_schleuse": "15:58",
+      "eta_rueb": "11:30",
+      "eta_schleuse": "15:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -384,16 +384,11 @@
       "fahrzeug": "ANNETTE ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 00:13:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:10",
-        "eta_rueb": "07:27",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "05:39"
-      },
-      "eta_rueb": "07:27",
-      "eta_schleuse": "11:10",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "05:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -441,14 +436,14 @@
       "time": "Sat Jan 31 10:00:00 CET 2026",
       "times": {
         "eta_schleuse": "15:21",
-        "eta_rueb": "11:20",
-        "delta_rueb_schleuse": "04:01",
-        "delta_start_rueb": "04:22"
+        "eta_rueb": "11:19",
+        "delta_rueb_schleuse": "04:02",
+        "delta_start_rueb": "04:21"
       },
-      "eta_rueb": "11:20",
+      "eta_rueb": "11:19",
       "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "04:01",
-      "delta_start_rueb": "04:22"
+      "delta_rueb_schleuse": "04:02",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -619,15 +614,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Jan 31 06:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:58",
-        "eta_rueb": "11:31",
+        "eta_schleuse": "15:57",
+        "eta_rueb": "11:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "11:31",
-      "eta_schleuse": "15:58",
+      "eta_rueb": "11:30",
+      "eta_schleuse": "15:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -660,16 +655,11 @@
       "fahrzeug": "ANNETTE ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 00:13:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:10",
-        "eta_rueb": "07:27",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "05:39"
-      },
-      "eta_rueb": "07:27",
-      "eta_schleuse": "11:10",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "05:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -691,7 +681,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:31",
+      "eta_rueb_kiel": "11:29",
       "eta_rueb": "11:26",
       "ship": "SOFIA",
       "q_gruppe": "4",
