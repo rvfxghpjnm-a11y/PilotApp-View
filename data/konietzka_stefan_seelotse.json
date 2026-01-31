@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T17:16:45",
+  "generated_at": "2026-01-31T17:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALAND",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 31 16:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:43",
+        "eta_rueb": "17:44",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "17:44",
+      "eta_schleuse": "21:43",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -64,8 +69,8 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HENRIKE",
+      "route": "KRH → HOS",
       "time": "Sat Jan 31 16:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -505,14 +510,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALAND",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 31 16:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:43",
+        "eta_rueb": "17:44",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "17:44",
+      "eta_schleuse": "21:43",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -537,8 +547,8 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HENRIKE",
+      "route": "KRH → HOS",
       "time": "Sat Jan 31 16:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -845,14 +855,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "17:44",
-      "eta_rueb": "17:35",
-      "ship": "ALAND",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "17:51",
+      "eta_rueb_kiel": "17:49",
       "eta_rueb": "17:45",
       "ship": "NORDICA HAV",
       "q_gruppe": "5",
@@ -874,14 +877,7 @@
     },
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "18:00",
-      "ship": "HENRIKE",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "19:45",
+      "eta_rueb": "19:40",
       "ship": "CONTAINERSHIPS BOREALIS",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
@@ -901,7 +897,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:25",
+      "eta_rueb_kiel": "20:24",
       "eta_rueb": "20:15",
       "ship": "FALSTRIA SWAN",
       "q_gruppe": "4",
