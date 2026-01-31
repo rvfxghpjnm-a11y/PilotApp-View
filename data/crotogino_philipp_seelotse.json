@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T10:06:46",
+  "generated_at": "2026-01-31T10:08:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -133,8 +133,8 @@
       "name": "Helge Rambadt",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "BIT FORCE",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 31 08:01:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -149,8 +149,8 @@
       "name": "Peter Hüpers",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SAN BACCO",
+      "route": "KLT → HOS",
       "time": "Sat Jan 31 07:56:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -696,6 +696,13 @@
       "eta_rueb": "12:30",
       "ship": "DANIEL DEYMANN",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "14:30",
+      "ship": "HIPPO + TRD VOYAGER + BISON",
+      "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
   ]
