@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T03:24:37",
+  "generated_at": "2026-01-31T03:26:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -49,9 +49,14 @@
       "fahrzeug": "WILSON BORG",
       "route": "UTG → RÜB",
       "time": "Sat Jan 31 02:50:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -389,9 +394,14 @@
       "fahrzeug": "WILSON BORG",
       "route": "UTG → RÜB",
       "time": "Sat Jan 31 02:50:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
