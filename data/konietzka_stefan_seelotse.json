@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-31T20:12:45",
+  "generated_at": "2026-01-31T20:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 20,
+    "kanal": 19,
     "wach": 1,
     "see": 7
   },
@@ -52,14 +52,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Jan 31 19:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:27",
+        "eta_schleuse": "05:23",
         "eta_rueb": "00:00",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "05:23",
         "delta_start_rueb": "06:08"
       },
       "eta_rueb": "00:00",
-      "eta_schleuse": "04:27",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "05:23",
+      "delta_rueb_schleuse": "05:23",
       "delta_start_rueb": "06:08"
     },
     {
@@ -422,19 +422,19 @@
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "DELIA",
-      "route": "HOR → RÜB",
+      "fahrzeug": "FALSTRIA SWAN",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 31 14:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:32",
-        "eta_rueb": "20:06",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:38"
+        "eta_schleuse": "23:45",
+        "eta_rueb": "20:11",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "20:06",
-      "eta_schleuse": "00:32",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:38"
+      "eta_rueb": "20:11",
+      "eta_schleuse": "23:45",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -515,22 +515,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Dennis",
-      "nachname": "Heyenga",
-      "name": "Dennis Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 28,
-      "fahrzeug": "LAFJELL",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 09:57:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -561,14 +545,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Jan 31 19:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:27",
+        "eta_schleuse": "05:23",
         "eta_rueb": "00:00",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "05:23",
         "delta_start_rueb": "06:08"
       },
       "eta_rueb": "00:00",
-      "eta_schleuse": "04:27",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "05:23",
+      "delta_rueb_schleuse": "05:23",
       "delta_start_rueb": "06:08"
     },
     {
@@ -851,19 +835,19 @@
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "DELIA",
-      "route": "HOR → RÜB",
+      "fahrzeug": "FALSTRIA SWAN",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 31 14:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:32",
-        "eta_rueb": "20:06",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:38"
+        "eta_schleuse": "23:45",
+        "eta_rueb": "20:11",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "20:06",
-      "eta_schleuse": "00:32",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:38"
+      "eta_rueb": "20:11",
+      "eta_schleuse": "23:45",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -912,43 +896,20 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Dennis",
-      "nachname": "Heyenga",
-      "name": "Dennis Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 28,
-      "fahrzeug": "LAFJELL",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 09:57:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:11",
-      "eta_rueb": "20:15",
-      "ship": "FALSTRIA SWAN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "22:53",
-      "eta_rueb": "22:50",
+      "eta_rueb": "22:40",
       "ship": "FAST JEF",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "23:35",
-      "eta_rueb": "23:30",
+      "eta_rueb": "23:20",
       "ship": "FREJ",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
