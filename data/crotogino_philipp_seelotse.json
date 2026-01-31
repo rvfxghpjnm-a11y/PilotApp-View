@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T03:36:44",
+  "generated_at": "2026-01-31T03:38:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -147,14 +147,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 23:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:52",
+        "eta_schleuse": "04:50",
         "eta_rueb": "00:38",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "00:38",
-      "eta_schleuse": "04:52",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "04:50",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:18"
     },
     {
@@ -285,19 +285,14 @@
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "LOVISA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 30 21:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:30",
-        "eta_rueb": "03:38",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "03:38",
-      "eta_schleuse": "08:30",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -439,14 +434,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 23:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:52",
+        "eta_schleuse": "04:50",
         "eta_rueb": "00:38",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "00:38",
-      "eta_schleuse": "04:52",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "04:50",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:18"
     },
     {
@@ -577,19 +572,14 @@
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "LOVISA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 30 21:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:30",
-        "eta_rueb": "03:38",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "03:38",
-      "eta_schleuse": "08:30",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -611,7 +601,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:32",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "03:35",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "04:30",
       "eta_rueb": "04:30",
       "ship": "THUN GARLAND",
       "q_gruppe": "4",
