@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T04:48:37",
+  "generated_at": "2026-01-31T04:50:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 11,
     "wach": 2,
-    "see": 6
+    "see": 4
   },
   "times": {
     "eta_schleuse": "05:08",
@@ -202,16 +202,11 @@
       "fahrzeug": "ANDREA",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 23:20:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:48",
-        "eta_rueb": "00:38",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "00:38",
-      "eta_schleuse": "04:48",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -354,38 +349,6 @@
       "eta_schleuse": "08:37",
       "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:19"
-    },
-    {
-      "is_target": false,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "name": "Heiko Hoffmann",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 30 21:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Dietrich",
-      "name": "Thomas Dietrich",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 30 20:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -462,16 +425,11 @@
       "fahrzeug": "ANDREA",
       "route": "RÜB → HOS",
       "time": "Fri Jan 30 23:20:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:48",
-        "eta_rueb": "00:38",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "00:38",
-      "eta_schleuse": "04:48",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
