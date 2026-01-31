@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T13:02:45",
+  "generated_at": "2026-01-31T13:04:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -193,16 +193,11 @@
       "fahrzeug": "HULIN",
       "route": "RÜB → UTG",
       "time": "Sat Jan 31 08:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:07",
-        "eta_rueb": "09:30",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "09:30",
-      "eta_schleuse": "13:07",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -538,16 +533,11 @@
       "fahrzeug": "HULIN",
       "route": "RÜB → UTG",
       "time": "Sat Jan 31 08:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:07",
-        "eta_rueb": "09:30",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "09:30",
-      "eta_schleuse": "13:07",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -653,7 +643,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:33",
+      "eta_rueb_kiel": "14:32",
       "eta_rueb": "14:25",
       "ship": "WILSON SUND",
       "q_gruppe": "4",
@@ -674,7 +664,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:40",
+      "eta_rueb_kiel": "17:39",
       "eta_rueb": "17:30",
       "ship": "SELENKA",
       "q_gruppe": "3",
