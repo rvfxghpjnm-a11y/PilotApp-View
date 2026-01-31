@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T03:38:38",
+  "generated_at": "2026-01-31T03:40:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -331,8 +331,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 30 20:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -602,8 +602,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 30 20:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -615,13 +615,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "03:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "04:30",
       "eta_rueb": "04:30",
       "ship": "THUN GARLAND",
@@ -629,7 +622,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:14",
+      "eta_rueb_kiel": "05:13",
       "eta_rueb": "05:15",
       "ship": "BIT FORCE",
       "q_gruppe": "4",
