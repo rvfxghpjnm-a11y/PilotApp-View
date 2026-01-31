@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T02:36:46",
+  "generated_at": "2026-01-31T02:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 0,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -314,16 +314,21 @@
       "vorname": "Thomas",
       "nachname": "Dietrich",
       "name": "Thomas Dietrich",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ARNE",
+      "route": "HOS → KLT",
       "time": "Fri Jan 30 20:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:40",
+        "eta_rueb": "23:00",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "05:06"
+      },
+      "eta_rueb": "23:00",
+      "eta_schleuse": "02:40",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "05:06"
     },
     {
       "is_target": false,
@@ -594,22 +599,6 @@
       "eta_schleuse": "08:31",
       "delta_rueb_schleuse": "04:59",
       "delta_start_rueb": "04:28"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Dietrich",
-      "name": "Thomas Dietrich",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri Jan 30 20:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
