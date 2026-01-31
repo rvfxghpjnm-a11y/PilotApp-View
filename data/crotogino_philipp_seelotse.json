@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T12:56:44",
+  "generated_at": "2026-01-31T12:58:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -194,14 +194,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Jan 31 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:08",
+        "eta_schleuse": "13:07",
         "eta_rueb": "09:30",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "09:30",
-      "eta_schleuse": "13:08",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "13:07",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:32"
     },
     {
@@ -248,19 +248,14 @@
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RIX MISTRAL",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 31 07:49:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:41",
-        "eta_rueb": "12:17",
-        "delta_rueb_schleuse": "04:24",
-        "delta_start_rueb": "03:27"
-      },
-      "eta_rueb": "12:17",
-      "eta_schleuse": "16:41",
-      "delta_rueb_schleuse": "04:24",
-      "delta_start_rueb": "03:27"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -544,14 +539,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Jan 31 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:08",
+        "eta_schleuse": "13:07",
         "eta_rueb": "09:30",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "09:30",
-      "eta_schleuse": "13:08",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "13:07",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:32"
     },
     {
@@ -561,19 +556,14 @@
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RIX MISTRAL",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 31 07:49:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:41",
-        "eta_rueb": "12:17",
-        "delta_rueb_schleuse": "04:24",
-        "delta_start_rueb": "03:27"
-      },
-      "eta_rueb": "12:17",
-      "eta_schleuse": "16:41",
-      "delta_rueb_schleuse": "04:24",
-      "delta_start_rueb": "03:27"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -670,7 +660,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:40",
+      "eta_rueb_kiel": "16:39",
       "eta_rueb": "16:30",
       "ship": "LAFJELL",
       "q_gruppe": "5",
