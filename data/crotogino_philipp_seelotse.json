@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T01:18:46",
+  "generated_at": "2026-01-31T01:20:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Volker Nagel",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "TARZAN",
+      "route": "HOS → KLT",
       "time": "Sat Jan 31 00:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:21",
+        "eta_rueb": "20:53",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "05:39"
+      },
+      "eta_rueb": "20:53",
+      "eta_schleuse": "01:21",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "05:39"
     },
     {
       "is_target": false,
@@ -310,14 +315,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:24",
+        "eta_schleuse": "06:27",
         "eta_rueb": "01:57",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:30",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "01:57",
-      "eta_schleuse": "06:24",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "06:27",
+      "delta_rueb_schleuse": "04:30",
       "delta_start_rueb": "03:33"
     },
     {
@@ -331,14 +336,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:21",
+        "eta_schleuse": "06:23",
         "eta_rueb": "01:51",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:29"
       },
       "eta_rueb": "01:51",
-      "eta_schleuse": "06:21",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "06:23",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:29"
     },
     {
@@ -733,14 +738,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:24",
+        "eta_schleuse": "06:27",
         "eta_rueb": "01:57",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:30",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "01:57",
-      "eta_schleuse": "06:24",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "06:27",
+      "delta_rueb_schleuse": "04:30",
       "delta_start_rueb": "03:33"
     },
     {
@@ -754,14 +759,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 30 20:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:21",
+        "eta_schleuse": "06:23",
         "eta_rueb": "01:51",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:29"
       },
       "eta_rueb": "01:51",
-      "eta_schleuse": "06:21",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "06:23",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:29"
     },
     {
