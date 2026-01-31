@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T11:12:45",
+  "generated_at": "2026-01-31T11:14:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 10:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:21",
+        "eta_schleuse": "15:20",
         "eta_rueb": "11:19",
-        "delta_rueb_schleuse": "04:02",
+        "delta_rueb_schleuse": "04:01",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "11:19",
-      "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "04:02",
+      "eta_schleuse": "15:20",
+      "delta_rueb_schleuse": "04:01",
       "delta_start_rueb": "04:21"
     },
     {
@@ -69,14 +69,19 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SOFIA",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 31 10:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:27",
+        "eta_rueb": "11:29",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "04:25"
+      },
+      "eta_rueb": "11:29",
+      "eta_schleuse": "15:27",
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -242,15 +247,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Jan 31 07:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:44",
-        "eta_rueb": "12:17",
+        "eta_schleuse": "16:43",
+        "eta_rueb": "12:16",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "12:17",
-      "eta_schleuse": "16:44",
+      "eta_rueb": "12:16",
+      "eta_schleuse": "16:43",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -435,14 +440,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 10:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:21",
+        "eta_schleuse": "15:20",
         "eta_rueb": "11:19",
-        "delta_rueb_schleuse": "04:02",
+        "delta_rueb_schleuse": "04:01",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "11:19",
-      "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "04:02",
+      "eta_schleuse": "15:20",
+      "delta_rueb_schleuse": "04:01",
       "delta_start_rueb": "04:21"
     },
     {
@@ -452,14 +457,19 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SOFIA",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 31 10:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:27",
+        "eta_rueb": "11:29",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "04:25"
+      },
+      "eta_rueb": "11:29",
+      "eta_schleuse": "15:27",
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -593,15 +603,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Jan 31 07:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:44",
-        "eta_rueb": "12:17",
+        "eta_schleuse": "16:43",
+        "eta_rueb": "12:16",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "12:17",
-      "eta_schleuse": "16:44",
+      "eta_rueb": "12:16",
+      "eta_schleuse": "16:43",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -681,13 +691,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:29",
-      "eta_rueb": "11:26",
-      "ship": "SOFIA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "11:38",
       "eta_rueb": "11:29",
       "ship": "BALTICBORG",
@@ -695,7 +698,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:31",
+      "eta_rueb_kiel": "12:30",
       "eta_rueb": "12:30",
       "ship": "DANIEL DEYMANN",
       "q_gruppe": "5",
