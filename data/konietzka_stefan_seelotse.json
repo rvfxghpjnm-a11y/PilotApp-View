@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T22:52:46",
+  "generated_at": "2026-01-31T22:54:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -190,14 +190,19 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ANKIE",
+      "route": "UTG → HOS",
       "time": "Sat Jan 31 17:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "16:56",
+        "delta_rueb_schleuse": "2286145:50",
+        "delta_start_rueb": "04:12"
+      },
+      "eta_rueb": "16:56",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2286145:50",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
