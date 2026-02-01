@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T04:04:39",
+  "generated_at": "2026-02-01T04:06:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,14 +12,14 @@
     "nr": 7
   },
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 2,
     "see": 5
   },
   "times": {
-    "eta_schleuse": "08:19",
+    "eta_schleuse": "08:20",
     "eta_rueb": "04:14",
-    "delta_rueb_schleuse": "04:05",
+    "delta_rueb_schleuse": "04:06",
     "delta_start_rueb": "04:32"
   },
   "lotsen": [
@@ -114,14 +114,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:15",
+        "eta_schleuse": "08:16",
         "eta_rueb": "04:10",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "04:10",
-      "eta_schleuse": "08:15",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "08:16",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:30"
     },
     {
@@ -135,14 +135,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:19",
+        "eta_schleuse": "08:20",
         "eta_rueb": "04:14",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "04:14",
-      "eta_schleuse": "08:19",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "08:20",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:32"
     },
     {
@@ -156,14 +156,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:12",
+        "eta_schleuse": "08:13",
         "eta_rueb": "04:07",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "04:07",
-      "eta_schleuse": "08:12",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "08:13",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "05:29"
     },
     {
@@ -194,8 +194,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "SELENKA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Feb 01 02:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -293,14 +293,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 21:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:08",
+        "eta_schleuse": "08:09",
         "eta_rueb": "03:58",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "03:58",
-      "eta_schleuse": "08:08",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "08:09",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:18"
     },
     {
@@ -381,22 +381,6 @@
       "eta_schleuse": "05:52",
       "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "05:25"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Arndt",
-      "name": "Michael Arndt",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "FREJ",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 17:28:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -427,14 +411,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:15",
+        "eta_schleuse": "08:16",
         "eta_rueb": "04:10",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "04:10",
-      "eta_schleuse": "08:15",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "08:16",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:30"
     },
     {
@@ -448,14 +432,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:19",
+        "eta_schleuse": "08:20",
         "eta_rueb": "04:14",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "04:14",
-      "eta_schleuse": "08:19",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "08:20",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:32"
     },
     {
@@ -469,14 +453,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:12",
+        "eta_schleuse": "08:13",
         "eta_rueb": "04:07",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "04:07",
-      "eta_schleuse": "08:12",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "08:13",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "05:29"
     },
     {
@@ -574,14 +558,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 21:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:08",
+        "eta_schleuse": "08:09",
         "eta_rueb": "03:58",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "03:58",
-      "eta_schleuse": "08:08",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "08:09",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:18"
     },
     {
@@ -646,22 +630,6 @@
       "eta_schleuse": "05:52",
       "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "05:25"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Arndt",
-      "name": "Michael Arndt",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "FREJ",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 17:28:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
