@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T23:04:46",
+  "generated_at": "2026-02-01T23:06:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -173,14 +173,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 01 17:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:19",
+        "eta_schleuse": "23:17",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:19",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "23:17",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:28"
     },
     {
@@ -242,14 +242,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 16:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:19",
+        "eta_schleuse": "23:17",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:19",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "23:17",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:28"
     },
     {
@@ -370,14 +370,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 16:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:19",
+        "eta_schleuse": "23:17",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:19",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "23:17",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:28"
     },
     {
@@ -429,6 +429,13 @@
       "eta_rueb_kiel": "04:07",
       "eta_rueb": "03:20",
       "ship": "MAUREEN S",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "03:23",
+      "ship": "TALINA B",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
