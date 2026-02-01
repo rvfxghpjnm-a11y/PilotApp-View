@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T16:28:46",
+  "generated_at": "2026-02-01T16:30:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -72,16 +72,11 @@
       "fahrzeug": "ARKLOW VILLA",
       "route": "HOS → KLT",
       "time": "Sun Feb 01 15:54:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:23",
-        "eta_rueb": "12:27",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "12:27",
-      "eta_schleuse": "16:23",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "05:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -126,15 +121,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 01 14:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:29",
-        "eta_rueb": "19:02",
+        "eta_schleuse": "23:30",
+        "eta_rueb": "19:03",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "19:02",
-      "eta_schleuse": "23:29",
+      "eta_rueb": "19:03",
+      "eta_schleuse": "23:30",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -378,16 +373,11 @@
       "fahrzeug": "ARKLOW VILLA",
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:33:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:23",
-        "eta_rueb": "12:27",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "12:27",
-      "eta_schleuse": "16:23",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "05:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -418,15 +408,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 01 14:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:29",
-        "eta_rueb": "19:02",
+        "eta_schleuse": "23:30",
+        "eta_rueb": "19:03",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "19:02",
-      "eta_schleuse": "23:29",
+      "eta_rueb": "19:03",
+      "eta_schleuse": "23:30",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -638,43 +628,38 @@
       "fahrzeug": "ARKLOW VILLA",
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:33:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:23",
-        "eta_rueb": "12:27",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "12:27",
-      "eta_schleuse": "16:23",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "05:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "17:07",
+      "eta_rueb_kiel": "17:09",
       "eta_rueb": "16:30",
       "ship": "IDA RAMBOW",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:04",
+      "eta_rueb_kiel": "17:06",
       "eta_rueb": "16:50",
       "ship": "ARKLOW BEACH",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:11",
+      "eta_rueb_kiel": "17:12",
       "eta_rueb": "16:55",
       "ship": "JOHANN ESSBERGER",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:31",
+      "eta_rueb_kiel": "17:30",
       "eta_rueb": "17:20",
       "ship": "LINDEBORG",
       "q_gruppe": "5",
