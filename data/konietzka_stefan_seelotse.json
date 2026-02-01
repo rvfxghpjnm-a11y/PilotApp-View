@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T06:16:38",
+  "generated_at": "2026-02-01T06:18:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,7 +12,7 @@
     "nr": 11
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 2,
     "see": 7
   },
@@ -251,14 +251,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 02:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:36",
+        "eta_schleuse": "11:40",
         "eta_rueb": "07:09",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "07:09",
-      "eta_schleuse": "11:36",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "11:40",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "03:41"
     },
     {
@@ -279,13 +279,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Yannick",
-      "nachname": "Petersen",
-      "name": "Yannick Petersen",
-      "aufgabe": "Kanalbört",
+      "vorname": "Jonas",
+      "nachname": "Krämer",
+      "name": "Jonas Krämer",
+      "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "BALTIC ARROW",
-      "route": "RÜB → HOS",
+      "fahrzeug": "ELBTEAM",
+      "route": "HOS → KLT",
       "time": "Sun Feb 01 00:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -295,13 +295,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Jonas",
-      "nachname": "Krämer",
-      "name": "Jonas Krämer",
-      "aufgabe": "Seebört",
+      "vorname": "Yannick",
+      "nachname": "Petersen",
+      "name": "Yannick Petersen",
+      "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "ELBTEAM",
-      "route": "HOS → KLT",
+      "fahrzeug": "BALTIC ARROW",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 00:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -366,22 +366,6 @@
       "eta_schleuse": "08:03",
       "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "RIX AMETHYST",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 20:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -517,14 +501,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 02:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:36",
+        "eta_schleuse": "11:40",
         "eta_rueb": "07:09",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "07:09",
-      "eta_schleuse": "11:36",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "11:40",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "03:41"
     },
     {
@@ -533,7 +517,7 @@
       "nachname": "Petersen",
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 16,
       "fahrzeug": "BALTIC ARROW",
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 00:45:00 CET 2026",
@@ -584,22 +568,6 @@
       "eta_schleuse": "08:03",
       "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "RIX AMETHYST",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 31 20:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
