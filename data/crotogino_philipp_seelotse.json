@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T11:08:48",
+  "generated_at": "2026-02-01T11:10:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
     "wach": 2,
-    "see": 9
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -292,44 +292,12 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Konietzka",
-      "name": "Stefan Konietzka",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Sun Feb 01 02:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Peter",
       "nachname": "Hahn",
       "name": "Peter Hahn",
       "aufgabe": "Seebört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "EMS LION",
-      "route": "KLT → HOS",
-      "time": "Sun Feb 01 02:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Artur",
-      "nachname": "Skawianczyk",
-      "name": "Artur Skawianczyk",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "Leerfahrt",
       "route": "KLT → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": null,
@@ -344,7 +312,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 18,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Feb 01 02:33:00 CET 2026",
@@ -515,7 +483,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 18,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Feb 01 02:33:00 CET 2026",
@@ -529,7 +497,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:30",
+      "eta_rueb_kiel": "12:29",
       "eta_rueb": "12:25",
       "ship": "ARKLOW VILLA",
       "q_gruppe": "5",

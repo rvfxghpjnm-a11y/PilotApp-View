@@ -1,231 +1,19 @@
 {
-  "generated_at": "2026-02-01T11:08:40",
+  "generated_at": "2026-02-01T11:10:37",
   "status": "boert",
-  "person": null,
+  "person": {
+    "vorname": "stefan",
+    "nachname": "konietzka",
+    "pos": 64,
+    "times": {
+      "calc_div2": "Mo19:10",
+      "calc_div3": "Mo08:30",
+      "from_meldung": null,
+      "from_meldung_alt": null
+    }
+  },
   "times": null,
-  "tauschpartner": [],
-  "lotsen": [
-    {
-      "is_target": false,
-      "pos": 1,
-      "vorname": "Roman",
-      "nachname": "Spiller",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 09:52:59 CET 2026",
-      "times": {
-        "calc_div2": "So11:38",
-        "calc_div3": "So11:28",
-        "from_meldung": "So11:15",
-        "from_meldung_alt": "So11:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 2,
-      "vorname": "Jan",
-      "nachname": "Hilpert",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 06:09:00 CET 2026",
-      "times": {
-        "calc_div2": "So12:08",
-        "calc_div3": "So11:48",
-        "from_meldung": "So11:30",
-        "from_meldung_alt": "So12:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 3,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 06:30:00 CET 2026",
-      "times": {
-        "calc_div2": "So12:38",
-        "calc_div3": "So12:08",
-        "from_meldung": "So12:00",
-        "from_meldung_alt": "So12:15"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 4,
-      "vorname": "Caspar-Maria",
-      "nachname": "Krüger",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 06:42:00 CET 2026",
-      "times": {
-        "calc_div2": "So13:08",
-        "calc_div3": "So12:28",
-        "from_meldung": "So12:15",
-        "from_meldung_alt": "So12:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 5,
-      "vorname": "Volker",
-      "nachname": "Nagel",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 06:55:00 CET 2026",
-      "times": {
-        "calc_div2": "So13:38",
-        "calc_div3": "So12:48",
-        "from_meldung": "So12:30",
-        "from_meldung_alt": "So12:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 6,
-      "vorname": "Olaf",
-      "nachname": "Sattler",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 07:03:00 CET 2026",
-      "times": {
-        "calc_div2": "So14:08",
-        "calc_div3": "So13:08",
-        "from_meldung": "So12:30",
-        "from_meldung_alt": "So14:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 7,
-      "vorname": "Olaf",
-      "nachname": "Köhler",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 07:30:00 CET 2026",
-      "times": {
-        "calc_div2": "So14:38",
-        "calc_div3": "So13:28",
-        "from_meldung": "So14:00",
-        "from_meldung_alt": "So15:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 8,
-      "vorname": "Henning",
-      "nachname": "Kaschke",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 10:43:00 CET 2026",
-      "times": {
-        "calc_div2": "So15:08",
-        "calc_div3": "So13:48",
-        "from_meldung": "So15:30",
-        "from_meldung_alt": "So16:10"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 9,
-      "vorname": "Torsten",
-      "nachname": "Fehse",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 10:46:00 CET 2026",
-      "times": {
-        "calc_div2": "So15:38",
-        "calc_div3": "So14:08",
-        "from_meldung": "So16:10",
-        "from_meldung_alt": "So17:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 10,
-      "vorname": "Christian",
-      "nachname": "Lehwald",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Feb 01 11:00:00 CET 2026",
-      "times": {
-        "calc_div2": "So16:08",
-        "calc_div3": "So14:28",
-        "from_meldung": "So17:00",
-        "from_meldung_alt": "So17:15"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 11,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sat Jan 31 11:17:00 CET 2026",
-      "times": {
-        "calc_div2": "So16:38",
-        "calc_div3": "So14:48",
-        "from_meldung": "So17:15",
-        "from_meldung_alt": "So17:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 12,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sat Jan 31 11:23:00 CET 2026",
-      "times": {
-        "calc_div2": "So17:08",
-        "calc_div3": "So15:08",
-        "from_meldung": "So17:30",
-        "from_meldung_alt": "So17:35"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 13,
-      "vorname": "Stephan",
-      "nachname": "Thomaßen",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sat Jan 31 12:30:00 CET 2026",
-      "times": {
-        "calc_div2": "So17:38",
-        "calc_div3": "So15:28",
-        "from_meldung": "So17:30",
-        "from_meldung_alt": "So18:30"
-      },
-      "bemerkung": ""
-    },
+  "tauschpartner": [
     {
       "is_target": false,
       "pos": 14,
@@ -236,8 +24,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 13:10:00 CET 2026",
       "times": {
-        "calc_div2": "So18:08",
-        "calc_div3": "So15:48",
+        "calc_div2": "So18:10",
+        "calc_div3": "So15:50",
         "from_meldung": "So17:35",
         "from_meldung_alt": "So19:00"
       },
@@ -253,25 +41,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 14:20:00 CET 2026",
       "times": {
-        "calc_div2": "So18:38",
-        "calc_div3": "So16:08",
-        "from_meldung": "So18:00",
-        "from_meldung_alt": "So19:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 16,
-      "vorname": "Gerd",
-      "nachname": "Pitschmann",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sat Jan 31 14:55:00 CET 2026",
-      "times": {
-        "calc_div2": "So19:08",
-        "calc_div3": "So16:28",
+        "calc_div2": "So18:40",
+        "calc_div3": "So16:10",
         "from_meldung": "So18:00",
         "from_meldung_alt": "So19:00"
       },
@@ -287,8 +58,316 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 15:54:00 CET 2026",
       "times": {
-        "calc_div2": "So19:38",
-        "calc_div3": "So16:48",
+        "calc_div2": "So19:40",
+        "calc_div3": "So16:50",
+        "from_meldung": "So18:30",
+        "from_meldung_alt": "So21:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 33,
+      "vorname": "Lutz",
+      "nachname": "Wäntig",
+      "arrow": "↓$$",
+      "richtung": "↓",
+      "verguetung": true,
+      "zeit": "Sat Jan 31 21:04:00 CET 2026",
+      "times": {
+        "calc_div2": "Mo03:40",
+        "calc_div3": "So22:10",
+        "from_meldung": "Mo04:00",
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    }
+  ],
+  "lotsen": [
+    {
+      "is_target": false,
+      "pos": 1,
+      "vorname": "Roman",
+      "nachname": "Spiller",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 09:52:59 CET 2026",
+      "times": {
+        "calc_div2": "So11:40",
+        "calc_div3": "So11:30",
+        "from_meldung": "So11:15",
+        "from_meldung_alt": "So11:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 2,
+      "vorname": "Jan",
+      "nachname": "Hilpert",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 06:09:00 CET 2026",
+      "times": {
+        "calc_div2": "So12:10",
+        "calc_div3": "So11:50",
+        "from_meldung": "So11:30",
+        "from_meldung_alt": "So12:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 3,
+      "vorname": "Sören",
+      "nachname": "Ehlers",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 06:30:00 CET 2026",
+      "times": {
+        "calc_div2": "So12:40",
+        "calc_div3": "So12:10",
+        "from_meldung": "So12:00",
+        "from_meldung_alt": "So12:15"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 4,
+      "vorname": "Caspar-Maria",
+      "nachname": "Krüger",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 06:42:00 CET 2026",
+      "times": {
+        "calc_div2": "So13:10",
+        "calc_div3": "So12:30",
+        "from_meldung": "So12:15",
+        "from_meldung_alt": "So12:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 5,
+      "vorname": "Volker",
+      "nachname": "Nagel",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 06:55:00 CET 2026",
+      "times": {
+        "calc_div2": "So13:40",
+        "calc_div3": "So12:50",
+        "from_meldung": "So12:30",
+        "from_meldung_alt": "So12:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 6,
+      "vorname": "Olaf",
+      "nachname": "Sattler",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 07:03:00 CET 2026",
+      "times": {
+        "calc_div2": "So14:10",
+        "calc_div3": "So13:10",
+        "from_meldung": "So12:30",
+        "from_meldung_alt": "So14:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 7,
+      "vorname": "Olaf",
+      "nachname": "Köhler",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 07:30:00 CET 2026",
+      "times": {
+        "calc_div2": "So14:40",
+        "calc_div3": "So13:30",
+        "from_meldung": "So14:00",
+        "from_meldung_alt": "So15:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 8,
+      "vorname": "Henning",
+      "nachname": "Kaschke",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 10:43:00 CET 2026",
+      "times": {
+        "calc_div2": "So15:10",
+        "calc_div3": "So13:50",
+        "from_meldung": "So15:30",
+        "from_meldung_alt": "So16:10"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 9,
+      "vorname": "Torsten",
+      "nachname": "Fehse",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 10:46:00 CET 2026",
+      "times": {
+        "calc_div2": "So15:40",
+        "calc_div3": "So14:10",
+        "from_meldung": "So16:10",
+        "from_meldung_alt": "So17:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 10,
+      "vorname": "Christian",
+      "nachname": "Lehwald",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 11:00:00 CET 2026",
+      "times": {
+        "calc_div2": "So16:10",
+        "calc_div3": "So14:30",
+        "from_meldung": "So17:00",
+        "from_meldung_alt": "So17:15"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 11,
+      "vorname": "Thomas",
+      "nachname": "Skairies",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sat Jan 31 11:17:00 CET 2026",
+      "times": {
+        "calc_div2": "So16:40",
+        "calc_div3": "So14:50",
+        "from_meldung": "So17:15",
+        "from_meldung_alt": "So17:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 12,
+      "vorname": "Sören",
+      "nachname": "Engler",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sat Jan 31 11:23:00 CET 2026",
+      "times": {
+        "calc_div2": "So17:10",
+        "calc_div3": "So15:10",
+        "from_meldung": "So17:30",
+        "from_meldung_alt": "So17:35"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 13,
+      "vorname": "Stephan",
+      "nachname": "Thomaßen",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sat Jan 31 12:30:00 CET 2026",
+      "times": {
+        "calc_div2": "So17:40",
+        "calc_div3": "So15:30",
+        "from_meldung": "So17:30",
+        "from_meldung_alt": "So18:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 14,
+      "vorname": "Mark",
+      "nachname": "Wald",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Sat Jan 31 13:10:00 CET 2026",
+      "times": {
+        "calc_div2": "So18:10",
+        "calc_div3": "So15:50",
+        "from_meldung": "So17:35",
+        "from_meldung_alt": "So19:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 15,
+      "vorname": "Oleif Johann",
+      "nachname": "Böttger",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Sat Jan 31 14:20:00 CET 2026",
+      "times": {
+        "calc_div2": "So18:40",
+        "calc_div3": "So16:10",
+        "from_meldung": "So18:00",
+        "from_meldung_alt": "So19:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 16,
+      "vorname": "Gerd",
+      "nachname": "Pitschmann",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sat Jan 31 14:55:00 CET 2026",
+      "times": {
+        "calc_div2": "So19:10",
+        "calc_div3": "So16:30",
+        "from_meldung": "So18:00",
+        "from_meldung_alt": "So19:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 17,
+      "vorname": "Carsten",
+      "nachname": "Bachholz",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Sat Jan 31 15:54:00 CET 2026",
+      "times": {
+        "calc_div2": "So19:40",
+        "calc_div3": "So16:50",
         "from_meldung": "So18:30",
         "from_meldung_alt": "So21:00"
       },
@@ -304,8 +383,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 15:59:00 CET 2026",
       "times": {
-        "calc_div2": "So20:08",
-        "calc_div3": "So17:08",
+        "calc_div2": "So20:10",
+        "calc_div3": "So17:10",
         "from_meldung": "So19:00",
         "from_meldung_alt": "So23:00"
       },
@@ -321,8 +400,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 16:00:00 CET 2026",
       "times": {
-        "calc_div2": "So20:38",
-        "calc_div3": "So17:28",
+        "calc_div2": "So20:40",
+        "calc_div3": "So17:30",
         "from_meldung": "So19:00",
         "from_meldung_alt": "So23:00"
       },
@@ -338,8 +417,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 16:44:00 CET 2026",
       "times": {
-        "calc_div2": "So21:08",
-        "calc_div3": "So17:48",
+        "calc_div2": "So21:10",
+        "calc_div3": "So17:50",
         "from_meldung": "So19:00",
         "from_meldung_alt": "Mo02:00"
       },
@@ -355,8 +434,8 @@
       "verguetung": true,
       "zeit": "Sat Jan 31 16:58:00 CET 2026",
       "times": {
-        "calc_div2": "So21:38",
-        "calc_div3": "So18:08",
+        "calc_div2": "So21:40",
+        "calc_div3": "So18:10",
         "from_meldung": "So20:00",
         "from_meldung_alt": "Mo03:00"
       },
@@ -372,8 +451,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 17:00:00 CET 2026",
       "times": {
-        "calc_div2": "So22:08",
-        "calc_div3": "So18:28",
+        "calc_div2": "So22:10",
+        "calc_div3": "So18:30",
         "from_meldung": "So21:00",
         "from_meldung_alt": "Mo03:00"
       },
@@ -389,8 +468,8 @@
       "verguetung": true,
       "zeit": "Sat Jan 31 17:25:00 CET 2026",
       "times": {
-        "calc_div2": "So22:38",
-        "calc_div3": "So18:48",
+        "calc_div2": "So22:40",
+        "calc_div3": "So18:50",
         "from_meldung": "So22:00",
         "from_meldung_alt": "Mo04:00"
       },
@@ -406,8 +485,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 17:45:00 CET 2026",
       "times": {
-        "calc_div2": "So23:08",
-        "calc_div3": "So19:08",
+        "calc_div2": "So23:10",
+        "calc_div3": "So19:10",
         "from_meldung": "So22:00",
         "from_meldung_alt": "Mo05:00"
       },
@@ -423,8 +502,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 17:45:00 CET 2026",
       "times": {
-        "calc_div2": "So23:38",
-        "calc_div3": "So19:28",
+        "calc_div2": "So23:40",
+        "calc_div3": "So19:30",
         "from_meldung": "So22:00",
         "from_meldung_alt": "Mo06:00"
       },
@@ -440,8 +519,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 18:18:00 CET 2026",
       "times": {
-        "calc_div2": "Mo00:08",
-        "calc_div3": "So19:48",
+        "calc_div2": "Mo00:10",
+        "calc_div3": "So19:50",
         "from_meldung": "So23:00",
         "from_meldung_alt": "Mo09:00"
       },
@@ -457,8 +536,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 18:27:00 CET 2026",
       "times": {
-        "calc_div2": "Mo00:38",
-        "calc_div3": "So20:08",
+        "calc_div2": "Mo00:40",
+        "calc_div3": "So20:10",
         "from_meldung": "So23:00",
         "from_meldung_alt": "Mo09:00"
       },
@@ -474,8 +553,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 18:43:00 CET 2026",
       "times": {
-        "calc_div2": "Mo01:08",
-        "calc_div3": "So20:28",
+        "calc_div2": "Mo01:10",
+        "calc_div3": "So20:30",
         "from_meldung": "Mo01:00",
         "from_meldung_alt": "Mo10:00"
       },
@@ -491,8 +570,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 20:13:00 CET 2026",
       "times": {
-        "calc_div2": "Mo01:38",
-        "calc_div3": "So20:48",
+        "calc_div2": "Mo01:40",
+        "calc_div3": "So20:50",
         "from_meldung": "Mo02:00",
         "from_meldung_alt": "Mo10:00"
       },
@@ -508,8 +587,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 20:25:00 CET 2026",
       "times": {
-        "calc_div2": "Mo02:08",
-        "calc_div3": "So21:08",
+        "calc_div2": "Mo02:10",
+        "calc_div3": "So21:10",
         "from_meldung": "Mo03:00",
         "from_meldung_alt": "Mo11:00"
       },
@@ -525,8 +604,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 20:30:00 CET 2026",
       "times": {
-        "calc_div2": "Mo02:38",
-        "calc_div3": "So21:28",
+        "calc_div2": "Mo02:40",
+        "calc_div3": "So21:30",
         "from_meldung": "Mo03:00",
         "from_meldung_alt": null
       },
@@ -542,8 +621,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 20:35:00 CET 2026",
       "times": {
-        "calc_div2": "Mo03:08",
-        "calc_div3": "So21:48",
+        "calc_div2": "Mo03:10",
+        "calc_div3": "So21:50",
         "from_meldung": "Mo04:00",
         "from_meldung_alt": null
       },
@@ -559,8 +638,8 @@
       "verguetung": true,
       "zeit": "Sat Jan 31 21:04:00 CET 2026",
       "times": {
-        "calc_div2": "Mo03:38",
-        "calc_div3": "So22:08",
+        "calc_div2": "Mo03:40",
+        "calc_div3": "So22:10",
         "from_meldung": "Mo04:00",
         "from_meldung_alt": null
       },
@@ -576,8 +655,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 21:04:00 CET 2026",
       "times": {
-        "calc_div2": "Mo04:08",
-        "calc_div3": "So22:28",
+        "calc_div2": "Mo04:10",
+        "calc_div3": "So22:30",
         "from_meldung": "Mo05:00",
         "from_meldung_alt": null
       },
@@ -593,8 +672,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 21:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mo04:38",
-        "calc_div3": "So22:48",
+        "calc_div2": "Mo04:40",
+        "calc_div3": "So22:50",
         "from_meldung": "Mo06:00",
         "from_meldung_alt": null
       },
@@ -610,8 +689,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 21:27:00 CET 2026",
       "times": {
-        "calc_div2": "Mo05:08",
-        "calc_div3": "So23:08",
+        "calc_div2": "Mo05:10",
+        "calc_div3": "So23:10",
         "from_meldung": "Mo06:00",
         "from_meldung_alt": null
       },
@@ -627,8 +706,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 08:50:17 CET 2026",
       "times": {
-        "calc_div2": "Mo05:38",
-        "calc_div3": "So23:28",
+        "calc_div2": "Mo05:40",
+        "calc_div3": "So23:30",
         "from_meldung": "Mo08:00",
         "from_meldung_alt": null
       },
@@ -644,8 +723,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 21:33:00 CET 2026",
       "times": {
-        "calc_div2": "Mo06:08",
-        "calc_div3": "So23:48",
+        "calc_div2": "Mo06:10",
+        "calc_div3": "So23:50",
         "from_meldung": "Mo09:00",
         "from_meldung_alt": null
       },
@@ -661,8 +740,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 21:52:00 CET 2026",
       "times": {
-        "calc_div2": "Mo06:38",
-        "calc_div3": "Mo00:08",
+        "calc_div2": "Mo06:40",
+        "calc_div3": "Mo00:10",
         "from_meldung": "Mo09:00",
         "from_meldung_alt": null
       },
@@ -678,8 +757,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 22:00:00 CET 2026",
       "times": {
-        "calc_div2": "Mo07:08",
-        "calc_div3": "Mo00:28",
+        "calc_div2": "Mo07:10",
+        "calc_div3": "Mo00:30",
         "from_meldung": "Mo09:00",
         "from_meldung_alt": null
       },
@@ -695,8 +774,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 22:12:00 CET 2026",
       "times": {
-        "calc_div2": "Mo07:38",
-        "calc_div3": "Mo00:48",
+        "calc_div2": "Mo07:40",
+        "calc_div3": "Mo00:50",
         "from_meldung": "Mo10:00",
         "from_meldung_alt": null
       },
@@ -712,8 +791,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 22:40:00 CET 2026",
       "times": {
-        "calc_div2": "Mo08:08",
-        "calc_div3": "Mo01:08",
+        "calc_div2": "Mo08:10",
+        "calc_div3": "Mo01:10",
         "from_meldung": "Mo10:00",
         "from_meldung_alt": null
       },
@@ -729,8 +808,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 22:49:00 CET 2026",
       "times": {
-        "calc_div2": "Mo08:38",
-        "calc_div3": "Mo01:28",
+        "calc_div2": "Mo08:40",
+        "calc_div3": "Mo01:30",
         "from_meldung": "Mo11:00",
         "from_meldung_alt": null
       },
@@ -746,8 +825,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 22:54:00 CET 2026",
       "times": {
-        "calc_div2": "Mo09:08",
-        "calc_div3": "Mo01:48",
+        "calc_div2": "Mo09:10",
+        "calc_div3": "Mo01:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -763,8 +842,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 23:45:00 CET 2026",
       "times": {
-        "calc_div2": "Mo09:38",
-        "calc_div3": "Mo02:08",
+        "calc_div2": "Mo09:40",
+        "calc_div3": "Mo02:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -780,8 +859,8 @@
       "verguetung": false,
       "zeit": "Sat Jan 31 23:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mo10:08",
-        "calc_div3": "Mo02:28",
+        "calc_div2": "Mo10:10",
+        "calc_div3": "Mo02:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -797,8 +876,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 00:05:00 CET 2026",
       "times": {
-        "calc_div2": "Mo10:38",
-        "calc_div3": "Mo02:48",
+        "calc_div2": "Mo10:40",
+        "calc_div3": "Mo02:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -814,8 +893,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 00:10:00 CET 2026",
       "times": {
-        "calc_div2": "Mo11:08",
-        "calc_div3": "Mo03:08",
+        "calc_div2": "Mo11:10",
+        "calc_div3": "Mo03:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -831,8 +910,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 01:31:26 CET 2026",
       "times": {
-        "calc_div2": "Mo11:38",
-        "calc_div3": "Mo03:28",
+        "calc_div2": "Mo11:40",
+        "calc_div3": "Mo03:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -848,8 +927,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 02:15:00 CET 2026",
       "times": {
-        "calc_div2": "Mo12:08",
-        "calc_div3": "Mo03:48",
+        "calc_div2": "Mo12:10",
+        "calc_div3": "Mo03:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -865,8 +944,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 02:58:00 CET 2026",
       "times": {
-        "calc_div2": "Mo12:38",
-        "calc_div3": "Mo04:08",
+        "calc_div2": "Mo12:40",
+        "calc_div3": "Mo04:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -882,8 +961,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 02:58:00 CET 2026",
       "times": {
-        "calc_div2": "Mo13:08",
-        "calc_div3": "Mo04:28",
+        "calc_div2": "Mo13:10",
+        "calc_div3": "Mo04:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -899,8 +978,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 04:04:00 CET 2026",
       "times": {
-        "calc_div2": "Mo13:38",
-        "calc_div3": "Mo04:48",
+        "calc_div2": "Mo13:40",
+        "calc_div3": "Mo04:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -916,8 +995,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 04:10:00 CET 2026",
       "times": {
-        "calc_div2": "Mo14:08",
-        "calc_div3": "Mo05:08",
+        "calc_div2": "Mo14:10",
+        "calc_div3": "Mo05:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -933,8 +1012,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 04:30:30 CET 2026",
       "times": {
-        "calc_div2": "Mo14:38",
-        "calc_div3": "Mo05:28",
+        "calc_div2": "Mo14:40",
+        "calc_div3": "Mo05:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -950,8 +1029,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 06:06:00 CET 2026",
       "times": {
-        "calc_div2": "Mo15:08",
-        "calc_div3": "Mo05:48",
+        "calc_div2": "Mo15:10",
+        "calc_div3": "Mo05:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -967,8 +1046,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 06:10:00 CET 2026",
       "times": {
-        "calc_div2": "Mo15:38",
-        "calc_div3": "Mo06:08",
+        "calc_div2": "Mo15:40",
+        "calc_div3": "Mo06:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -984,8 +1063,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 06:17:00 CET 2026",
       "times": {
-        "calc_div2": "Mo16:08",
-        "calc_div3": "Mo06:28",
+        "calc_div2": "Mo16:10",
+        "calc_div3": "Mo06:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1001,8 +1080,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 07:01:00 CET 2026",
       "times": {
-        "calc_div2": "Mo16:38",
-        "calc_div3": "Mo06:48",
+        "calc_div2": "Mo16:40",
+        "calc_div3": "Mo06:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1018,8 +1097,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 07:42:00 CET 2026",
       "times": {
-        "calc_div2": "Mo17:08",
-        "calc_div3": "Mo07:08",
+        "calc_div2": "Mo17:10",
+        "calc_div3": "Mo07:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1035,8 +1114,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 08:14:00 CET 2026",
       "times": {
-        "calc_div2": "Mo17:38",
-        "calc_div3": "Mo07:28",
+        "calc_div2": "Mo17:40",
+        "calc_div3": "Mo07:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1052,8 +1131,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 09:00:00 CET 2026",
       "times": {
-        "calc_div2": "Mo18:08",
-        "calc_div3": "Mo07:48",
+        "calc_div2": "Mo18:10",
+        "calc_div3": "Mo07:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1069,25 +1148,25 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 08:29:00 CET 2026",
       "times": {
-        "calc_div2": "Mo18:38",
-        "calc_div3": "Mo08:08",
+        "calc_div2": "Mo18:40",
+        "calc_div3": "Mo08:10",
         "from_meldung": null,
         "from_meldung_alt": null
       },
       "bemerkung": ""
     },
     {
-      "is_target": false,
+      "is_target": true,
       "pos": 64,
-      "vorname": "Niklas",
-      "nachname": "Dalecki",
-      "arrow": "↓$$",
-      "richtung": "↓",
-      "verguetung": true,
+      "vorname": "Stefan",
+      "nachname": "Konietzka",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
       "zeit": "Sun Feb 01 09:51:00 CET 2026",
       "times": {
-        "calc_div2": "Mo19:08",
-        "calc_div3": "Mo08:28",
+        "calc_div2": "Mo19:10",
+        "calc_div3": "Mo08:30",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1103,8 +1182,8 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 10:19:00 CET 2026",
       "times": {
-        "calc_div2": "Mo19:38",
-        "calc_div3": "Mo08:48",
+        "calc_div2": "Mo19:40",
+        "calc_div3": "Mo08:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1120,8 +1199,42 @@
       "verguetung": false,
       "zeit": "Sun Feb 01 10:32:00 CET 2026",
       "times": {
-        "calc_div2": "Mo20:08",
-        "calc_div3": "Mo09:08",
+        "calc_div2": "Mo20:10",
+        "calc_div3": "Mo09:10",
+        "from_meldung": null,
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 67,
+      "vorname": "Artur",
+      "nachname": "Skawianczyk",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Feb 01 11:08:00 CET 2026",
+      "times": {
+        "calc_div2": "Mo20:40",
+        "calc_div3": "Mo09:30",
+        "from_meldung": null,
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 68,
+      "vorname": "Niklas",
+      "nachname": "Dalecki",
+      "arrow": "↓$$",
+      "richtung": "↓",
+      "verguetung": true,
+      "zeit": "Sun Feb 01 11:08:00 CET 2026",
+      "times": {
+        "calc_div2": "Mo21:10",
+        "calc_div3": "Mo09:50",
         "from_meldung": null,
         "from_meldung_alt": null
       },
