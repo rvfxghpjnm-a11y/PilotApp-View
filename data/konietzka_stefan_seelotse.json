@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T22:46:45",
+  "generated_at": "2026-02-01T22:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,14 +73,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 18:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:15",
+        "eta_schleuse": "04:17",
         "eta_rueb": "23:42",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "23:42",
-      "eta_schleuse": "04:15",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "04:17",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "03:40"
     },
     {
@@ -94,14 +94,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 18:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:12",
+        "eta_schleuse": "04:14",
         "eta_rueb": "23:38",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:36",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "23:38",
-      "eta_schleuse": "04:12",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "04:14",
+      "delta_rueb_schleuse": "04:36",
       "delta_start_rueb": "03:50"
     },
     {
@@ -307,14 +307,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 18:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:15",
+        "eta_schleuse": "04:17",
         "eta_rueb": "23:42",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "23:42",
-      "eta_schleuse": "04:15",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "04:17",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "03:40"
     },
     {
@@ -328,14 +328,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 18:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:12",
+        "eta_schleuse": "04:14",
         "eta_rueb": "23:38",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:36",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "23:38",
-      "eta_schleuse": "04:12",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "04:14",
+      "delta_rueb_schleuse": "04:36",
       "delta_start_rueb": "03:50"
     },
     {
@@ -405,17 +405,24 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:47",
+      "eta_rueb_kiel": "01:45",
       "eta_rueb": "01:28",
       "ship": "KREETE",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:50",
+      "eta_rueb_kiel": "01:49",
       "eta_rueb": "01:30",
       "ship": "STAR CURACAO",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "03:14",
+      "eta_rueb": "02:45",
+      "ship": "TRICA",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
