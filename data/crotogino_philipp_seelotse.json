@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T20:54:45",
+  "generated_at": "2026-02-01T20:56:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -305,16 +305,11 @@
       "fahrzeug": "JOHANN ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 12:43:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:52",
-        "eta_rueb": "17:09",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "17:09",
-      "eta_schleuse": "20:52",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -518,16 +513,11 @@
       "fahrzeug": "JOHANN ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 12:43:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:52",
-        "eta_rueb": "17:09",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "17:09",
-      "eta_schleuse": "20:52",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -569,6 +559,13 @@
       "eta_rueb": "01:05",
       "ship": "KREETE",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "01:22",
+      "eta_rueb": "01:10",
+      "ship": "STAR CURACAO",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
