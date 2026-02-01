@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T02:56:37",
+  "generated_at": "2026-02-01T02:58:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -262,14 +262,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 19:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:57",
+        "eta_schleuse": "05:56",
         "eta_rueb": "01:53",
-        "delta_rueb_schleuse": "04:04",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "01:53",
-      "eta_schleuse": "05:57",
-      "delta_rueb_schleuse": "04:04",
+      "eta_schleuse": "05:56",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:25"
     },
     {
@@ -295,8 +295,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "FEO SWAN",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Jan 31 18:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -311,8 +311,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Jan 31 18:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -539,14 +539,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 19:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:57",
+        "eta_schleuse": "05:56",
         "eta_rueb": "01:53",
-        "delta_rueb_schleuse": "04:04",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "01:53",
-      "eta_schleuse": "05:57",
-      "delta_rueb_schleuse": "04:04",
+      "eta_schleuse": "05:56",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:25"
     },
     {
@@ -574,7 +574,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:02",
+      "eta_rueb_kiel": "04:01",
       "eta_rueb": "03:53",
       "ship": "KETTER",
       "q_gruppe": "5",
