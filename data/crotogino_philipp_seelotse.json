@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T15:30:46",
+  "generated_at": "2026-02-01T15:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,14 +99,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:53",
+        "eta_schleuse": "20:52",
         "eta_rueb": "16:07",
-        "delta_rueb_schleuse": "04:46",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "16:07",
-      "eta_schleuse": "20:53",
-      "delta_rueb_schleuse": "04:46",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:05"
     },
     {
@@ -136,14 +136,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 10:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:49",
+        "eta_schleuse": "20:48",
         "eta_rueb": "15:41",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:07",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "15:41",
-      "eta_schleuse": "20:49",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "20:48",
+      "delta_rueb_schleuse": "05:07",
       "delta_start_rueb": "04:05"
     },
     {
@@ -153,19 +153,14 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EMS LION",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 01 10:43:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:59",
-        "eta_rueb": "15:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:58"
-      },
-      "eta_rueb": "15:32",
-      "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:58"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -369,14 +364,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:53",
+        "eta_schleuse": "20:52",
         "eta_rueb": "16:07",
-        "delta_rueb_schleuse": "04:46",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "16:07",
-      "eta_schleuse": "20:53",
-      "delta_rueb_schleuse": "04:46",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:05"
     },
     {
@@ -390,14 +385,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 10:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:49",
+        "eta_schleuse": "20:48",
         "eta_rueb": "15:41",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:07",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "15:41",
-      "eta_schleuse": "20:49",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "20:48",
+      "delta_rueb_schleuse": "05:07",
       "delta_start_rueb": "04:05"
     },
     {
@@ -407,19 +402,14 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EMS LION",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 01 10:43:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:59",
-        "eta_rueb": "15:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:58"
-      },
-      "eta_rueb": "15:32",
-      "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:58"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -558,13 +548,6 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:53",
-      "eta_rueb": "15:58",
-      "ship": "NICKI",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:10",
       "eta_rueb": "16:30",
       "ship": "IDA RAMBOW",
@@ -593,7 +576,7 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "18:46",
+      "eta_rueb_kiel": "18:45",
       "eta_rueb": "18:30",
       "ship": "LADY ANNE-LYN",
       "q_gruppe": "5",
