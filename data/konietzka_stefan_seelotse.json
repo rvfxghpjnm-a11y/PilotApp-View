@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T23:34:45",
+  "generated_at": "2026-02-01T23:36:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,19 +101,14 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RUBIKON 78",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 01 18:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:15",
-        "eta_rueb": "23:39",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:37"
-      },
-      "eta_rueb": "23:39",
-      "eta_schleuse": "04:15",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -122,19 +117,19 @@
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "ARKLOW MARSH",
-      "route": "HOS → RÜB",
+      "fahrzeug": "ANTONIA B",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 18:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:11",
-        "eta_rueb": "23:36",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "03:48"
+        "eta_schleuse": "03:45",
+        "eta_rueb": "23:46",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "23:36",
-      "eta_schleuse": "04:11",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "03:48"
+      "eta_rueb": "23:46",
+      "eta_schleuse": "03:45",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -315,19 +310,14 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RUBIKON 78",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 01 18:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "04:15",
-        "eta_rueb": "23:39",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:37"
-      },
-      "eta_rueb": "23:39",
-      "eta_schleuse": "04:15",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -336,19 +326,19 @@
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "ARKLOW MARSH",
-      "route": "HOS → RÜB",
+      "fahrzeug": "ANTONIA B",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 18:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:11",
-        "eta_rueb": "23:36",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "03:48"
+        "eta_schleuse": "03:45",
+        "eta_rueb": "23:46",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "23:36",
-      "eta_schleuse": "04:11",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "03:48"
+      "eta_rueb": "23:46",
+      "eta_schleuse": "03:45",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -422,13 +412,6 @@
       "eta_rueb_kiel": "04:07",
       "eta_rueb": "03:23",
       "ship": "TALINA B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:46",
-      "eta_rueb": "23:45",
-      "ship": "ANTONIA B",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
