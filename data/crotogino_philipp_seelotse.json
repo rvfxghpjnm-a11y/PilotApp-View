@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T01:32:45",
+  "generated_at": "2026-02-01T01:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC ARROW",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 00:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:09",
+        "eta_rueb": "02:02",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "02:02",
+      "eta_schleuse": "06:09",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -148,8 +153,8 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "STELLA VIRGO",
+      "route": "KLT → HOS",
       "time": "Sat Jan 31 19:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -277,14 +282,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC ARROW",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 00:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:09",
+        "eta_rueb": "02:02",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "02:02",
+      "eta_schleuse": "06:09",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -453,13 +463,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:02",
-      "eta_rueb": "02:00",
-      "ship": "BALTIC ARROW",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "02:05",
       "eta_rueb": "02:03",
       "ship": "AMADEUS GOLD",
@@ -495,7 +498,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:12",
+      "eta_rueb_kiel": "04:11",
       "eta_rueb": "03:58",
       "ship": "CAPELLA",
       "q_gruppe": "5",
@@ -516,7 +519,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:22",
+      "eta_rueb_kiel": "06:21",
       "eta_rueb": "05:18",
       "ship": "VICTORIA",
       "q_gruppe": "4",
