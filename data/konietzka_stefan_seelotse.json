@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-02-01T21:20:47",
+  "generated_at": "2026-02-01T21:22:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 7,
-    "wach": 1,
+    "wach": 0,
     "see": 9
   },
   "times": null,
@@ -237,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 16:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:15",
+        "eta_schleuse": "23:18",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:15",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "23:18",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:28"
     },
     {
@@ -290,31 +290,15 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 14:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:11",
+        "eta_schleuse": "23:14",
         "eta_rueb": "19:32",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "19:32",
-      "eta_schleuse": "23:11",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "23:14",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:22"
-    },
-    {
-      "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Sattler",
-      "name": "Olaf Sattler",
-      "aufgabe": "Wachgänger",
-      "nr": 17,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Sun Feb 01 12:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -434,14 +418,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 16:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:15",
+        "eta_schleuse": "23:18",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:15",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "23:18",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:28"
     },
     {
@@ -455,14 +439,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 14:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:11",
+        "eta_schleuse": "23:14",
         "eta_rueb": "19:32",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "19:32",
-      "eta_schleuse": "23:11",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "23:14",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:22"
     }
   ],
