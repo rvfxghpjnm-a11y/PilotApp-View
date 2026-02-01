@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-01T20:56:47",
+  "generated_at": "2026-02-01T20:58:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 1,
     "see": 9
   },
@@ -196,8 +196,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ARKLOW BEACH",
+      "route": "HOS → KLT",
       "time": "Sun Feb 01 16:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -212,8 +212,8 @@
       "name": "Stephan Thomaßen",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "IDA RAMBOW",
+      "route": "HOS → KLT",
       "time": "Sun Feb 01 16:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -337,22 +337,6 @@
       "fahrzeug": "ARKLOW BEACH",
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 11:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Roman",
-      "nachname": "Spiller",
-      "name": "Roman Spiller",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "IDA RAMBOW",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 01 11:13:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -534,22 +518,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Roman",
-      "nachname": "Spiller",
-      "name": "Roman Spiller",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "IDA RAMBOW",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 01 11:13:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -576,7 +544,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:51",
+      "eta_rueb_kiel": "23:50",
       "eta_rueb": "23:45",
       "ship": "ANTONIA B",
       "q_gruppe": "5",
