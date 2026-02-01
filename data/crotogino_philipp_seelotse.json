@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T11:34:45",
+  "generated_at": "2026-02-01T11:36:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "THUN RESOURCE",
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 10:46:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:23",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:23",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -69,14 +74,14 @@
       "time": "Sun Feb 01 10:43:00 CET 2026",
       "times": {
         "eta_schleuse": "20:02",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "15:34",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:00"
       },
-      "eta_rueb": null,
+      "eta_rueb": "15:34",
       "eta_schleuse": "20:02",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:00"
     },
     {
       "is_target": false,
@@ -324,9 +329,14 @@
       "fahrzeug": "THUN RESOURCE",
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 10:46:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:23",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:23",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -342,14 +352,14 @@
       "time": "Sun Feb 01 10:43:00 CET 2026",
       "times": {
         "eta_schleuse": "20:02",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "15:34",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:00"
       },
-      "eta_rueb": null,
+      "eta_rueb": "15:34",
       "eta_schleuse": "20:02",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:00"
     },
     {
       "is_target": false,
@@ -515,6 +525,13 @@
       "eta_rueb_kiel": "14:05",
       "eta_rueb": "13:55",
       "ship": "SCOT TRADER",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "15:57",
+      "eta_rueb": "15:55",
+      "ship": "SIEGFRIED LEHMANN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
