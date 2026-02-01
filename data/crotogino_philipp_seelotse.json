@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T23:36:46",
+  "generated_at": "2026-02-01T23:38:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 6,
     "wach": 0,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -14,11 +14,11 @@
       "vorname": "Malte",
       "nachname": "Krause",
       "name": "Malte Krause",
-      "aufgabe": "Seebört",
+      "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "UHL FIGHTER",
-      "route": "HOR → HOS",
-      "time": "Sun Feb 01 23:30:00 CET 2026",
+      "fahrzeug": "KRISTIN SCHEPERS",
+      "route": "HOS → RÜB",
+      "time": "Sun Feb 01 23:37:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -121,14 +121,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 18:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:45",
+        "eta_schleuse": "03:44",
         "eta_rueb": "23:46",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "23:46",
-      "eta_schleuse": "03:45",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "03:44",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "04:18"
     },
     {
@@ -159,8 +159,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "LADY ANNE-LYN",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Feb 01 17:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -247,25 +247,25 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
+    }
+  ],
+  "kanallotsen": [
     {
       "is_target": false,
-      "vorname": "Torsten",
-      "nachname": "Fehse",
-      "name": "Torsten Fehse",
+      "vorname": "Malte",
+      "nachname": "Krause",
+      "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "BIANCA RAMBOW",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 01 16:10:00 CET 2026",
+      "nr": 1,
+      "fahrzeug": "KRISTIN SCHEPERS",
+      "route": "HOS → RÜB",
+      "time": "Sun Feb 01 23:37:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    }
-  ],
-  "kanallotsen": [
+    },
     {
       "is_target": false,
       "vorname": "Nils",
@@ -330,14 +330,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 18:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:45",
+        "eta_schleuse": "03:44",
         "eta_rueb": "23:46",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "23:46",
-      "eta_schleuse": "03:45",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "03:44",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "04:18"
     },
     {
@@ -360,35 +360,19 @@
       "eta_schleuse": "01:31",
       "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Torsten",
-      "nachname": "Fehse",
-      "name": "Torsten Fehse",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "BIANCA RAMBOW",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 01 16:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:42",
+      "eta_rueb_kiel": "01:41",
       "eta_rueb": "01:28",
       "ship": "KREETE",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:45",
+      "eta_rueb_kiel": "01:44",
       "eta_rueb": "01:30",
       "ship": "STAR CURACAO",
       "q_gruppe": "4",
