@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T17:00:46",
+  "generated_at": "2026-02-01T17:02:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,14 +64,19 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LINDEBORG",
+      "route": "RÜB → KRH",
       "time": "Sun Feb 01 16:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:03",
+        "eta_rueb": "17:28",
+        "delta_rueb_schleuse": "00:35",
+        "delta_start_rueb": "04:10"
+      },
+      "eta_rueb": "17:28",
+      "eta_schleuse": "18:03",
+      "delta_rueb_schleuse": "00:35",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -327,14 +332,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Feb 01 06:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:01",
+        "eta_schleuse": "17:02",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "17:01",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "17:02",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:19"
     },
     {
@@ -404,14 +409,19 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LINDEBORG",
+      "route": "RÜB → KRH",
       "time": "Sun Feb 01 16:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:03",
+        "eta_rueb": "17:28",
+        "delta_rueb_schleuse": "00:35",
+        "delta_start_rueb": "04:10"
+      },
+      "eta_rueb": "17:28",
+      "eta_schleuse": "18:03",
+      "delta_rueb_schleuse": "00:35",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -571,14 +581,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Feb 01 06:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:01",
+        "eta_schleuse": "17:02",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "17:01",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "17:02",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:19"
     },
     {
@@ -643,14 +653,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "17:28",
-      "eta_rueb": "17:20",
-      "ship": "LINDEBORG",
-      "q_gruppe": "5",
-      "route": "RÜB → KRH"
-    },
-    {
-      "eta_rueb_kiel": "18:42",
+      "eta_rueb_kiel": "18:41",
       "eta_rueb": "18:30",
       "ship": "LADY ANNE-LYN",
       "q_gruppe": "5",
