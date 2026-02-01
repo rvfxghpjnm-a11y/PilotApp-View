@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T11:22:45",
+  "generated_at": "2026-02-01T11:24:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 2,
-    "see": 7
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -261,46 +261,14 @@
     },
     {
       "is_target": false,
-      "vorname": "Lars",
-      "nachname": "Doering",
-      "name": "Lars Doering",
-      "aufgabe": "Seebört",
-      "nr": 16,
-      "fahrzeug": "THUN RESOURCE",
-      "route": "KLT → HOS",
-      "time": "Sun Feb 01 03:19:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Julian",
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sun Feb 01 03:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hahn",
-      "name": "Peter Hahn",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "EMS LION",
-      "route": "KLT → HOS",
-      "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -313,7 +281,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 17,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Feb 01 02:33:00 CET 2026",
@@ -485,7 +453,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 17,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Feb 01 02:33:00 CET 2026",
@@ -506,7 +474,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:45",
+      "eta_rueb_kiel": "13:44",
       "eta_rueb": "13:30",
       "ship": "GIOCONDA",
       "q_gruppe": "4",
