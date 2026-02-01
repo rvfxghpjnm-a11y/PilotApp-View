@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T02:18:46",
+  "generated_at": "2026-02-01T02:20:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -116,19 +116,14 @@
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "ROCAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 31 21:34:00 CET 2026",
-      "times": {
-        "eta_schleuse": "07:23",
-        "eta_rueb": "02:21",
-        "delta_rueb_schleuse": "05:02",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "02:21",
-      "eta_schleuse": "07:23",
-      "delta_rueb_schleuse": "05:02",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -350,19 +345,14 @@
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "ROCAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 31 21:34:00 CET 2026",
-      "times": {
-        "eta_schleuse": "07:23",
-        "eta_rueb": "02:21",
-        "delta_rueb_schleuse": "05:02",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "02:21",
-      "eta_schleuse": "07:23",
-      "delta_rueb_schleuse": "05:02",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -452,28 +442,28 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:05",
+      "eta_rueb_kiel": "04:06",
       "eta_rueb": "03:53",
       "ship": "KETTER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:08",
+      "eta_rueb_kiel": "04:09",
       "eta_rueb": "03:54",
       "ship": "TUNDRALAND",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:15",
+      "eta_rueb_kiel": "04:16",
       "eta_rueb": "03:55",
       "ship": "BOMAR MARS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:12",
+      "eta_rueb_kiel": "04:13",
       "eta_rueb": "03:58",
       "ship": "CAPELLA",
       "q_gruppe": "5",
