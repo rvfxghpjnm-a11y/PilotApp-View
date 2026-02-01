@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T11:32:42",
+  "generated_at": "2026-02-01T11:34:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "EMS LION",
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 10:43:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -335,9 +340,14 @@
       "fahrzeug": "EMS LION",
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 10:43:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -467,7 +477,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:29",
+      "eta_rueb_kiel": "12:28",
       "eta_rueb": "12:25",
       "ship": "ARKLOW VILLA",
       "q_gruppe": "5",
