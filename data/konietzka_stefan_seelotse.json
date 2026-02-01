@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T09:42:37",
+  "generated_at": "2026-02-01T09:44:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -66,14 +66,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 06:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:38",
+        "eta_schleuse": "12:37",
         "eta_rueb": "08:29",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "08:29",
-      "eta_schleuse": "12:38",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "12:37",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:01"
     },
     {
@@ -129,15 +129,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 06:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:41",
-        "eta_rueb": "11:14",
+        "eta_schleuse": "15:40",
+        "eta_rueb": "11:13",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "11:14",
-      "eta_schleuse": "15:41",
+      "eta_rueb": "11:13",
+      "eta_schleuse": "15:40",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -166,14 +166,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 04:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:21",
+        "eta_schleuse": "10:20",
         "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "06:12",
-      "eta_schleuse": "10:21",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "10:20",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:02"
     },
     {
@@ -343,8 +343,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Seebört",
       "nr": 19,
-      "fahrzeug": "PATRIA SEAWAYS",
-      "route": "KLT → SWK",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Feb 01 00:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -407,14 +407,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 06:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:38",
+        "eta_schleuse": "12:37",
         "eta_rueb": "08:29",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "08:29",
-      "eta_schleuse": "12:38",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "12:37",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:01"
     },
     {
@@ -470,15 +470,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 06:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:41",
-        "eta_rueb": "11:14",
+        "eta_schleuse": "15:40",
+        "eta_rueb": "11:13",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "11:14",
-      "eta_schleuse": "15:41",
+      "eta_rueb": "11:13",
+      "eta_schleuse": "15:40",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -491,14 +491,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 04:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:21",
+        "eta_schleuse": "10:20",
         "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "06:12",
-      "eta_schleuse": "10:21",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "10:20",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:02"
     },
     {
@@ -565,21 +565,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:51",
+      "eta_rueb_kiel": "13:49",
       "eta_rueb": "13:30",
       "ship": "GIOCONDA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:43",
+      "eta_rueb_kiel": "13:42",
       "eta_rueb": "13:33",
       "ship": "SWE CARRIER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:46",
+      "eta_rueb_kiel": "13:45",
       "eta_rueb": "13:36",
       "ship": "INA LEHMANN",
       "q_gruppe": "4",
