@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T03:38:46",
+  "generated_at": "2026-02-01T03:40:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,14 +101,19 @@
       "name": "Peter Hahn",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TUNDRALAND",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:14",
+        "eta_rueb": "04:07",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "05:29"
+      },
+      "eta_rueb": "04:07",
+      "eta_schleuse": "08:14",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "05:29"
     },
     {
       "is_target": false,
@@ -121,15 +126,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 02:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:36",
-        "eta_rueb": "08:09",
+        "eta_schleuse": "12:35",
+        "eta_rueb": "08:08",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:41"
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "08:09",
-      "eta_schleuse": "12:36",
+      "eta_rueb": "08:08",
+      "eta_schleuse": "12:35",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:41"
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -321,14 +326,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 19:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:54",
+        "eta_schleuse": "05:53",
         "eta_rueb": "01:53",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "01:53",
-      "eta_schleuse": "05:54",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "05:53",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:25"
     },
     {
@@ -425,14 +430,19 @@
       "name": "Peter Hahn",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TUNDRALAND",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:14",
+        "eta_rueb": "04:07",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "05:29"
+      },
+      "eta_rueb": "04:07",
+      "eta_schleuse": "08:14",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "05:29"
     },
     {
       "is_target": false,
@@ -445,15 +455,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 02:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:36",
-        "eta_rueb": "08:09",
+        "eta_schleuse": "12:35",
+        "eta_rueb": "08:08",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:41"
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "08:09",
-      "eta_schleuse": "12:36",
+      "eta_rueb": "08:08",
+      "eta_schleuse": "12:35",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:41"
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -592,14 +602,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 31 19:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:54",
+        "eta_schleuse": "05:53",
         "eta_rueb": "01:53",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "01:53",
-      "eta_schleuse": "05:54",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "05:53",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:25"
     },
     {
@@ -627,13 +637,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:07",
-      "eta_rueb": "03:54",
-      "ship": "TUNDRALAND",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "04:12",
       "eta_rueb": "03:55",
       "ship": "BOMAR MARS",
@@ -655,14 +658,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:15",
+      "eta_rueb_kiel": "06:14",
       "eta_rueb": "06:00",
       "ship": "CELLUS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:18",
+      "eta_rueb_kiel": "06:17",
       "eta_rueb": "06:03",
       "ship": "VICTORIA",
       "q_gruppe": "4",
