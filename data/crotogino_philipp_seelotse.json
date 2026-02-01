@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T09:36:44",
+  "generated_at": "2026-02-01T09:38:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 07:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:55",
+        "eta_schleuse": "15:53",
         "eta_rueb": "11:26",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:38"
       },
       "eta_rueb": "11:26",
-      "eta_schleuse": "15:55",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "15:53",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:38"
     },
     {
@@ -286,8 +286,8 @@
       "name": "Peter Hahn",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "EMS LION",
+      "route": "KLT → HOS",
       "time": "Sun Feb 01 02:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -377,14 +377,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 07:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:55",
+        "eta_schleuse": "15:53",
         "eta_rueb": "11:26",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:38"
       },
       "eta_rueb": "11:26",
-      "eta_schleuse": "15:55",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "15:53",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:38"
     },
     {
@@ -559,6 +559,20 @@
       "eta_rueb_kiel": "13:51",
       "eta_rueb": "13:30",
       "ship": "GIOCONDA",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "13:43",
+      "eta_rueb": "13:33",
+      "ship": "SWE CARRIER",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "13:46",
+      "eta_rueb": "13:36",
+      "ship": "INA LEHMANN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
