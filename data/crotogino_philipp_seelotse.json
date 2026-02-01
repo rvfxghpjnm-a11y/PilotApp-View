@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T16:50:46",
+  "generated_at": "2026-02-01T16:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 01 16:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:52",
+        "eta_schleuse": "16:53",
         "eta_rueb": "13:31",
-        "delta_rueb_schleuse": "03:21",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "13:31",
-      "eta_schleuse": "16:52",
-      "delta_rueb_schleuse": "03:21",
+      "eta_schleuse": "16:53",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:17"
     },
     {
@@ -69,8 +69,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 01 16:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -170,19 +170,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "DANIEL DEYMANN",
-      "route": "HOS → RÜB",
+      "fahrzeug": "JOHANN ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 12:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:24",
-        "eta_rueb": "16:56",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:24"
+        "eta_schleuse": "20:45",
+        "eta_rueb": "17:10",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:20"
       },
-      "eta_rueb": "16:56",
-      "eta_schleuse": "21:24",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:24"
+      "eta_rueb": "17:10",
+      "eta_schleuse": "20:45",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -332,14 +332,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Feb 01 06:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:54",
+        "eta_schleuse": "16:56",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "03:19",
+        "delta_rueb_schleuse": "03:21",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "16:54",
-      "delta_rueb_schleuse": "03:19",
+      "eta_schleuse": "16:56",
+      "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:19"
     },
     {
@@ -374,14 +374,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 06:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:52",
+        "eta_schleuse": "16:53",
         "eta_rueb": "13:31",
-        "delta_rueb_schleuse": "03:21",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "13:31",
-      "eta_schleuse": "16:52",
-      "delta_rueb_schleuse": "03:21",
+      "eta_schleuse": "16:53",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:17"
     },
     {
@@ -414,8 +414,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 01 16:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -451,19 +451,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "DANIEL DEYMANN",
-      "route": "HOS → RÜB",
+      "fahrzeug": "JOHANN ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 12:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:24",
-        "eta_rueb": "16:56",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:24"
+        "eta_schleuse": "20:45",
+        "eta_rueb": "17:10",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:20"
       },
-      "eta_rueb": "16:56",
-      "eta_schleuse": "21:24",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:24"
+      "eta_rueb": "17:10",
+      "eta_schleuse": "20:45",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -581,14 +581,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Feb 01 06:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:54",
+        "eta_schleuse": "16:56",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "03:19",
+        "delta_rueb_schleuse": "03:21",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "16:54",
-      "delta_rueb_schleuse": "03:19",
+      "eta_schleuse": "16:56",
+      "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:19"
     },
     {
@@ -623,14 +623,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 01 06:09:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:52",
+        "eta_schleuse": "16:53",
         "eta_rueb": "13:31",
-        "delta_rueb_schleuse": "03:21",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "13:31",
-      "eta_schleuse": "16:52",
-      "delta_rueb_schleuse": "03:21",
+      "eta_schleuse": "16:53",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:17"
     },
     {
@@ -657,13 +657,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:10",
-      "eta_rueb": "16:55",
-      "ship": "JOHANN ESSBERGER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "17:28",
       "eta_rueb": "17:20",
