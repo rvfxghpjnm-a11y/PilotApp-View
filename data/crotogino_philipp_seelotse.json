@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T19:16:54",
+  "generated_at": "2026-02-02T19:18:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -112,8 +112,8 @@
       "name": "Mathias Krügel",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "BBC BANGKOK",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Mon Feb 02 16:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -128,8 +128,8 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "ANINA",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Mon Feb 02 16:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -317,14 +317,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 02 08:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:21",
+        "eta_schleuse": "19:23",
         "eta_rueb": "15:46",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:44"
       },
       "eta_rueb": "15:46",
-      "eta_schleuse": "19:21",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "19:23",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:44"
     }
   ],
@@ -525,14 +525,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 02 08:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:21",
+        "eta_schleuse": "19:23",
         "eta_rueb": "15:46",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:44"
       },
       "eta_rueb": "15:46",
-      "eta_schleuse": "19:21",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "19:23",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:44"
     }
   ],
@@ -544,6 +544,13 @@
       "ship": "LINDEBORG",
       "q_gruppe": "5",
       "route": "KRH → RÜB"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "20:00",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "00:21",
