@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T20:20:54",
+  "generated_at": "2026-02-02T20:22:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -143,14 +143,19 @@
       "name": "Mathias Krügel",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ALESSANDRA LEHMANN",
+      "route": "HOS → LDW",
       "time": "Mon Feb 02 16:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:40",
+        "eta_rueb": "16:58",
+        "delta_rueb_schleuse": "03:42",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "16:58",
+      "eta_schleuse": "20:40",
+      "delta_rueb_schleuse": "03:42",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -285,13 +290,13 @@
       "route": "KRH → HOS",
       "time": "Mon Feb 02 09:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:35",
+        "eta_schleuse": "20:34",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:35",
+      "eta_schleuse": "20:34",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -445,13 +450,13 @@
       "route": "KRH → HOS",
       "time": "Mon Feb 02 09:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:35",
+        "eta_schleuse": "20:34",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:35",
+      "eta_schleuse": "20:34",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
