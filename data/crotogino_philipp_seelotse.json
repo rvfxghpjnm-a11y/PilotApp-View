@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T02:24:45",
+  "generated_at": "2026-02-02T02:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -32,8 +32,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -100,15 +100,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 23:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:37",
-        "eta_rueb": "04:10",
+        "eta_schleuse": "08:36",
+        "eta_rueb": "04:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "04:10",
-      "eta_schleuse": "08:37",
+      "eta_rueb": "04:09",
+      "eta_schleuse": "08:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -230,8 +230,8 @@
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -246,8 +246,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -262,8 +262,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -298,15 +298,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 01 23:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:37",
-        "eta_rueb": "04:10",
+        "eta_schleuse": "08:36",
+        "eta_rueb": "04:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "04:10",
-      "eta_schleuse": "08:37",
+      "eta_rueb": "04:09",
+      "eta_schleuse": "08:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -391,14 +391,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:01",
+      "eta_rueb_kiel": "03:00",
       "eta_rueb": "03:00",
       "ship": "TRICA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:53",
+      "eta_rueb_kiel": "03:52",
       "eta_rueb": "03:45",
       "ship": "MAUREEN S",
       "q_gruppe": "5",
