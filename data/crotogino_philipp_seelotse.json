@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T01:16:47",
+  "generated_at": "2026-02-02T01:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Mon Feb 02 00:57:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -85,14 +85,19 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STAR CURACAO",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 20:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:15",
+        "eta_rueb": "01:42",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "01:42",
+      "eta_schleuse": "05:15",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -101,14 +106,19 @@
       "name": "Christian Wille",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ARABELLA",
+      "route": "HOS → KLT",
       "time": "Sun Feb 01 19:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:33",
+        "eta_rueb": "21:48",
+        "delta_rueb_schleuse": "03:45",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "21:48",
+      "eta_schleuse": "01:33",
+      "delta_rueb_schleuse": "03:45",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -283,14 +293,19 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STAR CURACAO",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 01 20:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:15",
+        "eta_rueb": "01:42",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "01:42",
+      "eta_schleuse": "05:15",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -359,13 +374,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:42",
-      "eta_rueb": "01:30",
-      "ship": "STAR CURACAO",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "03:04",
       "eta_rueb": "03:00",
       "ship": "TRICA",
@@ -394,11 +402,11 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "06:09",
       "eta_rueb": "05:33",
       "ship": "FIONA B",
       "q_gruppe": "5",
-      "route": "RÜB → HOS"
+      "route": "RÜB → UTG"
     }
   ]
 }
