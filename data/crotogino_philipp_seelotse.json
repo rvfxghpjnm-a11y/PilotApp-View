@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T03:26:46",
+  "generated_at": "2026-02-02T03:28:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:13",
+        "eta_schleuse": "07:12",
         "eta_rueb": "03:00",
-        "delta_rueb_schleuse": "04:13",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "03:00",
-      "eta_schleuse": "07:13",
-      "delta_rueb_schleuse": "04:13",
+      "eta_schleuse": "07:12",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:18"
     },
     {
@@ -53,14 +53,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TALINA B",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 02 01:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:30",
+        "eta_rueb": "03:54",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "03:54",
+      "eta_schleuse": "07:30",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -69,14 +74,19 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MAUREEN S",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 02 01:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:23",
+        "eta_rueb": "03:49",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "03:49",
+      "eta_schleuse": "07:23",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -260,14 +270,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 02 01:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:13",
+        "eta_schleuse": "07:12",
         "eta_rueb": "03:00",
-        "delta_rueb_schleuse": "04:13",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "03:00",
-      "eta_schleuse": "07:13",
-      "delta_rueb_schleuse": "04:13",
+      "eta_schleuse": "07:12",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:18"
     },
     {
@@ -277,14 +287,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TALINA B",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 02 01:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:30",
+        "eta_rueb": "03:54",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "03:54",
+      "eta_schleuse": "07:30",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -293,14 +308,19 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MAUREEN S",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 02 01:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:23",
+        "eta_rueb": "03:49",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "03:49",
+      "eta_schleuse": "07:23",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -426,20 +446,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:49",
-      "eta_rueb": "03:45",
-      "ship": "MAUREEN S",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "03:54",
-      "eta_rueb": "03:50",
-      "ship": "TALINA B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:00",
       "eta_rueb": "05:45",
