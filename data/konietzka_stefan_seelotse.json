@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T22:04:46",
+  "generated_at": "2026-02-03T22:06:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,11 +35,16 @@
       "fahrzeug": "GERDA",
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 20:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:06",
+        "eta_rueb": "01:51",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "03:45"
+      },
+      "eta_rueb": "01:51",
+      "eta_schleuse": "07:06",
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "03:45"
     },
     {
       "is_target": false,
@@ -312,11 +317,16 @@
       "fahrzeug": "GERDA",
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 20:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:06",
+        "eta_rueb": "01:51",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "03:45"
+      },
+      "eta_rueb": "01:51",
+      "eta_schleuse": "07:06",
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "03:45"
     },
     {
       "is_target": false,
