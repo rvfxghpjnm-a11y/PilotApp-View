@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T19:58:56",
+  "generated_at": "2026-02-03T20:01:02",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "ELBINSEL",
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 18:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:54",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -339,9 +344,14 @@
       "fahrzeug": "ELBINSEL",
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 18:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:54",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -507,7 +517,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:38",
+      "eta_rueb_kiel": "01:34",
       "eta_rueb": "01:10",
       "ship": "SKOGAFOSS",
       "q_gruppe": "3",
@@ -521,7 +531,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:38",
+      "eta_rueb_kiel": "01:34",
       "eta_rueb": "01:13",
       "ship": "SKOGAFOSS",
       "q_gruppe": "3",
