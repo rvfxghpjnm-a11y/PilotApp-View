@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T00:46:53",
+  "generated_at": "2026-02-04T00:48:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Feb 04 00:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -36,14 +36,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 23:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:21",
+        "eta_schleuse": "09:22",
         "eta_rueb": "04:47",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "04:47",
-      "eta_schleuse": "09:21",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "09:22",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:11"
     },
     {
@@ -57,14 +57,14 @@
       "route": "HOR → RÜB",
       "time": "Tue Feb 03 23:07:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:17",
+        "eta_schleuse": "09:18",
         "eta_rueb": "04:43",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "04:43",
-      "eta_schleuse": "09:17",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:17"
     },
     {
@@ -78,14 +78,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 22:49:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:14",
+        "eta_schleuse": "09:15",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "09:14",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "09:15",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:16"
     },
     {
@@ -293,8 +293,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Feb 04 00:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -313,14 +313,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 23:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:21",
+        "eta_schleuse": "09:22",
         "eta_rueb": "04:47",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "04:47",
-      "eta_schleuse": "09:21",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "09:22",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:11"
     },
     {
@@ -334,14 +334,14 @@
       "route": "HOR → RÜB",
       "time": "Tue Feb 03 23:07:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:17",
+        "eta_schleuse": "09:18",
         "eta_rueb": "04:43",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "04:43",
-      "eta_schleuse": "09:17",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:17"
     },
     {
@@ -355,14 +355,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 22:49:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:14",
+        "eta_schleuse": "09:15",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "09:14",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "09:15",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:16"
     },
     {
@@ -501,7 +501,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:18",
+      "eta_rueb_kiel": "01:17",
       "eta_rueb": "01:10",
       "ship": "SYDBORG",
       "q_gruppe": "5",
@@ -515,7 +515,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:21",
+      "eta_rueb_kiel": "01:20",
       "eta_rueb": "01:16",
       "ship": "RIX PARTNER",
       "q_gruppe": "5",
@@ -529,7 +529,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:35",
+      "eta_rueb_kiel": "03:37",
       "eta_rueb": "03:30",
       "ship": "TIMBUS",
       "q_gruppe": "4",
@@ -543,14 +543,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:53",
+      "eta_rueb_kiel": "05:54",
       "eta_rueb": "05:30",
       "ship": "TOLLUND",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "05:59",
+      "eta_rueb_kiel": "06:01",
       "eta_rueb": "05:35",
       "ship": "X-PRESS ELBE",
       "q_gruppe": "1",
