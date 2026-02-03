@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T19:46:53",
+  "generated_at": "2026-02-03T19:48:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Henning Kaschke",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Feb 03 18:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -212,8 +212,8 @@
       "name": "Michael Arndt",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "PATRIA SEAWAYS",
-      "route": "SWK → KLT",
+      "fahrzeug": "GERDA",
+      "route": "KLT → HOS",
       "time": "Tue Feb 03 14:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -514,6 +514,20 @@
       "route": "RÜB → HOS"
     },
     {
+      "eta_rueb_kiel": "01:41",
+      "eta_rueb": "01:10",
+      "ship": "SYDBORG",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "01:38",
+      "eta_rueb": "01:13",
+      "ship": "SKOGAFOSS",
+      "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "22:50",
       "eta_rueb": "22:40",
       "ship": "ISAR HIGHWAY",
@@ -521,10 +535,10 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:41",
-      "eta_rueb": "23:13",
-      "ship": "SYDBORG",
-      "q_gruppe": "5",
+      "eta_rueb_kiel": "23:23",
+      "eta_rueb": "23:10",
+      "ship": "ENSEMBLE",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     }
   ]
