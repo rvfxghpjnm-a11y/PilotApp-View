@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T09:56:38",
+  "generated_at": "2026-02-03T09:58:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,7 +12,7 @@
     "nr": 9
   },
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
     "see": 4
   },
@@ -255,22 +255,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "name": "Jens Röhl",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "KAMELIA",
-      "route": "RÜB → HOS",
-      "time": "Mon Feb 02 18:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -442,22 +426,6 @@
       "eta_schleuse": "15:29",
       "delta_rueb_schleuse": "05:09",
       "delta_start_rueb": "03:38"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "name": "Jens Röhl",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "KAMELIA",
-      "route": "RÜB → HOS",
-      "time": "Mon Feb 02 18:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -477,7 +445,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:32",
+      "eta_rueb_kiel": "13:30",
       "eta_rueb": "13:20",
       "ship": "SOUTH ENABLER",
       "q_gruppe": "0",
