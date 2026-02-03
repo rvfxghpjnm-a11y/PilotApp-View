@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T08:54:39",
+  "generated_at": "2026-02-03T08:56:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -102,11 +102,16 @@
       "fahrzeug": "LINDEBORG",
       "route": "KRH → RÜB",
       "time": "Tue Feb 03 07:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:59",
+        "eta_rueb": "09:32",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:36"
+      },
+      "eta_rueb": "09:32",
+      "eta_schleuse": "13:59",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:36"
     },
     {
       "is_target": true,
@@ -173,8 +178,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "EK-STREAM",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Tue Feb 03 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -316,11 +321,16 @@
       "fahrzeug": "LINDEBORG",
       "route": "KRH → RÜB",
       "time": "Tue Feb 03 07:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:59",
+        "eta_rueb": "09:32",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:36"
+      },
+      "eta_rueb": "09:32",
+      "eta_schleuse": "13:59",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:36"
     },
     {
       "is_target": true,
