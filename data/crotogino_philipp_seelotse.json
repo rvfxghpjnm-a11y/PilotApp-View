@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T22:06:53",
+  "generated_at": "2026-02-03T22:08:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "TAVASTLAND",
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 20:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:09",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -301,9 +306,14 @@
       "fahrzeug": "TAVASTLAND",
       "route": "HOS → RÜB",
       "time": "Tue Feb 03 20:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:09",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -471,7 +481,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:33",
+      "eta_rueb_kiel": "01:32",
       "eta_rueb": "01:13",
       "ship": "SKOGAFOSS",
       "q_gruppe": "3",
