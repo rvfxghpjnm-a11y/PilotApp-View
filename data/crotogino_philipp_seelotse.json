@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T01:58:54",
+  "generated_at": "2026-02-04T02:00:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "HUMBER RUNNER",
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 00:55:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:30",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -354,9 +359,14 @@
       "fahrzeug": "HUMBER RUNNER",
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 00:55:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:30",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -585,7 +595,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:38",
+      "eta_rueb_kiel": "03:37",
       "eta_rueb": "03:30",
       "ship": "TIMBUS",
       "q_gruppe": "4",
@@ -613,7 +623,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:55",
+      "eta_rueb_kiel": "05:56",
       "eta_rueb": "05:40",
       "ship": "KLARA",
       "q_gruppe": "5",
