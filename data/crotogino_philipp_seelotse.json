@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T21:40:56",
+  "generated_at": "2026-02-04T21:42:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -179,15 +179,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:20",
-        "eta_rueb": "22:12",
+        "eta_schleuse": "02:19",
+        "eta_rueb": "22:11",
         "delta_rueb_schleuse": "04:08",
-        "delta_start_rueb": "03:24"
+        "delta_start_rueb": "03:23"
       },
-      "eta_rueb": "22:12",
-      "eta_schleuse": "02:20",
+      "eta_rueb": "22:11",
+      "eta_schleuse": "02:19",
       "delta_rueb_schleuse": "04:08",
-      "delta_start_rueb": "03:24"
+      "delta_start_rueb": "03:23"
     },
     {
       "is_target": false,
@@ -217,8 +217,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 15:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -355,15 +355,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:20",
-        "eta_rueb": "22:12",
+        "eta_schleuse": "02:19",
+        "eta_rueb": "22:11",
         "delta_rueb_schleuse": "04:08",
-        "delta_start_rueb": "03:24"
+        "delta_start_rueb": "03:23"
       },
-      "eta_rueb": "22:12",
-      "eta_schleuse": "02:20",
+      "eta_rueb": "22:11",
+      "eta_schleuse": "02:19",
       "delta_rueb_schleuse": "04:08",
-      "delta_start_rueb": "03:24"
+      "delta_start_rueb": "03:23"
     },
     {
       "is_target": false,
@@ -393,8 +393,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 15:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -441,14 +441,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "21:45",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:54",
+      "eta_rueb_kiel": "23:53",
       "eta_rueb": "23:45",
       "ship": "SONGA PEARL",
       "q_gruppe": "2",
