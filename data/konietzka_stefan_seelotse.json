@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T02:28:47",
+  "generated_at": "2026-02-04T02:30:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,14 +83,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 00:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:31",
+        "eta_schleuse": "05:30",
         "eta_rueb": "01:28",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "05:10"
       },
       "eta_rueb": "01:28",
-      "eta_schleuse": "05:31",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "05:30",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "05:10"
     },
     {
@@ -385,14 +385,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 00:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:31",
+        "eta_schleuse": "05:30",
         "eta_rueb": "01:28",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "05:10"
       },
       "eta_rueb": "01:28",
-      "eta_schleuse": "05:31",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "05:30",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "05:10"
     },
     {
@@ -630,6 +630,13 @@
       "eta_rueb_kiel": "05:55",
       "eta_rueb": "05:40",
       "ship": "KLARA",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:01",
+      "eta_rueb": "07:45",
+      "ship": "EMS MIRA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
