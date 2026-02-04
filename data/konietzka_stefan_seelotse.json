@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T03:08:48",
+  "generated_at": "2026-02-04T03:10:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -216,14 +216,19 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ECO LEVANT",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 03 20:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:45",
+        "eta_rueb": "03:38",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "03:38",
+      "eta_schleuse": "07:45",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -352,14 +357,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 03 16:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:53",
+        "eta_schleuse": "04:52",
         "eta_rueb": "01:16",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "05:34"
       },
       "eta_rueb": "01:16",
-      "eta_schleuse": "04:53",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "04:52",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "05:34"
     }
   ],
@@ -518,14 +523,19 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ECO LEVANT",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 03 20:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:45",
+        "eta_rueb": "03:38",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "03:38",
+      "eta_schleuse": "07:45",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -638,26 +648,19 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 03 16:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:53",
+        "eta_schleuse": "04:52",
         "eta_rueb": "01:16",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "05:34"
       },
       "eta_rueb": "01:16",
-      "eta_schleuse": "04:53",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "04:52",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "05:34"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:38",
-      "eta_rueb": "03:35",
-      "ship": "ECO LEVANT",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "05:53",
       "eta_rueb": "05:30",
