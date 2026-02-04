@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T12:26:55",
+  "generated_at": "2026-02-04T12:28:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -201,8 +201,8 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 07:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -217,8 +217,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 07:27:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -290,14 +290,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 03:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:38",
+        "eta_schleuse": "13:35",
         "eta_rueb": "10:06",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "06:04"
       },
       "eta_rueb": "10:06",
-      "eta_schleuse": "13:38",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "06:04"
     },
     {
@@ -311,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 01:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:34",
+        "eta_schleuse": "13:32",
         "eta_rueb": "10:01",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "06:01"
       },
       "eta_rueb": "10:01",
-      "eta_schleuse": "13:34",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "13:32",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "06:01"
     }
   ],
@@ -467,8 +467,8 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 07:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -483,8 +483,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 07:27:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -524,14 +524,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 03:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:38",
+        "eta_schleuse": "13:35",
         "eta_rueb": "10:06",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "06:04"
       },
       "eta_rueb": "10:06",
-      "eta_schleuse": "13:38",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "06:04"
     },
     {
@@ -545,28 +545,21 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 01:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:34",
+        "eta_schleuse": "13:32",
         "eta_rueb": "10:01",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "06:01"
       },
       "eta_rueb": "10:01",
-      "eta_schleuse": "13:34",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "13:32",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "06:01"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "12:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "14:09",
+      "eta_rueb_kiel": "14:11",
       "eta_rueb": "14:00",
       "ship": "BALTIC WIND",
       "q_gruppe": "5",
