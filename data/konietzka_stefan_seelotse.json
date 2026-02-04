@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T20:32:46",
+  "generated_at": "2026-02-04T20:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 3,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -147,15 +147,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Feb 04 18:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:28",
-        "eta_rueb": "23:01",
+        "eta_schleuse": "03:27",
+        "eta_rueb": "23:00",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "23:01",
-      "eta_schleuse": "03:28",
+      "eta_rueb": "23:00",
+      "eta_schleuse": "03:27",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -333,27 +333,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Hauke",
-      "nachname": "Jeschek",
-      "name": "Hauke Jeschek",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Feb 04 11:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Alexander",
       "nachname": "Engel",
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "LOVISA",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 10:38:00 CET 2026",
@@ -374,7 +358,7 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "BRAVEHEART SPIRIT",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 08:17:00 CET 2026",
@@ -395,7 +379,7 @@
       "nachname": "Lielienthal",
       "name": "Jörn Lielienthal",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "LADY MENNA",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 08:14:00 CET 2026",
@@ -416,7 +400,7 @@
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "ADRIATICBORG",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 07:58:00 CET 2026",
@@ -460,15 +444,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Feb 04 18:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:28",
-        "eta_rueb": "23:01",
+        "eta_schleuse": "03:27",
+        "eta_rueb": "23:00",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "23:01",
-      "eta_schleuse": "03:28",
+      "eta_rueb": "23:00",
+      "eta_schleuse": "03:27",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -581,7 +565,7 @@
       "nachname": "Engel",
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "LOVISA",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 10:38:00 CET 2026",
@@ -602,7 +586,7 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "BRAVEHEART SPIRIT",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 08:17:00 CET 2026",
@@ -623,7 +607,7 @@
       "nachname": "Lielienthal",
       "name": "Jörn Lielienthal",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "LADY MENNA",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 08:14:00 CET 2026",
@@ -644,7 +628,7 @@
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "ADRIATICBORG",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 07:58:00 CET 2026",
@@ -663,14 +647,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:59",
+      "eta_rueb_kiel": "01:58",
       "eta_rueb": "01:40",
       "ship": "SEELAND",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "02:02",
       "eta_rueb": "01:45",
       "ship": "ALREK",
       "q_gruppe": "4",
@@ -684,7 +668,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:56",
+      "eta_rueb_kiel": "23:55",
       "eta_rueb": "23:45",
       "ship": "SONGA PEARL",
       "q_gruppe": "2",
