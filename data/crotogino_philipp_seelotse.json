@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T18:48:58",
+  "generated_at": "2026-02-04T18:50:58",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "MONTSERRAT",
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:47:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -52,15 +57,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:33",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "02:30",
+        "eta_rueb": "22:23",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "02:33",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "22:23",
+      "eta_schleuse": "02:30",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -69,8 +74,8 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "BALTIC WIND+EN AVANT 30",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Feb 04 16:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -90,14 +95,14 @@
       "time": "Wed Feb 04 15:30:00 CET 2026",
       "times": {
         "eta_schleuse": "02:01",
-        "eta_rueb": "21:34",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "21:33",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "21:34",
+      "eta_rueb": "21:33",
       "eta_schleuse": "02:01",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -110,15 +115,15 @@
       "route": "KLT → HOS",
       "time": "Wed Feb 04 15:11:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:33",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "02:30",
+        "eta_rueb": "22:23",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "02:33",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "22:23",
+      "eta_schleuse": "02:30",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -196,14 +201,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "BALTIC WIND+EN AVANT 30",
-      "route": "RÜB → KRH",
+      "fahrzeug": "EN AVANT 30",
+      "route": "KRH → RÜB",
       "time": "Wed Feb 04 11:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:59",
+        "eta_rueb": "19:57",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "10:09"
+      },
+      "eta_rueb": "19:57",
+      "eta_schleuse": "00:59",
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "10:09"
     },
     {
       "is_target": false,
@@ -333,9 +343,14 @@
       "fahrzeug": "MONTSERRAT",
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:47:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -350,15 +365,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:33",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "02:30",
+        "eta_rueb": "22:23",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "02:33",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "22:23",
+      "eta_schleuse": "02:30",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -367,8 +382,8 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "BALTIC WIND+EN AVANT 30",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Feb 04 16:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -388,14 +403,14 @@
       "time": "Wed Feb 04 15:30:00 CET 2026",
       "times": {
         "eta_schleuse": "02:01",
-        "eta_rueb": "21:34",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "21:33",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "21:34",
+      "eta_rueb": "21:33",
       "eta_schleuse": "02:01",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -425,14 +440,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "BALTIC WIND+EN AVANT 30",
-      "route": "RÜB → KRH",
+      "fahrzeug": "EN AVANT 30",
+      "route": "KRH → RÜB",
       "time": "Wed Feb 04 11:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:59",
+        "eta_rueb": "19:57",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "10:09"
+      },
+      "eta_rueb": "19:57",
+      "eta_schleuse": "00:59",
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "10:09"
     },
     {
       "is_target": false,
@@ -522,7 +542,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:44",
+      "eta_rueb_kiel": "19:42",
       "eta_rueb": "19:35",
       "ship": "EMPIRE",
       "q_gruppe": "1",
