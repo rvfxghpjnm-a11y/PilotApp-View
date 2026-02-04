@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T20:18:48",
+  "generated_at": "2026-02-04T20:20:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,15 +73,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:11",
-        "eta_rueb": "22:22",
+        "eta_schleuse": "03:10",
+        "eta_rueb": "22:21",
         "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "22:22",
-      "eta_schleuse": "03:11",
+      "eta_rueb": "22:21",
+      "eta_schleuse": "03:10",
       "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -254,8 +254,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Feb 04 11:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -381,15 +381,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 17:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:11",
-        "eta_rueb": "22:22",
+        "eta_schleuse": "03:10",
+        "eta_rueb": "22:21",
         "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "22:22",
-      "eta_schleuse": "03:11",
+      "eta_rueb": "22:21",
+      "eta_schleuse": "03:10",
       "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -579,6 +579,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "00:32",
+      "eta_rueb": "00:30",
+      "ship": "SEELAND",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "21:48",
       "eta_rueb": "21:35",
       "ship": "BAYMAR",
@@ -586,7 +593,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:57",
+      "eta_rueb_kiel": "23:56",
       "eta_rueb": "23:45",
       "ship": "SONGA PEARL",
       "q_gruppe": "2",
