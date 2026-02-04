@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T00:24:54",
+  "generated_at": "2026-02-05T00:26:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "PRIMA KING",
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 23:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:26",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:26",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -48,14 +53,19 @@
       "name": "Franck Escher",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "BAYMAR",
+      "route": "HOS → KLT",
       "time": "Wed Feb 04 20:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:17",
+        "eta_rueb": "21:43",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "21:43",
+      "eta_schleuse": "01:17",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -207,9 +217,14 @@
       "fahrzeug": "PRIMA KING",
       "route": "HOS → RÜB",
       "time": "Wed Feb 04 23:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:26",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:26",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -336,14 +351,14 @@
     },
     {
       "eta_rueb_kiel": "04:45",
-      "eta_rueb": "04:33",
+      "eta_rueb": "04:03",
       "ship": "MADICKEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "04:49",
-      "eta_rueb": "04:36",
+      "eta_rueb": "04:06",
       "ship": "ORASUND",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
