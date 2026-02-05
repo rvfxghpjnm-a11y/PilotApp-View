@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T23:20:54",
+  "generated_at": "2026-02-05T23:22:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 1,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -205,15 +205,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 18:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:23",
-        "eta_rueb": "23:56",
+        "eta_schleuse": "04:22",
+        "eta_rueb": "23:55",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:24"
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "23:56",
-      "eta_schleuse": "04:23",
+      "eta_rueb": "23:55",
+      "eta_schleuse": "04:22",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:24"
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -249,27 +249,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "name": "Heiko Hoffmann",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Thu Feb 05 17:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Lutz",
       "nachname": "Wäntig",
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 16:59:00 CET 2026",
@@ -285,7 +269,7 @@
       "nachname": "Merschmann",
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:26:00 CET 2026",
@@ -301,7 +285,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:15:00 CET 2026",
@@ -322,7 +306,7 @@
       "nachname": "Reimer",
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ECO OSTRO",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 11:49:00 CET 2026",
@@ -471,15 +455,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 18:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:23",
-        "eta_rueb": "23:56",
+        "eta_schleuse": "04:22",
+        "eta_rueb": "23:55",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:24"
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "23:56",
-      "eta_schleuse": "04:23",
+      "eta_rueb": "23:55",
+      "eta_schleuse": "04:22",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:24"
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -487,7 +471,7 @@
       "nachname": "Wäntig",
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 16:59:00 CET 2026",
@@ -503,7 +487,7 @@
       "nachname": "Merschmann",
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:26:00 CET 2026",
@@ -519,7 +503,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:15:00 CET 2026",
@@ -540,7 +524,7 @@
       "nachname": "Reimer",
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ECO OSTRO",
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 11:49:00 CET 2026",
