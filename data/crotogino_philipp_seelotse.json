@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T20:20:48",
+  "generated_at": "2026-02-05T20:22:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -113,9 +113,14 @@
       "fahrzeug": "FL STOROE",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 19:15:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:37",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -401,9 +406,14 @@
       "fahrzeug": "FL STOROE",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 19:15:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:37",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
