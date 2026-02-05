@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T01:24:47",
+  "generated_at": "2026-02-05T01:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALREK",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:24",
+        "eta_rueb": "01:51",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:17"
+      },
+      "eta_rueb": "01:51",
+      "eta_schleuse": "05:24",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -241,14 +246,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALREK",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:24",
+        "eta_rueb": "01:51",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:17"
+      },
+      "eta_rueb": "01:51",
+      "eta_schleuse": "05:24",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -348,13 +358,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "01:51",
-      "eta_rueb": "01:45",
-      "ship": "ALREK",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "02:40",
       "eta_rueb": "02:40",
