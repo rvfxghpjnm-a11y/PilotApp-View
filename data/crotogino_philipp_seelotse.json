@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T11:34:47",
+  "generated_at": "2026-02-05T11:36:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 9,
     "wach": 0,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -173,27 +173,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Weise",
-      "name": "Carsten Weise",
-      "aufgabe": "Seebört",
-      "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Thu Feb 05 05:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Klaus",
       "nachname": "Eidenschink",
       "name": "Klaus Eidenschink",
       "aufgabe": "Seebört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "SCA ORTVIKEN",
       "route": "KLT → HOS",
       "time": "Thu Feb 05 05:29:00 CET 2026",
@@ -209,7 +193,7 @@
       "nachname": "Krämer",
       "name": "Jonas Krämer",
       "aufgabe": "Seebört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "KETHI",
       "route": "KLT → HOS",
       "time": "Thu Feb 05 03:05:00 CET 2026",
@@ -225,7 +209,7 @@
       "nachname": "Hahn",
       "name": "Peter Hahn",
       "aufgabe": "Seebört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Thu Feb 05 03:00:00 CET 2026",
@@ -241,7 +225,7 @@
       "nachname": "Engler",
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Feb 05 01:05:00 CET 2026",
@@ -257,7 +241,7 @@
       "nachname": "Haala",
       "name": "Klaus Werner Haala",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "STELLA VIRGO",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 23:35:00 CET 2026",
@@ -417,7 +401,7 @@
       "nachname": "Engler",
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Feb 05 01:05:00 CET 2026",
@@ -433,7 +417,7 @@
       "nachname": "Haala",
       "name": "Klaus Werner Haala",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "STELLA VIRGO",
       "route": "RÜB → HOS",
       "time": "Wed Feb 04 23:35:00 CET 2026",
@@ -459,14 +443,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:58",
+      "eta_rueb_kiel": "14:48",
       "eta_rueb": "15:50",
       "ship": "HANNI",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:53",
+      "eta_rueb_kiel": "14:51",
       "eta_rueb": "15:52",
       "ship": "ELEONORA",
       "q_gruppe": "4",
