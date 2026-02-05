@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T23:12:36",
+  "generated_at": "2026-02-05T23:14:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -247,8 +247,8 @@
       "name": "Lutz Jeske",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "MERSEY",
+      "route": "KLT → HOS",
       "time": "Thu Feb 05 17:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -567,6 +567,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "00:00",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "02:01",
       "eta_rueb": "02:00",
