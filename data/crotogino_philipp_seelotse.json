@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T14:04:52",
+  "generated_at": "2026-02-05T14:06:49",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -152,14 +152,19 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELEONORA",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 08:42:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:18",
+        "eta_rueb": "14:44",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:00"
+      },
+      "eta_rueb": "14:44",
+      "eta_schleuse": "18:18",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:00"
     },
     {
       "is_target": false,
@@ -168,14 +173,19 @@
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HANNI",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 08:24:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:15",
+        "eta_rueb": "14:41",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "03:57"
+      },
+      "eta_rueb": "14:41",
+      "eta_schleuse": "18:15",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "03:57"
     },
     {
       "is_target": false,
@@ -339,14 +349,19 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELEONORA",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 08:42:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:18",
+        "eta_rueb": "14:44",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:00"
+      },
+      "eta_rueb": "14:44",
+      "eta_schleuse": "18:18",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:00"
     },
     {
       "is_target": false,
@@ -355,14 +370,19 @@
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HANNI",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 08:24:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:15",
+        "eta_rueb": "14:41",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "03:57"
+      },
+      "eta_rueb": "14:41",
+      "eta_schleuse": "18:15",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "03:57"
     },
     {
       "is_target": false,
@@ -441,20 +461,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "14:41",
-      "eta_rueb": "14:40",
-      "ship": "HANNI",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "14:45",
-      "eta_rueb": "14:43",
-      "ship": "ELEONORA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "17:55",
       "eta_rueb": "17:40",
