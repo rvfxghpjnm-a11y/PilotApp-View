@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T22:58:53",
+  "generated_at": "2026-02-05T23:00:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "TIMCA",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 22:15:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -122,8 +127,8 @@
       "name": "Tim Woitanowski",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "ZILTBORG",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Feb 05 19:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -360,9 +365,14 @@
       "fahrzeug": "TIMCA",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 22:15:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -549,21 +559,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:03",
+      "eta_rueb_kiel": "02:02",
       "eta_rueb": "02:15",
       "ship": "VB BREMERHAVEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:06",
+      "eta_rueb_kiel": "02:05",
       "eta_rueb": "02:18",
       "ship": "VB WILHELMSHAVEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:09",
+      "eta_rueb_kiel": "02:08",
       "eta_rueb": "02:21",
       "ship": "INCRA",
       "q_gruppe": "5",
