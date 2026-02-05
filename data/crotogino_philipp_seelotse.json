@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T13:44:48",
+  "generated_at": "2026-02-05T13:46:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -194,19 +194,14 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "KATJA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 08:24:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:15",
-        "eta_rueb": "13:48",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "13:48",
-      "eta_schleuse": "18:15",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -215,8 +210,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 07:06:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -396,19 +391,14 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "KATJA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 08:24:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:15",
-        "eta_rueb": "13:48",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "13:48",
-      "eta_schleuse": "18:15",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -417,8 +407,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 07:06:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -472,13 +462,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "13:45",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "14:43",
       "eta_rueb": "14:40",
       "ship": "HANNI",
@@ -494,21 +477,21 @@
     },
     {
       "eta_rueb_kiel": "17:57",
-      "eta_rueb": "17:30",
+      "eta_rueb": "17:35",
       "ship": "ANOUK",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "18:01",
-      "eta_rueb": "17:33",
+      "eta_rueb": "17:38",
       "ship": "SWEDICA HAV",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "18:06",
-      "eta_rueb": "17:40",
+      "eta_rueb": "17:41",
       "ship": "VECHTBORG",
       "q_gruppe": "3",
       "route": "RÜB → UTG"
