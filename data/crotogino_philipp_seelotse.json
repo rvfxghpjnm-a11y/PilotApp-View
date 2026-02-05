@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-05T17:14:48",
+  "generated_at": "2026-02-05T17:16:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "RÜB",
-    "from": null,
-    "to": null,
+    "fahrzeug": "ANOUK",
+    "from": "RÜB",
+    "to": "HOS",
     "time": "Thu Feb 05 10:45:00 CET 2026",
     "nr": 11
   },
@@ -16,7 +16,12 @@
     "wach": 0,
     "see": 4
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "21:19",
+    "eta_rueb": "17:46",
+    "delta_rueb_schleuse": "03:33",
+    "delta_start_rueb": "04:14"
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -142,14 +147,19 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VECHTBORG",
+      "route": "RÜB → UTG",
       "time": "Thu Feb 05 11:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": "17:52",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:12"
+      },
+      "eta_rueb": "17:52",
+      "eta_schleuse": "21:22",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -174,14 +184,19 @@
       "name": "Nik Suermann",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SWEDICA HAV",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 10:58:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": "17:48",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "17:48",
+      "eta_schleuse": "21:22",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": true,
@@ -190,14 +205,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ANOUK",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 10:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:19",
+        "eta_rueb": "17:46",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "17:46",
+      "eta_schleuse": "21:19",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -319,14 +339,19 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VECHTBORG",
+      "route": "RÜB → UTG",
       "time": "Thu Feb 05 11:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": "17:52",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:12"
+      },
+      "eta_rueb": "17:52",
+      "eta_schleuse": "21:22",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -335,14 +360,19 @@
       "name": "Nik Suermann",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SWEDICA HAV",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 10:58:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": "17:48",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "17:48",
+      "eta_schleuse": "21:22",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": true,
@@ -351,14 +381,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ANOUK",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 10:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:19",
+        "eta_rueb": "17:46",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "17:46",
+      "eta_schleuse": "21:19",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -405,27 +440,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:46",
-      "eta_rueb": "17:40",
-      "ship": "ANOUK",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "17:48",
-      "eta_rueb": "17:43",
-      "ship": "SWEDICA HAV",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "17:52",
-      "eta_rueb": "17:46",
-      "ship": "VECHTBORG",
-      "q_gruppe": "3",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "22:15",
       "eta_rueb": "21:50",
