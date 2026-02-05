@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T21:06:38",
+  "generated_at": "2026-02-05T21:08:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -94,14 +94,14 @@
       "time": "Thu Feb 05 19:45:00 CET 2026",
       "times": {
         "eta_schleuse": "05:06",
-        "eta_rueb": "00:39",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "00:38",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "00:39",
+      "eta_rueb": "00:38",
       "eta_schleuse": "05:06",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -289,14 +289,14 @@
       "route": "RÜB → UTG",
       "time": "Thu Feb 05 11:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:28",
+        "eta_schleuse": "21:27",
         "eta_rueb": "17:49",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "17:49",
-      "eta_schleuse": "21:28",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "21:27",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:09"
     },
     {
@@ -371,14 +371,14 @@
       "time": "Thu Feb 05 19:45:00 CET 2026",
       "times": {
         "eta_schleuse": "05:06",
-        "eta_rueb": "00:39",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "00:38",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "00:39",
+      "eta_rueb": "00:38",
       "eta_schleuse": "05:06",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -502,14 +502,14 @@
       "route": "RÜB → UTG",
       "time": "Thu Feb 05 11:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:28",
+        "eta_schleuse": "21:27",
         "eta_rueb": "17:49",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "17:49",
-      "eta_schleuse": "21:28",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "21:27",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:09"
     },
     {
@@ -558,6 +558,20 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "02:05",
+      "eta_rueb": "01:15",
+      "ship": "VB BREMERHAVEN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "02:08",
+      "eta_rueb": "01:18",
+      "ship": "VB WILHELMSHAVEN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "22:06",
       "eta_rueb": "22:00",
       "ship": "ECO OSTRO",
@@ -572,7 +586,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:15",
+      "eta_rueb_kiel": "22:14",
       "eta_rueb": "22:06",
       "ship": "DANIEL DEYMANN",
       "q_gruppe": "5",
