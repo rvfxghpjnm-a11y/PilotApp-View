@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T04:04:55",
+  "generated_at": "2026-02-05T04:06:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AAL GALVESTON",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 03:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:03",
+        "eta_rueb": "04:30",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "04:30",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -64,14 +69,19 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AAL GALVESTON",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 03:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:03",
+        "eta_rueb": "04:30",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "04:30",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -283,14 +293,19 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AAL GALVESTON",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 03:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:03",
+        "eta_rueb": "04:30",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "04:30",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -299,14 +314,19 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AAL GALVESTON",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 03:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:03",
+        "eta_rueb": "04:30",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "04:30",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -416,13 +436,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "04:30",
-      "eta_rueb": "04:30",
-      "ship": "AAL GALVESTON",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:36",
       "eta_rueb": "04:33",
