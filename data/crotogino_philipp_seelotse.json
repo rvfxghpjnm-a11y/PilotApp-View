@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T09:30:54",
+  "generated_at": "2026-02-05T09:32:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "KATJA",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 08:24:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -276,9 +281,14 @@
       "fahrzeug": "KATJA",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 08:24:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -372,7 +382,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:41",
+      "eta_rueb_kiel": "13:43",
       "eta_rueb": "14:00",
       "ship": "SKAGENBANK",
       "q_gruppe": "5",
