@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T12:54:48",
+  "generated_at": "2026-02-05T12:56:48",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -44,9 +44,14 @@
       "fahrzeug": "NICKI",
       "route": "HOR → RÜB",
       "time": "Thu Feb 05 11:49:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:06",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -60,9 +65,14 @@
       "fahrzeug": "SCA ORTVIKEN",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 11:46:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -131,14 +141,14 @@
       "time": "Thu Feb 05 08:42:00 CET 2026",
       "times": {
         "eta_schleuse": "18:23",
-        "eta_rueb": "13:55",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "13:56",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "13:55",
+      "eta_rueb": "13:56",
       "eta_schleuse": "18:23",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -247,9 +257,14 @@
       "fahrzeug": "NICKI",
       "route": "HOR → RÜB",
       "time": "Thu Feb 05 11:49:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:06",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -263,9 +278,14 @@
       "fahrzeug": "SCA ORTVIKEN",
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 11:46:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -318,14 +338,14 @@
       "time": "Thu Feb 05 08:42:00 CET 2026",
       "times": {
         "eta_schleuse": "18:23",
-        "eta_rueb": "13:55",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "13:56",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "13:55",
+      "eta_rueb": "13:56",
       "eta_schleuse": "18:23",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
