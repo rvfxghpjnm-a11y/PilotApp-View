@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T02:10:46",
+  "generated_at": "2026-02-05T02:12:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -138,14 +138,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONILAND",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 18:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:10",
+        "eta_rueb": "02:38",
+        "delta_rueb_schleuse": "03:32",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "02:38",
+      "eta_schleuse": "06:10",
+      "delta_rueb_schleuse": "03:32",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -256,14 +261,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONILAND",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 04 18:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:10",
+        "eta_rueb": "02:38",
+        "delta_rueb_schleuse": "03:32",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "02:38",
+      "eta_schleuse": "06:10",
+      "delta_rueb_schleuse": "03:32",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -310,13 +320,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "02:38",
-      "eta_rueb": "02:40",
-      "ship": "SONILAND",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:37",
       "eta_rueb": "04:30",
