@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T12:40:48",
+  "generated_at": "2026-02-05T12:42:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 3
+    "see": 2
   },
   "times": null,
   "lotsen": [
@@ -212,27 +212,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Klaus",
-      "nachname": "Eidenschink",
-      "name": "Klaus Eidenschink",
-      "aufgabe": "Seebört",
-      "nr": 12,
-      "fahrzeug": "SCA ORTVIKEN",
-      "route": "KLT → HOS",
-      "time": "Thu Feb 05 05:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sören",
       "nachname": "Engler",
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Feb 05 01:05:00 CET 2026",
@@ -419,7 +403,7 @@
       "nachname": "Engler",
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Feb 05 01:05:00 CET 2026",
@@ -433,7 +417,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:35",
+      "eta_rueb_kiel": "13:33",
       "eta_rueb": "14:00",
       "ship": "SKAGENBANK",
       "q_gruppe": "5",
