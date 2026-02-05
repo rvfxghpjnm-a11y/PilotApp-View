@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T23:10:53",
+  "generated_at": "2026-02-05T23:12:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -205,15 +205,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 18:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:24",
-        "eta_rueb": "23:57",
+        "eta_schleuse": "04:23",
+        "eta_rueb": "23:56",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:25"
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": "23:57",
-      "eta_schleuse": "04:24",
+      "eta_rueb": "23:56",
+      "eta_schleuse": "04:23",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:25"
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -270,8 +270,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 16:59:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -286,8 +286,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "DANIEL DEYMANN",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -471,15 +471,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 18:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:24",
-        "eta_rueb": "23:57",
+        "eta_schleuse": "04:23",
+        "eta_rueb": "23:56",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:25"
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": "23:57",
-      "eta_schleuse": "04:24",
+      "eta_rueb": "23:56",
+      "eta_schleuse": "04:23",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:25"
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -488,8 +488,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 16:59:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -504,8 +504,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "DANIEL DEYMANN",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -584,13 +584,6 @@
       "eta_rueb": "03:30",
       "ship": "ARCTICA HAV",
       "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "23:15",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
       "route": "RÜB → HOS"
     }
   ]
