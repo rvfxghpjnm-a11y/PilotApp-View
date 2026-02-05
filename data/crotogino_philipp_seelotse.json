@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T13:08:48",
+  "generated_at": "2026-02-05T13:10:49",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -236,14 +236,19 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKAGENBANK",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 01:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:06",
+        "eta_rueb": "13:32",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "07:04"
+      },
+      "eta_rueb": "13:32",
+      "eta_schleuse": "17:06",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "07:04"
     }
   ],
   "kanallotsen": [
@@ -433,23 +438,28 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKAGENBANK",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 01:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:06",
+        "eta_rueb": "13:32",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "07:04"
+      },
+      "eta_rueb": "13:32",
+      "eta_schleuse": "17:06",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "07:04"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:32",
-      "eta_rueb": "14:00",
-      "ship": "SKAGENBANK",
-      "q_gruppe": "5",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:55",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
       "route": "RÜB → HOS"
     },
     {
