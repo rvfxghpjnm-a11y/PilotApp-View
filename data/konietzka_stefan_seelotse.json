@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T16:26:47",
+  "generated_at": "2026-02-06T16:28:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -154,14 +154,14 @@
       "time": "Fri Feb 06 11:36:00 CET 2026",
       "times": {
         "eta_schleuse": "22:15",
-        "eta_rueb": "16:37",
-        "delta_rueb_schleuse": "05:38",
-        "delta_start_rueb": "03:55"
+        "eta_rueb": "16:36",
+        "delta_rueb_schleuse": "05:39",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "16:37",
+      "eta_rueb": "16:36",
       "eta_schleuse": "22:15",
-      "delta_rueb_schleuse": "05:38",
-      "delta_start_rueb": "03:55"
+      "delta_rueb_schleuse": "05:39",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -309,14 +309,14 @@
       "time": "Fri Feb 06 11:36:00 CET 2026",
       "times": {
         "eta_schleuse": "22:15",
-        "eta_rueb": "16:37",
-        "delta_rueb_schleuse": "05:38",
-        "delta_start_rueb": "03:55"
+        "eta_rueb": "16:36",
+        "delta_rueb_schleuse": "05:39",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "16:37",
+      "eta_rueb": "16:36",
       "eta_schleuse": "22:15",
-      "delta_rueb_schleuse": "05:38",
-      "delta_start_rueb": "03:55"
+      "delta_rueb_schleuse": "05:39",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -406,24 +406,31 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:22",
+      "eta_rueb_kiel": "19:21",
       "eta_rueb": "19:30",
       "ship": "CAPELLA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:52",
+      "eta_rueb_kiel": "20:53",
       "eta_rueb": "21:00",
       "ship": "STELLAMAR",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "20:57",
       "eta_rueb": "21:02",
       "ship": "SPARBORG",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:15",
+      "eta_rueb": "21:20",
+      "ship": "PVT AZURA",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
