@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T03:28:38",
+  "generated_at": "2026-02-06T03:30:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -9,12 +9,12 @@
     "from": "HOS",
     "to": "HOS",
     "time": "Thu Feb 05 19:00:00 CET 2026",
-    "nr": 16
+    "nr": 15
   },
   "gruppen": {
     "kanal": 7,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -232,8 +232,8 @@
       "name": "Tim Woitanowski",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SHANNON FISHER",
+      "route": "KLT → HOS",
       "time": "Thu Feb 05 19:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -263,28 +263,12 @@
       "delta_start_rueb": "04:49"
     },
     {
-      "is_target": false,
-      "vorname": "Malte",
-      "nachname": "Krause",
-      "name": "Malte Krause",
-      "aufgabe": "Seebört",
-      "nr": 15,
-      "fahrzeug": "OSTBORG",
-      "route": "KLT → HOS",
-      "time": "Thu Feb 05 19:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
       "is_target": true,
       "vorname": "Stefan",
       "nachname": "Konietzka",
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Thu Feb 05 19:00:00 CET 2026",
@@ -450,6 +434,20 @@
       "eta_rueb": "08:30",
       "ship": "BREB TRADER",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:33",
+      "ship": "BALTIC WHALE",
+      "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:36",
+      "ship": "HELGA ESSBERGER",
+      "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
   ]
