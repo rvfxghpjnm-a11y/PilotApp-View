@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T20:28:46",
+  "generated_at": "2026-02-06T20:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -147,14 +147,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Feb 06 17:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:20",
+        "eta_schleuse": "03:19",
         "eta_rueb": "22:53",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "22:53",
-      "eta_schleuse": "03:20",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "03:19",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:17"
     },
     {
@@ -418,14 +418,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Feb 06 17:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:20",
+        "eta_schleuse": "03:19",
         "eta_rueb": "22:53",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "22:53",
-      "eta_schleuse": "03:20",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "03:19",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:17"
     },
     {
@@ -537,6 +537,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "00:42",
+      "eta_rueb": "00:45",
+      "ship": "BALTIC DREAM",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "01:21",
       "eta_rueb": "01:30",
       "ship": "OTELLO",
@@ -551,7 +558,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:02",
+      "eta_rueb_kiel": "21:01",
       "eta_rueb": "21:20",
       "ship": "PVT AZURA",
       "q_gruppe": "1",
@@ -565,7 +572,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:17",
+      "eta_rueb_kiel": "23:19",
       "eta_rueb": "23:18",
       "ship": "CL NOGARO",
       "q_gruppe": "5",
