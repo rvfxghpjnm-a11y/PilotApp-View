@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T18:34:47",
+  "generated_at": "2026-02-06T18:36:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "COE KAETHE",
       "route": "HOR → RÜB",
       "time": "Fri Feb 06 17:43:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -109,16 +114,11 @@
       "fahrzeug": "ANINA",
       "route": "HOS → KLT",
       "time": "Fri Feb 06 14:38:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:35",
-        "eta_rueb": "14:49",
-        "delta_rueb_schleuse": "03:46",
-        "delta_start_rueb": "04:33"
-      },
-      "eta_rueb": "14:49",
-      "eta_schleuse": "18:35",
-      "delta_rueb_schleuse": "03:46",
-      "delta_start_rueb": "04:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -241,16 +241,11 @@
       "fahrzeug": "ANINA",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 08:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:35",
-        "eta_rueb": "14:49",
-        "delta_rueb_schleuse": "03:46",
-        "delta_start_rueb": "04:33"
-      },
-      "eta_rueb": "14:49",
-      "eta_schleuse": "18:35",
-      "delta_rueb_schleuse": "03:46",
-      "delta_start_rueb": "04:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -280,9 +275,14 @@
       "fahrzeug": "COE KAETHE",
       "route": "HOR → RÜB",
       "time": "Fri Feb 06 17:43:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -401,16 +401,11 @@
       "fahrzeug": "ANINA",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 08:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:35",
-        "eta_rueb": "14:49",
-        "delta_rueb_schleuse": "03:46",
-        "delta_start_rueb": "04:33"
-      },
-      "eta_rueb": "14:49",
-      "eta_schleuse": "18:35",
-      "delta_rueb_schleuse": "03:46",
-      "delta_start_rueb": "04:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
