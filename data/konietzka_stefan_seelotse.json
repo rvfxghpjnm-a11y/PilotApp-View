@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-06T17:28:49",
+  "generated_at": "2026-02-06T17:30:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
     "see": 5
   },
@@ -85,8 +85,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "REGINA SEAWAYS",
+      "route": "KLT → OUH",
       "time": "Fri Feb 06 14:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -142,14 +142,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 11:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:51",
+        "eta_schleuse": "20:52",
         "eta_rueb": "17:13",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "17:13",
-      "eta_schleuse": "20:51",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:21"
     },
     {
@@ -230,22 +230,6 @@
       "eta_schleuse": "18:01",
       "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "05:22"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "ANNIKA BRAREN",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 06 06:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -318,14 +302,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 11:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:51",
+        "eta_schleuse": "20:52",
         "eta_rueb": "17:13",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "17:13",
-      "eta_schleuse": "20:51",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:21"
     },
     {
@@ -390,22 +374,6 @@
       "eta_schleuse": "18:01",
       "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "05:22"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "ANNIKA BRAREN",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 06 06:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
