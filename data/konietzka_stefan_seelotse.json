@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T07:34:44",
+  "generated_at": "2026-02-06T07:36:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "BRAVEHEART SPIRIT",
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 06:29:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:52",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:52",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -117,8 +122,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "LADY AMI",
+      "route": "KLT → HOS",
       "time": "Fri Feb 06 05:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -344,9 +349,14 @@
       "fahrzeug": "BRAVEHEART SPIRIT",
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 06:29:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:52",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:52",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -561,7 +571,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:32",
+      "eta_rueb_kiel": "10:31",
       "eta_rueb": "10:15",
       "ship": "HARBOUR FIRST",
       "q_gruppe": "2",
