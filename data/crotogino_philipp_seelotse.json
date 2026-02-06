@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T04:56:51",
+  "generated_at": "2026-02-06T04:58:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "IDA RAMBOW",
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 04:05:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:26",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:26",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -296,14 +301,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 19:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:07",
+        "eta_schleuse": "06:06",
         "eta_rueb": "01:53",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:49"
       },
       "eta_rueb": "01:53",
-      "eta_schleuse": "06:07",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "06:06",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:49"
     }
   ],
@@ -334,9 +339,14 @@
       "fahrzeug": "IDA RAMBOW",
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 04:05:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:26",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:26",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -499,21 +509,21 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 19:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:07",
+        "eta_schleuse": "06:06",
         "eta_rueb": "01:53",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:49"
       },
       "eta_rueb": "01:53",
-      "eta_schleuse": "06:07",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "06:06",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:49"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:23",
+      "eta_rueb_kiel": "06:22",
       "eta_rueb": "06:10",
       "ship": "GT VELA",
       "q_gruppe": "5",
