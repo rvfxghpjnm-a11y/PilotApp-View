@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T09:54:45",
+  "generated_at": "2026-02-06T09:56:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -154,8 +154,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "ROLLDOCK STAR",
-      "route": "GNY → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Feb 06 07:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -195,14 +195,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 06:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:52",
+        "eta_schleuse": "15:53",
         "eta_rueb": "10:56",
-        "delta_rueb_schleuse": "04:56",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "03:22"
       },
       "eta_rueb": "10:56",
-      "eta_schleuse": "15:52",
-      "delta_rueb_schleuse": "04:56",
+      "eta_schleuse": "15:53",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "03:22"
     },
     {
@@ -281,14 +281,19 @@
       "name": "Oliver Schran",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HARBOUR FIRST",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 03:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:53",
+        "eta_rueb": "10:24",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "09:02"
+      },
+      "eta_rueb": "10:24",
+      "eta_schleuse": "14:53",
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "09:02"
     },
     {
       "is_target": false,
@@ -380,14 +385,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 22:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:01",
+        "eta_schleuse": "10:02",
         "eta_rueb": "06:19",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:19",
-      "eta_schleuse": "10:01",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "10:02",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -498,14 +503,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 06:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:52",
+        "eta_schleuse": "15:53",
         "eta_rueb": "10:56",
-        "delta_rueb_schleuse": "04:56",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "03:22"
       },
       "eta_rueb": "10:56",
-      "eta_schleuse": "15:52",
-      "delta_rueb_schleuse": "04:56",
+      "eta_schleuse": "15:53",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "03:22"
     },
     {
@@ -568,14 +573,19 @@
       "name": "Oliver Schran",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HARBOUR FIRST",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 03:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:53",
+        "eta_rueb": "10:24",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "09:02"
+      },
+      "eta_rueb": "10:24",
+      "eta_schleuse": "14:53",
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "09:02"
     },
     {
       "is_target": false,
@@ -651,26 +661,19 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 22:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:01",
+        "eta_schleuse": "10:02",
         "eta_rueb": "06:19",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:19",
-      "eta_schleuse": "10:01",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "10:02",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:55"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "10:24",
-      "eta_rueb": "10:20",
-      "ship": "HARBOUR FIRST",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:32",
       "eta_rueb": "10:23",
