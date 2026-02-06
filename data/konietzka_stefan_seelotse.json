@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T01:50:36",
+  "generated_at": "2026-02-06T01:52:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -29,14 +29,14 @@
       "route": "HOS → KLT",
       "time": "Fri Feb 06 01:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:52",
+        "eta_schleuse": "01:53",
         "eta_rueb": "22:07",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:29"
       },
       "eta_rueb": "22:07",
-      "eta_schleuse": "01:52",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "01:53",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:29"
     },
     {
@@ -162,14 +162,19 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VB WILHELMSHAVEN",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 20:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:19",
+        "eta_rueb": "01:56",
+        "delta_rueb_schleuse": "04:23",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "01:56",
+      "eta_schleuse": "06:19",
+      "delta_rueb_schleuse": "04:23",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -226,14 +231,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VB BREMERHAVEN",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 19:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:15",
+        "eta_rueb": "01:53",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "01:53",
+      "eta_schleuse": "06:15",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -278,14 +288,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:52",
+        "eta_schleuse": "01:53",
         "eta_rueb": "22:07",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:29"
       },
       "eta_rueb": "22:07",
-      "eta_schleuse": "01:52",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "01:53",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:29"
     },
     {
@@ -413,14 +423,19 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VB WILHELMSHAVEN",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 20:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:19",
+        "eta_rueb": "01:56",
+        "delta_rueb_schleuse": "04:23",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "01:56",
+      "eta_schleuse": "06:19",
+      "delta_rueb_schleuse": "04:23",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -429,14 +444,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VB BREMERHAVEN",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 05 19:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:15",
+        "eta_rueb": "01:53",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "01:53",
+      "eta_schleuse": "06:15",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -449,14 +469,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:52",
+        "eta_schleuse": "01:53",
         "eta_rueb": "22:07",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:29"
       },
       "eta_rueb": "22:07",
-      "eta_schleuse": "01:52",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "01:53",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:29"
     },
     {
@@ -478,20 +498,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "01:53",
-      "eta_rueb": "02:00",
-      "ship": "VB BREMERHAVEN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "01:56",
-      "eta_rueb": "02:03",
-      "ship": "VB WILHELMSHAVEN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "01:59",
       "eta_rueb": "02:06",
