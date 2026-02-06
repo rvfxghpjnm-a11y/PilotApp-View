@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T09:28:47",
+  "generated_at": "2026-02-06T09:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -53,8 +53,8 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "LADY IRINA",
+      "route": "KLT → HOS",
       "time": "Fri Feb 06 08:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -158,14 +158,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 06:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:38",
+        "eta_schleuse": "15:37",
         "eta_rueb": "11:10",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:34"
       },
       "eta_rueb": "11:10",
-      "eta_schleuse": "15:38",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "15:37",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:34"
     },
     {
@@ -196,19 +196,14 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "LADY AMI",
-      "route": "KLT → HOS",
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Fri Feb 06 05:41:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:42",
-        "eta_rueb": "13:10",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "13:10",
-      "eta_schleuse": "17:42",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -369,14 +364,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 22:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:01",
+        "eta_schleuse": "10:00",
         "eta_rueb": "06:19",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:19",
-      "eta_schleuse": "10:01",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "10:00",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -450,14 +445,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 06:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:38",
+        "eta_schleuse": "15:37",
         "eta_rueb": "11:10",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:34"
       },
       "eta_rueb": "11:10",
-      "eta_schleuse": "15:38",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "15:37",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:34"
     },
     {
@@ -624,14 +619,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 22:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:01",
+        "eta_schleuse": "10:00",
         "eta_rueb": "06:19",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:19",
-      "eta_schleuse": "10:01",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "10:00",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -666,7 +661,7 @@
       "route": "KRH → HOS"
     },
     {
-      "eta_rueb_kiel": "12:39",
+      "eta_rueb_kiel": "12:38",
       "eta_rueb": "12:20",
       "ship": "ANNIKA BRAREN",
       "q_gruppe": "5",
