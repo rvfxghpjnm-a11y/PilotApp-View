@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T01:36:54",
+  "generated_at": "2026-02-06T01:38:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -141,15 +141,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 21:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:25",
-        "eta_rueb": "01:58",
+        "eta_schleuse": "06:24",
+        "eta_rueb": "01:57",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "01:58",
-      "eta_schleuse": "06:25",
+      "eta_rueb": "01:57",
+      "eta_schleuse": "06:24",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -238,8 +238,8 @@
       "name": "Malte Krause",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "OSTBORG",
+      "route": "KLT → HOS",
       "time": "Thu Feb 05 19:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -397,15 +397,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Feb 05 21:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:25",
-        "eta_rueb": "01:58",
+        "eta_schleuse": "06:24",
+        "eta_rueb": "01:57",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "01:58",
-      "eta_schleuse": "06:25",
+      "eta_rueb": "01:57",
+      "eta_schleuse": "06:24",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -509,6 +509,13 @@
       "eta_rueb_kiel": "04:10",
       "eta_rueb": "03:50",
       "ship": "ARCTICA HAV",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "06:28",
+      "eta_rueb": "06:30",
+      "ship": "GT VELA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
