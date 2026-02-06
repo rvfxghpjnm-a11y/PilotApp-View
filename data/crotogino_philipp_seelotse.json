@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T11:44:54",
+  "generated_at": "2026-02-06T11:46:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -236,11 +236,16 @@
       "fahrzeug": "DANIEL DEYMANN",
       "route": "KRH → HOS",
       "time": "Fri Feb 06 06:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:44",
+        "eta_rueb": "22:11",
+        "delta_rueb_schleuse": "16:33",
+        "delta_start_rueb": "13:35"
+      },
+      "eta_rueb": "22:11",
+      "eta_schleuse": "14:44",
+      "delta_rueb_schleuse": "16:33",
+      "delta_start_rueb": "13:35"
     },
     {
       "is_target": false,
@@ -565,11 +570,16 @@
       "fahrzeug": "DANIEL DEYMANN",
       "route": "KRH → HOS",
       "time": "Fri Feb 06 06:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:44",
+        "eta_rueb": "22:11",
+        "delta_rueb_schleuse": "16:33",
+        "delta_start_rueb": "13:35"
+      },
+      "eta_rueb": "22:11",
+      "eta_schleuse": "14:44",
+      "delta_rueb_schleuse": "16:33",
+      "delta_start_rueb": "13:35"
     },
     {
       "is_target": false,
