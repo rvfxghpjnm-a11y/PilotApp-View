@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T23:44:45",
+  "generated_at": "2026-02-06T23:46:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,8 +106,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "REGINA SEAWAYS",
-      "route": "OUH → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Feb 06 21:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -242,14 +242,14 @@
       "route": "HOS → KLT",
       "time": "Fri Feb 06 19:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:28",
+        "eta_schleuse": "00:29",
         "eta_rueb": "21:01",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "21:01",
-      "eta_schleuse": "00:28",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "00:29",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:41"
     },
     {
@@ -672,7 +672,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:25",
+      "eta_rueb_kiel": "03:24",
       "eta_rueb": "03:10",
       "ship": "OSLO WAVE 3",
       "q_gruppe": "2",
