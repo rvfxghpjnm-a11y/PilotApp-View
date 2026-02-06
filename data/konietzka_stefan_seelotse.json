@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T16:42:46",
+  "generated_at": "2026-02-06T16:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -149,14 +149,19 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "MEIKE-B",
-      "route": "HOR → RÜB",
+      "fahrzeug": "ANTRACYTH",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 11:43:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:53",
+        "eta_rueb": "17:15",
+        "delta_rueb_schleuse": "03:38",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "17:15",
+      "eta_schleuse": "20:53",
+      "delta_rueb_schleuse": "03:38",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -165,19 +170,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "LADY HESTER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "WILSON MOSEL",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 11:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:14",
-        "eta_rueb": "16:36",
-        "delta_rueb_schleuse": "05:38",
-        "delta_start_rueb": "03:54"
+        "eta_schleuse": "20:50",
+        "eta_rueb": "16:41",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:39"
       },
-      "eta_rueb": "16:36",
-      "eta_schleuse": "22:14",
-      "delta_rueb_schleuse": "05:38",
-      "delta_start_rueb": "03:54"
+      "eta_rueb": "16:41",
+      "eta_schleuse": "20:50",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -320,14 +325,19 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "MEIKE-B",
-      "route": "HOR → RÜB",
+      "fahrzeug": "ANTRACYTH",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 11:43:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:53",
+        "eta_rueb": "17:15",
+        "delta_rueb_schleuse": "03:38",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "17:15",
+      "eta_schleuse": "20:53",
+      "delta_rueb_schleuse": "03:38",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -336,19 +346,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "LADY HESTER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "WILSON MOSEL",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 11:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:14",
-        "eta_rueb": "16:36",
-        "delta_rueb_schleuse": "05:38",
-        "delta_start_rueb": "03:54"
+        "eta_schleuse": "20:50",
+        "eta_rueb": "16:41",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:39"
       },
-      "eta_rueb": "16:36",
-      "eta_schleuse": "22:14",
-      "delta_rueb_schleuse": "05:38",
-      "delta_start_rueb": "03:54"
+      "eta_rueb": "16:41",
+      "eta_schleuse": "20:50",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -416,20 +426,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "16:41",
-      "eta_rueb": "16:40",
-      "ship": "WILSON MOSEL",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "17:15",
-      "eta_rueb": "17:10",
-      "ship": "ANTRACYTH",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "18:43",
       "eta_rueb": "19:00",
