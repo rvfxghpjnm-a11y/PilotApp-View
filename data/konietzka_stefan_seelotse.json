@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T11:54:48",
+  "generated_at": "2026-02-06T11:56:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -127,14 +127,19 @@
       "name": "Justus Heyder",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HELGA ESSBERGER",
+      "route": "HOS → KLT",
       "time": "Fri Feb 06 08:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:28",
+        "eta_rueb": "08:32",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "04:40"
+      },
+      "eta_rueb": "08:32",
+      "eta_schleuse": "12:28",
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -148,14 +153,14 @@
       "time": "Fri Feb 06 08:19:00 CET 2026",
       "times": {
         "eta_schleuse": "18:17",
-        "eta_rueb": "13:50",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:42"
+        "eta_rueb": "13:49",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "13:50",
+      "eta_rueb": "13:49",
       "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:42"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -180,14 +185,19 @@
       "name": "Marco Feldes",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "BALTIC WHALE",
+      "route": "HOS → KLT",
       "time": "Fri Feb 06 07:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:23",
+        "eta_rueb": "08:27",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "04:59"
+      },
+      "eta_rueb": "08:27",
+      "eta_schleuse": "12:23",
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "04:59"
     },
     {
       "is_target": false,
@@ -509,14 +519,14 @@
       "time": "Fri Feb 06 08:19:00 CET 2026",
       "times": {
         "eta_schleuse": "18:17",
-        "eta_rueb": "13:50",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:42"
+        "eta_rueb": "13:49",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "13:50",
+      "eta_rueb": "13:49",
       "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:42"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
