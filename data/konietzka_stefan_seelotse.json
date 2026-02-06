@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T10:12:46",
+  "generated_at": "2026-02-06T10:14:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,13 +89,13 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 08:19:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:19",
+        "eta_schleuse": "18:18",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "18:19",
+      "eta_schleuse": "18:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -180,14 +180,14 @@
       "time": "Fri Feb 06 06:29:00 CET 2026",
       "times": {
         "eta_schleuse": "15:38",
-        "eta_rueb": "11:11",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "eta_rueb": "11:10",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "11:11",
+      "eta_rueb": "11:10",
       "eta_schleuse": "15:38",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -270,14 +270,19 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AQUAMAR",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 04:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:07",
+        "eta_rueb": "10:32",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:34"
+      },
+      "eta_rueb": "10:32",
+      "eta_schleuse": "14:07",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:34"
     },
     {
       "is_target": false,
@@ -390,14 +395,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 22:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:15",
+        "eta_schleuse": "10:17",
         "eta_rueb": "06:19",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:19",
-      "eta_schleuse": "10:15",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "10:17",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -450,13 +455,13 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 06 08:19:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:19",
+        "eta_schleuse": "18:18",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "18:19",
+      "eta_schleuse": "18:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -493,14 +498,14 @@
       "time": "Fri Feb 06 06:29:00 CET 2026",
       "times": {
         "eta_schleuse": "15:38",
-        "eta_rueb": "11:11",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "eta_rueb": "11:10",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "11:11",
+      "eta_rueb": "11:10",
       "eta_schleuse": "15:38",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -567,14 +572,19 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "AQUAMAR",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 04:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:07",
+        "eta_rueb": "10:32",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:34"
+      },
+      "eta_rueb": "10:32",
+      "eta_schleuse": "14:07",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:34"
     },
     {
       "is_target": false,
@@ -671,26 +681,19 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 05 22:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:15",
+        "eta_schleuse": "10:17",
         "eta_rueb": "06:19",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:19",
-      "eta_schleuse": "10:15",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "10:17",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "04:55"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "10:32",
-      "eta_rueb": "10:23",
-      "ship": "AQUAMAR",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "11:46",
       "eta_rueb": "11:25",
