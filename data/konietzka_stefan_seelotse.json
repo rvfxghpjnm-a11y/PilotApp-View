@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T23:02:46",
+  "generated_at": "2026-02-07T23:04:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAURA",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:50",
+        "eta_rueb": "23:39",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "05:17"
+      },
+      "eta_rueb": "23:39",
+      "eta_schleuse": "03:50",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -32,14 +37,19 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY MONIQUE",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:47",
+        "eta_rueb": "23:36",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "23:36",
+      "eta_schleuse": "03:47",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -83,9 +93,14 @@
       "fahrzeug": "ORANESS",
       "route": "HOR → RÜB",
       "time": "Sat Feb 07 21:47:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -419,14 +434,19 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAURA",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:50",
+        "eta_rueb": "23:39",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "05:17"
+      },
+      "eta_rueb": "23:39",
+      "eta_schleuse": "03:50",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -435,14 +455,19 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY MONIQUE",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:47",
+        "eta_rueb": "23:36",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "23:36",
+      "eta_schleuse": "03:47",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -486,9 +511,14 @@
       "fahrzeug": "ORANESS",
       "route": "HOR → RÜB",
       "time": "Sat Feb 07 21:47:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -765,20 +795,6 @@
       "eta_rueb_kiel": "03:20",
       "eta_rueb": "02:56",
       "ship": "KILSTRAUM",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:36",
-      "eta_rueb": "23:30",
-      "ship": "LADY MONIQUE",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:39",
-      "eta_rueb": "23:33",
-      "ship": "LAURA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
