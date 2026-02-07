@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T18:02:37",
+  "generated_at": "2026-02-07T18:04:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -25,8 +25,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "PAUL E",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Feb 07 16:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -77,14 +77,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 15:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:03",
+        "eta_schleuse": "01:00",
         "eta_rueb": "19:50",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:10",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "19:50",
-      "eta_schleuse": "01:03",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "01:00",
+      "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "03:48"
     },
     {
@@ -296,14 +296,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 15:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:03",
+        "eta_schleuse": "01:00",
         "eta_rueb": "19:50",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:10",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "19:50",
-      "eta_schleuse": "01:03",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "01:00",
+      "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "03:48"
     },
     {
@@ -502,14 +502,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:30",
+      "eta_rueb_kiel": "21:29",
       "eta_rueb": "21:50",
       "ship": "COE GISELA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:48",
+      "eta_rueb_kiel": "21:45",
       "eta_rueb": "21:55",
       "ship": "ELBSPRING",
       "q_gruppe": "0",
@@ -523,7 +523,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:45",
+      "eta_rueb_kiel": "21:42",
       "eta_rueb": "22:00",
       "ship": "MARJATTA",
       "q_gruppe": "4",
