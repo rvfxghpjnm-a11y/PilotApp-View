@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T20:04:36",
+  "generated_at": "2026-02-07T20:06:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -57,8 +57,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "ELBIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Feb 07 18:02:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -162,14 +162,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Feb 07 11:49:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:59",
+        "eta_schleuse": "22:58",
         "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:58"
       },
       "eta_rueb": "19:30",
-      "eta_schleuse": "22:59",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "22:58",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:58"
     },
     {
@@ -338,14 +338,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Feb 07 11:49:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:59",
+        "eta_schleuse": "22:58",
         "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:58"
       },
       "eta_rueb": "19:30",
-      "eta_schleuse": "22:59",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "22:58",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:58"
     },
     {
@@ -452,7 +452,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:13",
+      "eta_rueb_kiel": "00:16",
       "eta_rueb": "00:15",
       "ship": "BALTIC ECLIPSE",
       "q_gruppe": "5",
@@ -473,21 +473,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:31",
+      "eta_rueb_kiel": "21:30",
       "eta_rueb": "21:57",
       "ship": "GAS PEACE",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:35",
+      "eta_rueb_kiel": "21:34",
       "eta_rueb": "22:00",
       "ship": "MARJATTA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:36",
+      "eta_rueb_kiel": "22:35",
       "eta_rueb": "23:00",
       "ship": "BREB CUXHAVEN",
       "q_gruppe": "4",
@@ -501,7 +501,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:44",
+      "eta_rueb_kiel": "23:43",
       "eta_rueb": "23:47",
       "ship": "LAURA",
       "q_gruppe": "4",
