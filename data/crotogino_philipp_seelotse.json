@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T00:26:53",
+  "generated_at": "2026-02-08T00:28:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 11,
     "wach": 0,
-    "see": 5
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -137,14 +137,14 @@
       "time": "Sat Feb 07 22:10:00 CET 2026",
       "times": {
         "eta_schleuse": "07:14",
-        "eta_rueb": "02:43",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:37"
+        "eta_rueb": "02:42",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "02:43",
+      "eta_rueb": "02:42",
       "eta_schleuse": "07:14",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:37"
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -227,13 +227,34 @@
     },
     {
       "is_target": false,
+      "vorname": "Remo",
+      "nachname": "Kordt",
+      "name": "Remo Kordt",
+      "aufgabe": "Seebört",
+      "nr": 12,
+      "fahrzeug": "GAS PEACE",
+      "route": "HOS → KLT",
+      "time": "Sat Feb 07 20:10:00 CET 2026",
+      "times": {
+        "eta_schleuse": "01:15",
+        "eta_rueb": "21:26",
+        "delta_rueb_schleuse": "03:49",
+        "delta_start_rueb": "05:08"
+      },
+      "eta_rueb": "21:26",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "03:49",
+      "delta_start_rueb": "05:08"
+    },
+    {
+      "is_target": false,
       "vorname": "Franck",
       "nachname": "Escher",
       "name": "Franck Escher",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
+      "aufgabe": "Seebört",
+      "nr": 13,
       "fahrzeug": "ELBSPRING",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
         "eta_schleuse": "01:22",
@@ -251,10 +272,10 @@
       "vorname": "Joachim",
       "nachname": "Munz",
       "name": "Joachim Munz",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
+      "aufgabe": "Seebört",
+      "nr": 14,
       "fahrzeug": "MARJATTA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
         "eta_schleuse": "01:18",
@@ -266,27 +287,6 @@
       "eta_schleuse": "01:18",
       "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "05:07"
-    },
-    {
-      "is_target": false,
-      "vorname": "Remo",
-      "nachname": "Kordt",
-      "name": "Remo Kordt",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "GAS PEACE",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 20:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:15",
-        "eta_rueb": "21:26",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "05:08"
-      },
-      "eta_rueb": "21:26",
-      "eta_schleuse": "01:15",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "05:08"
     },
     {
       "is_target": false,
@@ -482,14 +482,14 @@
       "time": "Sat Feb 07 22:10:00 CET 2026",
       "times": {
         "eta_schleuse": "07:14",
-        "eta_rueb": "02:43",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:37"
+        "eta_rueb": "02:42",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "02:43",
+      "eta_rueb": "02:42",
       "eta_schleuse": "07:14",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:37"
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -572,69 +572,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Franck",
-      "nachname": "Escher",
-      "name": "Franck Escher",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "ELBSPRING",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 20:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:22",
-        "eta_rueb": "21:34",
-        "delta_rueb_schleuse": "03:48",
-        "delta_start_rueb": "05:20"
-      },
-      "eta_rueb": "21:34",
-      "eta_schleuse": "01:22",
-      "delta_rueb_schleuse": "03:48",
-      "delta_start_rueb": "05:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Joachim",
-      "nachname": "Munz",
-      "name": "Joachim Munz",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "MARJATTA",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 20:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:18",
-        "eta_rueb": "21:29",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "21:29",
-      "eta_schleuse": "01:18",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "05:07"
-    },
-    {
-      "is_target": false,
-      "vorname": "Remo",
-      "nachname": "Kordt",
-      "name": "Remo Kordt",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "GAS PEACE",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 20:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:15",
-        "eta_rueb": "21:26",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "05:08"
-      },
-      "eta_rueb": "21:26",
-      "eta_schleuse": "01:15",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "05:08"
-    },
-    {
-      "is_target": false,
       "vorname": "Jens",
       "nachname": "Röhl",
       "name": "Jens Röhl",
@@ -658,7 +595,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:39",
+      "eta_rueb_kiel": "01:38",
       "eta_rueb": "01:30",
       "ship": "NORDIC ITALIA",
       "q_gruppe": "1",
