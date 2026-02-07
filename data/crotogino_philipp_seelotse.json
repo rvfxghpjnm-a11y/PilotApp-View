@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T04:48:53",
+  "generated_at": "2026-02-07T04:50:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,16 +19,11 @@
       "fahrzeug": "CL NOGARO",
       "route": "HOS → KLT",
       "time": "Sat Feb 07 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "23:10",
-        "delta_rueb_schleuse": "2285995:36",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "23:10",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2285995:36",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -56,9 +51,14 @@
       "fahrzeug": "EDITH",
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 03:33:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -163,14 +163,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Feb 06 23:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:49",
+        "eta_schleuse": "04:51",
         "eta_rueb": "01:07",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "01:07",
-      "eta_schleuse": "04:49",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "04:51",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:59"
     },
     {
@@ -286,14 +286,14 @@
       "time": "Fri Feb 06 21:28:00 CET 2026",
       "times": {
         "eta_schleuse": "08:41",
-        "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "05:30"
+        "eta_rueb": "05:07",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:29"
       },
-      "eta_rueb": "05:08",
+      "eta_rueb": "05:07",
       "eta_schleuse": "08:41",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "05:30"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:29"
     },
     {
       "is_target": false,
@@ -360,9 +360,14 @@
       "fahrzeug": "EDITH",
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 03:33:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -398,14 +403,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Feb 06 23:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:49",
+        "eta_schleuse": "04:51",
         "eta_rueb": "01:07",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "01:07",
-      "eta_schleuse": "04:49",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "04:51",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:59"
     },
     {
@@ -489,14 +494,14 @@
       "time": "Fri Feb 06 21:28:00 CET 2026",
       "times": {
         "eta_schleuse": "08:41",
-        "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "05:30"
+        "eta_rueb": "05:07",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:29"
       },
-      "eta_rueb": "05:08",
+      "eta_rueb": "05:07",
       "eta_schleuse": "08:41",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "05:30"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:29"
     },
     {
       "is_target": false,
