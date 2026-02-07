@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T19:12:37",
+  "generated_at": "2026-02-07T19:14:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -113,9 +113,14 @@
       "fahrzeug": "JOHN T. ESSBERGER",
       "route": "HOS → UTG",
       "time": "Sat Feb 07 16:27:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
