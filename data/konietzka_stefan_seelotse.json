@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T20:02:38",
+  "generated_at": "2026-02-07T20:04:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -183,14 +183,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 11:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:11",
+        "eta_schleuse": "23:10",
         "eta_rueb": "19:37",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "19:37",
-      "eta_schleuse": "23:11",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "23:10",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:13"
     },
     {
@@ -359,14 +359,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 11:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:11",
+        "eta_schleuse": "23:10",
         "eta_rueb": "19:37",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "19:37",
-      "eta_schleuse": "23:11",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "23:10",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:13"
     },
     {
@@ -452,7 +452,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "21:27",
+      "eta_rueb_kiel": "00:13",
+      "eta_rueb": "00:15",
+      "ship": "BALTIC ECLIPSE",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:26",
       "eta_rueb": "21:50",
       "ship": "COE GISELA",
       "q_gruppe": "5",
