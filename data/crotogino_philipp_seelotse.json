@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T02:46:53",
+  "generated_at": "2026-02-07T02:48:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -62,14 +62,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 23:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:02",
+        "eta_schleuse": "05:03",
         "eta_rueb": "01:10",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "01:10",
-      "eta_schleuse": "05:02",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "05:03",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:54"
     },
     {
@@ -147,14 +147,14 @@
       "time": "Fri Feb 06 22:56:00 CET 2026",
       "times": {
         "eta_schleuse": "08:44",
-        "eta_rueb": "04:12",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "04:11",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "04:12",
+      "eta_rueb": "04:11",
       "eta_schleuse": "08:44",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -221,8 +221,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "EDITH",
+      "route": "KLT → HOS",
       "time": "Fri Feb 06 21:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -428,14 +428,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 23:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:02",
+        "eta_schleuse": "05:03",
         "eta_rueb": "01:10",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "01:10",
-      "eta_schleuse": "05:02",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "05:03",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:54"
     },
     {
@@ -513,14 +513,14 @@
       "time": "Fri Feb 06 22:56:00 CET 2026",
       "times": {
         "eta_schleuse": "08:44",
-        "eta_rueb": "04:12",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "04:11",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "04:12",
+      "eta_rueb": "04:11",
       "eta_schleuse": "08:44",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -724,7 +724,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "07:38",
       "eta_rueb": "07:20",
       "ship": "JUDITH",
       "q_gruppe": "1",
