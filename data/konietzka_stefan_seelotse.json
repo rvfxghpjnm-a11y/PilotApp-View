@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T06:28:44",
+  "generated_at": "2026-02-07T06:30:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 1,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -64,8 +64,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "CL NOGARO",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Feb 07 04:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -100,15 +100,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 03:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:47",
-        "eta_rueb": "09:20",
+        "eta_schleuse": "13:46",
+        "eta_rueb": "09:19",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:30"
+        "delta_start_rueb": "04:29"
       },
-      "eta_rueb": "09:20",
-      "eta_schleuse": "13:47",
+      "eta_rueb": "09:19",
+      "eta_schleuse": "13:46",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:30"
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -121,15 +121,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 03:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:44",
-        "eta_rueb": "09:17",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:31"
+        "eta_schleuse": "13:42",
+        "eta_rueb": "09:16",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": "09:17",
-      "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:31"
+      "eta_rueb": "09:16",
+      "eta_schleuse": "13:42",
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -318,27 +318,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Mark",
-      "nachname": "Wald",
-      "name": "Mark Wald",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "STOC MARCIA",
-      "route": "KLT → HOS",
-      "time": "Fri Feb 06 21:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Henning",
       "nachname": "Blome",
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "BOTHNIABORG",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 21:28:00 CET 2026",
@@ -359,7 +343,7 @@
       "nachname": "Kurfeld",
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "LADY DIANA",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 21:02:00 CET 2026",
@@ -380,7 +364,7 @@
       "nachname": "Weise",
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "PAULIN-B",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 20:58:00 CET 2026",
@@ -435,15 +419,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 03:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:47",
-        "eta_rueb": "09:20",
+        "eta_schleuse": "13:46",
+        "eta_rueb": "09:19",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:30"
+        "delta_start_rueb": "04:29"
       },
-      "eta_rueb": "09:20",
-      "eta_schleuse": "13:47",
+      "eta_rueb": "09:19",
+      "eta_schleuse": "13:46",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:30"
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -456,15 +440,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 03:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:44",
-        "eta_rueb": "09:17",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:31"
+        "eta_schleuse": "13:42",
+        "eta_rueb": "09:16",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": "09:17",
-      "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:31"
+      "eta_rueb": "09:16",
+      "eta_schleuse": "13:42",
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -556,7 +540,7 @@
       "nachname": "Blome",
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "BOTHNIABORG",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 21:28:00 CET 2026",
@@ -577,7 +561,7 @@
       "nachname": "Kurfeld",
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "LADY DIANA",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 21:02:00 CET 2026",
@@ -598,7 +582,7 @@
       "nachname": "Weise",
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "PAULIN-B",
       "route": "RÜB → HOS",
       "time": "Fri Feb 06 20:58:00 CET 2026",
