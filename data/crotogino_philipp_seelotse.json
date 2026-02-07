@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T02:16:54",
+  "generated_at": "2026-02-07T02:18:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -126,14 +126,14 @@
       "time": "Fri Feb 06 21:45:00 CET 2026",
       "times": {
         "eta_schleuse": "08:38",
-        "eta_rueb": "03:24",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "04:28"
+        "eta_rueb": "03:23",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "04:27"
       },
-      "eta_rueb": "03:24",
+      "eta_rueb": "03:23",
       "eta_schleuse": "08:38",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "04:28"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "04:27"
     },
     {
       "is_target": false,
@@ -232,8 +232,8 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PAULIN-B",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 20:58:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -487,14 +487,14 @@
       "time": "Fri Feb 06 21:45:00 CET 2026",
       "times": {
         "eta_schleuse": "08:38",
-        "eta_rueb": "03:24",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "04:28"
+        "eta_rueb": "03:23",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "04:27"
       },
-      "eta_rueb": "03:24",
+      "eta_rueb": "03:23",
       "eta_schleuse": "08:38",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "04:28"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "04:27"
     },
     {
       "is_target": false,
@@ -561,8 +561,8 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PAULIN-B",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 06 20:58:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -637,13 +637,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "02:45",
-      "ship": "PAULIN-B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "03:00",
       "eta_rueb": "02:50",
       "ship": "LADY DIANA",
@@ -665,7 +658,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:02",
+      "eta_rueb_kiel": "06:01",
       "eta_rueb": "05:50",
       "ship": "KEIT",
       "q_gruppe": "4",
