@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T14:00:40",
+  "generated_at": "2026-02-07T14:02:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -151,14 +151,14 @@
       "time": "Sat Feb 07 10:34:00 CET 2026",
       "times": {
         "eta_schleuse": "20:28",
-        "eta_rueb": "15:31",
-        "delta_rueb_schleuse": "04:57",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "15:33",
+        "delta_rueb_schleuse": "04:55",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "15:31",
+      "eta_rueb": "15:33",
       "eta_schleuse": "20:28",
-      "delta_rueb_schleuse": "04:57",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "04:55",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -172,14 +172,14 @@
       "time": "Sat Feb 07 10:07:00 CET 2026",
       "times": {
         "eta_schleuse": "20:32",
-        "eta_rueb": "15:35",
-        "delta_rueb_schleuse": "04:57",
-        "delta_start_rueb": "03:41"
+        "eta_rueb": "15:37",
+        "delta_rueb_schleuse": "04:55",
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "15:35",
+      "eta_rueb": "15:37",
       "eta_schleuse": "20:32",
-      "delta_rueb_schleuse": "04:57",
-      "delta_start_rueb": "03:41"
+      "delta_rueb_schleuse": "04:55",
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -193,14 +193,14 @@
       "time": "Sat Feb 07 09:38:00 CET 2026",
       "times": {
         "eta_schleuse": "20:37",
-        "eta_rueb": "15:28",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "15:30",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "15:28",
+      "eta_rueb": "15:30",
       "eta_schleuse": "20:37",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -209,19 +209,14 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "STOC MARCIA",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Feb 07 09:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:33",
-        "eta_rueb": "14:02",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "07:08"
-      },
-      "eta_rueb": "14:02",
-      "eta_schleuse": "18:33",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "07:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -246,19 +241,14 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "AMARANTH",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Feb 07 08:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:29",
-        "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:44"
-      },
-      "eta_rueb": "13:58",
-      "eta_schleuse": "18:29",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:44"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -267,8 +257,8 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 08:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -283,8 +273,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 07:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -299,8 +289,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 07:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -506,14 +496,14 @@
       "time": "Sat Feb 07 10:34:00 CET 2026",
       "times": {
         "eta_schleuse": "20:28",
-        "eta_rueb": "15:31",
-        "delta_rueb_schleuse": "04:57",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "15:33",
+        "delta_rueb_schleuse": "04:55",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "15:31",
+      "eta_rueb": "15:33",
       "eta_schleuse": "20:28",
-      "delta_rueb_schleuse": "04:57",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "04:55",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -527,14 +517,14 @@
       "time": "Sat Feb 07 10:07:00 CET 2026",
       "times": {
         "eta_schleuse": "20:32",
-        "eta_rueb": "15:35",
-        "delta_rueb_schleuse": "04:57",
-        "delta_start_rueb": "03:41"
+        "eta_rueb": "15:37",
+        "delta_rueb_schleuse": "04:55",
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "15:35",
+      "eta_rueb": "15:37",
       "eta_schleuse": "20:32",
-      "delta_rueb_schleuse": "04:57",
-      "delta_start_rueb": "03:41"
+      "delta_rueb_schleuse": "04:55",
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -548,14 +538,14 @@
       "time": "Sat Feb 07 09:38:00 CET 2026",
       "times": {
         "eta_schleuse": "20:37",
-        "eta_rueb": "15:28",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "15:30",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "15:28",
+      "eta_rueb": "15:30",
       "eta_schleuse": "20:37",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -564,19 +554,14 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "STOC MARCIA",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Feb 07 09:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:33",
-        "eta_rueb": "14:02",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "07:08"
-      },
-      "eta_rueb": "14:02",
-      "eta_schleuse": "18:33",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "07:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -585,19 +570,14 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "AMARANTH",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Feb 07 08:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:29",
-        "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:44"
-      },
-      "eta_rueb": "13:58",
-      "eta_schleuse": "18:29",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:44"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -606,8 +586,8 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 08:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -622,8 +602,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 07:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -638,8 +618,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 07:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -713,13 +693,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "13:48",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:19",
       "eta_rueb": "15:10",
