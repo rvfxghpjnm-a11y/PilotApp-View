@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T11:04:37",
+  "generated_at": "2026-02-07T11:06:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 12,
     "wach": 1,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -93,14 +93,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Feb 07 09:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:43",
+        "eta_schleuse": "18:47",
         "eta_rueb": "14:09",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "07:15"
       },
       "eta_rueb": "14:09",
-      "eta_schleuse": "18:43",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "18:47",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "07:15"
     },
     {
@@ -225,14 +225,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 07:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:47",
+        "eta_schleuse": "18:43",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "05:12",
+        "delta_rueb_schleuse": "05:08",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "18:47",
-      "delta_rueb_schleuse": "05:12",
+      "eta_schleuse": "18:43",
+      "delta_rueb_schleuse": "05:08",
       "delta_start_rueb": "04:37"
     },
     {
@@ -383,22 +383,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "name": "Sören Engler",
-      "aufgabe": "Seebört",
-      "nr": 22,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri Feb 06 23:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -461,14 +445,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Feb 07 09:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:43",
+        "eta_schleuse": "18:47",
         "eta_rueb": "14:09",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "07:15"
       },
       "eta_rueb": "14:09",
-      "eta_schleuse": "18:43",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "18:47",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "07:15"
     },
     {
@@ -545,14 +529,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 07:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:47",
+        "eta_schleuse": "18:43",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "05:12",
+        "delta_rueb_schleuse": "05:08",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "18:47",
-      "delta_rueb_schleuse": "05:12",
+      "eta_schleuse": "18:43",
+      "delta_rueb_schleuse": "05:08",
       "delta_start_rueb": "04:37"
     },
     {
@@ -635,7 +619,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:53",
+      "eta_rueb_kiel": "12:52",
       "eta_rueb": "12:50",
       "ship": "PAUL E",
       "q_gruppe": "4",
@@ -653,6 +637,13 @@
       "eta_rueb": "12:55",
       "ship": "GERDA",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "15:26",
+      "eta_rueb": "14:35",
+      "ship": "DREAM SYRAX",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
