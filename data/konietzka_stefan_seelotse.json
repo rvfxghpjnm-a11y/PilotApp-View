@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T22:16:45",
+  "generated_at": "2026-02-07T22:18:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -201,8 +201,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Feb 07 18:02:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -217,8 +217,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Feb 07 16:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -353,14 +353,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 11:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:58",
+        "eta_schleuse": "22:57",
         "eta_rueb": "19:25",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "19:25",
-      "eta_schleuse": "22:58",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "22:57",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -613,21 +613,21 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 11:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:58",
+        "eta_schleuse": "22:57",
         "eta_rueb": "19:25",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "19:25",
-      "eta_schleuse": "22:58",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "22:57",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:55"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:11",
+      "eta_rueb_kiel": "00:10",
       "eta_rueb": "00:00",
       "ship": "BALTIC ECLIPSE",
       "q_gruppe": "5",
@@ -648,7 +648,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:40",
+      "eta_rueb_kiel": "23:38",
       "eta_rueb": "23:30",
       "ship": "LADY MONIQUE",
       "q_gruppe": "4",
