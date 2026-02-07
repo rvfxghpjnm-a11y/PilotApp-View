@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-07T23:48:52",
+  "generated_at": "2026-02-07T23:50:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 0,
     "see": 4
   },
@@ -184,14 +184,14 @@
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
         "eta_schleuse": "05:08",
-        "eta_rueb": "00:27",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "05:13"
+        "eta_rueb": "00:26",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "05:12"
       },
-      "eta_rueb": "00:27",
+      "eta_rueb": "00:26",
       "eta_schleuse": "05:08",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "05:13"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "05:12"
     },
     {
       "is_target": false,
@@ -340,22 +340,6 @@
       "eta_schleuse": "01:11",
       "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "AMADEUS AQUAMARIJN",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 11:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -534,14 +518,14 @@
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
         "eta_schleuse": "05:08",
-        "eta_rueb": "00:27",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "05:13"
+        "eta_rueb": "00:26",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "05:12"
       },
-      "eta_rueb": "00:27",
+      "eta_rueb": "00:26",
       "eta_schleuse": "05:08",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "05:13"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "05:12"
     },
     {
       "is_target": false,
@@ -626,22 +610,6 @@
       "eta_schleuse": "01:11",
       "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "AMADEUS AQUAMARIJN",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 11:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -686,6 +654,13 @@
       "eta_rueb": "03:45",
       "ship": "MERSEY",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "04:10",
+      "eta_rueb": "03:48",
+      "ship": "PRIMA LADY",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
