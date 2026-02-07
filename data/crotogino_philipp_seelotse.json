@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T22:40:53",
+  "generated_at": "2026-02-07T22:43:03",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,9 +99,14 @@
       "fahrzeug": "SERENADA",
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 21:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:07",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:07",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -138,14 +143,14 @@
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
         "eta_schleuse": "05:10",
-        "eta_rueb": "00:29",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "05:15"
+        "eta_rueb": "00:28",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "05:14"
       },
-      "eta_rueb": "00:29",
+      "eta_rueb": "00:28",
       "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "05:15"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "05:14"
     },
     {
       "is_target": false,
@@ -497,9 +502,14 @@
       "fahrzeug": "SERENADA",
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 21:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:07",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:07",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -536,14 +546,14 @@
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
         "eta_schleuse": "05:10",
-        "eta_rueb": "00:29",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "05:15"
+        "eta_rueb": "00:28",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "05:14"
       },
-      "eta_rueb": "00:29",
+      "eta_rueb": "00:28",
       "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "05:15"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "05:14"
     },
     {
       "is_target": false,
@@ -724,7 +734,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:48",
+      "eta_rueb_kiel": "01:47",
       "eta_rueb": "01:30",
       "ship": "NORDIC ITALIA",
       "q_gruppe": "1",
