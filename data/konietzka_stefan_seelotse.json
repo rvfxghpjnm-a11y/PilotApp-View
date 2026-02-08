@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T13:28:45",
+  "generated_at": "2026-02-08T13:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,11 +19,16 @@
       "fahrzeug": "HJORDIS",
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 12:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:47",
+        "eta_rueb": "17:19",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:49"
+      },
+      "eta_rueb": "17:19",
+      "eta_schleuse": "21:47",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -110,14 +115,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 11:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:44",
+        "eta_schleuse": "21:43",
         "eta_rueb": "17:16",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "17:16",
-      "eta_schleuse": "21:44",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:43",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:48"
     },
     {
@@ -189,14 +194,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:06",
+        "eta_schleuse": "14:05",
         "eta_rueb": "10:05",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:21"
       },
       "eta_rueb": "10:05",
-      "eta_schleuse": "14:06",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "14:05",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:21"
     },
     {
@@ -210,14 +215,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:01",
+        "eta_schleuse": "14:00",
         "eta_rueb": "09:54",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "09:54",
-      "eta_schleuse": "14:01",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "14:00",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:10"
     },
     {
@@ -333,11 +338,16 @@
       "fahrzeug": "HJORDIS",
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 12:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:47",
+        "eta_rueb": "17:19",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:49"
+      },
+      "eta_rueb": "17:19",
+      "eta_schleuse": "21:47",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -392,14 +402,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 11:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:44",
+        "eta_schleuse": "21:43",
         "eta_rueb": "17:16",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "17:16",
-      "eta_schleuse": "21:44",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:43",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:48"
     },
     {
@@ -566,7 +576,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:17",
+      "eta_rueb_kiel": "17:16",
       "eta_rueb": "17:05",
       "ship": "KERTU",
       "q_gruppe": "4",
