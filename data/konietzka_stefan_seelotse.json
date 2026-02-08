@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T01:10:46",
+  "generated_at": "2026-02-08T01:12:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 00:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -89,14 +89,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:32",
+        "eta_schleuse": "03:31",
         "eta_rueb": "23:39",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:17"
       },
       "eta_rueb": "23:39",
-      "eta_schleuse": "03:32",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "03:31",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:17"
     },
     {
@@ -110,14 +110,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:29",
+        "eta_schleuse": "03:28",
         "eta_rueb": "23:36",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "23:36",
-      "eta_schleuse": "03:29",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "03:28",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:20"
     },
     {
@@ -173,14 +173,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Feb 07 21:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:57",
+        "eta_schleuse": "06:55",
         "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "02:29",
-      "eta_schleuse": "06:57",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "06:55",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:25"
     },
     {
@@ -194,15 +194,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 21:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:53",
-        "eta_rueb": "02:26",
+        "eta_schleuse": "06:52",
+        "eta_rueb": "02:25",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:44"
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "02:26",
-      "eta_schleuse": "06:53",
+      "eta_rueb": "02:25",
+      "eta_schleuse": "06:52",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:44"
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -232,14 +232,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORDIC ITALIA",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 20:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:43",
+        "eta_rueb": "01:35",
+        "delta_rueb_schleuse": "04:08",
+        "delta_start_rueb": "05:01"
+      },
+      "eta_rueb": "01:35",
+      "eta_schleuse": "05:43",
+      "delta_rueb_schleuse": "04:08",
+      "delta_start_rueb": "05:01"
     },
     {
       "is_target": false,
@@ -252,14 +257,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:14",
+        "eta_schleuse": "01:15",
         "eta_rueb": "21:26",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "21:26",
-      "eta_schleuse": "01:14",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "05:08"
     },
     {
@@ -294,14 +299,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:17",
+        "eta_schleuse": "01:19",
         "eta_rueb": "21:29",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "21:29",
-      "eta_schleuse": "01:17",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "01:19",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:07"
     },
     {
@@ -377,8 +382,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 00:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -434,14 +439,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:32",
+        "eta_schleuse": "03:31",
         "eta_rueb": "23:39",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:17"
       },
       "eta_rueb": "23:39",
-      "eta_schleuse": "03:32",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "03:31",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:17"
     },
     {
@@ -455,14 +460,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:29",
+        "eta_schleuse": "03:28",
         "eta_rueb": "23:36",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "23:36",
-      "eta_schleuse": "03:29",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "03:28",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:20"
     },
     {
@@ -518,14 +523,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Feb 07 21:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:57",
+        "eta_schleuse": "06:55",
         "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "02:29",
-      "eta_schleuse": "06:57",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "06:55",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:25"
     },
     {
@@ -539,15 +544,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Feb 07 21:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:53",
-        "eta_rueb": "02:26",
+        "eta_schleuse": "06:52",
+        "eta_rueb": "02:25",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:44"
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "02:26",
-      "eta_schleuse": "06:53",
+      "eta_rueb": "02:25",
+      "eta_schleuse": "06:52",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:44"
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -577,14 +582,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORDIC ITALIA",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 07 20:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:43",
+        "eta_rueb": "01:35",
+        "delta_rueb_schleuse": "04:08",
+        "delta_start_rueb": "05:01"
+      },
+      "eta_rueb": "01:35",
+      "eta_schleuse": "05:43",
+      "delta_rueb_schleuse": "04:08",
+      "delta_start_rueb": "05:01"
     },
     {
       "is_target": false,
@@ -605,13 +615,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "01:35",
-      "eta_rueb": "01:30",
-      "ship": "NORDIC ITALIA",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "01:50",
       "eta_rueb": "01:45",
