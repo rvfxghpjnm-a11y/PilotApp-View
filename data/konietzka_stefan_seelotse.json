@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T14:06:51",
+  "generated_at": "2026-02-08T14:08:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -193,16 +193,11 @@
       "fahrzeug": "IDA RAMBOW",
       "route": "HOS → KLT",
       "time": "Sun Feb 08 08:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:07",
-        "eta_rueb": "10:05",
-        "delta_rueb_schleuse": "04:02",
-        "delta_start_rueb": "05:21"
-      },
-      "eta_rueb": "10:05",
-      "eta_schleuse": "14:07",
-      "delta_rueb_schleuse": "04:02",
-      "delta_start_rueb": "05:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -550,7 +545,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:09",
+      "eta_rueb_kiel": "15:08",
       "eta_rueb": "15:00",
       "ship": "HUMBER SPRINTER",
       "q_gruppe": "5",
