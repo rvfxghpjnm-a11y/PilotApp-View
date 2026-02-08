@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T11:26:47",
+  "generated_at": "2026-02-08T11:28:53",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 14,
     "wach": 1,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -210,8 +210,8 @@
       "name": "Carsten Weise",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KAIE",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Feb 08 07:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -417,27 +417,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "name": "Stefan Bruhn",
-      "aufgabe": "Seebört",
-      "nr": 23,
-      "fahrzeug": "ECO MAESTRO",
-      "route": "KLT → HOS",
-      "time": "Sun Feb 08 02:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sven Kare",
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "AMADEUS SAFFIER",
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 02:00:00 CET 2026",
@@ -708,7 +692,7 @@
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "AMADEUS SAFFIER",
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 02:00:00 CET 2026",
