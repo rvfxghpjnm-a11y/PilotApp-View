@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-08T01:16:46",
+  "generated_at": "2026-02-08T01:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
     "see": 7
   },
@@ -220,14 +220,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 21:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:22",
+        "eta_schleuse": "02:24",
         "eta_rueb": "22:28",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "22:28",
-      "eta_schleuse": "02:22",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "02:24",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:14"
     },
     {
@@ -242,14 +242,14 @@
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
         "eta_schleuse": "05:42",
-        "eta_rueb": "01:35",
-        "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "05:01"
+        "eta_rueb": "01:34",
+        "delta_rueb_schleuse": "04:08",
+        "delta_start_rueb": "05:00"
       },
-      "eta_rueb": "01:35",
+      "eta_rueb": "01:34",
       "eta_schleuse": "05:42",
-      "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "05:01"
+      "delta_rueb_schleuse": "04:08",
+      "delta_start_rueb": "05:00"
     },
     {
       "is_target": false,
@@ -262,14 +262,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:17",
+        "eta_schleuse": "01:19",
         "eta_rueb": "21:26",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "21:26",
-      "eta_schleuse": "01:17",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "01:19",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "05:08"
     },
     {
@@ -283,14 +283,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:22",
+        "eta_schleuse": "01:24",
         "eta_rueb": "21:34",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "21:34",
-      "eta_schleuse": "01:22",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "01:24",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:20"
     },
     {
@@ -304,14 +304,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 07 20:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:19",
+        "eta_schleuse": "01:20",
         "eta_rueb": "21:29",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "21:29",
-      "eta_schleuse": "01:19",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "01:20",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "05:07"
     },
     {
@@ -353,25 +353,9 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 18,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Feb 07 18:02:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "name": "Jens Röhl",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "COE GISELA",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 15:16:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -575,14 +559,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 21:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:22",
+        "eta_schleuse": "02:24",
         "eta_rueb": "22:28",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "22:28",
-      "eta_schleuse": "02:22",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "02:24",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:14"
     },
     {
@@ -597,30 +581,14 @@
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
         "eta_schleuse": "05:42",
-        "eta_rueb": "01:35",
-        "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "05:01"
+        "eta_rueb": "01:34",
+        "delta_rueb_schleuse": "04:08",
+        "delta_start_rueb": "05:00"
       },
-      "eta_rueb": "01:35",
+      "eta_rueb": "01:34",
       "eta_schleuse": "05:42",
-      "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "05:01"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "name": "Jens Röhl",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "COE GISELA",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 15:16:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:08",
+      "delta_start_rueb": "05:00"
     }
   ],
   "meldungen_kiel": [],
