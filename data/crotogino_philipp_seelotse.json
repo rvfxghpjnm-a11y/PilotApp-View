@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T12:06:46",
+  "generated_at": "2026-02-08T12:08:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 15,
     "wach": 2,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -114,15 +114,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 10:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:00",
-        "eta_rueb": "15:33",
+        "eta_schleuse": "19:57",
+        "eta_rueb": "15:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:29"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "15:33",
-      "eta_schleuse": "20:00",
+      "eta_rueb": "15:30",
+      "eta_schleuse": "19:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:29"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -177,14 +177,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:58",
+        "eta_schleuse": "13:57",
         "eta_rueb": "10:05",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:21"
       },
       "eta_rueb": "10:05",
-      "eta_schleuse": "13:58",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "13:57",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:21"
     },
     {
@@ -198,14 +198,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:04",
+        "eta_schleuse": "14:05",
         "eta_rueb": "09:54",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "09:54",
-      "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "14:05",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:10"
     },
     {
@@ -240,14 +240,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 08 07:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:22",
+        "eta_schleuse": "12:21",
         "eta_rueb": "08:56",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "08:56",
-      "eta_schleuse": "12:22",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "12:21",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:12"
     },
     {
@@ -372,15 +372,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 06:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:39",
-        "eta_rueb": "12:12",
+        "eta_schleuse": "16:38",
+        "eta_rueb": "12:11",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:18"
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "12:12",
-      "eta_schleuse": "16:39",
+      "eta_rueb": "12:11",
+      "eta_schleuse": "16:38",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:18"
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -437,27 +437,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Lehwald",
-      "name": "Christian Lehwald",
-      "aufgabe": "Seebört",
-      "nr": 23,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Sun Feb 08 03:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sven Kare",
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "AMADEUS SAFFIER",
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 02:00:00 CET 2026",
@@ -538,15 +522,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 10:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:00",
-        "eta_rueb": "15:33",
+        "eta_schleuse": "19:57",
+        "eta_rueb": "15:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:29"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "15:33",
-      "eta_schleuse": "20:00",
+      "eta_rueb": "15:30",
+      "eta_schleuse": "19:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:29"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -601,14 +585,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:58",
+        "eta_schleuse": "13:57",
         "eta_rueb": "10:05",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:21"
       },
       "eta_rueb": "10:05",
-      "eta_schleuse": "13:58",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "13:57",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:21"
     },
     {
@@ -622,14 +606,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:04",
+        "eta_schleuse": "14:05",
         "eta_rueb": "09:54",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "09:54",
-      "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "14:05",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:10"
     },
     {
@@ -706,15 +690,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 06:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:39",
-        "eta_rueb": "12:12",
+        "eta_schleuse": "16:38",
+        "eta_rueb": "12:11",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:18"
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "12:12",
-      "eta_schleuse": "16:39",
+      "eta_rueb": "12:11",
+      "eta_schleuse": "16:38",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:18"
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -759,7 +743,7 @@
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "AMADEUS SAFFIER",
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 02:00:00 CET 2026",
@@ -799,7 +783,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:51",
+      "eta_rueb_kiel": "14:50",
       "eta_rueb": "14:45",
       "ship": "X-PRESS GODAVARI",
       "q_gruppe": "1",
@@ -814,7 +798,7 @@
     },
     {
       "eta_rueb_kiel": "15:18",
-      "eta_rueb": "15:05",
+      "eta_rueb": "15:00",
       "ship": "HUMBER SPRINTER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
