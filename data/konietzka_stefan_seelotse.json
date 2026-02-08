@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T11:14:46",
+  "generated_at": "2026-02-08T11:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -178,10 +178,10 @@
       "vorname": "Stefan",
       "nachname": "Domeier",
       "name": "Stefan Domeier",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "SCOT BERLIN",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Feb 08 07:35:00 CET 2026",
       "times": {
         "eta_schleuse": "12:24",
@@ -237,15 +237,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 08 06:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:46",
-        "eta_rueb": "12:18",
+        "eta_schleuse": "16:47",
+        "eta_rueb": "12:19",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:16"
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "12:18",
-      "eta_schleuse": "16:46",
+      "eta_rueb": "12:19",
+      "eta_schleuse": "16:47",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:16"
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -259,14 +259,14 @@
       "time": "Sun Feb 08 06:43:00 CET 2026",
       "times": {
         "eta_schleuse": "16:50",
-        "eta_rueb": "12:15",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "12:16",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "12:15",
+      "eta_rueb": "12:16",
       "eta_schleuse": "16:50",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -595,27 +595,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Domeier",
-      "name": "Stefan Domeier",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "SCOT BERLIN",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 08 07:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "12:24",
-        "eta_rueb": "08:56",
-        "delta_rueb_schleuse": "03:28",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "08:56",
-      "eta_schleuse": "12:24",
-      "delta_rueb_schleuse": "03:28",
-      "delta_start_rueb": "04:12"
-    },
-    {
-      "is_target": false,
       "vorname": "Marius Paul",
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
@@ -625,15 +604,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 08 06:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:46",
-        "eta_rueb": "12:18",
+        "eta_schleuse": "16:47",
+        "eta_rueb": "12:19",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:16"
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "12:18",
-      "eta_schleuse": "16:46",
+      "eta_rueb": "12:19",
+      "eta_schleuse": "16:47",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:16"
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -647,14 +626,14 @@
       "time": "Sun Feb 08 06:43:00 CET 2026",
       "times": {
         "eta_schleuse": "16:50",
-        "eta_rueb": "12:15",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "12:16",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "12:15",
+      "eta_rueb": "12:16",
       "eta_schleuse": "16:50",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -753,7 +732,7 @@
       "route": "LÜW → NOB"
     },
     {
-      "eta_rueb_kiel": "14:55",
+      "eta_rueb_kiel": "14:53",
       "eta_rueb": "14:45",
       "ship": "X-PRESS GODAVARI",
       "q_gruppe": "1",
