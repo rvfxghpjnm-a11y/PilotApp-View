@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T20:56:53",
+  "generated_at": "2026-02-08T20:58:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY ELA",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 20:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:00",
+        "eta_rueb": "21:20",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "05:38"
+      },
+      "eta_rueb": "21:20",
+      "eta_schleuse": "01:00",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "05:38"
     },
     {
       "is_target": false,
@@ -274,14 +279,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 14:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:59",
+        "eta_schleuse": "00:57",
         "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "21:15",
-      "eta_schleuse": "00:59",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "00:57",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:29"
     },
     {
@@ -295,14 +300,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 12:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:55",
+        "eta_schleuse": "00:53",
         "eta_rueb": "21:08",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "21:08",
-      "eta_schleuse": "00:55",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "00:53",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "05:24"
     },
     {
@@ -425,14 +430,19 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY ELA",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 20:05:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:00",
+        "eta_rueb": "21:20",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "05:38"
+      },
+      "eta_rueb": "21:20",
+      "eta_schleuse": "01:00",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "05:38"
     },
     {
       "is_target": false,
@@ -571,14 +581,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 14:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:59",
+        "eta_schleuse": "00:57",
         "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "21:15",
-      "eta_schleuse": "00:59",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "00:57",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:29"
     },
     {
@@ -592,14 +602,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 12:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:55",
+        "eta_schleuse": "00:53",
         "eta_rueb": "21:08",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "21:08",
-      "eta_schleuse": "00:55",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "00:53",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "05:24"
     },
     {
@@ -711,13 +721,6 @@
       "ship": "FALKENSTEIN + HÖRN 20",
       "q_gruppe": "4",
       "route": "LÜW → NOB"
-    },
-    {
-      "eta_rueb_kiel": "21:20",
-      "eta_rueb": "21:15",
-      "ship": "LADY ELA",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
     }
   ]
 }
