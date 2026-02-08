@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-08T07:38:46",
+  "generated_at": "2026-02-08T07:40:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
     "see": 11
   },
@@ -253,16 +253,11 @@
       "fahrzeug": "MERSEY",
       "route": "HOS → NWK",
       "time": "Sun Feb 08 02:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "07:37",
-        "eta_rueb": "03:42",
-        "delta_rueb_schleuse": "03:55",
-        "delta_start_rueb": "04:04"
-      },
-      "eta_rueb": "03:42",
-      "eta_schleuse": "07:37",
-      "delta_rueb_schleuse": "03:55",
-      "delta_start_rueb": "04:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -397,31 +392,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 21:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:39",
+        "eta_schleuse": "07:41",
         "eta_rueb": "04:00",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "04:00",
-      "eta_schleuse": "07:39",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "07:41",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan-Steffen",
-      "nachname": "Glenewinkel",
-      "name": "Jan-Steffen Glenewinkel",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "ALTO",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 21:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -616,31 +595,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 21:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:39",
+        "eta_schleuse": "07:41",
         "eta_rueb": "04:00",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "04:00",
-      "eta_schleuse": "07:39",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "07:41",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan-Steffen",
-      "nachname": "Glenewinkel",
-      "name": "Jan-Steffen Glenewinkel",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "ALTO",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 07 21:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
