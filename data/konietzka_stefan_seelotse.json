@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-08T15:52:46",
+  "generated_at": "2026-02-08T15:54:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 5
   },
@@ -196,19 +196,14 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "ECO MAESTRO",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 10:42:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:22",
-        "eta_rueb": "15:45",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:49"
-      },
-      "eta_rueb": "15:45",
-      "eta_schleuse": "20:22",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:49"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -304,22 +299,6 @@
       "eta_schleuse": "19:02",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:16"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "WESTEWIND",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 08 05:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -446,19 +425,14 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "ECO MAESTRO",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 10:42:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:22",
-        "eta_rueb": "15:45",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:49"
-      },
-      "eta_rueb": "15:45",
-      "eta_schleuse": "20:22",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:49"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -522,22 +496,6 @@
       "eta_schleuse": "19:02",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "04:16"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "WESTEWIND",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 08 05:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -578,7 +536,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:19",
+      "eta_rueb_kiel": "18:18",
       "eta_rueb": "18:10",
       "ship": "EBERHART ESSBERGER",
       "q_gruppe": "4",
