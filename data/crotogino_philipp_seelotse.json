@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T13:08:50",
+  "generated_at": "2026-02-08T13:10:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,9 +12,9 @@
     "nr": 4
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -192,10 +192,10 @@
       "vorname": "Fred",
       "nachname": "Spiekermann",
       "name": "Fred Spiekermann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "IDA RAMBOW",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Feb 08 08:35:00 CET 2026",
       "times": {
         "eta_schleuse": "14:06",
@@ -352,14 +352,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 05:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:18",
+        "eta_schleuse": "15:17",
         "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "10:52",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -503,27 +503,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Fred",
-      "nachname": "Spiekermann",
-      "name": "Fred Spiekermann",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "IDA RAMBOW",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 08 08:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:06",
-        "eta_rueb": "10:05",
-        "delta_rueb_schleuse": "04:01",
-        "delta_start_rueb": "05:21"
-      },
-      "eta_rueb": "10:05",
-      "eta_schleuse": "14:06",
-      "delta_rueb_schleuse": "04:01",
-      "delta_start_rueb": "05:21"
-    },
-    {
-      "is_target": false,
       "vorname": "Peter",
       "nachname": "Jakob",
       "name": "Peter Jakob",
@@ -565,14 +544,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 05:56:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:18",
+        "eta_schleuse": "15:17",
         "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "10:52",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -614,7 +593,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:02",
+      "eta_rueb_kiel": "17:01",
       "eta_rueb": "16:50",
       "ship": "LADY HESTIA",
       "q_gruppe": "5",
