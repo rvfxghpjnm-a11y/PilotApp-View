@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T16:32:54",
+  "generated_at": "2026-02-08T16:34:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -159,14 +159,19 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KERTU",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 11:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:21",
+        "eta_rueb": "16:59",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "16:59",
+      "eta_schleuse": "21:21",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -232,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 10:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:14",
+        "eta_schleuse": "21:13",
         "eta_rueb": "16:50",
-        "delta_rueb_schleuse": "04:24",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:50",
-      "eta_schleuse": "21:14",
-      "delta_rueb_schleuse": "04:24",
+      "eta_schleuse": "21:13",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:18"
     },
     {
@@ -409,14 +414,19 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KERTU",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 11:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:21",
+        "eta_rueb": "16:59",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "16:59",
+      "eta_schleuse": "21:21",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -466,14 +476,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 10:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:14",
+        "eta_schleuse": "21:13",
         "eta_rueb": "16:50",
-        "delta_rueb_schleuse": "04:24",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:50",
-      "eta_schleuse": "21:14",
-      "delta_rueb_schleuse": "04:24",
+      "eta_schleuse": "21:13",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:18"
     },
     {
@@ -555,13 +565,6 @@
       "ship": "FALKENSTEIN + HÖRN 20",
       "q_gruppe": "4",
       "route": "LÜW → NOB"
-    },
-    {
-      "eta_rueb_kiel": "16:59",
-      "eta_rueb": "16:58",
-      "ship": "KERTU",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "18:17",
