@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T01:12:45",
+  "generated_at": "2026-02-08T01:14:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TAVASTLAND",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:45",
+        "eta_rueb": "01:50",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "05:00"
+      },
+      "eta_rueb": "01:50",
+      "eta_schleuse": "05:45",
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "05:00"
     },
     {
       "is_target": false,
@@ -131,14 +136,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:36",
+        "eta_schleuse": "03:35",
         "eta_rueb": "00:03",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "06:35"
       },
       "eta_rueb": "00:03",
-      "eta_schleuse": "03:36",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "03:35",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "06:35"
     },
     {
@@ -152,15 +157,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Feb 07 22:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:11",
-        "eta_rueb": "02:39",
+        "eta_schleuse": "07:10",
+        "eta_rueb": "02:38",
         "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "02:39",
-      "eta_schleuse": "07:11",
+      "eta_rueb": "02:38",
+      "eta_schleuse": "07:10",
       "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -174,14 +179,14 @@
       "time": "Sat Feb 07 21:47:00 CET 2026",
       "times": {
         "eta_schleuse": "06:55",
-        "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:25"
+        "eta_rueb": "02:28",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:24"
       },
-      "eta_rueb": "02:29",
+      "eta_rueb": "02:28",
       "eta_schleuse": "06:55",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:25"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:24"
     },
     {
       "is_target": false,
@@ -236,14 +241,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:43",
+        "eta_schleuse": "05:42",
         "eta_rueb": "01:35",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "01:35",
-      "eta_schleuse": "05:43",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "05:42",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "05:01"
     },
     {
@@ -382,14 +387,19 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TAVASTLAND",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:45",
+        "eta_rueb": "01:50",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "05:00"
+      },
+      "eta_rueb": "01:50",
+      "eta_schleuse": "05:45",
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "05:00"
     },
     {
       "is_target": false,
@@ -481,14 +491,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:36",
+        "eta_schleuse": "03:35",
         "eta_rueb": "00:03",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "06:35"
       },
       "eta_rueb": "00:03",
-      "eta_schleuse": "03:36",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "03:35",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "06:35"
     },
     {
@@ -502,15 +512,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Feb 07 22:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:11",
-        "eta_rueb": "02:39",
+        "eta_schleuse": "07:10",
+        "eta_rueb": "02:38",
         "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "02:39",
-      "eta_schleuse": "07:11",
+      "eta_rueb": "02:38",
+      "eta_schleuse": "07:10",
       "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -524,14 +534,14 @@
       "time": "Sat Feb 07 21:47:00 CET 2026",
       "times": {
         "eta_schleuse": "06:55",
-        "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:25"
+        "eta_rueb": "02:28",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:24"
       },
-      "eta_rueb": "02:29",
+      "eta_rueb": "02:28",
       "eta_schleuse": "06:55",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:25"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:24"
     },
     {
       "is_target": false,
@@ -586,14 +596,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 20:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:43",
+        "eta_schleuse": "05:42",
         "eta_rueb": "01:35",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "01:35",
-      "eta_schleuse": "05:43",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "05:42",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "05:01"
     },
     {
@@ -616,13 +626,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:50",
-      "eta_rueb": "01:45",
-      "ship": "TAVASTLAND",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "03:00",
       "eta_rueb": "02:50",
       "ship": "ALTO",
@@ -637,14 +640,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:40",
+      "eta_rueb_kiel": "03:39",
       "eta_rueb": "03:30",
       "ship": "KILSTRAUM",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:57",
+      "eta_rueb_kiel": "03:56",
       "eta_rueb": "03:45",
       "ship": "MERSEY",
       "q_gruppe": "4",
