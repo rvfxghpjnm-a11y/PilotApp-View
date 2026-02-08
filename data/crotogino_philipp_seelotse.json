@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T20:52:54",
+  "generated_at": "2026-02-08T20:54:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 20:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -53,14 +53,14 @@
       "time": "Sun Feb 08 19:57:00 CET 2026",
       "times": {
         "eta_schleuse": "06:44",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "01:26",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": null,
+      "eta_rueb": "01:26",
       "eta_schleuse": "06:44",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -290,14 +290,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 14:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:57",
+        "eta_schleuse": "00:59",
         "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "21:15",
-      "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "00:59",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:29"
     },
     {
@@ -311,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 12:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:53",
+        "eta_schleuse": "00:55",
         "eta_rueb": "21:08",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "21:08",
-      "eta_schleuse": "00:53",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "00:55",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:24"
     },
     {
@@ -441,8 +441,8 @@
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 20:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -462,14 +462,14 @@
       "time": "Sun Feb 08 19:57:00 CET 2026",
       "times": {
         "eta_schleuse": "06:44",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "01:26",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": null,
+      "eta_rueb": "01:26",
       "eta_schleuse": "06:44",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -587,14 +587,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 14:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:57",
+        "eta_schleuse": "00:59",
         "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "21:15",
-      "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "00:59",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:29"
     },
     {
@@ -608,14 +608,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 12:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:53",
+        "eta_schleuse": "00:55",
         "eta_rueb": "21:08",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "21:08",
-      "eta_schleuse": "00:53",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "00:55",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:24"
     },
     {
