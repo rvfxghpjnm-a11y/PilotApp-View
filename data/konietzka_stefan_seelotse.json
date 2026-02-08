@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T02:38:45",
+  "generated_at": "2026-02-08T02:40:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,8 +85,8 @@
       "name": "Yannick Petersen",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "ZAANBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Feb 08 00:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -201,14 +201,14 @@
       "time": "Sat Feb 07 22:10:00 CET 2026",
       "times": {
         "eta_schleuse": "07:11",
-        "eta_rueb": "03:00",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:12"
+        "eta_rueb": "02:59",
+        "delta_rueb_schleuse": "04:12",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "03:00",
+      "eta_rueb": "02:59",
       "eta_schleuse": "07:11",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:12"
+      "delta_rueb_schleuse": "04:12",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -484,14 +484,14 @@
       "time": "Sat Feb 07 22:10:00 CET 2026",
       "times": {
         "eta_schleuse": "07:11",
-        "eta_rueb": "03:00",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:12"
+        "eta_rueb": "02:59",
+        "delta_rueb_schleuse": "04:12",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "03:00",
+      "eta_rueb": "02:59",
       "eta_schleuse": "07:11",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:12"
+      "delta_rueb_schleuse": "04:12",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -583,7 +583,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:43",
+      "eta_rueb_kiel": "06:42",
       "eta_rueb": "06:25",
       "ship": "PRIMA KING",
       "q_gruppe": "5",
