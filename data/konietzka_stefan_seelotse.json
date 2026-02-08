@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T06:46:45",
+  "generated_at": "2026-02-08T06:48:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -128,8 +128,8 @@
       "name": "Nils Föhring",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "NORDIC ITALIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Feb 08 05:02:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -201,14 +201,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 02:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:18",
+        "eta_schleuse": "07:16",
         "eta_rueb": "03:33",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "03:33",
-      "eta_schleuse": "07:18",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:41"
     },
     {
@@ -391,14 +391,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 21:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:56",
+        "eta_schleuse": "06:57",
         "eta_rueb": "02:53",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:04",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "02:53",
-      "eta_schleuse": "06:56",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "04:04",
       "delta_start_rueb": "04:09"
     }
   ],
@@ -499,14 +499,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 08 02:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:18",
+        "eta_schleuse": "07:16",
         "eta_rueb": "03:33",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "03:33",
-      "eta_schleuse": "07:18",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:41"
     },
     {
@@ -625,14 +625,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 07 21:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:56",
+        "eta_schleuse": "06:57",
         "eta_rueb": "02:53",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:04",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "02:53",
-      "eta_schleuse": "06:56",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "04:04",
       "delta_start_rueb": "04:09"
     }
   ],
@@ -653,17 +653,17 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:16",
-      "eta_rueb": "09:45",
-      "ship": "IDA RAMBOW",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "10:06",
       "eta_rueb": "09:50",
       "ship": "LADY HABARKA",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "10:16",
+      "eta_rueb": "09:55",
+      "ship": "IDA RAMBOW",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
