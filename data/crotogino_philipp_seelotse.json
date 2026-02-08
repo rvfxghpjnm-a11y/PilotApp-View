@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T11:54:46",
+  "generated_at": "2026-02-08T11:56:48",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -113,9 +113,14 @@
       "fahrzeug": "ECO MAESTRO",
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 10:42:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:19",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:19",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -527,9 +532,14 @@
       "fahrzeug": "ECO MAESTRO",
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 10:42:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:19",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:19",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
