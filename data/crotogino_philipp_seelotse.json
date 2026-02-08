@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T17:14:45",
+  "generated_at": "2026-02-08T17:16:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -142,19 +142,14 @@
       "name": "Johannes Röhrs",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "HJORDIS",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 12:36:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:43",
-        "eta_rueb": "17:16",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "17:16",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -216,8 +211,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 11:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -419,19 +414,14 @@
       "name": "Johannes Röhrs",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "HJORDIS",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 08 12:36:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:43",
-        "eta_rueb": "17:16",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "17:16",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -477,8 +467,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 08 11:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -602,13 +592,6 @@
       "ship": "FALKENSTEIN + HÖRN 20",
       "q_gruppe": "4",
       "route": "LÜW → NOB"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "17:10",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "18:18",
