@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T09:58:51",
+  "generated_at": "2026-02-08T10:00:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,15 +20,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 08:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:30",
-        "eta_rueb": "13:03",
+        "eta_schleuse": "17:29",
+        "eta_rueb": "13:02",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:37"
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "13:03",
-      "eta_schleuse": "17:30",
+      "eta_rueb": "13:02",
+      "eta_schleuse": "17:29",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:37"
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -444,15 +444,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 08:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:30",
-        "eta_rueb": "13:03",
+        "eta_schleuse": "17:29",
+        "eta_rueb": "13:02",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:37"
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "13:03",
-      "eta_schleuse": "17:30",
+      "eta_rueb": "13:02",
+      "eta_schleuse": "17:29",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:37"
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -717,7 +717,14 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "10:57",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "10:00",
+      "ship": "FALKENSTEIN + HÖRN 20",
+      "q_gruppe": "4",
+      "route": "LÜW → NOB"
+    },
+    {
+      "eta_rueb_kiel": "10:56",
       "eta_rueb": "10:50",
       "ship": "WESTEWIND",
       "q_gruppe": "5",
