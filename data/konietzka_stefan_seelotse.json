@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T12:34:48",
+  "generated_at": "2026-02-08T12:36:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "CAROLINA",
       "route": "HOR → RÜB",
       "time": "Sun Feb 08 11:32:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -110,15 +115,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 10:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:56",
-        "eta_rueb": "15:29",
+        "eta_schleuse": "19:55",
+        "eta_rueb": "15:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:25"
+        "delta_start_rueb": "03:24"
       },
-      "eta_rueb": "15:29",
-      "eta_schleuse": "19:56",
+      "eta_rueb": "15:28",
+      "eta_schleuse": "19:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:25"
+      "delta_start_rueb": "03:24"
     },
     {
       "is_target": false,
@@ -434,9 +439,14 @@
       "fahrzeug": "CAROLINA",
       "route": "HOR → RÜB",
       "time": "Sun Feb 08 11:32:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -493,15 +503,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 08 10:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:56",
-        "eta_rueb": "15:29",
+        "eta_schleuse": "19:55",
+        "eta_rueb": "15:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:25"
+        "delta_start_rueb": "03:24"
       },
-      "eta_rueb": "15:29",
-      "eta_schleuse": "19:56",
+      "eta_rueb": "15:28",
+      "eta_schleuse": "19:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:25"
+      "delta_start_rueb": "03:24"
     },
     {
       "is_target": false,
@@ -739,6 +749,13 @@
       "eta_rueb_kiel": "15:15",
       "eta_rueb": "15:00",
       "ship": "HUMBER SPRINTER",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "17:02",
+      "eta_rueb": "16:50",
+      "ship": "LADY HESTIA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
