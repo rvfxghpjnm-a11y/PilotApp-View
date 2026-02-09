@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T12:16:37",
+  "generated_at": "2026-02-09T12:18:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 10,
     "wach": 2,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -109,14 +109,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 09 10:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:27",
+        "eta_schleuse": "20:25",
         "eta_rueb": "15:59",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "15:59",
-      "eta_schleuse": "20:27",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "20:25",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:23"
     },
     {
@@ -163,8 +163,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "NETA A.",
+      "route": "HOS → KLT",
       "time": "Mon Feb 09 08:06:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -238,27 +238,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Hren",
-      "name": "Alexander Hren",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Mon Feb 09 06:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Eike",
       "nachname": "Matysik",
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 04:11:00 CET 2026",
@@ -274,7 +258,7 @@
       "nachname": "Stürenburg",
       "name": "Jan Stürenburg",
       "aufgabe": "Wachgänger",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Mon Feb 09 04:00:00 CET 2026",
@@ -290,7 +274,7 @@
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Mon Feb 09 03:00:00 CET 2026",
@@ -306,7 +290,7 @@
       "nachname": "Zimmermann",
       "name": "Martin Zimmermann",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "NETA A.",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 02:43:00 CET 2026",
@@ -322,7 +306,7 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "PEAK BELFAST",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 01:10:00 CET 2026",
@@ -398,14 +382,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 09 10:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:27",
+        "eta_schleuse": "20:25",
         "eta_rueb": "15:59",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "15:59",
-      "eta_schleuse": "20:27",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "20:25",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:23"
     },
     {
@@ -467,7 +451,7 @@
       "nachname": "Matysik",
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 04:11:00 CET 2026",
@@ -483,7 +467,7 @@
       "nachname": "Zimmermann",
       "name": "Martin Zimmermann",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "NETA A.",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 02:43:00 CET 2026",
@@ -499,7 +483,7 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "PEAK BELFAST",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 01:10:00 CET 2026",
@@ -518,7 +502,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:00",
+      "eta_rueb_kiel": "12:59",
       "eta_rueb": "12:55",
       "ship": "AZZARO",
       "q_gruppe": "3",
@@ -553,7 +537,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:09",
+      "eta_rueb_kiel": "14:08",
       "eta_rueb": "13:59",
       "ship": "DREAMLAND",
       "q_gruppe": "5",
