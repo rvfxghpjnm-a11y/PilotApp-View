@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T08:04:38",
+  "generated_at": "2026-02-09T08:06:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -89,8 +89,8 @@
       "name": "Alexander Hren",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "FJORDNES",
-      "route": "SHF → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Feb 09 06:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -125,15 +125,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 09 04:11:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:54",
-        "eta_rueb": "09:27",
+        "eta_schleuse": "13:53",
+        "eta_rueb": "09:26",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:21"
+        "delta_start_rueb": "04:20"
       },
-      "eta_rueb": "09:27",
-      "eta_schleuse": "13:54",
+      "eta_rueb": "09:26",
+      "eta_schleuse": "13:53",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:21"
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -231,14 +231,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 00:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:41",
+        "eta_schleuse": "10:32",
         "eta_rueb": "07:01",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "05:47"
       },
       "eta_rueb": "07:01",
-      "eta_schleuse": "10:41",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:32",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:47"
     },
     {
@@ -365,15 +365,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 09 04:11:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:54",
-        "eta_rueb": "09:27",
+        "eta_schleuse": "13:53",
+        "eta_rueb": "09:26",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:21"
+        "delta_start_rueb": "04:20"
       },
-      "eta_rueb": "09:27",
-      "eta_schleuse": "13:54",
+      "eta_rueb": "09:26",
+      "eta_schleuse": "13:53",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:21"
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -418,14 +418,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 00:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:41",
+        "eta_schleuse": "10:32",
         "eta_rueb": "07:01",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "05:47"
       },
       "eta_rueb": "07:01",
-      "eta_schleuse": "10:41",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:32",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:47"
     },
     {
@@ -495,7 +495,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:09",
+      "eta_rueb_kiel": "09:08",
       "eta_rueb": "09:05",
       "ship": "PEAK BELFAST",
       "q_gruppe": "5",
