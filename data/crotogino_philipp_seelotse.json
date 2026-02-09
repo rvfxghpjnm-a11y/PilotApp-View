@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T23:44:56",
+  "generated_at": "2026-02-09T23:46:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "ELBSUMMER",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 09 22:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:28",
+        "eta_rueb": "23:53",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "23:53",
+      "eta_schleuse": "03:28",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -230,14 +235,19 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "ELBSUMMER",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 09 22:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:28",
+        "eta_rueb": "23:53",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "23:53",
+      "eta_schleuse": "03:28",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -326,13 +336,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "23:53",
-      "eta_rueb": "00:05",
-      "ship": "ELBSUMMER",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "01:25",
       "eta_rueb": "01:20",
