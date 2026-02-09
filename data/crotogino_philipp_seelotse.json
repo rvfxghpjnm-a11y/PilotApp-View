@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T12:18:54",
+  "generated_at": "2026-02-09T12:20:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 2,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -262,26 +262,10 @@
     {
       "is_target": false,
       "vorname": "Martin",
-      "nachname": "Wachsmuth",
-      "name": "Martin Wachsmuth",
-      "aufgabe": "Seebört",
-      "nr": 16,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Mon Feb 09 03:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Martin",
       "nachname": "Zimmermann",
       "name": "Martin Zimmermann",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "NETA A.",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 02:43:00 CET 2026",
@@ -297,7 +281,7 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "PEAK BELFAST",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 01:10:00 CET 2026",
@@ -458,7 +442,7 @@
       "nachname": "Zimmermann",
       "name": "Martin Zimmermann",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "NETA A.",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 02:43:00 CET 2026",
@@ -474,7 +458,7 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "PEAK BELFAST",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 01:10:00 CET 2026",
@@ -539,6 +523,13 @@
       "eta_rueb": "15:30",
       "ship": "ROCAMAR",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "16:40",
+      "eta_rueb": "16:30",
+      "ship": "ODIN",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
