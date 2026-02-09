@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T22:58:54",
+  "generated_at": "2026-02-09T23:00:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -78,14 +78,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 19:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:11",
+        "eta_schleuse": "01:12",
         "eta_rueb": "21:10",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "21:10",
-      "eta_schleuse": "01:11",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "01:12",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "05:44"
     },
     {
@@ -185,8 +185,8 @@
       "name": "Oliver Schran",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KERLI",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Feb 09 15:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -281,14 +281,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 19:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:11",
+        "eta_schleuse": "01:12",
         "eta_rueb": "21:10",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "21:10",
-      "eta_schleuse": "01:11",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "01:12",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "05:44"
     },
     {
@@ -358,7 +358,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "23:56",
+      "eta_rueb_kiel": "23:55",
       "eta_rueb": "00:05",
       "ship": "ELBSUMMER",
       "q_gruppe": "1",
