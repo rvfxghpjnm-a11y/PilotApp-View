@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-09T20:18:54",
+  "generated_at": "2026-02-09T20:20:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 1,
     "see": 5
   },
@@ -186,8 +186,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "ROCAMAR",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Mon Feb 09 14:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -247,22 +247,6 @@
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Mon Feb 09 12:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Kaschke",
-      "name": "Henning Kaschke",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "ODIN",
-      "route": "RÜB → HOS",
-      "time": "Mon Feb 09 10:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -418,22 +402,6 @@
       "eta_schleuse": "21:26",
       "delta_rueb_schleuse": "20:44",
       "delta_start_rueb": "17:38"
-    },
-    {
-      "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Kaschke",
-      "name": "Henning Kaschke",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "ODIN",
-      "route": "RÜB → HOS",
-      "time": "Mon Feb 09 10:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -453,14 +421,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:13",
+      "eta_rueb_kiel": "21:12",
       "eta_rueb": "21:10",
       "ship": "EXPERT",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:17",
+      "eta_rueb_kiel": "21:16",
       "eta_rueb": "21:10",
       "ship": "MED NORDIC",
       "q_gruppe": "3",
