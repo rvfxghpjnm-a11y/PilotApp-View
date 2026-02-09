@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T17:34:39",
+  "generated_at": "2026-02-09T17:36:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -16,12 +16,7 @@
     "wach": 1,
     "see": 6
   },
-  "times": {
-    "eta_schleuse": "17:32",
-    "eta_rueb": "13:59",
-    "delta_rueb_schleuse": "03:33",
-    "delta_start_rueb": "04:13"
-  },
+  "times": null,
   "lotsen": [
     {
       "is_target": false,
@@ -66,13 +61,13 @@
       "route": "HOR → KRH",
       "time": "Mon Feb 09 15:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:38",
+        "eta_schleuse": "19:37",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "19:38",
+      "eta_schleuse": "19:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -124,14 +119,14 @@
       "route": "HOS → KLT",
       "time": "Mon Feb 09 12:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:35",
+        "eta_schleuse": "17:36",
         "eta_rueb": "14:03",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "14:03",
-      "eta_schleuse": "17:35",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "17:36",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:11"
     },
     {
@@ -277,16 +272,11 @@
       "fahrzeug": "ORANESS",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 07:39:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:32",
-        "eta_rueb": "13:59",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "13:59",
-      "eta_schleuse": "17:32",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -317,13 +307,13 @@
       "route": "HOR → KRH",
       "time": "Mon Feb 09 15:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:38",
+        "eta_schleuse": "19:37",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "19:38",
+      "eta_schleuse": "19:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -427,16 +417,11 @@
       "fahrzeug": "ORANESS",
       "route": "RÜB → HOS",
       "time": "Mon Feb 09 07:39:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:32",
-        "eta_rueb": "13:59",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "13:59",
-      "eta_schleuse": "17:32",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
