@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T18:00:48",
+  "generated_at": "2026-02-10T18:02:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -77,11 +77,16 @@
       "fahrzeug": "FL STOROE",
       "route": "KRH → HOS",
       "time": "Tue Feb 10 12:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "10:35",
+        "delta_rueb_schleuse": "2285936:11",
+        "delta_start_rueb": "31:27"
+      },
+      "eta_rueb": "10:35",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285936:11",
+      "delta_start_rueb": "31:27"
     },
     {
       "is_target": false,
@@ -249,11 +254,16 @@
       "fahrzeug": "FL STOROE",
       "route": "KRH → HOS",
       "time": "Tue Feb 10 12:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "10:35",
+        "delta_rueb_schleuse": "2285936:11",
+        "delta_start_rueb": "31:27"
+      },
+      "eta_rueb": "10:35",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285936:11",
+      "delta_start_rueb": "31:27"
     }
   ],
   "meldungen_kiel": [],
