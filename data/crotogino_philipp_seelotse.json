@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T19:04:56",
+  "generated_at": "2026-02-10T19:06:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,13 +68,13 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 10 17:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:10",
+        "eta_schleuse": "03:06",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "03:10",
+      "eta_schleuse": "03:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -106,19 +106,14 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "CORAL LOPHELIA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 10 14:09:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:37",
-        "eta_rueb": "19:10",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:24"
-      },
-      "eta_rueb": "19:10",
-      "eta_schleuse": "23:37",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:24"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -127,8 +122,8 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "FL STOROE",
-      "route": "KRH → HOS",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 10 12:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -229,13 +224,13 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 10 17:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:10",
+        "eta_schleuse": "03:06",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "03:10",
+      "eta_schleuse": "03:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -267,19 +262,14 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "CORAL LOPHELIA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 10 14:09:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:37",
-        "eta_rueb": "19:10",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:24"
-      },
-      "eta_rueb": "19:10",
-      "eta_schleuse": "23:37",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:24"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -288,8 +278,8 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "FL STOROE",
-      "route": "KRH → HOS",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 10 12:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -300,6 +290,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "19:10",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "22:30",
       "eta_rueb": "22:05",
