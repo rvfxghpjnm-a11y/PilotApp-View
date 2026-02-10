@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:32:55",
+  "generated_at": "2026-02-10T16:34:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 5,
     "wach": 1,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -62,15 +62,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 10 12:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:43",
-        "eta_rueb": "17:16",
+        "eta_schleuse": "21:42",
+        "eta_rueb": "17:15",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:22"
+        "delta_start_rueb": "03:21"
       },
-      "eta_rueb": "17:16",
-      "eta_schleuse": "21:43",
+      "eta_rueb": "17:15",
+      "eta_schleuse": "21:42",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:22"
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -136,14 +136,14 @@
       "route": "HOS → KLT",
       "time": "Tue Feb 10 11:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:36",
+        "eta_schleuse": "16:37",
         "eta_rueb": "12:49",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "12:49",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:13"
     },
     {
@@ -196,39 +196,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Domeier",
-      "name": "Stefan Domeier",
-      "aufgabe": "Seebört",
-      "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Tue Feb 10 07:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sören",
       "nachname": "Ehlers",
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "MERSEY",
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 07:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:36",
+        "eta_schleuse": "16:37",
         "eta_rueb": "12:49",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "12:49",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:13"
     }
   ],
@@ -286,15 +270,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 10 12:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:43",
-        "eta_rueb": "17:16",
+        "eta_schleuse": "21:42",
+        "eta_rueb": "17:15",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:22"
+        "delta_start_rueb": "03:21"
       },
-      "eta_rueb": "17:16",
-      "eta_schleuse": "21:43",
+      "eta_rueb": "17:15",
+      "eta_schleuse": "21:42",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:22"
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -323,19 +307,19 @@
       "nachname": "Ehlers",
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "MERSEY",
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 07:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:36",
+        "eta_schleuse": "16:37",
         "eta_rueb": "12:49",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "12:49",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:13"
     }
   ],
