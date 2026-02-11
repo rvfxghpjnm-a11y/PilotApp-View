@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T17:44:48",
+  "generated_at": "2026-02-11T17:46:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -80,8 +80,8 @@
       "name": "Joachim Munz",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "TRADE NAVIGATOR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Feb 11 15:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -121,15 +121,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 15:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:47",
-        "eta_rueb": "20:19",
+        "eta_schleuse": "00:48",
+        "eta_rueb": "20:20",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "20:19",
-      "eta_schleuse": "00:47",
+      "eta_rueb": "20:20",
+      "eta_schleuse": "00:48",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -142,15 +142,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 15:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:40",
-        "eta_rueb": "20:13",
+        "eta_schleuse": "00:41",
+        "eta_rueb": "20:14",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "20:13",
-      "eta_schleuse": "00:40",
+      "eta_rueb": "20:14",
+      "eta_schleuse": "00:41",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -159,8 +159,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "BIT FORCE",
+      "route": "HOS → KLT",
       "time": "Wed Feb 11 14:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -387,15 +387,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 15:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:47",
-        "eta_rueb": "20:19",
+        "eta_schleuse": "00:48",
+        "eta_rueb": "20:20",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "20:19",
-      "eta_schleuse": "00:47",
+      "eta_rueb": "20:20",
+      "eta_schleuse": "00:48",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -408,15 +408,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 15:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:40",
-        "eta_rueb": "20:13",
+        "eta_schleuse": "00:41",
+        "eta_rueb": "20:14",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "20:13",
-      "eta_schleuse": "00:40",
+      "eta_rueb": "20:14",
+      "eta_schleuse": "00:41",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -527,7 +527,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:58",
+      "eta_rueb_kiel": "18:57",
       "eta_rueb": "18:45",
       "ship": "OLIVIA",
       "q_gruppe": "4",
