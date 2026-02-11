@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T03:54:54",
+  "generated_at": "2026-02-11T03:56:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -122,8 +122,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "INCRA",
+      "route": "KLT → HOS",
       "time": "Tue Feb 10 20:54:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -179,14 +179,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 18:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:20",
+        "eta_schleuse": "06:19",
         "eta_rueb": "01:58",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "01:58",
-      "eta_schleuse": "06:20",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "06:19",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:16"
     },
     {
@@ -200,14 +200,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 17:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:27",
+        "eta_schleuse": "04:26",
         "eta_rueb": "01:00",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "01:00",
-      "eta_schleuse": "04:27",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "04:26",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:14"
     }
   ],
@@ -334,14 +334,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 18:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:20",
+        "eta_schleuse": "06:19",
         "eta_rueb": "01:58",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "01:58",
-      "eta_schleuse": "06:20",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "06:19",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:16"
     },
     {
@@ -355,14 +355,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 17:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:27",
+        "eta_schleuse": "04:26",
         "eta_rueb": "01:00",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "01:00",
-      "eta_schleuse": "04:27",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "04:26",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:14"
     }
   ],
@@ -397,7 +397,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "08:05",
       "eta_rueb": "08:10",
       "ship": "LEVENSAU",
       "q_gruppe": "5",
