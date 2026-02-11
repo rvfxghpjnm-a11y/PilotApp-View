@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T12:18:45",
+  "generated_at": "2026-02-11T12:20:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -240,14 +240,14 @@
       "route": "HOS → KLT",
       "time": "Wed Feb 11 07:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:19",
+        "eta_schleuse": "12:20",
         "eta_rueb": "08:42",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "08:42",
-      "eta_schleuse": "12:19",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "12:20",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:20"
     },
     {
@@ -310,14 +310,19 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ESPERANCE",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 11 06:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:47",
+        "eta_rueb": "12:47",
+        "delta_rueb_schleuse": "04:00",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "12:47",
+      "eta_schleuse": "16:47",
+      "delta_rueb_schleuse": "04:00",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -613,14 +618,19 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ESPERANCE",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 11 06:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:47",
+        "eta_rueb": "12:47",
+        "delta_rueb_schleuse": "04:00",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "12:47",
+      "eta_schleuse": "16:47",
+      "delta_rueb_schleuse": "04:00",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -663,14 +673,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:47",
-      "eta_rueb": "12:45",
-      "ship": "ESPERANCE",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "12:54",
+      "eta_rueb_kiel": "12:53",
       "eta_rueb": "12:50",
       "ship": "HUMBER RUNNER",
       "q_gruppe": "5",
