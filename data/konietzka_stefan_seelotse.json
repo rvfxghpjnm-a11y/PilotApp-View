@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T07:04:47",
+  "generated_at": "2026-02-11T07:06:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "STEN TRITON",
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 06:11:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:15",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:15",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -99,9 +104,14 @@
       "fahrzeug": "HELGA",
       "route": "HOR → RÜB",
       "time": "Wed Feb 11 06:07:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:12",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:12",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -366,9 +376,14 @@
       "fahrzeug": "STEN TRITON",
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 06:11:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:15",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:15",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -382,9 +397,14 @@
       "fahrzeug": "HELGA",
       "route": "HOR → RÜB",
       "time": "Wed Feb 11 06:07:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:12",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:12",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -520,7 +540,7 @@
       "route": "RÜB → AHL"
     },
     {
-      "eta_rueb_kiel": "08:38",
+      "eta_rueb_kiel": "08:37",
       "eta_rueb": "08:30",
       "ship": "WISLABORG",
       "q_gruppe": "4",
@@ -541,7 +561,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:01",
+      "eta_rueb_kiel": "10:02",
       "eta_rueb": "09:50",
       "ship": "NEERBORG",
       "q_gruppe": "4",
