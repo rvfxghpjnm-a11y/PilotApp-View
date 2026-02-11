@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-11T13:40:40",
+  "generated_at": "2026-02-11T13:42:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Seebört",
-    "fahrzeug": "BALTIC SAIL",
-    "from": "HOS",
-    "to": "KLT",
+    "fahrzeug": "KLT",
+    "from": null,
+    "to": null,
     "time": "Wed Feb 11 07:15:00 CET 2026",
     "nr": 14
   },
@@ -268,8 +268,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "BALTIC SAIL",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Feb 11 07:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -288,14 +288,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 11 06:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:14",
+        "eta_schleuse": "16:15",
         "eta_rueb": "12:42",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "12:42",
-      "eta_schleuse": "16:14",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "16:15",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:22"
     },
     {
@@ -506,14 +506,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 11 06:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:14",
+        "eta_schleuse": "16:15",
         "eta_rueb": "12:42",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "12:42",
-      "eta_schleuse": "16:14",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "16:15",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:22"
     },
     {
@@ -583,7 +583,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:08",
+      "eta_rueb_kiel": "19:07",
       "eta_rueb": "19:00",
       "ship": "OLIVIA",
       "q_gruppe": "4",
