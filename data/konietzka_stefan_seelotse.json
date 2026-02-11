@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T08:24:39",
+  "generated_at": "2026-02-11T08:26:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -204,14 +204,14 @@
       "time": "Wed Feb 11 06:07:00 CET 2026",
       "times": {
         "eta_schleuse": "16:06",
-        "eta_rueb": "11:03",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "11:02",
+        "delta_rueb_schleuse": "05:04",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "11:03",
+      "eta_rueb": "11:02",
       "eta_schleuse": "16:06",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "05:04",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -289,8 +289,8 @@
       "name": "Peter Hüpers",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Feb 11 04:18:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -321,8 +321,8 @@
       "name": "Klaus Eidenschink",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Feb 11 03:58:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -441,14 +441,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:28",
+        "eta_schleuse": "08:30",
         "eta_rueb": "04:28",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "04:28",
-      "eta_schleuse": "08:28",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "08:30",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "04:40"
     }
   ],
@@ -586,14 +586,14 @@
       "time": "Wed Feb 11 06:07:00 CET 2026",
       "times": {
         "eta_schleuse": "16:06",
-        "eta_rueb": "11:03",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "11:02",
+        "delta_rueb_schleuse": "05:04",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "11:03",
+      "eta_rueb": "11:02",
       "eta_schleuse": "16:06",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "05:04",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -711,14 +711,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:28",
+        "eta_schleuse": "08:30",
         "eta_rueb": "04:28",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "04:28",
-      "eta_schleuse": "08:28",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "08:30",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "04:40"
     }
   ],
@@ -746,7 +746,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "10:58",
+      "eta_rueb_kiel": "10:57",
       "eta_rueb": "10:45",
       "ship": "EEMS SPRING",
       "q_gruppe": "5",
