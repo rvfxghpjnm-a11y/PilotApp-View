@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T06:50:46",
+  "generated_at": "2026-02-11T06:52:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -126,8 +126,8 @@
       "name": "Alexander Hren",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ANADOLU L-400",
+      "route": "KLT → THA",
       "time": "Wed Feb 11 05:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -284,14 +284,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 22:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:54",
+        "eta_schleuse": "09:53",
         "eta_rueb": "06:22",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "06:22",
-      "eta_schleuse": "09:54",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "09:53",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:18"
     },
     {
@@ -326,14 +326,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:29",
+        "eta_schleuse": "08:28",
         "eta_rueb": "04:28",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "04:28",
-      "eta_schleuse": "08:29",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "08:28",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:40"
     }
   ],
@@ -439,14 +439,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 22:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:54",
+        "eta_schleuse": "09:53",
         "eta_rueb": "06:22",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "06:22",
-      "eta_schleuse": "09:54",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "09:53",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:18"
     },
     {
@@ -481,21 +481,21 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 10 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:29",
+        "eta_schleuse": "08:28",
         "eta_rueb": "04:28",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "04:28",
-      "eta_schleuse": "08:29",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "08:28",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:40"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "07:55",
+      "eta_rueb_kiel": "07:54",
       "eta_rueb": "08:10",
       "ship": "LEVENSAU",
       "q_gruppe": "5",
@@ -509,21 +509,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:43",
+      "eta_rueb_kiel": "08:41",
       "eta_rueb": "08:35",
       "ship": "BALTIC SAIL",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:48",
+      "eta_rueb_kiel": "08:47",
       "eta_rueb": "08:40",
       "ship": "AKACIA",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:01",
+      "eta_rueb_kiel": "10:00",
       "eta_rueb": "09:50",
       "ship": "NEERBORG",
       "q_gruppe": "4",
@@ -537,7 +537,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:47",
+      "eta_rueb_kiel": "10:46",
       "eta_rueb": "10:30",
       "ship": "BIT FORCE",
       "q_gruppe": "4",
