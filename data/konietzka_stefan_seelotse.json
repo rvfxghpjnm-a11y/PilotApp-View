@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T12:20:38",
+  "generated_at": "2026-02-11T12:22:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -44,9 +44,14 @@
       "fahrzeug": "SOFIA",
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 11:33:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -135,14 +140,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Feb 11 08:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:33",
+        "eta_schleuse": "14:32",
         "eta_rueb": "10:38",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "10:38",
-      "eta_schleuse": "14:33",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "14:32",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:00"
     },
     {
@@ -156,14 +161,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 11 08:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:40",
+        "eta_schleuse": "14:39",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "14:39",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:20"
     },
     {
@@ -239,16 +244,11 @@
       "fahrzeug": "AKACIA",
       "route": "HOS → KLT",
       "time": "Wed Feb 11 07:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "12:20",
-        "eta_rueb": "08:42",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "08:42",
-      "eta_schleuse": "12:20",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -315,14 +315,14 @@
       "time": "Wed Feb 11 06:11:00 CET 2026",
       "times": {
         "eta_schleuse": "16:47",
-        "eta_rueb": "12:47",
-        "delta_rueb_schleuse": "04:00",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "12:46",
+        "delta_rueb_schleuse": "04:01",
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "12:47",
+      "eta_rueb": "12:46",
       "eta_schleuse": "16:47",
-      "delta_rueb_schleuse": "04:00",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:01",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -368,8 +368,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "EEMS SPRING",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Feb 11 04:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -421,9 +421,14 @@
       "fahrzeug": "SOFIA",
       "route": "HOS → RÜB",
       "time": "Wed Feb 11 11:33:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -496,14 +501,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Feb 11 08:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:33",
+        "eta_schleuse": "14:32",
         "eta_rueb": "10:38",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "10:38",
-      "eta_schleuse": "14:33",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "14:32",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:00"
     },
     {
@@ -517,14 +522,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 11 08:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:40",
+        "eta_schleuse": "14:39",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "14:39",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:20"
     },
     {
@@ -623,14 +628,14 @@
       "time": "Wed Feb 11 06:11:00 CET 2026",
       "times": {
         "eta_schleuse": "16:47",
-        "eta_rueb": "12:47",
-        "delta_rueb_schleuse": "04:00",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "12:46",
+        "delta_rueb_schleuse": "04:01",
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "12:47",
+      "eta_rueb": "12:46",
       "eta_schleuse": "16:47",
-      "delta_rueb_schleuse": "04:00",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:01",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -660,8 +665,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "EEMS SPRING",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Feb 11 04:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
