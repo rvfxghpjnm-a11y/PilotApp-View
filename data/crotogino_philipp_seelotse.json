@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T07:08:53",
+  "generated_at": "2026-02-12T07:10:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -239,14 +239,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SERENADA",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 12 00:54:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:49",
+        "eta_rueb": "07:31",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "07:31",
+      "eta_schleuse": "11:49",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -453,14 +458,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SERENADA",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 12 00:54:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:49",
+        "eta_rueb": "07:31",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "07:31",
+      "eta_schleuse": "11:49",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -539,13 +549,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "07:31",
-      "eta_rueb": "07:30",
-      "ship": "SERENADA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:19",
       "eta_rueb": "10:10",
