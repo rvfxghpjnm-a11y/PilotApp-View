@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T07:34:54",
+  "generated_at": "2026-02-12T07:36:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -90,14 +90,14 @@
       "time": "Thu Feb 12 05:37:00 CET 2026",
       "times": {
         "eta_schleuse": "15:19",
-        "eta_rueb": "10:51",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "10:52",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "10:51",
+      "eta_rueb": "10:52",
       "eta_schleuse": "15:19",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -143,8 +143,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "HUNTEBORG",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Feb 12 04:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -404,14 +404,14 @@
       "time": "Thu Feb 12 05:37:00 CET 2026",
       "times": {
         "eta_schleuse": "15:19",
-        "eta_rueb": "10:51",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "10:52",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "10:51",
+      "eta_rueb": "10:52",
       "eta_schleuse": "15:19",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -553,6 +553,13 @@
       "eta_rueb": "10:10",
       "ship": "SALTSTRAUM",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "12:11",
+      "eta_rueb": "12:10",
+      "ship": "PEAK BILBAO",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
