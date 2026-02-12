@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T15:08:48",
+  "generated_at": "2026-02-12T15:10:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -211,14 +211,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 12 05:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:50",
+        "eta_schleuse": "15:49",
         "eta_rueb": "12:01",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "12:01",
-      "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "15:49",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:35"
     }
   ],
@@ -345,14 +345,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 12 05:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:50",
+        "eta_schleuse": "15:49",
         "eta_rueb": "12:01",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "12:01",
-      "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "15:49",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:35"
     }
   ],
@@ -360,7 +360,7 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "16:24",
-      "eta_rueb": "16:25",
+      "eta_rueb": "16:20",
       "ship": "LADY HANNAH",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
@@ -392,6 +392,13 @@
       "ship": "EIDER",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "19:30",
+      "ship": "ROSEBURG",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
