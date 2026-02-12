@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T07:02:49",
+  "generated_at": "2026-02-12T07:04:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "VB LUCA",
       "route": "HOR → RÜB",
       "time": "Thu Feb 12 05:36:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -372,9 +377,14 @@
       "fahrzeug": "VB LUCA",
       "route": "HOR → RÜB",
       "time": "Thu Feb 12 05:36:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
