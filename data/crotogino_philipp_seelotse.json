@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T12:04:53",
+  "generated_at": "2026-02-12T12:06:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -242,13 +242,13 @@
       "route": "KRH → RÜB",
       "time": "Thu Feb 12 05:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:08",
+        "eta_schleuse": "17:27",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "17:08",
+      "eta_schleuse": "17:27",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -545,13 +545,13 @@
       "route": "KRH → RÜB",
       "time": "Thu Feb 12 05:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:08",
+        "eta_schleuse": "17:27",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "17:08",
+      "eta_schleuse": "17:27",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -605,6 +605,13 @@
       "eta_rueb": "14:00",
       "ship": "ELBSUN",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "16:32",
+      "eta_rueb": "16:00",
+      "ship": "LADY HANNAH",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
