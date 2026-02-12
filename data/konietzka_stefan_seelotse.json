@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T02:18:49",
+  "generated_at": "2026-02-12T02:20:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -146,20 +146,20 @@
       "vorname": "Christoph",
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "BALTIC SHARK",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Feb 11 21:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:19",
+        "eta_schleuse": "03:20",
         "eta_rueb": "23:20",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "23:20",
-      "eta_schleuse": "03:19",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "03:20",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:56"
     },
     {
@@ -295,14 +295,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Feb 11 18:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:20",
+        "eta_schleuse": "04:21",
         "eta_rueb": "00:08",
-        "delta_rueb_schleuse": "04:12",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "00:08",
-      "eta_schleuse": "04:20",
-      "delta_rueb_schleuse": "04:12",
+      "eta_schleuse": "04:21",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:16"
     },
     {
@@ -457,27 +457,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Bodmann",
-      "name": "Christoph Bodmann",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "BALTIC SHARK",
-      "route": "RÜB → HOS",
-      "time": "Wed Feb 11 21:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "03:19",
-        "eta_rueb": "23:20",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "04:56"
-      },
-      "eta_rueb": "23:20",
-      "eta_schleuse": "03:19",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "04:56"
-    },
-    {
-      "is_target": false,
       "vorname": "Jan",
       "nachname": "Kurfeld",
       "name": "Jan Kurfeld",
@@ -545,14 +524,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Feb 11 18:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:20",
+        "eta_schleuse": "04:21",
         "eta_rueb": "00:08",
-        "delta_rueb_schleuse": "04:12",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "00:08",
-      "eta_schleuse": "04:20",
-      "delta_rueb_schleuse": "04:12",
+      "eta_schleuse": "04:21",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:16"
     }
   ],
