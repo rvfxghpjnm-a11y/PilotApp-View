@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T07:44:37",
+  "generated_at": "2026-02-13T07:46:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 0,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -147,25 +147,25 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 13 03:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:12",
-        "eta_rueb": "08:45",
+        "eta_schleuse": "13:13",
+        "eta_rueb": "08:46",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "08:45",
-      "eta_schleuse": "13:12",
+      "eta_rueb": "08:46",
+      "eta_schleuse": "13:13",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
       "vorname": "Klaus",
       "nachname": "Eidenschink",
       "name": "Klaus Eidenschink",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "CMA CGM RUNDALE",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Feb 13 03:25:00 CET 2026",
       "times": {
         "eta_schleuse": "08:29",
@@ -238,8 +238,8 @@
       "name": "Gregor Kubica",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "TASMAN",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Feb 13 01:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -392,36 +392,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 13 03:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:12",
-        "eta_rueb": "08:45",
+        "eta_schleuse": "13:13",
+        "eta_rueb": "08:46",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "08:45",
-      "eta_schleuse": "13:12",
+      "eta_rueb": "08:46",
+      "eta_schleuse": "13:13",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
-    },
-    {
-      "is_target": false,
-      "vorname": "Klaus",
-      "nachname": "Eidenschink",
-      "name": "Klaus Eidenschink",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "CMA CGM RUNDALE",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 13 03:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:29",
-        "eta_rueb": "04:51",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "05:15"
-      },
-      "eta_rueb": "04:51",
-      "eta_schleuse": "08:29",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "05:15"
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -493,6 +472,13 @@
       "eta_rueb_kiel": "11:46",
       "eta_rueb": "11:18",
       "ship": "HJORDIS",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "11:59",
+      "eta_rueb": "11:30",
+      "ship": "VANQUISH",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
