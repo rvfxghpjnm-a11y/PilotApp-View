@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-13T06:24:36",
+  "generated_at": "2026-02-13T06:26:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
     "see": 7
   },
@@ -36,15 +36,15 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 13 05:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:15",
-        "eta_rueb": "06:41",
+        "eta_schleuse": "10:14",
+        "eta_rueb": "06:40",
         "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:31"
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": "06:41",
-      "eta_schleuse": "10:15",
+      "eta_rueb": "06:40",
+      "eta_schleuse": "10:14",
       "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:31"
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -131,14 +131,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 13 03:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:24",
+        "eta_schleuse": "08:23",
         "eta_rueb": "04:51",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:15"
       },
       "eta_rueb": "04:51",
-      "eta_schleuse": "08:24",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "08:23",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:15"
     },
     {
@@ -262,22 +262,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Zimmermann",
-      "name": "Martin Zimmermann",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "EIDSVAAG SIRIUS",
-      "route": "RÜB → HOS",
-      "time": "Thu Feb 12 19:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -308,15 +292,15 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 13 05:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:15",
-        "eta_rueb": "06:41",
+        "eta_schleuse": "10:14",
+        "eta_rueb": "06:40",
         "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:31"
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": "06:41",
-      "eta_schleuse": "10:15",
+      "eta_rueb": "06:40",
+      "eta_schleuse": "10:14",
       "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:31"
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -371,14 +355,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 13 03:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:24",
+        "eta_schleuse": "08:23",
         "eta_rueb": "04:51",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:15"
       },
       "eta_rueb": "04:51",
-      "eta_schleuse": "08:24",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "08:23",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:15"
     },
     {
@@ -422,22 +406,6 @@
       "eta_schleuse": "08:17",
       "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Zimmermann",
-      "name": "Martin Zimmermann",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "EIDSVAAG SIRIUS",
-      "route": "RÜB → HOS",
-      "time": "Thu Feb 12 19:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -450,7 +418,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:55",
+      "eta_rueb_kiel": "08:54",
       "eta_rueb": "08:50",
       "ship": "WILSON FLEX V",
       "q_gruppe": "5",
