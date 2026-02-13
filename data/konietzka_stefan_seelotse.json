@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T09:46:40",
+  "generated_at": "2026-02-13T09:48:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,14 +132,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCOT PIONEER",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 13 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:43",
+        "eta_rueb": "10:09",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:19"
+      },
+      "eta_rueb": "10:09",
+      "eta_schleuse": "13:43",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:19"
     },
     {
       "is_target": false,
@@ -298,14 +303,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCOT PIONEER",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 13 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:43",
+        "eta_rueb": "10:09",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:19"
+      },
+      "eta_rueb": "10:09",
+      "eta_schleuse": "13:43",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:19"
     },
     {
       "is_target": false,
@@ -332,13 +342,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:09",
-      "eta_rueb": "10:10",
-      "ship": "SCOT PIONEER",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "11:34",
       "eta_rueb": "11:15",
       "ship": "BORE WAVE",
@@ -353,7 +356,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:53",
+      "eta_rueb_kiel": "11:52",
       "eta_rueb": "11:45",
       "ship": "VANQUISH",
       "q_gruppe": "4",
