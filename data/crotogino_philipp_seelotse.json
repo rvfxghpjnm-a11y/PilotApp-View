@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T08:30:38",
+  "generated_at": "2026-02-13T08:32:39",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 7,
     "wach": 0,
-    "see": 7
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -187,14 +187,14 @@
       "route": "HOS → KLT",
       "time": "Fri Feb 13 03:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:32",
+        "eta_schleuse": "08:33",
         "eta_rueb": "04:51",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:15"
       },
       "eta_rueb": "04:51",
-      "eta_schleuse": "08:32",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "08:33",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:15"
     },
     {
@@ -244,38 +244,6 @@
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Fri Feb 13 03:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Gregor",
-      "nachname": "Kubica",
-      "name": "Gregor Kubica",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "Fri Feb 13 01:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Wachsmuth",
-      "name": "Martin Wachsmuth",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "Fri Feb 13 01:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
