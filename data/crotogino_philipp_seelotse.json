@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T06:04:43",
+  "generated_at": "2026-02-13T06:06:36",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -25,8 +25,8 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Feb 13 05:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -98,14 +98,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 13 03:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:04",
+        "eta_schleuse": "13:40",
         "eta_rueb": "08:55",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "03:53"
       },
       "eta_rueb": "08:55",
-      "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "13:40",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "03:53"
     },
     {
@@ -214,14 +214,14 @@
       "route": "HOS → KLT",
       "time": "Fri Feb 13 01:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:10",
+        "eta_schleuse": "06:11",
         "eta_rueb": "02:45",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "02:45",
-      "eta_schleuse": "06:10",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "06:11",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:23"
     },
     {
@@ -291,8 +291,8 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Feb 13 05:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -332,14 +332,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 13 03:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:04",
+        "eta_schleuse": "13:40",
         "eta_rueb": "08:55",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "03:53"
       },
       "eta_rueb": "08:55",
-      "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "13:40",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "03:53"
     },
     {
@@ -444,7 +444,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:56",
+      "eta_rueb_kiel": "08:55",
       "eta_rueb": "08:50",
       "ship": "WILSON FLEX V",
       "q_gruppe": "5",
