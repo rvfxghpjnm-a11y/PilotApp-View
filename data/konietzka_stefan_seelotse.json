@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:04:37",
+  "generated_at": "2026-02-13T21:06:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 3,
-    "see": 3
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -104,20 +104,20 @@
       "vorname": "Sebastian",
       "nachname": "Klein",
       "name": "Sebastian Klein",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 6,
       "fahrzeug": "ECO KHAMSIN",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Feb 13 16:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:10",
+        "eta_schleuse": "21:11",
         "eta_rueb": "17:28",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "17:28",
-      "eta_schleuse": "21:10",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "21:11",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:22"
     },
     {
@@ -301,27 +301,6 @@
       "eta_schleuse": "04:35",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:28"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Klein",
-      "name": "Sebastian Klein",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "ECO KHAMSIN",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 13 16:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:10",
-        "eta_rueb": "17:28",
-        "delta_rueb_schleuse": "03:42",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "17:28",
-      "eta_schleuse": "21:10",
-      "delta_rueb_schleuse": "03:42",
-      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
