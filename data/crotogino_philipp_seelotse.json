@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T07:42:44",
+  "generated_at": "2026-02-14T07:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "BREB CUXHAVEN",
       "route": "HOS → RÜB",
       "time": "Sat Feb 14 06:34:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:07",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:07",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -226,14 +231,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 14 02:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:51",
+        "eta_schleuse": "07:53",
         "eta_rueb": "03:54",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:38"
       },
       "eta_rueb": "03:54",
-      "eta_schleuse": "07:51",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "07:53",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:38"
     },
     {
@@ -247,14 +252,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 14 02:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:47",
+        "eta_schleuse": "07:48",
         "eta_rueb": "03:39",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "03:39",
-      "eta_schleuse": "07:47",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "07:48",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:23"
     },
     {
@@ -375,9 +380,14 @@
       "fahrzeug": "BREB CUXHAVEN",
       "route": "HOS → RÜB",
       "time": "Sat Feb 14 06:34:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:07",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:07",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -518,14 +528,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 14 02:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:51",
+        "eta_schleuse": "07:53",
         "eta_rueb": "03:54",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:38"
       },
       "eta_rueb": "03:54",
-      "eta_schleuse": "07:51",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "07:53",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:38"
     },
     {
@@ -604,7 +614,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "10:16",
+      "eta_rueb_kiel": "10:15",
       "eta_rueb": "10:05",
       "ship": "ELBIA",
       "q_gruppe": "2",
