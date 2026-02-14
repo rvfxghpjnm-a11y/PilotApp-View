@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T11:40:37",
+  "generated_at": "2026-02-14T11:42:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -133,14 +133,19 @@
       "name": "Volker Nagel",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HEINRICH ESSBERGER",
+      "route": "HOS → KLT",
       "time": "Sat Feb 14 08:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "05:52",
+        "delta_rueb_schleuse": "2285820:54",
+        "delta_start_rueb": "05:38"
+      },
+      "eta_rueb": "05:52",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285820:54",
+      "delta_start_rueb": "05:38"
     },
     {
       "is_target": false,
@@ -233,14 +238,14 @@
       "time": "Sat Feb 14 06:39:00 CET 2026",
       "times": {
         "eta_schleuse": "16:45",
-        "eta_rueb": "11:53",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:05"
+        "eta_rueb": "11:51",
+        "delta_rueb_schleuse": "04:54",
+        "delta_start_rueb": "04:03"
       },
-      "eta_rueb": "11:53",
+      "eta_rueb": "11:51",
       "eta_schleuse": "16:45",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:05"
+      "delta_rueb_schleuse": "04:54",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -275,14 +280,14 @@
       "time": "Sat Feb 14 05:41:00 CET 2026",
       "times": {
         "eta_schleuse": "15:36",
-        "eta_rueb": "12:03",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:47"
+        "eta_rueb": "12:02",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:46"
       },
-      "eta_rueb": "12:03",
+      "eta_rueb": "12:02",
       "eta_schleuse": "15:36",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:47"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:46"
     },
     {
       "is_target": false,
@@ -307,8 +312,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Feb 14 04:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -520,14 +525,14 @@
       "time": "Sat Feb 14 06:39:00 CET 2026",
       "times": {
         "eta_schleuse": "16:45",
-        "eta_rueb": "11:53",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:05"
+        "eta_rueb": "11:51",
+        "delta_rueb_schleuse": "04:54",
+        "delta_start_rueb": "04:03"
       },
-      "eta_rueb": "11:53",
+      "eta_rueb": "11:51",
       "eta_schleuse": "16:45",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:05"
+      "delta_rueb_schleuse": "04:54",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -562,14 +567,14 @@
       "time": "Sat Feb 14 05:41:00 CET 2026",
       "times": {
         "eta_schleuse": "15:36",
-        "eta_rueb": "12:03",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:47"
+        "eta_rueb": "12:02",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:46"
       },
-      "eta_rueb": "12:03",
+      "eta_rueb": "12:02",
       "eta_schleuse": "15:36",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:47"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:46"
     },
     {
       "is_target": false,
@@ -619,7 +624,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:11",
+      "eta_rueb_kiel": "12:12",
       "eta_rueb": "12:11",
       "ship": "ARKLOW MARSH",
       "q_gruppe": "2",
@@ -633,7 +638,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:21",
+      "eta_rueb_kiel": "14:20",
       "eta_rueb": "14:15",
       "ship": "BONITA",
       "q_gruppe": "5",
