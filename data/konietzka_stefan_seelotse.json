@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T11:16:35",
+  "generated_at": "2026-02-14T11:18:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
-    "see": 11
+    "see": 12
   },
   "times": null,
   "lotsen": [
@@ -80,8 +80,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "ESPS ALMIRANTE  JUAN DE BORBON",
+      "route": "F102 (THI → KLT",
       "time": "Sat Feb 14 09:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -295,10 +295,10 @@
       "vorname": "Michell",
       "nachname": "Fricke",
       "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 17,
       "fahrzeug": "HEINRICH ESSBERGER",
-      "route": "RÜB → UTG",
+      "route": "UTG → HOS",
       "time": "Sat Feb 14 04:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -523,27 +523,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "HEINRICH ESSBERGER",
-      "route": "RÜB → UTG",
-      "time": "Sat Feb 14 04:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "05:52",
-        "delta_rueb_schleuse": "2285820:54",
-        "delta_start_rueb": "05:38"
-      },
-      "eta_rueb": "05:52",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2285820:54",
-      "delta_start_rueb": "05:38"
     },
     {
       "is_target": false,
