@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T10:06:37",
+  "generated_at": "2026-02-14T10:08:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -147,14 +147,14 @@
       "time": "Sat Feb 14 07:57:00 CET 2026",
       "times": {
         "eta_schleuse": "17:01",
-        "eta_rueb": "12:34",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:48"
+        "eta_rueb": "12:33",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "12:34",
+      "eta_rueb": "12:33",
       "eta_schleuse": "17:01",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:48"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -288,14 +288,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Feb 14 04:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:06",
+        "eta_schleuse": "10:08",
         "eta_rueb": "05:52",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:38"
       },
       "eta_rueb": "05:52",
-      "eta_schleuse": "10:06",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "10:08",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:38"
     },
     {
@@ -326,8 +326,8 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 14 03:49:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -342,8 +342,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 14 03:49:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -476,14 +476,14 @@
       "time": "Sat Feb 14 07:57:00 CET 2026",
       "times": {
         "eta_schleuse": "17:01",
-        "eta_rueb": "12:34",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:48"
+        "eta_rueb": "12:33",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "12:34",
+      "eta_rueb": "12:33",
       "eta_schleuse": "17:01",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:48"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -580,14 +580,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Feb 14 04:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:06",
+        "eta_schleuse": "10:08",
         "eta_rueb": "05:52",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:38"
       },
       "eta_rueb": "05:52",
-      "eta_schleuse": "10:06",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "10:08",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:38"
     },
     {
@@ -618,8 +618,8 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 14 03:49:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -634,8 +634,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 14 03:49:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -689,13 +689,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "10:00",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "12:08",
       "eta_rueb": "12:05",
       "ship": "SYDSTRAUM",
@@ -710,7 +703,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:17",
+      "eta_rueb_kiel": "12:16",
       "eta_rueb": "12:11",
       "ship": "ARKLOW MARSH",
       "q_gruppe": "2",
