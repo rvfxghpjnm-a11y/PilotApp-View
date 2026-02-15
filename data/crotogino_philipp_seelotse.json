@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T16:52:45",
+  "generated_at": "2026-02-15T16:54:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,8 +101,8 @@
       "name": "Crischan Czurda",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "SCA ORTVIKEN",
-      "route": "OUH → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Feb 15 14:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -190,14 +190,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 15 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:03",
+        "eta_schleuse": "17:05",
         "eta_rueb": "12:41",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "12:41",
-      "eta_schleuse": "17:03",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:05",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "05:25"
     },
     {
@@ -275,14 +275,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 06:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:58",
+        "eta_schleuse": "17:00",
         "eta_rueb": "12:44",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "12:44",
-      "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "17:00",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:12"
     },
     {
@@ -296,14 +296,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 06:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:03",
+        "eta_schleuse": "17:05",
         "eta_rueb": "12:41",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "12:41",
-      "eta_schleuse": "17:03",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:05",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "05:25"
     }
   ],
@@ -457,14 +457,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 06:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:58",
+        "eta_schleuse": "17:00",
         "eta_rueb": "12:44",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "12:44",
-      "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "17:00",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:12"
     },
     {
@@ -478,28 +478,28 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 06:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:03",
+        "eta_schleuse": "17:05",
         "eta_rueb": "12:41",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "12:41",
-      "eta_schleuse": "17:03",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:05",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "05:25"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "17:14",
+      "eta_rueb_kiel": "17:13",
       "eta_rueb": "17:10",
       "ship": "ANTONIA B",
       "q_gruppe": "5",
       "route": "RÜB → GAK"
     },
     {
-      "eta_rueb_kiel": "17:17",
+      "eta_rueb_kiel": "17:16",
       "eta_rueb": "17:13",
       "ship": "BALTIC ARROW",
       "q_gruppe": "5",
@@ -538,6 +538,13 @@
       "eta_rueb": "21:15",
       "ship": "BEATE",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:54",
+      "eta_rueb": "21:18",
+      "ship": "RIX ATLANTIC",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
