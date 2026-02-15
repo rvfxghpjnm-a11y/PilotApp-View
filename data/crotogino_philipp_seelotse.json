@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T17:18:45",
+  "generated_at": "2026-02-15T17:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -142,14 +142,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 14:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:12",
+        "eta_schleuse": "01:11",
         "eta_rueb": "19:58",
-        "delta_rueb_schleuse": "05:14",
+        "delta_rueb_schleuse": "05:13",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "19:58",
-      "eta_schleuse": "01:12",
-      "delta_rueb_schleuse": "05:14",
+      "eta_schleuse": "01:11",
+      "delta_rueb_schleuse": "05:13",
       "delta_start_rueb": "04:26"
     },
     {
@@ -310,16 +310,11 @@
       "fahrzeug": "RIX PACIFIC",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 06:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "12:44",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "05:12"
-      },
-      "eta_rueb": "12:44",
-      "eta_schleuse": "17:14",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "05:12"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -445,14 +440,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 14:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:12",
+        "eta_schleuse": "01:11",
         "eta_rueb": "19:58",
-        "delta_rueb_schleuse": "05:14",
+        "delta_rueb_schleuse": "05:13",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "19:58",
-      "eta_schleuse": "01:12",
-      "delta_rueb_schleuse": "05:14",
+      "eta_schleuse": "01:11",
+      "delta_rueb_schleuse": "05:13",
       "delta_start_rueb": "04:26"
     },
     {
@@ -528,16 +523,11 @@
       "fahrzeug": "RIX PACIFIC",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 06:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "12:44",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "05:12"
-      },
-      "eta_rueb": "12:44",
-      "eta_schleuse": "17:14",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "05:12"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -596,6 +586,13 @@
       "eta_rueb": "21:23",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "23:20",
+      "ship": "CMA CGM TIVOLI",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     }
   ]
