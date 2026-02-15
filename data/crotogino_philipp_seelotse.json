@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T06:28:43",
+  "generated_at": "2026-02-15T06:30:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -194,11 +194,16 @@
       "fahrzeug": "EIDER",
       "route": "KRH → RÜB",
       "time": "Sat Feb 14 23:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:31",
+        "eta_rueb": "19:16",
+        "delta_rueb_schleuse": "64:15",
+        "delta_start_rueb": "59:14"
+      },
+      "eta_rueb": "19:16",
+      "eta_schleuse": "11:31",
+      "delta_rueb_schleuse": "64:15",
+      "delta_start_rueb": "59:14"
     },
     {
       "is_target": false,
@@ -402,11 +407,16 @@
       "fahrzeug": "EIDER",
       "route": "KRH → RÜB",
       "time": "Sat Feb 14 23:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:31",
+        "eta_rueb": "19:16",
+        "delta_rueb_schleuse": "64:15",
+        "delta_start_rueb": "59:14"
+      },
+      "eta_rueb": "19:16",
+      "eta_schleuse": "11:31",
+      "delta_rueb_schleuse": "64:15",
+      "delta_start_rueb": "59:14"
     },
     {
       "is_target": false,
