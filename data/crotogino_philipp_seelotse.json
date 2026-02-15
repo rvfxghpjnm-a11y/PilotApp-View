@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T12:06:45",
+  "generated_at": "2026-02-15T12:08:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,14 +68,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 15 09:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:22",
+        "eta_schleuse": "18:21",
         "eta_rueb": "13:54",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:32"
       },
       "eta_rueb": "13:54",
-      "eta_schleuse": "18:22",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "18:21",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:32"
     },
     {
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 09:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:55",
-        "eta_rueb": "13:43",
+        "eta_schleuse": "17:54",
+        "eta_rueb": "13:42",
         "delta_rueb_schleuse": "04:12",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "13:43",
-      "eta_schleuse": "17:55",
+      "eta_rueb": "13:42",
+      "eta_schleuse": "17:54",
       "delta_rueb_schleuse": "04:12",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -138,8 +138,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "PVT AZURA",
-      "route": "HOS → HOR",
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Sun Feb 15 07:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -261,14 +261,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 15 09:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:22",
+        "eta_schleuse": "18:21",
         "eta_rueb": "13:54",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:32"
       },
       "eta_rueb": "13:54",
-      "eta_schleuse": "18:22",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "18:21",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:32"
     },
     {
@@ -282,15 +282,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 09:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:55",
-        "eta_rueb": "13:43",
+        "eta_schleuse": "17:54",
+        "eta_rueb": "13:42",
         "delta_rueb_schleuse": "04:12",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "13:43",
-      "eta_schleuse": "17:55",
+      "eta_rueb": "13:42",
+      "eta_schleuse": "17:54",
       "delta_rueb_schleuse": "04:12",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -365,14 +365,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:43",
+      "eta_rueb_kiel": "12:44",
       "eta_rueb": "12:30",
       "ship": "IDA RAMBOW",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:46",
+      "eta_rueb_kiel": "12:47",
       "eta_rueb": "12:33",
       "ship": "RIX PACIFIC",
       "q_gruppe": "5",
@@ -393,7 +393,7 @@
       "route": "RÜB → GAK"
     },
     {
-      "eta_rueb_kiel": "17:15",
+      "eta_rueb_kiel": "17:14",
       "eta_rueb": "16:53",
       "ship": "BALTIC ARROW",
       "q_gruppe": "5",
