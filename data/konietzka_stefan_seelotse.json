@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T07:54:36",
+  "generated_at": "2026-02-15T07:56:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "X-PRESS ELBE",
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 06:48:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -89,14 +94,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 05:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:05",
+        "eta_schleuse": "16:00",
         "eta_rueb": "11:11",
-        "delta_rueb_schleuse": "04:54",
+        "delta_rueb_schleuse": "04:49",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "11:11",
-      "eta_schleuse": "16:05",
-      "delta_rueb_schleuse": "04:54",
+      "eta_schleuse": "16:00",
+      "delta_rueb_schleuse": "04:49",
       "delta_start_rueb": "04:03"
     },
     {
@@ -207,14 +212,19 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STOLT GREENSHANK",
+      "route": "RÜB → UTG",
       "time": "Sun Feb 15 00:37:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:33",
+        "eta_rueb": "08:28",
+        "delta_rueb_schleuse": "04:05",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "08:28",
+      "eta_schleuse": "12:33",
+      "delta_rueb_schleuse": "04:05",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -227,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 00:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:13",
+        "eta_schleuse": "10:16",
         "eta_rueb": "06:24",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "06:24",
-      "eta_schleuse": "10:13",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "10:16",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:08"
     },
     {
@@ -344,9 +354,14 @@
       "fahrzeug": "X-PRESS ELBE",
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 06:48:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -382,14 +397,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 05:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:05",
+        "eta_schleuse": "16:00",
         "eta_rueb": "11:11",
-        "delta_rueb_schleuse": "04:54",
+        "delta_rueb_schleuse": "04:49",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "11:11",
-      "eta_schleuse": "16:05",
-      "delta_rueb_schleuse": "04:54",
+      "eta_schleuse": "16:00",
+      "delta_rueb_schleuse": "04:49",
       "delta_start_rueb": "04:03"
     },
     {
@@ -420,14 +435,19 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STOLT GREENSHANK",
+      "route": "RÜB → UTG",
       "time": "Sun Feb 15 00:37:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:33",
+        "eta_rueb": "08:28",
+        "delta_rueb_schleuse": "04:05",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "08:28",
+      "eta_schleuse": "12:33",
+      "delta_rueb_schleuse": "04:05",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -440,14 +460,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 00:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:13",
+        "eta_schleuse": "10:16",
         "eta_rueb": "06:24",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "06:24",
-      "eta_schleuse": "10:13",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "10:16",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:08"
     },
     {
@@ -533,14 +553,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:28",
-      "eta_rueb": "08:25",
-      "ship": "STOLT GREENSHANK",
-      "q_gruppe": "4",
-      "route": "RÜB → UTG"
-    },
-    {
-      "eta_rueb_kiel": "08:35",
+      "eta_rueb_kiel": "08:34",
       "eta_rueb": "08:30",
       "ship": "HAV BRIM",
       "q_gruppe": "5",
