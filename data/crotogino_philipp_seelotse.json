@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T01:16:44",
+  "generated_at": "2026-02-15T01:18:43",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 1,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -265,27 +265,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Vogel",
-      "name": "Peter Vogel",
-      "aufgabe": "Seebört",
-      "nr": 15,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Sat Feb 14 17:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hauke",
       "nachname": "Jeschek",
       "name": "Hauke Jeschek",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "PEAK BILBAO",
       "route": "KLT → HOS",
       "time": "Sat Feb 14 16:20:00 CET 2026",
@@ -301,7 +285,7 @@
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "HAAGA",
       "route": "RÜB → HOS",
       "time": "Sat Feb 14 15:52:00 CET 2026",
@@ -322,7 +306,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ZILTBORG",
       "route": "RÜB → HOS",
       "time": "Sat Feb 14 13:20:00 CET 2026",
@@ -551,7 +535,7 @@
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "HAAGA",
       "route": "RÜB → HOS",
       "time": "Sat Feb 14 15:52:00 CET 2026",
@@ -572,7 +556,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ZILTBORG",
       "route": "RÜB → HOS",
       "time": "Sat Feb 14 13:20:00 CET 2026",
@@ -623,6 +607,13 @@
       "eta_rueb": "04:25",
       "ship": "ANNALISA P",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "06:27",
+      "eta_rueb": "06:15",
+      "ship": "LADY ANNE BEAU",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
