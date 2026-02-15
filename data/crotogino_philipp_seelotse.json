@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T21:06:44",
+  "generated_at": "2026-02-15T21:08:43",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 14,
     "wach": 1,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -51,11 +51,16 @@
       "fahrzeug": "ANKIE",
       "route": "HOR → RÜB",
       "time": "Sun Feb 15 20:02:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:31",
+        "eta_rueb": "00:37",
+        "delta_rueb_schleuse": "04:54",
+        "delta_start_rueb": "03:29"
+      },
+      "eta_rueb": "00:37",
+      "eta_schleuse": "05:31",
+      "delta_rueb_schleuse": "04:54",
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -117,14 +122,14 @@
       "time": "Sun Feb 15 18:53:00 CET 2026",
       "times": {
         "eta_schleuse": "05:25",
-        "eta_rueb": "00:16",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:38"
+        "eta_rueb": "00:15",
+        "delta_rueb_schleuse": "05:10",
+        "delta_start_rueb": "04:37"
       },
-      "eta_rueb": "00:16",
+      "eta_rueb": "00:15",
       "eta_schleuse": "05:25",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:38"
+      "delta_rueb_schleuse": "05:10",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -174,14 +179,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 18:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:59",
+        "eta_schleuse": "23:02",
         "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "19:30",
-      "eta_schleuse": "22:59",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "23:02",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:50"
     },
     {
@@ -237,14 +242,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 16:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:05",
+        "eta_schleuse": "03:06",
         "eta_rueb": "21:37",
-        "delta_rueb_schleuse": "05:28",
+        "delta_rueb_schleuse": "05:29",
         "delta_start_rueb": "03:27"
       },
       "eta_rueb": "21:37",
-      "eta_schleuse": "03:05",
-      "delta_rueb_schleuse": "05:28",
+      "eta_schleuse": "03:06",
+      "delta_rueb_schleuse": "05:29",
       "delta_start_rueb": "03:27"
     },
     {
@@ -300,14 +305,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 15 16:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:11",
+        "eta_schleuse": "21:12",
         "eta_rueb": "17:17",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "17:17",
-      "eta_schleuse": "21:11",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "21:12",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:33"
     },
     {
@@ -360,39 +365,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Stürenburg",
-      "name": "Jan Stürenburg",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "REGINA SEAWAYS",
-      "route": "KLT → SWK",
-      "time": "Sun Feb 15 13:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sven",
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "BALTIC ARROW",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 12:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:07",
+        "eta_schleuse": "21:08",
         "eta_rueb": "17:14",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:34"
       },
       "eta_rueb": "17:14",
-      "eta_schleuse": "21:07",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "21:08",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:34"
     },
     {
@@ -401,19 +390,19 @@
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "MARIE LEHMANN",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 11:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:11",
+        "eta_schleuse": "21:12",
         "eta_rueb": "17:17",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "17:17",
-      "eta_schleuse": "21:11",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "21:12",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:33"
     }
   ],
@@ -460,11 +449,16 @@
       "fahrzeug": "ANKIE",
       "route": "HOR → RÜB",
       "time": "Sun Feb 15 20:02:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:31",
+        "eta_rueb": "00:37",
+        "delta_rueb_schleuse": "04:54",
+        "delta_start_rueb": "03:29"
+      },
+      "eta_rueb": "00:37",
+      "eta_schleuse": "05:31",
+      "delta_rueb_schleuse": "04:54",
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -494,14 +488,14 @@
       "time": "Sun Feb 15 18:53:00 CET 2026",
       "times": {
         "eta_schleuse": "05:25",
-        "eta_rueb": "00:16",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:38"
+        "eta_rueb": "00:15",
+        "delta_rueb_schleuse": "05:10",
+        "delta_start_rueb": "04:37"
       },
-      "eta_rueb": "00:16",
+      "eta_rueb": "00:15",
       "eta_schleuse": "05:25",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:38"
+      "delta_rueb_schleuse": "05:10",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -535,14 +529,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 18:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:59",
+        "eta_schleuse": "23:02",
         "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "19:30",
-      "eta_schleuse": "22:59",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "23:02",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:50"
     },
     {
@@ -598,14 +592,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Feb 15 16:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:05",
+        "eta_schleuse": "03:06",
         "eta_rueb": "21:37",
-        "delta_rueb_schleuse": "05:28",
+        "delta_rueb_schleuse": "05:29",
         "delta_start_rueb": "03:27"
       },
       "eta_rueb": "21:37",
-      "eta_schleuse": "03:05",
-      "delta_rueb_schleuse": "05:28",
+      "eta_schleuse": "03:06",
+      "delta_rueb_schleuse": "05:29",
       "delta_start_rueb": "03:27"
     },
     {
@@ -656,19 +650,19 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "BALTIC ARROW",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 12:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:07",
+        "eta_schleuse": "21:08",
         "eta_rueb": "17:14",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:34"
       },
       "eta_rueb": "17:14",
-      "eta_schleuse": "21:07",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "21:08",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:34"
     },
     {
@@ -677,19 +671,19 @@
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "MARIE LEHMANN",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 11:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:11",
+        "eta_schleuse": "21:12",
         "eta_rueb": "17:17",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "17:17",
-      "eta_schleuse": "21:11",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "21:12",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:33"
     }
   ],
@@ -710,7 +704,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:02",
+      "eta_rueb_kiel": "00:01",
       "eta_rueb": "23:50",
       "ship": "CMA CGM TIVOLI",
       "q_gruppe": "0",
