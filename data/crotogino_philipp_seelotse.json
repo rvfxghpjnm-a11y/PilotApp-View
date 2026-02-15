@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T13:40:44",
+  "generated_at": "2026-02-15T13:42:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -115,14 +115,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 15 09:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:15",
+        "eta_schleuse": "18:14",
         "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "13:47",
-      "eta_schleuse": "18:15",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "18:14",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:25"
     },
     {
@@ -180,8 +180,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ALDEBARAN J",
+      "route": "KLT → HOS",
       "time": "Sun Feb 15 07:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -302,14 +302,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Feb 15 09:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:15",
+        "eta_schleuse": "18:14",
         "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "13:47",
-      "eta_schleuse": "18:15",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "18:14",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:25"
     },
     {
@@ -389,6 +389,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:45",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "17:21",
       "eta_rueb": "17:10",
