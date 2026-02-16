@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T09:48:38",
+  "generated_at": "2026-02-16T09:50:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -16,7 +16,12 @@
     "wach": 0,
     "see": 5
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "18:03",
+    "eta_rueb": null,
+    "delta_rueb_schleuse": null,
+    "delta_start_rueb": null
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -60,9 +65,14 @@
       "fahrzeug": "PRIMA VIKING",
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 08:44:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:03",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:03",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -78,14 +88,14 @@
       "time": "Mon Feb 16 08:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:09",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "13:28",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": null,
+      "eta_rueb": "13:28",
       "eta_schleuse": "18:09",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -369,9 +379,14 @@
       "fahrzeug": "PRIMA VIKING",
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 08:44:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:03",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:03",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -387,14 +402,14 @@
       "time": "Mon Feb 16 08:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:09",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "13:28",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": null,
+      "eta_rueb": "13:28",
       "eta_schleuse": "18:09",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
