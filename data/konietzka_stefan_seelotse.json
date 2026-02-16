@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-02-16T05:32:45",
+  "generated_at": "2026-02-16T05:34:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 5,
-    "wach": 1,
+    "wach": 0,
     "see": 8
   },
   "times": null,
@@ -41,14 +41,14 @@
       "route": "HOS → KLT",
       "time": "Mon Feb 16 05:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:34",
+        "eta_schleuse": "05:36",
         "eta_rueb": "02:06",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "02:06",
-      "eta_schleuse": "05:34",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "05:36",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:14"
     },
     {
@@ -90,8 +90,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "OTELLO",
+      "route": "KLT → HOS",
       "time": "Mon Feb 16 04:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -142,14 +142,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 01:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:38",
+        "eta_schleuse": "11:36",
         "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "07:08",
-      "eta_schleuse": "11:38",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "11:36",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:14"
     },
     {
@@ -216,31 +216,15 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 20:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:34",
+        "eta_schleuse": "05:36",
         "eta_rueb": "02:06",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "02:06",
-      "eta_schleuse": "05:34",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "05:36",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:14"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens-Peter",
-      "nachname": "Töpfer",
-      "name": "Jens-Peter Töpfer",
-      "aufgabe": "Wachgänger",
-      "nr": 13,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Sun Feb 15 20:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -248,7 +232,7 @@
       "nachname": "Marth",
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "SVENDBORG",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 17:08:00 CET 2026",
@@ -276,14 +260,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 01:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:38",
+        "eta_schleuse": "11:36",
         "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "07:08",
-      "eta_schleuse": "11:38",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "11:36",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:14"
     },
     {
@@ -334,14 +318,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 20:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:34",
+        "eta_schleuse": "05:36",
         "eta_rueb": "02:06",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "02:06",
-      "eta_schleuse": "05:34",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "05:36",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:14"
     },
     {
@@ -350,7 +334,7 @@
       "nachname": "Marth",
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "SVENDBORG",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 17:08:00 CET 2026",
@@ -369,14 +353,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:22",
+      "eta_rueb_kiel": "08:20",
       "eta_rueb": "08:10",
       "ship": "LAURIERBORG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:25",
+      "eta_rueb_kiel": "08:23",
       "eta_rueb": "08:15",
       "ship": "NORDIC ITALIA",
       "q_gruppe": "1",
