@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T02:32:45",
+  "generated_at": "2026-02-16T02:34:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 1,
-    "see": 3
+    "see": 2
   },
   "times": null,
   "lotsen": [
@@ -36,15 +36,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 00:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:09",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:15"
+        "eta_schleuse": "09:35",
+        "eta_rueb": "05:08",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:14"
       },
-      "eta_rueb": "05:09",
-      "eta_schleuse": "09:37",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:15"
+      "eta_rueb": "05:08",
+      "eta_schleuse": "09:35",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:14"
     },
     {
       "is_target": false,
@@ -212,27 +212,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Niels",
-      "nachname": "Münker",
-      "name": "Niels Münker",
-      "aufgabe": "Seebört",
-      "nr": 12,
-      "fahrzeug": "SOUTH",
-      "route": "KLT → HOS",
-      "time": "Sun Feb 15 18:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jürgen",
       "nachname": "Marth",
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "SVENDBORG",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 17:08:00 CET 2026",
@@ -253,19 +237,19 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "CMA CGM TIVOLI",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 16:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:36",
+        "eta_schleuse": "03:37",
         "eta_rueb": "23:47",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:47"
       },
       "eta_rueb": "23:47",
-      "eta_schleuse": "03:36",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "03:37",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:47"
     }
   ],
@@ -297,15 +281,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 00:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:09",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:15"
+        "eta_schleuse": "09:35",
+        "eta_rueb": "05:08",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:14"
       },
-      "eta_rueb": "05:09",
-      "eta_schleuse": "09:37",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:15"
+      "eta_rueb": "05:08",
+      "eta_schleuse": "09:35",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:14"
     },
     {
       "is_target": false,
@@ -429,7 +413,7 @@
       "nachname": "Marth",
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "SVENDBORG",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 17:08:00 CET 2026",
@@ -450,19 +434,19 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "CMA CGM TIVOLI",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 16:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:36",
+        "eta_schleuse": "03:37",
         "eta_rueb": "23:47",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:47"
       },
       "eta_rueb": "23:47",
-      "eta_schleuse": "03:36",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "03:37",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:47"
     }
   ],
