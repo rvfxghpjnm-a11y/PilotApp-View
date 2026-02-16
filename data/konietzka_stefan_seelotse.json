@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T11:20:38",
+  "generated_at": "2026-02-16T11:22:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -130,14 +130,14 @@
       "time": "Mon Feb 16 07:44:00 CET 2026",
       "times": {
         "eta_schleuse": "17:53",
-        "eta_rueb": "12:39",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "12:40",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "12:39",
+      "eta_rueb": "12:40",
       "eta_schleuse": "17:53",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -146,8 +146,8 @@
       "name": "Tom Demant",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:36:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -178,8 +178,8 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -194,8 +194,8 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:27:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -210,8 +210,8 @@
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -434,14 +434,14 @@
       "time": "Mon Feb 16 07:44:00 CET 2026",
       "times": {
         "eta_schleuse": "17:53",
-        "eta_rueb": "12:39",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "12:40",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "12:39",
+      "eta_rueb": "12:40",
       "eta_schleuse": "17:53",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -450,8 +450,8 @@
       "name": "Tom Demant",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:36:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -482,8 +482,8 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -498,8 +498,8 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:27:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -514,8 +514,8 @@
       "name": "Sven Kare Tietjens",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 06:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -568,13 +568,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "11:20",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "12:29",
       "eta_rueb": "12:30",
