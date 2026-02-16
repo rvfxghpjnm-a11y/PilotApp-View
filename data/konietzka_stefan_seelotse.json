@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-16T13:24:38",
+  "generated_at": "2026-02-16T13:26:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "PRIMA VIKING",
-    "from": "HOS",
-    "to": "RÜB",
+    "fahrzeug": "RÜB",
+    "from": null,
+    "to": null,
     "time": "Mon Feb 16 08:44:00 CET 2026",
     "nr": 6
   },
@@ -16,12 +16,7 @@
     "wach": 0,
     "see": 5
   },
-  "times": {
-    "eta_schleuse": "17:55",
-    "eta_rueb": "13:28",
-    "delta_rueb_schleuse": "04:27",
-    "delta_start_rueb": "03:38"
-  },
+  "times": null,
   "lotsen": [
     {
       "is_target": false,
@@ -115,19 +110,14 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "PRIMA VIKING",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 16 08:44:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:55",
-        "eta_rueb": "13:28",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
-      },
-      "eta_rueb": "13:28",
-      "eta_schleuse": "17:55",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -287,19 +277,14 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "PRIMA VIKING",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Feb 16 08:44:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:55",
-        "eta_rueb": "13:28",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
-      },
-      "eta_rueb": "13:28",
-      "eta_schleuse": "17:55",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
