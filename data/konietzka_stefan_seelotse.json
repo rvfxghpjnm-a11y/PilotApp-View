@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T20:30:44",
+  "generated_at": "2026-02-16T20:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 6,
     "wach": 1,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -116,14 +116,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 16:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:16",
+        "eta_schleuse": "02:15",
         "eta_rueb": "21:44",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "04:04"
       },
       "eta_rueb": "21:44",
-      "eta_schleuse": "02:16",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "04:04"
     },
     {
@@ -144,27 +144,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Crischan",
-      "nachname": "Czurda",
-      "name": "Crischan Czurda",
-      "aufgabe": "Seebört",
-      "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Mon Feb 16 15:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Klaus Werner",
       "nachname": "Haala",
       "name": "Klaus Werner Haala",
       "aufgabe": "Seebört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "NORDSTRAUM",
       "route": "HOS → KLT",
       "time": "Mon Feb 16 15:20:00 CET 2026",
@@ -180,19 +164,19 @@
       "nachname": "Dietrich",
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "NEUSEBORG",
       "route": "RÜB → HOS",
       "time": "Mon Feb 16 14:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:28",
+        "eta_schleuse": "23:27",
         "eta_rueb": "19:57",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "19:57",
-      "eta_schleuse": "23:28",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "23:27",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:11"
     },
     {
@@ -201,7 +185,7 @@
       "nachname": "Domeier",
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "VICTORIA",
       "route": "RÜB → HOS",
       "time": "Mon Feb 16 13:09:00 CET 2026",
@@ -222,7 +206,7 @@
       "nachname": "Kordt",
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "OPTIMUS",
       "route": "RÜB → HOS",
       "time": "Mon Feb 16 08:35:00 CET 2026",
@@ -277,14 +261,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 16:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:16",
+        "eta_schleuse": "02:15",
         "eta_rueb": "21:44",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "04:04"
       },
       "eta_rueb": "21:44",
-      "eta_schleuse": "02:16",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "04:04"
     },
     {
@@ -293,19 +277,19 @@
       "nachname": "Dietrich",
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "NEUSEBORG",
       "route": "RÜB → HOS",
       "time": "Mon Feb 16 14:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:28",
+        "eta_schleuse": "23:27",
         "eta_rueb": "19:57",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "19:57",
-      "eta_schleuse": "23:28",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "23:27",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:11"
     },
     {
@@ -314,7 +298,7 @@
       "nachname": "Domeier",
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "VICTORIA",
       "route": "RÜB → HOS",
       "time": "Mon Feb 16 13:09:00 CET 2026",
@@ -335,7 +319,7 @@
       "nachname": "Kordt",
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "OPTIMUS",
       "route": "RÜB → HOS",
       "time": "Mon Feb 16 08:35:00 CET 2026",
@@ -349,21 +333,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:17",
+      "eta_rueb_kiel": "00:16",
       "eta_rueb": "00:05",
       "ship": "OSK RENDSBURG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:20",
+      "eta_rueb_kiel": "00:19",
       "eta_rueb": "00:08",
       "ship": "RIX SPRING",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:23",
+      "eta_rueb_kiel": "00:22",
       "eta_rueb": "00:11",
       "ship": "JOLIE",
       "q_gruppe": "5",
