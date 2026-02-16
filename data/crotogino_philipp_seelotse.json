@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T06:48:44",
+  "generated_at": "2026-02-16T06:50:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -254,8 +254,8 @@
       "name": "Michell Fricke",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "EDITH",
+      "route": "KLT → HOS",
       "time": "Sun Feb 15 23:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -445,6 +445,13 @@
       "eta_rueb_kiel": "10:28",
       "eta_rueb": "10:30",
       "ship": "AFALINA",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "12:37",
+      "eta_rueb": "12:30",
+      "ship": "SOFIA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
