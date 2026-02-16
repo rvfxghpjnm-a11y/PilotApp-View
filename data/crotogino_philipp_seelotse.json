@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T08:02:44",
+  "generated_at": "2026-02-16T08:04:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -119,14 +119,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 06:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:50",
+        "eta_schleuse": "15:51",
         "eta_rueb": "11:18",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "11:18",
-      "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "15:51",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:40"
     },
     {
@@ -216,14 +216,19 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORDIC ITALIA",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 01:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:13",
+        "eta_rueb": "08:17",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "04:27"
+      },
+      "eta_rueb": "08:17",
+      "eta_schleuse": "12:13",
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "04:27"
     },
     {
       "is_target": false,
@@ -232,14 +237,19 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAURIERBORG",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 00:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:09",
+        "eta_rueb": "08:12",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "05:18"
+      },
+      "eta_rueb": "08:12",
+      "eta_schleuse": "12:09",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "05:18"
     },
     {
       "is_target": false,
@@ -267,16 +277,11 @@
       "fahrzeug": "JOLYN",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 21:18:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:00",
-        "eta_rueb": "04:02",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:46"
-      },
-      "eta_rueb": "04:02",
-      "eta_schleuse": "08:00",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -381,14 +386,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 06:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:50",
+        "eta_schleuse": "15:51",
         "eta_rueb": "11:18",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "11:18",
-      "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "15:51",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:40"
     },
     {
@@ -398,14 +403,19 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORDIC ITALIA",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 01:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:13",
+        "eta_rueb": "08:17",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "04:27"
+      },
+      "eta_rueb": "08:17",
+      "eta_schleuse": "12:13",
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "04:27"
     },
     {
       "is_target": false,
@@ -414,14 +424,19 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAURIERBORG",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 16 00:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:09",
+        "eta_rueb": "08:12",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "05:18"
+      },
+      "eta_rueb": "08:12",
+      "eta_schleuse": "12:09",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "05:18"
     },
     {
       "is_target": false,
@@ -433,34 +448,15 @@
       "fahrzeug": "JOLYN",
       "route": "RÜB → HOS",
       "time": "Sun Feb 15 21:18:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:00",
-        "eta_rueb": "04:02",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:46"
-      },
-      "eta_rueb": "04:02",
-      "eta_schleuse": "08:00",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "08:12",
-      "eta_rueb": "08:10",
-      "ship": "LAURIERBORG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "08:17",
-      "eta_rueb": "08:15",
-      "ship": "NORDIC ITALIA",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:29",
       "eta_rueb": "10:30",
