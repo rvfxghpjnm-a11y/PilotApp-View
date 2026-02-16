@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T04:50:52",
+  "generated_at": "2026-02-16T04:52:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -121,14 +121,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 00:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:27",
+        "eta_schleuse": "09:26",
         "eta_rueb": "04:59",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:05"
       },
       "eta_rueb": "04:59",
-      "eta_schleuse": "09:27",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "09:26",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:05"
     },
     {
@@ -138,8 +138,8 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 15 23:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -154,8 +154,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 15 23:11:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -276,14 +276,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Feb 16 00:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:27",
+        "eta_schleuse": "09:26",
         "eta_rueb": "04:59",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:05"
       },
       "eta_rueb": "04:59",
-      "eta_schleuse": "09:27",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "09:26",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:05"
     },
     {
@@ -293,8 +293,8 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 15 23:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -309,8 +309,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Feb 15 23:11:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -385,14 +385,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "04:50",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "08:24",
+      "eta_rueb_kiel": "08:23",
       "eta_rueb": "08:10",
       "ship": "LAURIERBORG",
       "q_gruppe": "5",
