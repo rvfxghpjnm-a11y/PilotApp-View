@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T04:38:45",
+  "generated_at": "2026-02-17T04:40:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 17 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 17 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -64,8 +64,8 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 17 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -142,14 +142,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 17 01:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:50",
+        "eta_schleuse": "06:49",
         "eta_rueb": "03:19",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "03:19",
-      "eta_schleuse": "06:50",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "06:49",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:05"
     },
     {
@@ -251,8 +251,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 17 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -267,8 +267,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 17 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -283,8 +283,8 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 17 03:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -345,14 +345,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 17 01:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:50",
+        "eta_schleuse": "06:49",
         "eta_rueb": "03:19",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "03:19",
-      "eta_schleuse": "06:50",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "06:49",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:05"
     },
     {
@@ -422,7 +422,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:45",
+      "eta_rueb_kiel": "06:43",
       "eta_rueb": "06:40",
       "ship": "ALREK",
       "q_gruppe": "4",
@@ -436,7 +436,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "09:16",
+      "eta_rueb_kiel": "09:13",
       "eta_rueb": "08:50",
       "ship": "KARILIIS",
       "q_gruppe": "4",
