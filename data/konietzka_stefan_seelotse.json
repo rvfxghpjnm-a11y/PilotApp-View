@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T22:48:45",
+  "generated_at": "2026-02-17T22:50:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,16 +35,11 @@
       "fahrzeug": "PEAK BERGEN",
       "route": "HOS → KLT",
       "time": "Tue Feb 17 22:01:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:40",
-        "eta_rueb": "18:25",
-        "delta_rueb_schleuse": "04:15",
-        "delta_start_rueb": "05:31"
-      },
-      "eta_rueb": "18:25",
-      "eta_schleuse": "22:40",
-      "delta_rueb_schleuse": "04:15",
-      "delta_start_rueb": "05:31"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -57,14 +52,14 @@
       "route": "HOS → KLT",
       "time": "Tue Feb 17 21:57:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:52",
+        "eta_schleuse": "22:53",
         "eta_rueb": "14:10",
-        "delta_rueb_schleuse": "08:42",
+        "delta_rueb_schleuse": "08:43",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "14:10",
-      "eta_schleuse": "22:52",
-      "delta_rueb_schleuse": "08:42",
+      "eta_schleuse": "22:53",
+      "delta_rueb_schleuse": "08:43",
       "delta_start_rueb": "04:10"
     },
     {
@@ -275,8 +270,8 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 17 15:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -336,16 +331,11 @@
       "fahrzeug": "PEAK BERGEN",
       "route": "RÜB → HOS",
       "time": "Tue Feb 17 12:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:40",
-        "eta_rueb": "18:25",
-        "delta_rueb_schleuse": "04:15",
-        "delta_start_rueb": "05:31"
-      },
-      "eta_rueb": "18:25",
-      "eta_schleuse": "22:40",
-      "delta_rueb_schleuse": "04:15",
-      "delta_start_rueb": "05:31"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -374,14 +364,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 17 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:52",
+        "eta_schleuse": "22:53",
         "eta_rueb": "14:10",
-        "delta_rueb_schleuse": "08:42",
+        "delta_rueb_schleuse": "08:43",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "14:10",
-      "eta_schleuse": "22:52",
-      "delta_rueb_schleuse": "08:42",
+      "eta_schleuse": "22:53",
+      "delta_rueb_schleuse": "08:43",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -530,8 +520,8 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 17 15:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -591,16 +581,11 @@
       "fahrzeug": "PEAK BERGEN",
       "route": "RÜB → HOS",
       "time": "Tue Feb 17 12:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:40",
-        "eta_rueb": "18:25",
-        "delta_rueb_schleuse": "04:15",
-        "delta_start_rueb": "05:31"
-      },
-      "eta_rueb": "18:25",
-      "eta_schleuse": "22:40",
-      "delta_rueb_schleuse": "04:15",
-      "delta_start_rueb": "05:31"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -629,38 +614,31 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 17 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:52",
+        "eta_schleuse": "22:53",
         "eta_rueb": "14:10",
-        "delta_rueb_schleuse": "08:42",
+        "delta_rueb_schleuse": "08:43",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "14:10",
-      "eta_schleuse": "22:52",
-      "delta_rueb_schleuse": "08:42",
+      "eta_schleuse": "22:53",
+      "delta_rueb_schleuse": "08:43",
       "delta_start_rueb": "04:10"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:31",
-      "eta_rueb": "02:50",
-      "ship": "INGA ESSBERGER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "03:28",
+      "eta_rueb_kiel": "03:27",
       "eta_rueb": "03:10",
       "ship": "STEN FRIGG",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "22:45",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
+      "eta_rueb_kiel": "03:31",
+      "eta_rueb": "03:13",
+      "ship": "INGA ESSBERGER",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
