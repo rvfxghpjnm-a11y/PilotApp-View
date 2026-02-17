@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T13:28:55",
+  "generated_at": "2026-02-17T13:30:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -105,14 +105,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 17 09:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:45",
+        "eta_schleuse": "19:44",
         "eta_rueb": "15:17",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "15:17",
-      "eta_schleuse": "19:45",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "19:44",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:07"
     },
     {
@@ -445,14 +445,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 17 09:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:45",
+        "eta_schleuse": "19:44",
         "eta_rueb": "15:17",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "15:17",
-      "eta_schleuse": "19:45",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "19:44",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:07"
     },
     {
@@ -657,6 +657,13 @@
       "route": "GAK → HOS"
     },
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:00",
+      "ship": "RIKKE B",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "16:14",
       "eta_rueb": "16:03",
       "ship": "EIDER",
@@ -664,15 +671,8 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "16:10",
-      "ship": "RIKKE B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "16:20",
-      "eta_rueb": "16:34",
+      "eta_rueb": "16:10",
       "ship": "AZURYTH",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
