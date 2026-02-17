@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T04:42:44",
+  "generated_at": "2026-02-17T04:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,14 +64,19 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARABELLA",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 17 03:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:01",
+        "eta_rueb": "05:11",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:21"
+      },
+      "eta_rueb": "05:11",
+      "eta_schleuse": "09:01",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -283,14 +288,19 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARABELLA",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 17 03:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:01",
+        "eta_rueb": "05:11",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:21"
+      },
+      "eta_rueb": "05:11",
+      "eta_schleuse": "09:01",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -400,13 +410,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:11",
-      "eta_rueb": "05:10",
-      "ship": "ARABELLA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "05:14",
       "eta_rueb": "05:15",
