@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T22:24:56",
+  "generated_at": "2026-02-18T22:26:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Martin Zimmermann",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "GERDA",
+      "route": "HOS → KLT",
       "time": "Wed Feb 18 20:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:04",
+        "eta_rueb": "19:38",
+        "delta_rueb_schleuse": "03:26",
+        "delta_start_rueb": "05:44"
+      },
+      "eta_rueb": "19:38",
+      "eta_schleuse": "23:04",
+      "delta_rueb_schleuse": "03:26",
+      "delta_start_rueb": "05:44"
     },
     {
       "is_target": false,
@@ -85,14 +90,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ALDEBARAN J",
+      "route": "HOS → KLT",
       "time": "Wed Feb 18 20:04:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:52",
+        "eta_rueb": "19:26",
+        "delta_rueb_schleuse": "03:26",
+        "delta_start_rueb": "05:36"
+      },
+      "eta_rueb": "19:26",
+      "eta_schleuse": "22:52",
+      "delta_rueb_schleuse": "03:26",
+      "delta_start_rueb": "05:36"
     },
     {
       "is_target": false,
