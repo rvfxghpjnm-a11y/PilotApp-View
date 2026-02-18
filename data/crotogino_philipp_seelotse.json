@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T10:34:46",
+  "generated_at": "2026-02-18T10:36:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -9,12 +9,12 @@
     "from": "RÜB",
     "to": "UTG",
     "time": "Wed Feb 18 03:05:00 CET 2026",
-    "nr": 19
+    "nr": 18
   },
   "gruppen": {
     "kanal": 15,
     "wach": 1,
-    "see": 4
+    "see": 3
   },
   "times": {
     "eta_schleuse": "13:09",
@@ -88,14 +88,14 @@
       "time": "Wed Feb 18 08:50:00 CET 2026",
       "times": {
         "eta_schleuse": "18:37",
-        "eta_rueb": "13:45",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "13:46",
+        "delta_rueb_schleuse": "04:51",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "13:45",
+      "eta_rueb": "13:46",
       "eta_schleuse": "18:37",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "04:51",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -109,14 +109,14 @@
       "time": "Wed Feb 18 08:45:00 CET 2026",
       "times": {
         "eta_schleuse": "18:34",
-        "eta_rueb": "13:41",
-        "delta_rueb_schleuse": "04:53",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "13:42",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "13:41",
+      "eta_rueb": "13:42",
       "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:53",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -315,30 +315,19 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BIRTHE ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 18 04:38:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Köhler",
-      "name": "Olaf Köhler",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "SCOT EXPLORER",
-      "route": "KLT → HOS",
-      "time": "Wed Feb 18 04:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:11",
+        "eta_rueb": "11:01",
+        "delta_rueb_schleuse": "04:10",
+        "delta_start_rueb": "05:29"
+      },
+      "eta_rueb": "11:01",
+      "eta_schleuse": "15:11",
+      "delta_rueb_schleuse": "04:10",
+      "delta_start_rueb": "05:29"
     },
     {
       "is_target": false,
@@ -346,7 +335,7 @@
       "nachname": "Hahn",
       "name": "Peter Hahn",
       "aufgabe": "Wachgänger",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Wed Feb 18 04:00:00 CET 2026",
@@ -362,7 +351,7 @@
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "SPANACO SIMPLICITY",
       "route": "RÜB → UTG",
       "time": "Wed Feb 18 03:05:00 CET 2026",
@@ -383,7 +372,7 @@
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
       "aufgabe": "Seebört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Wed Feb 18 03:00:00 CET 2026",
@@ -460,14 +449,14 @@
       "time": "Wed Feb 18 08:50:00 CET 2026",
       "times": {
         "eta_schleuse": "18:37",
-        "eta_rueb": "13:45",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "13:46",
+        "delta_rueb_schleuse": "04:51",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "13:45",
+      "eta_rueb": "13:46",
       "eta_schleuse": "18:37",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "04:51",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -481,14 +470,14 @@
       "time": "Wed Feb 18 08:45:00 CET 2026",
       "times": {
         "eta_schleuse": "18:34",
-        "eta_rueb": "13:41",
-        "delta_rueb_schleuse": "04:53",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "13:42",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "13:41",
+      "eta_rueb": "13:42",
       "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:53",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -655,14 +644,19 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BIRTHE ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 18 04:38:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:11",
+        "eta_rueb": "11:01",
+        "delta_rueb_schleuse": "04:10",
+        "delta_start_rueb": "05:29"
+      },
+      "eta_rueb": "11:01",
+      "eta_schleuse": "15:11",
+      "delta_rueb_schleuse": "04:10",
+      "delta_start_rueb": "05:29"
     },
     {
       "is_target": true,
@@ -670,7 +664,7 @@
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "SPANACO SIMPLICITY",
       "route": "RÜB → UTG",
       "time": "Wed Feb 18 03:05:00 CET 2026",
@@ -688,13 +682,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "11:01",
-      "eta_rueb": "11:00",
-      "ship": "BIRTHE ESSBERGER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "11:07",
       "eta_rueb": "11:03",
