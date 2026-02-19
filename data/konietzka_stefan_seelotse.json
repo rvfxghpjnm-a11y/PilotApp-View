@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T18:22:45",
+  "generated_at": "2026-02-19T18:24:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,8 +69,8 @@
       "name": "Peter Vogel",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "PRIMA DONNA",
-      "route": "HOR → UTG",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Feb 19 16:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -184,15 +184,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Feb 19 14:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:28",
-        "eta_rueb": "19:01",
+        "eta_schleuse": "23:27",
+        "eta_rueb": "19:00",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "19:01",
-      "eta_schleuse": "23:28",
+      "eta_rueb": "19:00",
+      "eta_schleuse": "23:27",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -471,15 +471,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Feb 19 14:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:28",
-        "eta_rueb": "19:01",
+        "eta_schleuse": "23:27",
+        "eta_rueb": "19:00",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "19:01",
-      "eta_schleuse": "23:28",
+      "eta_rueb": "19:00",
+      "eta_schleuse": "23:27",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -576,7 +576,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:14",
+      "eta_rueb_kiel": "21:13",
       "eta_rueb": "21:55",
       "ship": "KRISLIN",
       "q_gruppe": "4",
