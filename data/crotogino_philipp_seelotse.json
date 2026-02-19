@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T14:50:54",
+  "generated_at": "2026-02-19T14:52:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -178,11 +178,16 @@
       "fahrzeug": "DOLFIJN",
       "route": "KRH → RÜB",
       "time": "Thu Feb 19 08:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:53",
+        "eta_rueb": "15:26",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:34"
+      },
+      "eta_rueb": "15:26",
+      "eta_schleuse": "19:53",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:34"
     },
     {
       "is_target": false,
@@ -344,11 +349,16 @@
       "fahrzeug": "DOLFIJN",
       "route": "KRH → RÜB",
       "time": "Thu Feb 19 08:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:53",
+        "eta_rueb": "15:26",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:34"
+      },
+      "eta_rueb": "15:26",
+      "eta_schleuse": "19:53",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:34"
     },
     {
       "is_target": false,
