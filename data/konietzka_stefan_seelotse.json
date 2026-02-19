@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T12:40:46",
+  "generated_at": "2026-02-19T12:42:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 7,
     "wach": 2,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -218,39 +218,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Stephan",
-      "nachname": "Wulff",
-      "name": "Stephan Wulff",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "COOLWATER",
-      "route": "HOS → UTG",
-      "time": "Thu Feb 19 05:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Franck",
       "nachname": "Escher",
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "PATRIA",
       "route": "RÜB → HOS",
       "time": "Thu Feb 19 04:19:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:01",
+        "eta_schleuse": "14:59",
         "eta_rueb": "10:36",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "10:36",
-      "eta_schleuse": "15:01",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "14:59",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:16"
     },
     {
@@ -259,7 +243,7 @@
       "nachname": "Stürenburg",
       "name": "Jan Stürenburg",
       "aufgabe": "Wachgänger",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Thu Feb 19 04:00:00 CET 2026",
@@ -388,19 +372,19 @@
       "nachname": "Escher",
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "PATRIA",
       "route": "RÜB → HOS",
       "time": "Thu Feb 19 04:19:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:01",
+        "eta_schleuse": "14:59",
         "eta_rueb": "10:36",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "10:36",
-      "eta_schleuse": "15:01",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "14:59",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:16"
     }
   ],
