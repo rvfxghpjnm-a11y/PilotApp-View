@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T14:16:47",
+  "generated_at": "2026-02-19T14:18:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,11 +35,16 @@
       "fahrzeug": "COOLWATER",
       "route": "UTG → RÜB",
       "time": "Thu Feb 19 13:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "15:52",
+        "delta_rueb_schleuse": "2285690:54",
+        "delta_start_rueb": "03:38"
+      },
+      "eta_rueb": "15:52",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285690:54",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -281,11 +286,16 @@
       "fahrzeug": "COOLWATER",
       "route": "UTG → RÜB",
       "time": "Thu Feb 19 13:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "15:52",
+        "delta_rueb_schleuse": "2285690:54",
+        "delta_start_rueb": "03:38"
+      },
+      "eta_rueb": "15:52",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285690:54",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
