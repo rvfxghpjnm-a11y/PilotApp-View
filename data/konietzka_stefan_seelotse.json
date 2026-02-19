@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T05:24:43",
+  "generated_at": "2026-02-19T05:26:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -114,9 +114,14 @@
       "fahrzeug": "NEUENFELDE",
       "route": "HOS → RÜB",
       "time": "Thu Feb 19 04:19:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -364,9 +369,14 @@
       "fahrzeug": "NEUENFELDE",
       "route": "HOS → RÜB",
       "time": "Thu Feb 19 04:19:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
