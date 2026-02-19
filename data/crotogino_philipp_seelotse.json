@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T16:52:54",
+  "generated_at": "2026-02-19T16:54:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Feb 19 15:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,14 +48,19 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "LOVISA",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 19 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:59",
+        "eta_rueb": "17:09",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "05:41"
+      },
+      "eta_rueb": "17:09",
+      "eta_schleuse": "20:59",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "05:41"
     },
     {
       "is_target": false,
@@ -64,14 +69,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "NOORDSTROOM",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 19 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:56",
+        "eta_rueb": "17:22",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "17:22",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -283,8 +293,8 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Feb 19 15:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -299,14 +309,19 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "LOVISA",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 19 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:59",
+        "eta_rueb": "17:09",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "05:41"
+      },
+      "eta_rueb": "17:09",
+      "eta_schleuse": "20:59",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "05:41"
     },
     {
       "is_target": false,
@@ -315,14 +330,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "NOORDSTROOM",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 19 15:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:56",
+        "eta_rueb": "17:22",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "17:22",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -432,20 +452,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:09",
-      "eta_rueb": "16:50",
-      "ship": "LOVISA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "17:22",
-      "eta_rueb": "17:45",
-      "ship": "NOORDSTROOM",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "18:01",
       "eta_rueb": "17:47",
