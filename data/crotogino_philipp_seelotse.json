@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T00:32:51",
+  "generated_at": "2026-02-21T00:34:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 0,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -72,10 +72,10 @@
       "vorname": "Tim",
       "nachname": "Woitanowski",
       "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 4,
       "fahrzeug": "NORDIC SOLA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Feb 20 20:05:00 CET 2026",
       "times": {
         "eta_schleuse": "01:29",
@@ -316,27 +316,6 @@
       "eta_schleuse": "07:01",
       "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "06:46"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 4,
-      "fahrzeug": "NORDIC SOLA",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 20 20:05:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:29",
-        "eta_rueb": "22:04",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "22:04",
-      "eta_schleuse": "01:29",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
