@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T16:22:54",
+  "generated_at": "2026-02-20T16:24:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -80,14 +80,19 @@
       "name": "Crischan Czurda",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORACLIFF",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 11:01:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:24",
+        "eta_rueb": "16:51",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "16:51",
+      "eta_schleuse": "20:24",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -133,8 +138,8 @@
       "name": "Merten Wachs",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Feb 20 09:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -149,8 +154,8 @@
       "name": "Lars Doering",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "FRASERBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Feb 20 09:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -220,14 +225,19 @@
       "name": "Crischan Czurda",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORACLIFF",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 11:01:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:24",
+        "eta_rueb": "16:51",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "16:51",
+      "eta_schleuse": "20:24",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -275,13 +285,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:51",
-      "eta_rueb": "16:50",
-      "ship": "ORACLIFF",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "16:53",
       "eta_rueb": "16:55",
       "ship": "KATARIINA",
@@ -296,7 +299,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:08",
+      "eta_rueb_kiel": "19:06",
       "eta_rueb": "18:55",
       "ship": "KESSU",
       "q_gruppe": "4",
