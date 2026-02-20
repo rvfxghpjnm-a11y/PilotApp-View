@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T23:40:52",
+  "generated_at": "2026-02-20T23:42:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Feb 20 22:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -53,14 +53,14 @@
       "time": "Fri Feb 20 21:40:00 CET 2026",
       "times": {
         "eta_schleuse": "07:02",
-        "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "04:33",
-        "delta_start_rueb": "06:51"
+        "eta_rueb": "02:28",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "06:50"
       },
-      "eta_rueb": "02:29",
+      "eta_rueb": "02:28",
       "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "04:33",
-      "delta_start_rueb": "06:51"
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "06:50"
     },
     {
       "is_target": false,
@@ -222,14 +222,19 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STEN FJELL",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 18:27:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:40",
+        "eta_rueb": "00:06",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:46"
+      },
+      "eta_rueb": "00:06",
+      "eta_schleuse": "03:40",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:46"
     },
     {
       "is_target": false,
@@ -272,8 +277,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Feb 20 22:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -293,14 +298,14 @@
       "time": "Fri Feb 20 21:40:00 CET 2026",
       "times": {
         "eta_schleuse": "07:02",
-        "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "04:33",
-        "delta_start_rueb": "06:51"
+        "eta_rueb": "02:28",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "06:50"
       },
-      "eta_rueb": "02:29",
+      "eta_rueb": "02:28",
       "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "04:33",
-      "delta_start_rueb": "06:51"
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "06:50"
     },
     {
       "is_target": false,
@@ -430,25 +435,23 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STEN FJELL",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 18:27:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:40",
+        "eta_rueb": "00:06",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:46"
+      },
+      "eta_rueb": "00:06",
+      "eta_schleuse": "03:40",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:46"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:06",
-      "eta_rueb": "00:10",
-      "ship": "STEN FJELL",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "00:12",
       "eta_rueb": "00:15",
