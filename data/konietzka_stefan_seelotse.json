@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T23:42:44",
+  "generated_at": "2026-02-20T23:44:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "X-PRESS ELBE",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 22:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:45",
+        "eta_rueb": "00:12",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "00:12",
+      "eta_schleuse": "03:45",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -277,14 +282,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "X-PRESS ELBE",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 22:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:45",
+        "eta_rueb": "00:12",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "00:12",
+      "eta_schleuse": "03:45",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -452,13 +462,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:12",
-      "eta_rueb": "00:15",
-      "ship": "X-PRESS ELBE",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "00:30",
       "eta_rueb": "00:30",
