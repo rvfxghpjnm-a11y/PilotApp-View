@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T01:02:54",
+  "generated_at": "2026-02-20T01:04:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 0,
-    "see": 2
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -53,14 +53,14 @@
       "time": "Thu Feb 19 23:21:00 CET 2026",
       "times": {
         "eta_schleuse": "09:18",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "04:36",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
+      "eta_rueb": "04:36",
       "eta_schleuse": "09:18",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -141,10 +141,10 @@
       "vorname": "Malte",
       "nachname": "Krause",
       "name": "Malte Krause",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "KRISLIN",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Feb 19 19:50:00 CET 2026",
       "times": {
         "eta_schleuse": "01:13",
@@ -175,13 +175,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Sascha",
-      "nachname": "Külzer",
-      "name": "Sascha Külzer",
-      "aufgabe": "Kanalbört",
+      "vorname": "Mark",
+      "nachname": "Wald",
+      "name": "Mark Wald",
+      "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "WL-SEE",
+      "route": "HOS → HOS",
       "time": "Thu Feb 19 19:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -191,13 +191,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Mark",
-      "nachname": "Wald",
-      "name": "Mark Wald",
-      "aufgabe": "Seebört",
+      "vorname": "Sascha",
+      "nachname": "Külzer",
+      "name": "Sascha Külzer",
+      "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 19 19:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -251,14 +251,14 @@
       "time": "Thu Feb 19 23:21:00 CET 2026",
       "times": {
         "eta_schleuse": "09:18",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "04:36",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
+      "eta_rueb": "04:36",
       "eta_schleuse": "09:18",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -336,27 +336,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Malte",
-      "nachname": "Krause",
-      "name": "Malte Krause",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "KRISLIN",
-      "route": "RÜB → HOS",
-      "time": "Thu Feb 19 19:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:13",
-        "eta_rueb": "21:02",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "21:02",
-      "eta_schleuse": "01:13",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:12"
-    },
-    {
-      "is_target": false,
       "vorname": "Johannes",
       "nachname": "Biedermann",
       "name": "Johannes Biedermann",
@@ -377,7 +356,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 11,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Thu Feb 19 19:00:00 CET 2026",
