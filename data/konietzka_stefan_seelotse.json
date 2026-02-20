@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T17:26:48",
+  "generated_at": "2026-02-20T17:28:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "PRIMA VIKING",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Feb 20 15:37:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -152,14 +152,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 20 07:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:58",
+        "eta_schleuse": "18:57",
         "eta_rueb": "14:35",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:45"
       },
       "eta_rueb": "14:35",
-      "eta_schleuse": "18:58",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "18:57",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:45"
     }
   ],
@@ -259,14 +259,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 20 07:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:58",
+        "eta_schleuse": "18:57",
         "eta_rueb": "14:35",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:45"
       },
       "eta_rueb": "14:35",
-      "eta_schleuse": "18:58",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "18:57",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:45"
     }
   ],
@@ -308,7 +308,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:41",
+      "eta_rueb_kiel": "21:40",
       "eta_rueb": "21:23",
       "ship": "RAGNA",
       "q_gruppe": "4",
