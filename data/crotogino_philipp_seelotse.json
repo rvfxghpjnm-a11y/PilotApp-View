@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T16:36:55",
+  "generated_at": "2026-02-20T16:38:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JUDITH",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 11:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:33",
+        "eta_rueb": "17:00",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:32"
+      },
+      "eta_rueb": "17:00",
+      "eta_schleuse": "20:33",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -198,14 +203,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JUDITH",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 11:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:33",
+        "eta_rueb": "17:00",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:32"
+      },
+      "eta_rueb": "17:00",
+      "eta_schleuse": "20:33",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -294,13 +304,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:00",
-      "eta_rueb": "17:00",
-      "ship": "JUDITH",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "19:06",
       "eta_rueb": "18:55",
