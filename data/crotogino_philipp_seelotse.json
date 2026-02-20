@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T18:42:55",
+  "generated_at": "2026-02-20T18:44:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,14 +69,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKALAR",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 17:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:44",
+        "eta_rueb": "19:11",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:29"
+      },
+      "eta_rueb": "19:11",
+      "eta_schleuse": "22:44",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -195,14 +200,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 20 11:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:17",
+        "eta_schleuse": "20:16",
         "eta_rueb": "16:52",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:52",
-      "eta_schleuse": "20:17",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "20:16",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:18"
     },
     {
@@ -309,14 +314,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKALAR",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 17:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:44",
+        "eta_rueb": "19:11",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:29"
+      },
+      "eta_rueb": "19:11",
+      "eta_schleuse": "22:44",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -387,14 +397,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 20 11:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:17",
+        "eta_schleuse": "20:16",
         "eta_rueb": "16:52",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:52",
-      "eta_schleuse": "20:17",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "20:16",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:18"
     },
     {
@@ -464,14 +474,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:11",
-      "eta_rueb": "19:05",
-      "ship": "SKALAR",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "19:15",
+      "eta_rueb_kiel": "19:13",
       "eta_rueb": "19:10",
       "ship": "ANNETTE ESSBERGER",
       "q_gruppe": "3",
