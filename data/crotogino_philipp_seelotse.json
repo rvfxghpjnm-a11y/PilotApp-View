@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T20:56:53",
+  "generated_at": "2026-02-20T20:58:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MV AGUIMES",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 20:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -69,14 +69,14 @@
       "time": "Fri Feb 20 20:05:00 CET 2026",
       "times": {
         "eta_schleuse": "00:57",
-        "eta_rueb": "21:23",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:15"
+        "eta_rueb": "21:22",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:14"
       },
-      "eta_rueb": "21:23",
+      "eta_rueb": "21:22",
       "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:15"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -180,8 +180,8 @@
       "name": "Stefan Domeier",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "JUDITH",
+      "route": "HOS → KLT",
       "time": "Fri Feb 20 18:24:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -357,8 +357,8 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MV AGUIMES",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 20:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -378,14 +378,14 @@
       "time": "Fri Feb 20 20:05:00 CET 2026",
       "times": {
         "eta_schleuse": "00:57",
-        "eta_rueb": "21:23",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:15"
+        "eta_rueb": "21:22",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:14"
       },
-      "eta_rueb": "21:23",
+      "eta_rueb": "21:22",
       "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:15"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -541,13 +541,6 @@
       "eta_rueb_kiel": "21:32",
       "eta_rueb": "21:23",
       "ship": "RAGNA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "21:25",
-      "ship": "MV AGUIMES",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
