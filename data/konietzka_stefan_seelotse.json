@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T02:24:47",
+  "generated_at": "2026-02-21T02:26:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,19 +101,14 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "MED NORDIC",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Feb 20 21:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:58",
-        "eta_rueb": "02:23",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "06:45"
-      },
-      "eta_rueb": "02:23",
-      "eta_schleuse": "06:58",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "06:45"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -170,8 +165,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Feb 20 20:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -186,8 +181,8 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Feb 20 19:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -264,14 +259,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 20 18:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:31",
+        "eta_schleuse": "03:30",
         "eta_rueb": "00:06",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:46"
       },
       "eta_rueb": "00:06",
-      "eta_schleuse": "03:31",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "03:30",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:46"
     }
   ],
@@ -368,19 +363,14 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "MED NORDIC",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Feb 20 21:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:58",
-        "eta_rueb": "02:23",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "06:45"
-      },
-      "eta_rueb": "02:23",
-      "eta_schleuse": "06:58",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "06:45"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -435,14 +425,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 20 18:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:31",
+        "eta_schleuse": "03:30",
         "eta_rueb": "00:06",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:46"
       },
       "eta_rueb": "00:06",
-      "eta_schleuse": "03:31",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "03:30",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:46"
     }
   ],
@@ -477,7 +467,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:27",
+      "eta_rueb_kiel": "05:26",
       "eta_rueb": "05:55",
       "ship": "STOLT OSPREY",
       "q_gruppe": "4",
@@ -508,6 +498,13 @@
       "eta_rueb_kiel": "06:23",
       "eta_rueb": "06:30",
       "ship": "RIX MISTRAL",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "06:52",
+      "eta_rueb": "07:00",
+      "ship": "UNDEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
