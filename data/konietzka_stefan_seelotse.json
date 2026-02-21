@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T06:04:44",
+  "generated_at": "2026-02-21T06:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -391,8 +391,8 @@
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 23:36:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -741,8 +741,8 @@
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Feb 20 23:36:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -775,13 +775,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "06:10",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "06:42",
       "eta_rueb": "06:35",
       "ship": "UNDEN",
@@ -796,7 +789,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:33",
+      "eta_rueb_kiel": "07:32",
       "eta_rueb": "07:25",
       "ship": "LYRIKA",
       "q_gruppe": "5",
