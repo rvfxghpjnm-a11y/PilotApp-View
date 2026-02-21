@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T08:08:53",
+  "generated_at": "2026-02-21T08:10:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 1,
-    "see": 3
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -190,44 +190,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "name": "Stefan Bruhn",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "STOLT OSPREY",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 21 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:13",
-        "eta_rueb": "05:16",
-        "delta_rueb_schleuse": "03:57",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "05:16",
-      "eta_schleuse": "09:13",
-      "delta_rueb_schleuse": "03:57",
-      "delta_start_rueb": "04:14"
-    },
-    {
-      "is_target": false,
       "vorname": "Lutz",
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "ELBINSEL",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:29",
+        "eta_schleuse": "09:28",
         "eta_rueb": "05:46",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "05:46",
-      "eta_schleuse": "09:29",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:28",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:48"
     },
     {
@@ -236,7 +215,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "LINDEBORG",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -257,7 +236,7 @@
       "nachname": "Petersen",
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "MARJATTA",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -271,6 +250,27 @@
       "eta_schleuse": "09:24",
       "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "04:31"
+    },
+    {
+      "is_target": false,
+      "vorname": "Stefan",
+      "nachname": "Bruhn",
+      "name": "Stefan Bruhn",
+      "aufgabe": "Seebört",
+      "nr": 13,
+      "fahrzeug": "STOLT OSPREY",
+      "route": "HOS → KLT",
+      "time": "Sat Feb 21 04:00:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:13",
+        "eta_rueb": "05:16",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "05:16",
+      "eta_schleuse": "09:13",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -368,14 +368,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 01:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:09",
+        "eta_schleuse": "10:08",
         "eta_rueb": "06:41",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "06:41",
-      "eta_schleuse": "10:09",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "10:08",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:15"
     }
   ],
@@ -561,44 +561,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "name": "Stefan Bruhn",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "STOLT OSPREY",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 21 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:13",
-        "eta_rueb": "05:16",
-        "delta_rueb_schleuse": "03:57",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "05:16",
-      "eta_schleuse": "09:13",
-      "delta_rueb_schleuse": "03:57",
-      "delta_start_rueb": "04:14"
-    },
-    {
-      "is_target": false,
       "vorname": "Lutz",
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "ELBINSEL",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:29",
+        "eta_schleuse": "09:28",
         "eta_rueb": "05:46",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "05:46",
-      "eta_schleuse": "09:29",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:28",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:48"
     },
     {
@@ -607,7 +586,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "LINDEBORG",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -628,7 +607,7 @@
       "nachname": "Petersen",
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "MARJATTA",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -675,14 +654,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 01:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:09",
+        "eta_schleuse": "10:08",
         "eta_rueb": "06:41",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "06:41",
-      "eta_schleuse": "10:09",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "10:08",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:15"
     }
   ],
@@ -703,7 +682,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:47",
+      "eta_rueb_kiel": "10:46",
       "eta_rueb": "10:40",
       "ship": "RIX TERRA",
       "q_gruppe": "5",
