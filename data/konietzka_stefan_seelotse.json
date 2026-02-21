@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T08:12:44",
+  "generated_at": "2026-02-21T08:14:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 4
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -136,14 +136,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 05:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:36",
+        "eta_schleuse": "09:35",
         "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "06:12",
-      "eta_schleuse": "09:36",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "09:35",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:16"
     },
     {
@@ -169,32 +169,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "SONILAND",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 21 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:17",
-        "eta_rueb": "05:27",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "05:27",
-      "eta_schleuse": "09:17",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:15"
-    },
-    {
-      "is_target": false,
       "vorname": "Lutz",
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "ELBINSEL",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -215,7 +194,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "LINDEBORG",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -236,7 +215,7 @@
       "nachname": "Petersen",
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "MARJATTA",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -250,6 +229,27 @@
       "eta_schleuse": "09:24",
       "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "04:31"
+    },
+    {
+      "is_target": false,
+      "vorname": "Daniel",
+      "nachname": "Steinbach",
+      "name": "Daniel Steinbach",
+      "aufgabe": "Seebört",
+      "nr": 12,
+      "fahrzeug": "SONILAND",
+      "route": "HOS → KLT",
+      "time": "Sat Feb 21 04:00:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:17",
+        "eta_rueb": "05:27",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:15"
+      },
+      "eta_rueb": "05:27",
+      "eta_schleuse": "09:17",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -507,14 +507,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 05:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:36",
+        "eta_schleuse": "09:35",
         "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "06:12",
-      "eta_schleuse": "09:36",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "09:35",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:16"
     },
     {
@@ -540,32 +540,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "SONILAND",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 21 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:17",
-        "eta_rueb": "05:27",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "05:27",
-      "eta_schleuse": "09:17",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:15"
-    },
-    {
-      "is_target": false,
       "vorname": "Lutz",
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "ELBINSEL",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -586,7 +565,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "LINDEBORG",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
@@ -607,7 +586,7 @@
       "nachname": "Petersen",
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "MARJATTA",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 04:00:00 CET 2026",
