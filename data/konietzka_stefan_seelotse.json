@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T16:48:37",
+  "generated_at": "2026-02-21T16:50:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -16,7 +16,12 @@
     "wach": 1,
     "see": 7
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "00:40",
+    "eta_rueb": "20:13",
+    "delta_rueb_schleuse": "04:27",
+    "delta_start_rueb": "03:23"
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -97,11 +102,16 @@
       "fahrzeug": "LADY HANNAH",
       "route": "HOS → RÜB",
       "time": "Sat Feb 21 15:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:44",
+        "eta_rueb": "20:16",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:26"
+      },
+      "eta_rueb": "20:16",
+      "eta_schleuse": "00:44",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -129,11 +139,16 @@
       "fahrzeug": "WILSON FLEX V",
       "route": "HOS → RÜB",
       "time": "Sat Feb 21 15:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:40",
+        "eta_rueb": "20:13",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:23"
+      },
+      "eta_rueb": "20:13",
+      "eta_schleuse": "00:40",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:23"
     },
     {
       "is_target": false,
@@ -412,11 +427,16 @@
       "fahrzeug": "LADY HANNAH",
       "route": "HOS → RÜB",
       "time": "Sat Feb 21 15:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:44",
+        "eta_rueb": "20:16",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:26"
+      },
+      "eta_rueb": "20:16",
+      "eta_schleuse": "00:44",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": true,
@@ -428,11 +448,16 @@
       "fahrzeug": "WILSON FLEX V",
       "route": "HOS → RÜB",
       "time": "Sat Feb 21 15:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:40",
+        "eta_rueb": "20:13",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:23"
+      },
+      "eta_rueb": "20:13",
+      "eta_schleuse": "00:40",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:23"
     },
     {
       "is_target": false,
