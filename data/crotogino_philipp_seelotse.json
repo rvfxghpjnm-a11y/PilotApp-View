@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T15:00:53",
+  "generated_at": "2026-02-21T15:02:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,8 +69,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "LADY HANNAH",
+      "route": "KLT → HOS",
       "time": "Sat Feb 21 12:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -226,14 +226,14 @@
       "route": "HOS → KLT",
       "time": "Sat Feb 21 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:13",
+        "eta_schleuse": "15:12",
         "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "11:49",
-      "eta_schleuse": "15:13",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "15:12",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:13"
     },
     {
@@ -447,7 +447,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:13",
+      "eta_rueb_kiel": "16:12",
       "eta_rueb": "16:05",
       "ship": "LUNAMAR",
       "q_gruppe": "5",
