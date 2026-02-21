@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-21T06:42:51",
+  "generated_at": "2026-02-21T06:44:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 1,
     "see": 3
   },
@@ -32,14 +32,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "DROGDENBANK",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 21 05:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:43",
+        "eta_rueb": "07:10",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "07:10",
+      "eta_schleuse": "10:43",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -370,39 +375,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Julian",
-      "nachname": "Plaisant",
-      "name": "Julian Plaisant",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 20 23:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Heiko",
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "FWN ARCTIC",
       "route": "RÜB → UTG",
       "time": "Fri Feb 20 21:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:44",
+        "eta_schleuse": "06:45",
         "eta_rueb": "03:30",
-        "delta_rueb_schleuse": "03:14",
+        "delta_rueb_schleuse": "03:15",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "03:30",
-      "eta_schleuse": "06:44",
-      "delta_rueb_schleuse": "03:14",
+      "eta_schleuse": "06:45",
+      "delta_rueb_schleuse": "03:15",
       "delta_start_rueb": "04:16"
     }
   ],
@@ -430,14 +419,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "DROGDENBANK",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 21 05:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:43",
+        "eta_rueb": "07:10",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "07:10",
+      "eta_schleuse": "10:43",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -704,51 +698,28 @@
     },
     {
       "is_target": false,
-      "vorname": "Julian",
-      "nachname": "Plaisant",
-      "name": "Julian Plaisant",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
-      "time": "Fri Feb 20 23:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Heiko",
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "FWN ARCTIC",
       "route": "RÜB → UTG",
       "time": "Fri Feb 20 21:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:44",
+        "eta_schleuse": "06:45",
         "eta_rueb": "03:30",
-        "delta_rueb_schleuse": "03:14",
+        "delta_rueb_schleuse": "03:15",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "03:30",
-      "eta_schleuse": "06:44",
-      "delta_rueb_schleuse": "03:14",
+      "eta_schleuse": "06:45",
+      "delta_rueb_schleuse": "03:15",
       "delta_start_rueb": "04:16"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "07:10",
-      "eta_rueb": "07:05",
-      "ship": "DROGDENBANK",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "07:29",
       "eta_rueb": "07:25",
@@ -778,7 +749,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:09",
+      "eta_rueb_kiel": "10:08",
       "eta_rueb": "10:00",
       "ship": "DANIEL DEYMANN",
       "q_gruppe": "5",
