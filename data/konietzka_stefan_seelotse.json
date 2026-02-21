@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T17:54:35",
+  "generated_at": "2026-02-21T17:56:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,7 +12,7 @@
     "nr": 8
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 5
   },
@@ -130,14 +130,14 @@
       "time": "Sat Feb 21 15:55:00 CET 2026",
       "times": {
         "eta_schleuse": "00:39",
-        "eta_rueb": "20:12",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:22"
+        "eta_rueb": "20:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:21"
       },
-      "eta_rueb": "20:12",
+      "eta_rueb": "20:11",
       "eta_schleuse": "00:39",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:22"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -252,27 +252,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Stephan",
-      "nachname": "Wulff",
-      "name": "Stephan Wulff",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sat Feb 21 12:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Maximilian",
       "nachname": "Türk",
       "name": "Maximilian Türk",
       "aufgabe": "Wachgänger",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sat Feb 21 12:00:00 CET 2026",
@@ -288,7 +272,7 @@
       "nachname": "Munz",
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "JULIA-B",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 11:57:00 CET 2026",
@@ -304,7 +288,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sat Feb 21 11:00:00 CET 2026",
@@ -320,7 +304,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "LUNAMAR",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 10:42:00 CET 2026",
@@ -428,14 +412,14 @@
       "time": "Sat Feb 21 15:55:00 CET 2026",
       "times": {
         "eta_schleuse": "00:39",
-        "eta_rueb": "20:12",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:22"
+        "eta_rueb": "20:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:21"
       },
-      "eta_rueb": "20:12",
+      "eta_rueb": "20:11",
       "eta_schleuse": "00:39",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:22"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": true,
@@ -502,27 +486,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Stephan",
-      "nachname": "Wulff",
-      "name": "Stephan Wulff",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sat Feb 21 12:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Joachim",
       "nachname": "Munz",
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "JULIA-B",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 11:57:00 CET 2026",
@@ -538,7 +506,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "LUNAMAR",
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 10:42:00 CET 2026",
