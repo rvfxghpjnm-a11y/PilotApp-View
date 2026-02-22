@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T16:56:55",
+  "generated_at": "2026-02-22T16:58:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 11,
     "wach": 1,
-    "see": 4
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -85,14 +85,19 @@
       "name": "Tim Woitanowski",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "VANQUISH",
+      "route": "HOS → KLT",
       "time": "Sun Feb 22 14:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:05",
+        "eta_rueb": "13:41",
+        "delta_rueb_schleuse": "03:24",
+        "delta_start_rueb": "04:15"
+      },
+      "eta_rueb": "13:41",
+      "eta_schleuse": "17:05",
+      "delta_rueb_schleuse": "03:24",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -136,10 +141,10 @@
       "vorname": "Carsten",
       "nachname": "Weise",
       "name": "Carsten Weise",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "YARA SELA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Feb 22 12:10:00 CET 2026",
       "times": {
         "eta_schleuse": "17:12",
@@ -157,16 +162,21 @@
       "vorname": "Marco",
       "nachname": "Feldes",
       "name": "Marco Feldes",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "IDA RAMBOW",
+      "route": "HOS → KLT",
       "time": "Sun Feb 22 12:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:01",
+        "eta_rueb": "13:34",
+        "delta_rueb_schleuse": "03:27",
+        "delta_start_rueb": "04:10"
+      },
+      "eta_rueb": "13:34",
+      "eta_schleuse": "17:01",
+      "delta_rueb_schleuse": "03:27",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -400,43 +410,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Weise",
-      "name": "Carsten Weise",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "YARA SELA",
-      "route": "RÜB → HOS",
-      "time": "Sun Feb 22 12:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:12",
-        "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "05:57"
-      },
-      "eta_rueb": "13:29",
-      "eta_schleuse": "17:12",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "05:57"
-    },
-    {
-      "is_target": false,
-      "vorname": "Marco",
-      "nachname": "Feldes",
-      "name": "Marco Feldes",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sun Feb 22 12:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Thomas",
       "nachname": "Dietrich",
       "name": "Thomas Dietrich",
@@ -561,7 +534,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "17:33",
+      "eta_rueb_kiel": "17:32",
       "eta_rueb": "17:30",
       "ship": "JOHANNA HELENA",
       "q_gruppe": "4",
@@ -575,7 +548,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:45",
+      "eta_rueb_kiel": "17:44",
       "eta_rueb": "17:35",
       "ship": "LADY CHRISTINA",
       "q_gruppe": "4",
