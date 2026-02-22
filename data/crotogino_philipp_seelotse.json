@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T03:34:44",
+  "generated_at": "2026-02-22T03:36:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -46,14 +46,14 @@
       "time": "Sun Feb 22 02:35:00 CET 2026",
       "times": {
         "eta_schleuse": "07:33",
-        "eta_rueb": "04:00",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:48"
+        "eta_rueb": "03:59",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:47"
       },
-      "eta_rueb": "04:00",
+      "eta_rueb": "03:59",
       "eta_schleuse": "07:33",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:48"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -391,14 +391,14 @@
       "time": "Sun Feb 22 02:35:00 CET 2026",
       "times": {
         "eta_schleuse": "07:33",
-        "eta_rueb": "04:00",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:48"
+        "eta_rueb": "03:59",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:47"
       },
-      "eta_rueb": "04:00",
+      "eta_rueb": "03:59",
       "eta_schleuse": "07:33",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:48"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -664,6 +664,20 @@
       "eta_rueb": "07:00",
       "ship": "WILSON EMS",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "07:30",
+      "ship": "KATHY C",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "07:33",
+      "ship": "THETIS D",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     }
   ]
