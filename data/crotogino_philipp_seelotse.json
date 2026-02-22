@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T19:58:53",
+  "generated_at": "2026-02-22T20:01:03",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -117,19 +117,14 @@
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "KERTU",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 22 15:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "00:29",
-        "eta_rueb": "20:02",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:24"
-      },
-      "eta_rueb": "20:02",
-      "eta_schleuse": "00:29",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:24"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -306,14 +301,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 22 11:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:34",
+        "eta_schleuse": "21:33",
         "eta_rueb": "17:34",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "05:28"
       },
       "eta_rueb": "17:34",
-      "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "21:33",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "05:28"
     },
     {
@@ -399,19 +394,14 @@
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "KERTU",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Feb 22 15:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "00:29",
-        "eta_rueb": "20:02",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:24"
-      },
-      "eta_rueb": "20:02",
-      "eta_schleuse": "00:29",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:24"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -524,14 +514,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 22 11:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:34",
+        "eta_schleuse": "21:33",
         "eta_rueb": "17:34",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "05:28"
       },
       "eta_rueb": "17:34",
-      "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "21:33",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "05:28"
     },
     {
@@ -557,5 +547,13 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": []
+  "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "20:10",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    }
+  ]
 }
