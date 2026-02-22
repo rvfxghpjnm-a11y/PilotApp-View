@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T10:30:45",
+  "generated_at": "2026-02-22T10:32:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 19
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 9
   },
@@ -146,8 +146,8 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "TCG ANADOLU",
+      "route": "THA → KLT",
       "time": "Sun Feb 22 07:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -288,14 +288,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 22 03:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:00",
+        "eta_schleuse": "13:58",
         "eta_rueb": "10:26",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:46"
       },
       "eta_rueb": "10:26",
-      "eta_schleuse": "14:00",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "13:58",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:46"
     },
     {
@@ -382,22 +382,6 @@
       "eta_schleuse": "10:57",
       "delta_rueb_schleuse": "03:19",
       "delta_start_rueb": "04:08"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens-Peter",
-      "nachname": "Töpfer",
-      "name": "Jens-Peter Töpfer",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "PULPCA",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 21 22:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -559,14 +543,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Feb 22 03:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:00",
+        "eta_schleuse": "13:58",
         "eta_rueb": "10:26",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:46"
       },
       "eta_rueb": "10:26",
-      "eta_schleuse": "14:00",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "13:58",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:46"
     },
     {
@@ -605,22 +589,6 @@
       "eta_schleuse": "10:57",
       "delta_rueb_schleuse": "03:19",
       "delta_start_rueb": "04:08"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens-Peter",
-      "nachname": "Töpfer",
-      "name": "Jens-Peter Töpfer",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "PULPCA",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 21 22:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
