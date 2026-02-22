@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T09:42:45",
+  "generated_at": "2026-02-22T09:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -114,9 +114,14 @@
       "fahrzeug": "OLIVIA",
       "route": "HOS → RÜB",
       "time": "Sun Feb 22 07:50:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:31",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -232,14 +237,14 @@
       "route": "HOS → KLT",
       "time": "Sun Feb 22 04:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:49",
+        "eta_schleuse": "09:50",
         "eta_rueb": "06:05",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:05",
-      "eta_schleuse": "09:49",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "09:50",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "04:55"
     },
     {
@@ -386,14 +391,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 22:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:49",
+        "eta_schleuse": "09:50",
         "eta_rueb": "06:05",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:05",
-      "eta_schleuse": "09:49",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "09:50",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -482,9 +487,14 @@
       "fahrzeug": "OLIVIA",
       "route": "HOS → RÜB",
       "time": "Sun Feb 22 07:50:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:31",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -605,14 +615,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 21 22:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:49",
+        "eta_schleuse": "09:50",
         "eta_rueb": "06:05",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "06:05",
-      "eta_schleuse": "09:49",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "09:50",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "04:55"
     }
   ],
@@ -626,7 +636,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:30",
+      "eta_rueb_kiel": "13:29",
       "eta_rueb": "13:10",
       "ship": "YARA SELA",
       "q_gruppe": "1",
