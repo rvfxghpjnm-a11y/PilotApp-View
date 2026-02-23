@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T09:36:52",
+  "generated_at": "2026-02-23T09:38:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "PRIME",
       "route": "HOS → UTG",
       "time": "Mon Feb 23 06:45:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
