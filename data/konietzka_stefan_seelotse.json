@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T13:34:38",
+  "generated_at": "2026-02-23T13:36:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -18,9 +18,9 @@
   },
   "times": {
     "eta_schleuse": "19:19",
-    "eta_rueb": "14:38",
-    "delta_rueb_schleuse": "04:41",
-    "delta_start_rueb": "03:38"
+    "eta_rueb": "14:36",
+    "delta_rueb_schleuse": "04:43",
+    "delta_start_rueb": "03:36"
   },
   "lotsen": [
     {
@@ -115,14 +115,14 @@
       "time": "Mon Feb 23 10:30:00 CET 2026",
       "times": {
         "eta_schleuse": "19:19",
-        "eta_rueb": "14:38",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "14:36",
+        "delta_rueb_schleuse": "04:43",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "14:38",
+      "eta_rueb": "14:36",
       "eta_schleuse": "19:19",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:43",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -194,8 +194,8 @@
       "name": "Sören Engler",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "BALTIC STAR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Feb 23 08:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -210,8 +210,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "NORDIC GLORIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Feb 23 08:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -376,14 +376,14 @@
       "time": "Mon Feb 23 10:30:00 CET 2026",
       "times": {
         "eta_schleuse": "19:19",
-        "eta_rueb": "14:38",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "14:36",
+        "delta_rueb_schleuse": "04:43",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "14:38",
+      "eta_rueb": "14:36",
       "eta_schleuse": "19:19",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:43",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -538,7 +538,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:32",
+      "eta_rueb_kiel": "16:31",
       "eta_rueb": "16:30",
       "ship": "AMARANTH",
       "q_gruppe": "4",
