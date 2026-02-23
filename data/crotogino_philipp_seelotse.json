@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T21:06:48",
+  "generated_at": "2026-02-23T21:08:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 1,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -85,8 +85,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "LADY HANNEKE",
-      "route": "HOS → KLT",
+      "fahrzeug": "RIX MUNTE",
+      "route": "KLT → HOS",
       "time": "Mon Feb 23 19:07:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -149,32 +149,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "ARKLOW CASTLE",
-      "route": "RÜB → HOS",
-      "time": "Mon Feb 23 16:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:11",
-        "eta_rueb": "18:37",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "18:37",
-      "eta_schleuse": "22:11",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:15"
-    },
-    {
-      "is_target": false,
       "vorname": "Peter",
       "nachname": "Vogel",
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "ARCTICA HAV",
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 16:45:00 CET 2026",
@@ -195,20 +174,41 @@
       "nachname": "Zimmermann",
       "name": "Martin Zimmermann",
       "aufgabe": "Seebört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "RIX EXPLORER",
       "route": "HOS → KLT",
       "time": "Mon Feb 23 16:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:56",
+        "eta_schleuse": "21:55",
         "eta_rueb": "17:55",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "17:55",
-      "eta_schleuse": "21:56",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "21:55",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:17"
+    },
+    {
+      "is_target": false,
+      "vorname": "Volker",
+      "nachname": "Kahler",
+      "name": "Volker Kahler",
+      "aufgabe": "Seebört",
+      "nr": 11,
+      "fahrzeug": "ARKLOW CASTLE",
+      "route": "HOS → KLT",
+      "time": "Mon Feb 23 16:45:00 CET 2026",
+      "times": {
+        "eta_schleuse": "22:11",
+        "eta_rueb": "18:37",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:15"
+      },
+      "eta_rueb": "18:37",
+      "eta_schleuse": "22:11",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -320,32 +320,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "ARKLOW CASTLE",
-      "route": "RÜB → HOS",
-      "time": "Mon Feb 23 16:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:11",
-        "eta_rueb": "18:37",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "18:37",
-      "eta_schleuse": "22:11",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:15"
-    },
-    {
-      "is_target": false,
       "vorname": "Peter",
       "nachname": "Vogel",
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "ARCTICA HAV",
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 16:45:00 CET 2026",
