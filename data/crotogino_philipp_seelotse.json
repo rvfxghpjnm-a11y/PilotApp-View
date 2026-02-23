@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T19:02:53",
+  "generated_at": "2026-02-23T19:04:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -211,8 +211,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 23 13:13:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -227,8 +227,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 23 13:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -300,13 +300,13 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 10:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:47",
+        "eta_schleuse": "19:46",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "19:47",
+      "eta_schleuse": "19:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -342,13 +342,13 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 08:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:31",
+        "eta_schleuse": "19:30",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "19:31",
+      "eta_schleuse": "19:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -524,8 +524,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 23 13:13:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -540,8 +540,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Feb 23 13:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -581,13 +581,13 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 10:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:47",
+        "eta_schleuse": "19:46",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "19:47",
+      "eta_schleuse": "19:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -623,13 +623,13 @@
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 08:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:31",
+        "eta_schleuse": "19:30",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "19:31",
+      "eta_schleuse": "19:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -642,13 +642,6 @@
       "ship": "EIDER",
       "q_gruppe": "5",
       "route": "GAK → RÜB"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "19:05",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "22:15",
