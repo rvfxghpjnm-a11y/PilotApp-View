@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T18:04:54",
+  "generated_at": "2026-02-23T18:06:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -177,9 +177,14 @@
       "fahrzeug": "ARKLOW MOOR",
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 15:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -485,9 +490,14 @@
       "fahrzeug": "ARKLOW MOOR",
       "route": "RÜB → HOS",
       "time": "Mon Feb 23 15:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -623,7 +633,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:24",
+      "eta_rueb_kiel": "22:18",
       "eta_rueb": "22:00",
       "ship": "X-PRESS GODAVARI",
       "q_gruppe": "1",
