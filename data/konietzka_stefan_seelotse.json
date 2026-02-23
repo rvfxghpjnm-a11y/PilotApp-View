@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T11:18:38",
+  "generated_at": "2026-02-23T11:20:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -70,9 +70,14 @@
       "fahrzeug": "PRIME",
       "route": "UTG → RÜB",
       "time": "Mon Feb 23 10:30:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -363,9 +368,14 @@
       "fahrzeug": "PRIME",
       "route": "UTG → RÜB",
       "time": "Mon Feb 23 10:30:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -538,7 +548,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:36",
+      "eta_rueb_kiel": "12:35",
       "eta_rueb": "12:30",
       "ship": "SAN BACCO",
       "q_gruppe": "4",
