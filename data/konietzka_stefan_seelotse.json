@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T22:04:38",
+  "generated_at": "2026-02-24T22:06:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -370,8 +370,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 15:44:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -720,8 +720,8 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 15:44:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -806,18 +806,11 @@
       "eta_rueb_kiel": "01:08",
       "eta_rueb": "00:50",
       "ship": "DAY DREAM",
-      "q_gruppe": "5",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "22:10",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:21",
+      "eta_rueb_kiel": "23:22",
       "eta_rueb": "23:20",
       "ship": "WILSON HOBRO",
       "q_gruppe": "5",
