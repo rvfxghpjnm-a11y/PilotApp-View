@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T08:08:45",
+  "generated_at": "2026-02-24T08:10:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -267,11 +267,16 @@
       "fahrzeug": "EIDER",
       "route": "GAK → RÜB",
       "time": "Tue Feb 24 00:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "17:43",
+        "delta_rueb_schleuse": "2285641:03",
+        "delta_start_rueb": "62:13"
+      },
+      "eta_rueb": "17:43",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285641:03",
+      "delta_start_rueb": "62:13"
     },
     {
       "is_target": false,
@@ -543,11 +548,16 @@
       "fahrzeug": "EIDER",
       "route": "GAK → RÜB",
       "time": "Tue Feb 24 00:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "17:43",
+        "delta_rueb_schleuse": "2285641:03",
+        "delta_start_rueb": "62:13"
+      },
+      "eta_rueb": "17:43",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285641:03",
+      "delta_start_rueb": "62:13"
     },
     {
       "is_target": false,
@@ -611,10 +621,17 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:45",
+      "eta_rueb_kiel": "08:44",
       "eta_rueb": "08:40",
       "ship": "SIMON B",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "09:05",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
       "route": "RÜB → HOS"
     },
     {
