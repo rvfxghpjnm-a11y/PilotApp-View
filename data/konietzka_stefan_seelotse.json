@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T00:00:46",
+  "generated_at": "2026-02-25T00:02:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -204,20 +204,20 @@
       "vorname": "Daniel",
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 11,
       "fahrzeug": "RIX LAGOON",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Tue Feb 24 19:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:05",
+        "eta_schleuse": "00:06",
         "eta_rueb": "20:26",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "20:26",
-      "eta_schleuse": "00:05",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "00:06",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:12"
     },
     {
@@ -533,27 +533,6 @@
       "eta_schleuse": "01:46",
       "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "RIX LAGOON",
-      "route": "RÜB → HOS",
-      "time": "Tue Feb 24 19:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "00:05",
-        "eta_rueb": "20:26",
-        "delta_rueb_schleuse": "03:39",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "20:26",
-      "eta_schleuse": "00:05",
-      "delta_rueb_schleuse": "03:39",
-      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
