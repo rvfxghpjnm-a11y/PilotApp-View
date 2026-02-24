@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T22:34:45",
+  "generated_at": "2026-02-24T22:36:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -262,16 +262,11 @@
       "fahrzeug": "FLEXIMAR",
       "route": "HOS → KLT",
       "time": "Tue Feb 24 18:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:34",
-        "eta_rueb": "18:52",
-        "delta_rueb_schleuse": "03:42",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "18:52",
-      "eta_schleuse": "22:34",
-      "delta_rueb_schleuse": "03:42",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -436,16 +431,11 @@
       "fahrzeug": "FLEXIMAR",
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 10:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:34",
-        "eta_rueb": "18:52",
-        "delta_rueb_schleuse": "03:42",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "18:52",
-      "eta_schleuse": "22:34",
-      "delta_rueb_schleuse": "03:42",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -749,16 +739,11 @@
       "fahrzeug": "FLEXIMAR",
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 10:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:34",
-        "eta_rueb": "18:52",
-        "delta_rueb_schleuse": "03:42",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "18:52",
-      "eta_schleuse": "22:34",
-      "delta_rueb_schleuse": "03:42",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -778,7 +763,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:20",
+      "eta_rueb_kiel": "23:19",
       "eta_rueb": "23:20",
       "ship": "WILSON HOBRO",
       "q_gruppe": "5",
