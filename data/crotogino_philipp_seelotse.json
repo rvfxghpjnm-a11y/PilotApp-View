@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-02-24T16:00:41",
+  "generated_at": "2026-02-24T16:02:39",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Seebört",
-    "fahrzeug": "APATYTH",
-    "from": "HOS",
-    "to": "KLT",
+    "fahrzeug": "KLT",
+    "from": null,
+    "to": null,
     "time": "Tue Feb 24 08:55:00 CET 2026",
     "nr": 15
   },
@@ -61,14 +61,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:14",
+        "eta_schleuse": "19:13",
         "eta_rueb": "15:37",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "15:37",
-      "eta_schleuse": "19:14",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "19:13",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:57"
     },
     {
@@ -82,14 +82,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:04",
+        "eta_schleuse": "19:03",
         "eta_rueb": "15:26",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "15:26",
-      "eta_schleuse": "19:04",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:03",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:42"
     },
     {
@@ -103,14 +103,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:08",
+        "eta_schleuse": "19:07",
         "eta_rueb": "15:30",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "07:36"
       },
       "eta_rueb": "15:30",
-      "eta_schleuse": "19:08",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:07",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "07:36"
     },
     {
@@ -237,8 +237,8 @@
       "name": "Merten Wachs",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "ALESSANDRA LEHMANN",
-      "route": "HOS → KLT",
+      "fahrzeug": "ATLANTIS",
+      "route": "KLT → OUH",
       "time": "Tue Feb 24 09:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -253,8 +253,8 @@
       "name": "Alexander Engel",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "ARAMIS",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Feb 24 09:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -269,8 +269,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "APATYTH",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Feb 24 08:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -381,14 +381,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:14",
+        "eta_schleuse": "19:13",
         "eta_rueb": "15:37",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "15:37",
-      "eta_schleuse": "19:14",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "19:13",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:57"
     },
     {
@@ -402,14 +402,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:04",
+        "eta_schleuse": "19:03",
         "eta_rueb": "15:26",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "15:26",
-      "eta_schleuse": "19:04",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:03",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:42"
     },
     {
@@ -423,14 +423,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:08",
+        "eta_schleuse": "19:07",
         "eta_rueb": "15:30",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "07:36"
       },
       "eta_rueb": "15:30",
-      "eta_schleuse": "19:08",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:07",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "07:36"
     },
     {
@@ -539,14 +539,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:05",
+      "eta_rueb_kiel": "19:04",
       "eta_rueb": "18:53",
       "ship": "FLEXIMAR",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:08",
+      "eta_rueb_kiel": "19:07",
       "eta_rueb": "18:56",
       "ship": "KLARA",
       "q_gruppe": "5",
