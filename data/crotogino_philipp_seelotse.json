@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T12:02:38",
+  "generated_at": "2026-02-24T12:04:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -60,9 +60,14 @@
       "fahrzeug": "LADY HARRIET",
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 10:41:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:35",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:35",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -374,9 +379,14 @@
       "fahrzeug": "LADY HARRIET",
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 10:41:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:35",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:35",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
