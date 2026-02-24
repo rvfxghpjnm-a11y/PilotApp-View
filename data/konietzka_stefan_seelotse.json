@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T22:48:38",
+  "generated_at": "2026-02-24T22:50:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON HOBRO",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 21:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:17",
+        "eta_rueb": "23:18",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "23:18",
+      "eta_schleuse": "03:17",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -274,14 +279,14 @@
       "route": "HOS → KLT",
       "time": "Tue Feb 24 17:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:52",
+        "eta_schleuse": "22:53",
         "eta_rueb": "19:08",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "19:08",
-      "eta_schleuse": "22:52",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "22:53",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "04:20"
     },
     {
@@ -385,14 +390,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 10:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:48",
+        "eta_schleuse": "22:50",
         "eta_rueb": "18:54",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "18:54",
-      "eta_schleuse": "22:48",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "22:50",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:08"
     },
     {
@@ -420,14 +425,19 @@
       "name": "Mark Wald",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON HOBRO",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 21:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:17",
+        "eta_rueb": "23:18",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "23:18",
+      "eta_schleuse": "03:17",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -672,14 +682,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 10:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:48",
+        "eta_schleuse": "22:50",
         "eta_rueb": "18:54",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "18:54",
-      "eta_schleuse": "22:48",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "22:50",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:08"
     },
     {
@@ -713,13 +723,6 @@
       "eta_rueb": "01:03",
       "ship": "DAY DREAM",
       "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:18",
-      "eta_rueb": "23:20",
-      "ship": "WILSON HOBRO",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
