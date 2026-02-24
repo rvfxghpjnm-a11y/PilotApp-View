@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T15:04:38",
+  "generated_at": "2026-02-24T15:06:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EMS LYRA",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:05",
+        "eta_rueb": "15:28",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "04:44"
+      },
+      "eta_rueb": "15:28",
+      "eta_schleuse": "19:05",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -48,14 +53,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKONA",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:10",
+        "eta_rueb": "15:31",
+        "delta_rueb_schleuse": "03:39",
+        "delta_start_rueb": "07:37"
+      },
+      "eta_rueb": "15:31",
+      "eta_schleuse": "19:10",
+      "delta_rueb_schleuse": "03:39",
+      "delta_start_rueb": "07:37"
     },
     {
       "is_target": false,
@@ -195,14 +205,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:08",
+        "eta_schleuse": "15:13",
         "eta_rueb": "11:15",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "06:17"
       },
       "eta_rueb": "11:15",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "15:13",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "06:17"
     },
     {
@@ -215,16 +225,11 @@
       "fahrzeug": "ALESSANDRA LEHMANN",
       "route": "HOS → KLT",
       "time": "Tue Feb 24 09:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:40",
-        "eta_rueb": "11:01",
-        "delta_rueb_schleuse": "03:39",
-        "delta_start_rueb": "05:39"
-      },
-      "eta_rueb": "11:01",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:39",
-      "delta_start_rueb": "05:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -341,14 +346,19 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EMS LYRA",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:05",
+        "eta_rueb": "15:28",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "04:44"
+      },
+      "eta_rueb": "15:28",
+      "eta_schleuse": "19:05",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -357,14 +367,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKONA",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 14:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:10",
+        "eta_rueb": "15:31",
+        "delta_rueb_schleuse": "03:39",
+        "delta_start_rueb": "07:37"
+      },
+      "eta_rueb": "15:31",
+      "eta_schleuse": "19:10",
+      "delta_rueb_schleuse": "03:39",
+      "delta_start_rueb": "07:37"
     },
     {
       "is_target": false,
@@ -440,14 +455,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:08",
+        "eta_schleuse": "15:13",
         "eta_rueb": "11:15",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:58",
         "delta_start_rueb": "06:17"
       },
       "eta_rueb": "11:15",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "15:13",
+      "delta_rueb_schleuse": "03:58",
       "delta_start_rueb": "06:17"
     },
     {
@@ -495,20 +510,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:28",
-      "eta_rueb": "15:20",
-      "ship": "EMS LYRA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "15:31",
-      "eta_rueb": "15:23",
-      "ship": "ARKONA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:38",
       "eta_rueb": "15:30",
