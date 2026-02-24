@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T09:32:38",
+  "generated_at": "2026-02-24T09:34:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -158,15 +158,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 06:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:36",
-        "eta_rueb": "11:27",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:09"
+        "eta_schleuse": "16:37",
+        "eta_rueb": "11:29",
+        "delta_rueb_schleuse": "05:08",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "11:27",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:09"
+      "eta_rueb": "11:29",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "05:08",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -249,8 +249,8 @@
       "name": "Janning Otten",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 03:22:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -265,8 +265,8 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 03:13:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -281,8 +281,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 03:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -467,15 +467,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 06:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:36",
-        "eta_rueb": "11:27",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:09"
+        "eta_schleuse": "16:37",
+        "eta_rueb": "11:29",
+        "delta_rueb_schleuse": "05:08",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "11:27",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:09"
+      "eta_rueb": "11:29",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "05:08",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -542,8 +542,8 @@
       "name": "Janning Otten",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 03:22:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -558,8 +558,8 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 03:13:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -574,8 +574,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 03:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -645,14 +645,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "09:40",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "10:55",
+      "eta_rueb_kiel": "10:53",
       "eta_rueb": "10:50",
       "ship": "APATYTH",
       "q_gruppe": "4",
@@ -673,7 +666,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:14",
+      "eta_rueb_kiel": "11:15",
       "eta_rueb": "10:59",
       "ship": "NORDIC PORTO",
       "q_gruppe": "1",
@@ -687,14 +680,14 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "13:25",
+      "eta_rueb_kiel": "13:26",
       "eta_rueb": "12:40",
       "ship": "LADY HESTIA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:29",
+      "eta_rueb_kiel": "13:30",
       "eta_rueb": "12:43",
       "ship": "AAVA VG",
       "q_gruppe": "5",
