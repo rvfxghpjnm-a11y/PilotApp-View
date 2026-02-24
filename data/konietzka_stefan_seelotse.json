@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T10:42:41",
+  "generated_at": "2026-02-24T10:44:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,14 +101,19 @@
       "name": "Merten Wachs",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALESSANDRA LEHMANN",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 09:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:37",
+        "eta_rueb": "11:02",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:40"
+      },
+      "eta_rueb": "11:02",
+      "eta_schleuse": "14:37",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:40"
     },
     {
       "is_target": false,
@@ -227,14 +232,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 06:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:44",
+        "eta_schleuse": "16:46",
         "eta_rueb": "11:29",
-        "delta_rueb_schleuse": "05:15",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "11:29",
-      "eta_schleuse": "16:44",
-      "delta_rueb_schleuse": "05:15",
+      "eta_schleuse": "16:46",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "04:11"
     },
     {
@@ -355,8 +360,8 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "CORAL IVORY",
-      "route": "RÜB → HOS",
+      "fahrzeug": "-",
+      "route": null,
       "time": "Tue Feb 24 00:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -426,14 +431,19 @@
       "name": "Merten Wachs",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALESSANDRA LEHMANN",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 09:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:37",
+        "eta_rueb": "11:02",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:40"
+      },
+      "eta_rueb": "11:02",
+      "eta_schleuse": "14:37",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:40"
     },
     {
       "is_target": false,
@@ -504,14 +514,14 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 06:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:44",
+        "eta_schleuse": "16:46",
         "eta_rueb": "11:29",
-        "delta_rueb_schleuse": "05:15",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "11:29",
-      "eta_schleuse": "16:44",
-      "delta_rueb_schleuse": "05:15",
+      "eta_schleuse": "16:46",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "04:11"
     },
     {
@@ -600,8 +610,8 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "CORAL IVORY",
-      "route": "RÜB → HOS",
+      "fahrzeug": "-",
+      "route": null,
       "time": "Tue Feb 24 00:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -613,14 +623,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:02",
-      "eta_rueb": "10:56",
-      "ship": "ALESSANDRA LEHMANN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "11:14",
+      "eta_rueb_kiel": "11:15",
       "eta_rueb": "10:59",
       "ship": "NORDIC PORTO",
       "q_gruppe": "1",
@@ -634,14 +637,14 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "13:31",
+      "eta_rueb_kiel": "13:29",
       "eta_rueb": "13:10",
       "ship": "LADY HESTIA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:35",
+      "eta_rueb_kiel": "13:33",
       "eta_rueb": "13:13",
       "ship": "AAVA VG",
       "q_gruppe": "5",
