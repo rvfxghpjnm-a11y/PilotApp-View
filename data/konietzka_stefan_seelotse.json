@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T00:22:36",
+  "generated_at": "2026-02-25T00:24:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -209,16 +209,11 @@
       "fahrzeug": "RIX LAGOON",
       "route": "HOS → KLT",
       "time": "Tue Feb 24 19:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "00:21",
-        "eta_rueb": "20:26",
-        "delta_rueb_schleuse": "03:55",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "20:26",
-      "eta_schleuse": "00:21",
-      "delta_rueb_schleuse": "03:55",
-      "delta_start_rueb": "04:12"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -628,14 +623,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:02",
+      "eta_rueb_kiel": "01:03",
       "eta_rueb": "01:00",
       "ship": "ANNALISA P",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:05",
+      "eta_rueb_kiel": "01:06",
       "eta_rueb": "01:03",
       "ship": "DAY DREAM",
       "q_gruppe": "4",
