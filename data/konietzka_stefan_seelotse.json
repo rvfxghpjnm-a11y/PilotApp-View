@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T14:40:38",
+  "generated_at": "2026-02-24T14:42:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -32,8 +32,8 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -142,15 +142,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 10:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
-        "eta_rueb": "16:03",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "03:49"
+        "eta_schleuse": "21:05",
+        "eta_rueb": "16:02",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "16:03",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "03:49"
+      "eta_rueb": "16:02",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -175,8 +175,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "YARA KARA",
-      "route": "HOS → UTG",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Tue Feb 24 09:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -195,14 +195,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:45",
+        "eta_schleuse": "14:46",
         "eta_rueb": "11:15",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "06:17"
       },
       "eta_rueb": "11:15",
-      "eta_schleuse": "14:45",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "14:46",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "06:17"
     },
     {
@@ -341,8 +341,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -357,8 +357,8 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -373,8 +373,8 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Feb 24 14:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -435,15 +435,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Feb 24 10:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
-        "eta_rueb": "16:03",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "03:49"
+        "eta_schleuse": "21:05",
+        "eta_rueb": "16:02",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "16:03",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "03:49"
+      "eta_rueb": "16:02",
+      "eta_schleuse": "21:05",
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -456,14 +456,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:45",
+        "eta_schleuse": "14:46",
         "eta_rueb": "11:15",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "06:17"
       },
       "eta_rueb": "11:15",
-      "eta_schleuse": "14:45",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "14:46",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "06:17"
     },
     {
@@ -526,7 +526,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:39",
+      "eta_rueb_kiel": "15:38",
       "eta_rueb": "15:30",
       "ship": "SOUTH ENABLER",
       "q_gruppe": "0",
