@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T08:16:39",
+  "generated_at": "2026-02-24T08:18:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SIMON B",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 07:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:34",
+        "eta_rueb": "08:44",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "08:44",
+      "eta_schleuse": "12:34",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -329,14 +334,19 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SIMON B",
+      "route": "RÜB → HOS",
       "time": "Tue Feb 24 07:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:34",
+        "eta_rueb": "08:44",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "08:44",
+      "eta_schleuse": "12:34",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -589,13 +599,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:44",
-      "eta_rueb": "08:40",
-      "ship": "SIMON B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": null,
       "eta_rueb": "09:05",
       "ship": "Leerfahrt",
@@ -603,21 +606,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:52",
+      "eta_rueb_kiel": "10:56",
       "eta_rueb": "10:40",
       "ship": "APATYTH",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:55",
+      "eta_rueb_kiel": "11:00",
       "eta_rueb": "10:43",
       "ship": "ARAMIS",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:00",
+      "eta_rueb_kiel": "11:03",
       "eta_rueb": "10:46",
       "ship": "ALESSANDRA LEHMANN",
       "q_gruppe": "4",
