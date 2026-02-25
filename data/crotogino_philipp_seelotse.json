@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T00:54:48",
+  "generated_at": "2026-02-26T00:56:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -120,14 +120,14 @@
       "route": "HOS → KLT",
       "time": "Wed Feb 25 20:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:54",
+        "eta_schleuse": "00:56",
         "eta_rueb": "21:27",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "21:27",
-      "eta_schleuse": "00:54",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "00:56",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:37"
     },
     {
@@ -189,14 +189,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 25 18:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:32",
+        "eta_schleuse": "04:31",
         "eta_rueb": "00:57",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "00:57",
-      "eta_schleuse": "04:32",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "04:31",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:39"
     },
     {
@@ -243,8 +243,8 @@
       "name": "Georg Krahn",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Feb 25 18:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -321,14 +321,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 25 14:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:54",
+        "eta_schleuse": "00:56",
         "eta_rueb": "21:27",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "21:27",
-      "eta_schleuse": "00:54",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "00:56",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:37"
     }
   ],
@@ -407,14 +407,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 25 18:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:32",
+        "eta_schleuse": "04:31",
         "eta_rueb": "00:57",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "00:57",
-      "eta_schleuse": "04:32",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "04:31",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:39"
     },
     {
@@ -507,14 +507,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Feb 25 14:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:54",
+        "eta_schleuse": "00:56",
         "eta_rueb": "21:27",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "21:27",
-      "eta_schleuse": "00:54",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "00:56",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:37"
     }
   ],
@@ -535,7 +535,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:51",
+      "eta_rueb_kiel": "03:50",
       "eta_rueb": "03:50",
       "ship": "ECO GHIBLI",
       "q_gruppe": "1",
