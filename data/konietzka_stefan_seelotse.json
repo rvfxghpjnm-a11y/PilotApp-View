@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T03:24:38",
+  "generated_at": "2026-02-25T03:26:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "JUDITH",
       "route": "HOS → RÜB",
       "time": "Wed Feb 25 01:32:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "12:08",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "12:08",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -302,9 +307,14 @@
       "fahrzeug": "JUDITH",
       "route": "HOS → RÜB",
       "time": "Wed Feb 25 01:32:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "12:08",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "12:08",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
