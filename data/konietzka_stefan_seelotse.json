@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T10:44:36",
+  "generated_at": "2026-02-25T10:46:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 2
+    "see": 1
   },
   "times": null,
   "lotsen": [
@@ -143,27 +143,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jörn",
-      "nachname": "Lielienthal",
-      "name": "Jörn Lielienthal",
-      "aufgabe": "Seebört",
-      "nr": 8,
-      "fahrzeug": "BRAVEWIND",
-      "route": "KLT → HOS",
-      "time": "Wed Feb 25 05:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Johannes",
       "nachname": "Biedermann",
       "name": "Johannes Biedermann",
       "aufgabe": "Seebört",
-      "nr": 9,
+      "nr": 8,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Wed Feb 25 03:00:00 CET 2026",
@@ -179,7 +163,7 @@
       "nachname": "Migge",
       "name": "Alexander Migge",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "AMBER SPIRIT",
       "route": "RÜB → HOS",
       "time": "Wed Feb 25 01:32:00 CET 2026",
@@ -200,7 +184,7 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "TERRAL",
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 23:39:00 CET 2026",
@@ -221,7 +205,7 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "WILSON FINNFJORD",
       "route": "RÜB → UTG",
       "time": "Tue Feb 24 23:38:00 CET 2026",
@@ -376,7 +360,7 @@
       "nachname": "Migge",
       "name": "Alexander Migge",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "AMBER SPIRIT",
       "route": "RÜB → HOS",
       "time": "Wed Feb 25 01:32:00 CET 2026",
@@ -397,7 +381,7 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "TERRAL",
       "route": "RÜB → HOS",
       "time": "Tue Feb 24 23:39:00 CET 2026",
@@ -418,7 +402,7 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "WILSON FINNFJORD",
       "route": "RÜB → UTG",
       "time": "Tue Feb 24 23:38:00 CET 2026",
@@ -437,7 +421,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:59",
+      "eta_rueb_kiel": "12:58",
       "eta_rueb": "12:40",
       "ship": "FWN ATLANTIDE",
       "q_gruppe": "2",
@@ -451,14 +435,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:02",
+      "eta_rueb_kiel": "15:01",
       "eta_rueb": "15:00",
       "ship": "RIX BALTIC",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:05",
+      "eta_rueb_kiel": "15:04",
       "eta_rueb": "15:03",
       "ship": "CEMCLIPPER",
       "q_gruppe": "4",
