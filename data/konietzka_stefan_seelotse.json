@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T08:20:37",
+  "generated_at": "2026-02-25T08:22:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "PASILA",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 25 07:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:50",
+        "eta_rueb": "08:46",
+        "delta_rueb_schleuse": "04:04",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "08:46",
+      "eta_schleuse": "12:50",
+      "delta_rueb_schleuse": "04:04",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -261,14 +266,19 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "PASILA",
+      "route": "RÜB → HOS",
       "time": "Wed Feb 25 07:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:50",
+        "eta_rueb": "08:46",
+        "delta_rueb_schleuse": "04:04",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "08:46",
+      "eta_schleuse": "12:50",
+      "delta_rueb_schleuse": "04:04",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -437,17 +447,17 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:46",
-      "eta_rueb": "08:45",
-      "ship": "PASILA",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "13:06",
       "eta_rueb": "12:40",
       "ship": "FWN ATLANTIDE",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "13:09",
+      "eta_rueb": "12:45",
+      "ship": "CELLUS",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
