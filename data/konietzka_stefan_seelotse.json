@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:14:37",
+  "generated_at": "2026-02-26T17:16:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 0,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -126,14 +126,14 @@
       "time": "Thu Feb 26 13:50:00 CET 2026",
       "times": {
         "eta_schleuse": "23:35",
-        "eta_rueb": "18:20",
-        "delta_rueb_schleuse": "05:15",
-        "delta_start_rueb": "06:12"
+        "eta_rueb": "18:19",
+        "delta_rueb_schleuse": "05:16",
+        "delta_start_rueb": "06:11"
       },
-      "eta_rueb": "18:20",
+      "eta_rueb": "18:19",
       "eta_schleuse": "23:35",
-      "delta_rueb_schleuse": "05:15",
-      "delta_start_rueb": "06:12"
+      "delta_rueb_schleuse": "05:16",
+      "delta_start_rueb": "06:11"
     },
     {
       "is_target": false,
@@ -153,13 +153,29 @@
     },
     {
       "is_target": false,
+      "vorname": "Michael",
+      "nachname": "Berkenheger",
+      "name": "Michael Berkenheger",
+      "aufgabe": "Kanalbört",
+      "nr": 8,
+      "fahrzeug": "FIONA B",
+      "route": "RÜB → HOS",
+      "time": "Thu Feb 26 13:00:00 CET 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
       "vorname": "Frank",
       "nachname": "Staedler",
       "name": "Frank Staedler",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
+      "aufgabe": "Seebört",
+      "nr": 9,
       "fahrzeug": "COASTALWATER",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Feb 26 13:00:00 CET 2026",
       "times": {
         "eta_schleuse": "17:50",
@@ -171,22 +187,6 @@
       "eta_schleuse": "17:50",
       "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:07"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Berkenheger",
-      "name": "Michael Berkenheger",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "FIONA B",
-      "route": "RÜB → HOS",
-      "time": "Thu Feb 26 13:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -434,35 +434,14 @@
       "time": "Thu Feb 26 13:50:00 CET 2026",
       "times": {
         "eta_schleuse": "23:35",
-        "eta_rueb": "18:20",
-        "delta_rueb_schleuse": "05:15",
-        "delta_start_rueb": "06:12"
+        "eta_rueb": "18:19",
+        "delta_rueb_schleuse": "05:16",
+        "delta_start_rueb": "06:11"
       },
-      "eta_rueb": "18:20",
+      "eta_rueb": "18:19",
       "eta_schleuse": "23:35",
-      "delta_rueb_schleuse": "05:15",
-      "delta_start_rueb": "06:12"
-    },
-    {
-      "is_target": false,
-      "vorname": "Frank",
-      "nachname": "Staedler",
-      "name": "Frank Staedler",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "COASTALWATER",
-      "route": "RÜB → HOS",
-      "time": "Thu Feb 26 13:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:50",
-        "eta_rueb": "14:19",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "14:19",
-      "eta_schleuse": "17:50",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "05:07"
+      "delta_rueb_schleuse": "05:16",
+      "delta_start_rueb": "06:11"
     },
     {
       "is_target": false,
@@ -470,7 +449,7 @@
       "nachname": "Berkenheger",
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
-      "nr": 9,
+      "nr": 8,
       "fahrzeug": "FIONA B",
       "route": "RÜB → HOS",
       "time": "Thu Feb 26 13:00:00 CET 2026",
