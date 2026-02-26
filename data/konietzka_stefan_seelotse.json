@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T07:42:40",
+  "generated_at": "2026-02-26T07:44:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
-    "see": 4
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -115,10 +115,10 @@
       "vorname": "Hark",
       "nachname": "Borggräfe",
       "name": "Hark Borggräfe",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "KETTER",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Feb 26 02:25:00 CET 2026",
       "times": {
         "eta_schleuse": "08:01",
@@ -207,14 +207,14 @@
       "time": "Wed Feb 25 23:40:00 CET 2026",
       "times": {
         "eta_schleuse": "12:24",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "07:57",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:37"
       },
-      "eta_rueb": null,
+      "eta_rueb": "07:57",
       "eta_schleuse": "12:24",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:37"
     },
     {
       "is_target": false,
@@ -315,27 +315,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Hark",
-      "nachname": "Borggräfe",
-      "name": "Hark Borggräfe",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "KETTER",
-      "route": "RÜB → HOS",
-      "time": "Thu Feb 26 02:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:01",
-        "eta_rueb": "03:47",
-        "delta_rueb_schleuse": "04:14",
-        "delta_start_rueb": "04:27"
-      },
-      "eta_rueb": "03:47",
-      "eta_schleuse": "08:01",
-      "delta_rueb_schleuse": "04:14",
-      "delta_start_rueb": "04:27"
-    },
-    {
-      "is_target": false,
       "vorname": "Henning",
       "nachname": "Blome",
       "name": "Henning Blome",
@@ -394,14 +373,14 @@
       "time": "Wed Feb 25 23:40:00 CET 2026",
       "times": {
         "eta_schleuse": "12:24",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "07:57",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "00:37"
       },
-      "eta_rueb": null,
+      "eta_rueb": "07:57",
       "eta_schleuse": "12:24",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "00:37"
     },
     {
       "is_target": false,
@@ -519,7 +498,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:28",
+      "eta_rueb_kiel": "12:24",
       "eta_rueb": "12:10",
       "ship": "ANNABA",
       "q_gruppe": "1",
