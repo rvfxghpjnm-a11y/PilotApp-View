@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T07:18:46",
+  "generated_at": "2026-02-26T07:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -205,9 +205,14 @@
       "fahrzeug": "JADE",
       "route": "KRH → RÜB",
       "time": "Wed Feb 25 23:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -387,9 +392,14 @@
       "fahrzeug": "JADE",
       "route": "KRH → RÜB",
       "time": "Wed Feb 25 23:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -446,14 +456,14 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "10:17",
+      "eta_rueb_kiel": "10:16",
       "eta_rueb": "10:00",
       "ship": "SCOT BERLIN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:20",
+      "eta_rueb_kiel": "10:19",
       "eta_rueb": "10:03",
       "ship": "RIX LAKE",
       "q_gruppe": "5",
