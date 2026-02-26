@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T02:16:37",
+  "generated_at": "2026-02-26T02:18:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,14 +69,19 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON HARRIER",
+      "route": "RÜB → UTG",
       "time": "Thu Feb 26 01:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:16",
+        "eta_rueb": "02:46",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "02:46",
+      "eta_schleuse": "06:16",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -373,14 +378,19 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON HARRIER",
+      "route": "RÜB → UTG",
       "time": "Thu Feb 26 01:25:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:16",
+        "eta_rueb": "02:46",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "02:46",
+      "eta_schleuse": "06:16",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -527,13 +537,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "02:46",
-      "eta_rueb": "02:35",
-      "ship": "WILSON HARRIER",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "03:48",
       "eta_rueb": "03:38",
