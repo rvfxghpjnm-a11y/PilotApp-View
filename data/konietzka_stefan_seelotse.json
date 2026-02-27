@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T14:40:38",
+  "generated_at": "2026-02-27T14:42:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,15 +73,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 27 13:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:26",
-        "eta_rueb": "17:59",
+        "eta_schleuse": "22:34",
+        "eta_rueb": "18:07",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "17:59",
-      "eta_schleuse": "22:26",
+      "eta_rueb": "18:07",
+      "eta_schleuse": "22:34",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -147,14 +147,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 27 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:22",
+        "eta_schleuse": "17:30",
         "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "13:47",
-      "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "17:30",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:15"
     },
     {
@@ -180,8 +180,8 @@
       "name": "Alexander Migge",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SEA EXPLORER",
+      "route": "KLT → HOS",
       "time": "Fri Feb 27 07:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -324,15 +324,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Feb 27 13:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:26",
-        "eta_rueb": "17:59",
+        "eta_schleuse": "22:34",
+        "eta_rueb": "18:07",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "17:59",
-      "eta_schleuse": "22:26",
+      "eta_rueb": "18:07",
+      "eta_schleuse": "22:34",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -382,14 +382,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Feb 27 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:22",
+        "eta_schleuse": "17:30",
         "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "13:47",
-      "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "17:30",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:15"
     },
     {
@@ -500,8 +500,8 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:58",
-      "eta_rueb": "18:45",
+      "eta_rueb_kiel": "19:07",
+      "eta_rueb": "18:40",
       "ship": "LADY MARIE CHRISTINE",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
