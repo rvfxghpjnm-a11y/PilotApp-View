@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T06:26:37",
+  "generated_at": "2026-02-27T06:28:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -99,14 +99,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "ECO MISTRAL",
+      "route": "HOS → KLT",
       "time": "Fri Feb 27 03:53:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:29",
+        "eta_rueb": "02:23",
+        "delta_rueb_schleuse": "04:06",
+        "delta_start_rueb": "04:55"
+      },
+      "eta_rueb": "02:23",
+      "eta_schleuse": "06:29",
+      "delta_rueb_schleuse": "04:06",
+      "delta_start_rueb": "04:55"
     },
     {
       "is_target": false,
@@ -241,14 +246,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 26 20:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:28",
+        "eta_schleuse": "06:29",
         "eta_rueb": "02:23",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "02:23",
-      "eta_schleuse": "06:28",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "06:29",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:55"
     },
     {
@@ -375,14 +380,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Feb 26 20:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:28",
+        "eta_schleuse": "06:29",
         "eta_rueb": "02:23",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "02:23",
-      "eta_schleuse": "06:28",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "06:29",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:55"
     },
     {
