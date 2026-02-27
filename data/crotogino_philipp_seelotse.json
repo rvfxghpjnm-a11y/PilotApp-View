@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T05:30:37",
+  "generated_at": "2026-02-27T05:32:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -163,8 +163,8 @@
       "name": "Gregor Kubica",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SERENADA",
+      "route": "KLT → HOS",
       "time": "Thu Feb 26 23:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -385,7 +385,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "09:24",
+      "eta_rueb_kiel": "09:23",
       "eta_rueb": "09:00",
       "ship": "MARJATTA",
       "q_gruppe": "5",
@@ -397,6 +397,13 @@
       "ship": "FALKENSTEIN + HÖRN20",
       "q_gruppe": "4",
       "route": "LÜW → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "10:15",
+      "ship": "KEY STREAM",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
     }
   ]
 }
