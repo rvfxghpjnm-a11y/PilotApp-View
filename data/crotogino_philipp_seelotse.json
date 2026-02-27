@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T04:50:40",
+  "generated_at": "2026-02-27T04:52:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -179,8 +179,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 26 22:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -195,8 +195,8 @@
       "name": "Tim Woitanowski",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 26 22:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -398,8 +398,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 26 22:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -414,8 +414,8 @@
       "name": "Tim Woitanowski",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Feb 26 22:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -507,20 +507,13 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "04:50",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
       "eta_rueb": "07:00",
       "ship": "FALKENSTEIN + HÖRN20",
       "q_gruppe": "4",
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "09:26",
+      "eta_rueb_kiel": "09:24",
       "eta_rueb": "09:20",
       "ship": "MARJATTA",
       "q_gruppe": "5",
