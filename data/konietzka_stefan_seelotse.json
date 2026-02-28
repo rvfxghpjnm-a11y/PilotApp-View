@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T09:08:36",
+  "generated_at": "2026-02-28T09:10:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -292,8 +292,8 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 00:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -537,8 +537,8 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 00:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -612,13 +612,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "09:05",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "11:41",
       "eta_rueb": "11:55",
