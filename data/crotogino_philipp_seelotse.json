@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T08:10:46",
+  "generated_at": "2026-02-28T08:12:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,14 +84,14 @@
       "time": "Sat Feb 28 05:00:00 CET 2026",
       "times": {
         "eta_schleuse": "15:20",
-        "eta_rueb": "10:53",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:59"
+        "eta_rueb": "10:52",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "10:53",
+      "eta_rueb": "10:52",
       "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:59"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -253,14 +253,14 @@
       "route": "RÜB → KRH",
       "time": "Sat Feb 28 00:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:11",
+        "eta_schleuse": "08:12",
         "eta_rueb": "06:47",
-        "delta_rueb_schleuse": "01:24",
+        "delta_rueb_schleuse": "01:25",
         "delta_start_rueb": "05:03"
       },
       "eta_rueb": "06:47",
-      "eta_schleuse": "08:11",
-      "delta_rueb_schleuse": "01:24",
+      "eta_schleuse": "08:12",
+      "delta_rueb_schleuse": "01:25",
       "delta_start_rueb": "05:03"
     },
     {
@@ -398,14 +398,14 @@
       "time": "Sat Feb 28 05:00:00 CET 2026",
       "times": {
         "eta_schleuse": "15:20",
-        "eta_rueb": "10:53",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:59"
+        "eta_rueb": "10:52",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "10:53",
+      "eta_rueb": "10:52",
       "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:59"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -471,14 +471,14 @@
       "route": "RÜB → KRH",
       "time": "Sat Feb 28 00:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:11",
+        "eta_schleuse": "08:12",
         "eta_rueb": "06:47",
-        "delta_rueb_schleuse": "01:24",
+        "delta_rueb_schleuse": "01:25",
         "delta_start_rueb": "05:03"
       },
       "eta_rueb": "06:47",
-      "eta_schleuse": "08:11",
-      "delta_rueb_schleuse": "01:24",
+      "eta_schleuse": "08:12",
+      "delta_rueb_schleuse": "01:25",
       "delta_start_rueb": "05:03"
     },
     {
@@ -597,6 +597,13 @@
       "ship": "ELBWAVE",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "13:56",
+      "eta_rueb": "14:00",
+      "ship": "SYLVIA",
+      "q_gruppe": "5",
+      "route": "RÜB → KRH"
     }
   ]
 }
