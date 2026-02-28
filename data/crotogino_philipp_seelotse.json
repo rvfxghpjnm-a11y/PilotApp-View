@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T22:28:44",
+  "generated_at": "2026-02-28T22:30:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -112,8 +112,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "EEMS DUNDEE",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 21:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -131,16 +131,11 @@
       "fahrzeug": "EMOTION",
       "route": "HOS → KLT",
       "time": "Sat Feb 28 21:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:28",
-        "eta_rueb": "18:04",
-        "delta_rueb_schleuse": "04:24",
-        "delta_start_rueb": "05:22"
-      },
-      "eta_rueb": "18:04",
-      "eta_schleuse": "22:28",
-      "delta_rueb_schleuse": "04:24",
-      "delta_start_rueb": "05:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -332,16 +327,11 @@
       "fahrzeug": "EMOTION",
       "route": "RÜB → HOS",
       "time": "Sat Feb 28 13:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:28",
-        "eta_rueb": "18:04",
-        "delta_rueb_schleuse": "04:24",
-        "delta_start_rueb": "05:22"
-      },
-      "eta_rueb": "18:04",
-      "eta_schleuse": "22:28",
-      "delta_rueb_schleuse": "04:24",
-      "delta_start_rueb": "05:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -354,14 +344,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 28 13:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:01",
+        "eta_schleuse": "00:00",
         "eta_rueb": "20:11",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "20:11",
-      "eta_schleuse": "00:01",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "00:00",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "05:33"
     }
   ],
@@ -437,8 +427,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "EEMS DUNDEE",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 21:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -572,16 +562,11 @@
       "fahrzeug": "EMOTION",
       "route": "RÜB → HOS",
       "time": "Sat Feb 28 13:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:28",
-        "eta_rueb": "18:04",
-        "delta_rueb_schleuse": "04:24",
-        "delta_start_rueb": "05:22"
-      },
-      "eta_rueb": "18:04",
-      "eta_schleuse": "22:28",
-      "delta_rueb_schleuse": "04:24",
-      "delta_start_rueb": "05:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -594,14 +579,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Feb 28 13:08:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:01",
+        "eta_schleuse": "00:00",
         "eta_rueb": "20:11",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "20:11",
-      "eta_schleuse": "00:01",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "00:00",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "05:33"
     }
   ],
@@ -640,13 +625,6 @@
       "eta_rueb": "02:05",
       "ship": "VLIERBORG",
       "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "23:00",
-      "ship": "EEMS DUNDEE",
-      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
