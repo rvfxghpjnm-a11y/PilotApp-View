@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T04:50:45",
+  "generated_at": "2026-02-28T04:52:42",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -17,7 +17,7 @@
       "aufgabe": "Seebört",
       "nr": 1,
       "fahrzeug": "NORDIC SIRA",
-      "route": "UTG → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Feb 28 04:45:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -190,14 +190,14 @@
       "time": "Sat Feb 28 00:46:00 CET 2026",
       "times": {
         "eta_schleuse": "10:10",
-        "eta_rueb": "05:33",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:35"
+        "eta_rueb": "05:32",
+        "delta_rueb_schleuse": "04:38",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "05:33",
+      "eta_rueb": "05:32",
       "eta_schleuse": "10:10",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:35"
+      "delta_rueb_schleuse": "04:38",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -301,8 +301,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BIANCA RAMBOW",
+      "route": "KLT → HOS",
       "time": "Fri Feb 27 21:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -408,14 +408,14 @@
       "time": "Sat Feb 28 00:46:00 CET 2026",
       "times": {
         "eta_schleuse": "10:10",
-        "eta_rueb": "05:33",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:35"
+        "eta_rueb": "05:32",
+        "delta_rueb_schleuse": "04:38",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "05:33",
+      "eta_rueb": "05:32",
       "eta_schleuse": "10:10",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:35"
+      "delta_rueb_schleuse": "04:38",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -537,38 +537,38 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:41",
+      "eta_rueb_kiel": "06:39",
       "eta_rueb": "06:00",
       "ship": "BALTICBORG",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:49",
-      "eta_rueb": "06:05",
-      "ship": "EEMS DUNDEE",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "06:38",
+      "eta_rueb_kiel": "06:36",
       "eta_rueb": "06:10",
       "ship": "HAV SARDIS",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
     },
     {
+      "eta_rueb_kiel": "06:49",
+      "eta_rueb": "06:35",
+      "ship": "EEMS DUNDEE",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:54",
+      "eta_rueb": "08:25",
+      "ship": "MANGEN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": null,
       "eta_rueb": "08:30",
       "ship": "CONTAINERSHIPS 8",
       "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "08:56",
-      "eta_rueb": "08:35",
-      "ship": "MANGEN",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
