@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T04:24:36",
+  "generated_at": "2026-03-01T04:26:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -168,15 +168,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:22",
-        "eta_rueb": "06:11",
+        "eta_schleuse": "10:21",
+        "eta_rueb": "06:10",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:13"
+        "delta_start_rueb": "04:12"
       },
-      "eta_rueb": "06:11",
-      "eta_schleuse": "10:22",
+      "eta_rueb": "06:10",
+      "eta_schleuse": "10:21",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:13"
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -206,14 +206,19 @@
       "name": "Alexander Migge",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC ECLIPSE",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 22:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:03",
+        "eta_rueb": "04:30",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "08:06"
+      },
+      "eta_rueb": "04:30",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "08:06"
     },
     {
       "is_target": false,
@@ -254,14 +259,19 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCHELDEBANK",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 21:47:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:07",
+        "eta_rueb": "04:33",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:59"
+      },
+      "eta_rueb": "04:33",
+      "eta_schleuse": "08:07",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:59"
     },
     {
       "is_target": false,
@@ -514,15 +524,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:22",
-        "eta_rueb": "06:11",
+        "eta_schleuse": "10:21",
+        "eta_rueb": "06:10",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:13"
+        "delta_start_rueb": "04:12"
       },
-      "eta_rueb": "06:11",
-      "eta_schleuse": "10:22",
+      "eta_rueb": "06:10",
+      "eta_schleuse": "10:21",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:13"
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -552,14 +562,19 @@
       "name": "Alexander Migge",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC ECLIPSE",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 22:14:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:03",
+        "eta_rueb": "04:30",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "08:06"
+      },
+      "eta_rueb": "04:30",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "08:06"
     },
     {
       "is_target": false,
@@ -600,14 +615,19 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCHELDEBANK",
+      "route": "RÜB → HOS",
       "time": "Sat Feb 28 21:47:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:07",
+        "eta_rueb": "04:33",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:59"
+      },
+      "eta_rueb": "04:33",
+      "eta_schleuse": "08:07",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:59"
     },
     {
       "is_target": false,
@@ -671,20 +691,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:30",
-      "eta_rueb": "04:30",
-      "ship": "BALTIC ECLIPSE",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "04:33",
-      "eta_rueb": "04:33",
-      "ship": "SCHELDEBANK",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "06:37",
       "eta_rueb": "06:30",
       "ship": "LADY ARIANE",
@@ -692,7 +698,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:53",
+      "eta_rueb_kiel": "07:52",
       "eta_rueb": "07:42",
       "ship": "ARKLOW ARROW",
       "q_gruppe": "3",
