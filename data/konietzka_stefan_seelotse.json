@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T17:46:36",
+  "generated_at": "2026-03-01T17:48:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "VOX APOLONIA",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 16:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:16",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -289,9 +294,14 @@
       "fahrzeug": "VOX APOLONIA",
       "route": "KLT → HOS",
       "time": "Sun Mar 01 08:55:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:16",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -413,9 +423,14 @@
       "fahrzeug": "VOX APOLONIA",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 16:35:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:16",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
