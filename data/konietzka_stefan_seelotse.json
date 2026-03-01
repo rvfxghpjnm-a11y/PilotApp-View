@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-01T22:58:37",
+  "generated_at": "2026-03-01T23:00:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
     "see": 7
   },
@@ -94,14 +94,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Mar 01 19:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:37",
+        "eta_schleuse": "00:36",
         "eta_rueb": "20:44",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "07:20"
       },
       "eta_rueb": "20:44",
-      "eta_schleuse": "00:37",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "00:36",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "07:20"
     },
     {
@@ -272,22 +272,6 @@
       "eta_schleuse": "23:12",
       "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "04:29"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hüpers",
-      "name": "Peter Hüpers",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "TOLLUND",
-      "route": "RÜB → UTG",
-      "time": "Sun Mar 01 14:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -344,14 +328,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Mar 01 19:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:37",
+        "eta_schleuse": "00:36",
         "eta_rueb": "20:44",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "07:20"
       },
       "eta_rueb": "20:44",
-      "eta_schleuse": "00:37",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "00:36",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "07:20"
     },
     {
@@ -437,22 +421,6 @@
       "eta_schleuse": "23:12",
       "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "04:29"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hüpers",
-      "name": "Peter Hüpers",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "TOLLUND",
-      "route": "RÜB → UTG",
-      "time": "Sun Mar 01 14:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -472,7 +440,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:07",
+      "eta_rueb_kiel": "03:06",
       "eta_rueb": "01:59",
       "ship": "MED ANTARCTIC",
       "q_gruppe": "3",
