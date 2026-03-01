@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T22:16:37",
+  "generated_at": "2026-03-01T22:18:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -56,9 +56,14 @@
       "fahrzeug": "SOUTH ENABLER",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 20:52:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -163,15 +168,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 18:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:10",
-        "eta_rueb": "23:43",
+        "eta_schleuse": "04:09",
+        "eta_rueb": "23:42",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "23:43",
-      "eta_schleuse": "04:10",
+      "eta_rueb": "23:42",
+      "eta_schleuse": "04:09",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -312,9 +317,14 @@
       "fahrzeug": "SOUTH ENABLER",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 20:52:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -371,15 +381,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 18:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:10",
-        "eta_rueb": "23:43",
+        "eta_schleuse": "04:09",
+        "eta_rueb": "23:42",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": "23:43",
-      "eta_schleuse": "04:10",
+      "eta_rueb": "23:42",
+      "eta_schleuse": "04:09",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -480,7 +490,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:49",
+      "eta_rueb_kiel": "22:48",
       "eta_rueb": "22:45",
       "ship": "X-PRESS AGILITY",
       "q_gruppe": "1",
