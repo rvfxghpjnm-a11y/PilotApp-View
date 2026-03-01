@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T05:10:36",
+  "generated_at": "2026-03-01T05:12:36",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -9,10 +9,10 @@
     "from": "HOS",
     "to": "RÜB",
     "time": "Sun Mar 01 05:03:00 CET 2026",
-    "nr": 3
+    "nr": 4
   },
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 2,
     "see": 8
   },
@@ -20,11 +20,27 @@
   "lotsen": [
     {
       "is_target": false,
+      "vorname": "Peter",
+      "nachname": "Vogel",
+      "name": "Peter Vogel",
+      "aufgabe": "Seebört",
+      "nr": 1,
+      "fahrzeug": "HAV AMETHYST",
+      "route": "HOS → UTG",
+      "time": "Sun Mar 01 05:03:00 CET 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 1,
+      "nr": 2,
       "fahrzeug": "MERIT",
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 05:03:00 CET 2026",
@@ -40,7 +56,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 2,
+      "nr": 3,
       "fahrzeug": "ALANA",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 05:03:00 CET 2026",
@@ -56,25 +72,9 @@
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
-      "nr": 3,
+      "nr": 4,
       "fahrzeug": "IVER BRILLIANT",
       "route": "HOS → RÜB",
-      "time": "Sun Mar 01 05:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Vogel",
-      "name": "Peter Vogel",
-      "aufgabe": "Seebört",
-      "nr": 4,
-      "fahrzeug": "HAV AMETHYST",
-      "route": "HOS → UTG",
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -263,14 +263,14 @@
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": {
         "eta_schleuse": "11:13",
-        "eta_rueb": "06:17",
-        "delta_rueb_schleuse": "04:56",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "06:16",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "06:17",
+      "eta_rueb": "06:16",
       "eta_schleuse": "11:13",
-      "delta_rueb_schleuse": "04:56",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -409,22 +409,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tom",
-      "nachname": "Demant",
-      "name": "Tom Demant",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "BALTIC JONGLEUR",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 28 15:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -434,7 +418,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 1,
+      "nr": 2,
       "fahrzeug": "MERIT",
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 05:03:00 CET 2026",
@@ -450,7 +434,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 2,
+      "nr": 3,
       "fahrzeug": "ALANA",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 05:03:00 CET 2026",
@@ -466,7 +450,7 @@
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
-      "nr": 3,
+      "nr": 4,
       "fahrzeug": "IVER BRILLIANT",
       "route": "HOS → RÜB",
       "time": "Sun Mar 01 05:03:00 CET 2026",
@@ -593,14 +577,14 @@
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": {
         "eta_schleuse": "11:13",
-        "eta_rueb": "06:17",
-        "delta_rueb_schleuse": "04:56",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "06:16",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "06:17",
+      "eta_rueb": "06:16",
       "eta_schleuse": "11:13",
-      "delta_rueb_schleuse": "04:56",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -659,22 +643,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tom",
-      "nachname": "Demant",
-      "name": "Tom Demant",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "BALTIC JONGLEUR",
-      "route": "RÜB → HOS",
-      "time": "Sat Feb 28 15:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -708,7 +676,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:53",
+      "eta_rueb_kiel": "08:52",
       "eta_rueb": "08:10",
       "ship": "BALTIC GRAIN",
       "q_gruppe": "5",
