@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T00:12:37",
+  "generated_at": "2026-03-02T00:14:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Oliver Schran",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "GAASTBORG",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Mar 01 21:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -469,6 +469,13 @@
       "eta_rueb": "04:20",
       "ship": "ARETHA",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:22",
+      "eta_rueb": "04:25",
+      "ship": "CHARLOTTA",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
