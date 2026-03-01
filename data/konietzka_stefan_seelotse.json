@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T02:06:37",
+  "generated_at": "2026-03-01T02:08:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -37,14 +37,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VLIERBORG",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 01:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:02",
+        "eta_rueb": "02:27",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:51"
+      },
+      "eta_rueb": "02:27",
+      "eta_schleuse": "06:02",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:51"
     },
     {
       "is_target": false,
@@ -58,14 +63,14 @@
       "time": "Sun Mar 01 00:46:00 CET 2026",
       "times": {
         "eta_schleuse": "10:59",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "06:32",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": null,
+      "eta_rueb": "06:32",
       "eta_schleuse": "10:59",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -466,14 +471,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VLIERBORG",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 01:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:02",
+        "eta_rueb": "02:27",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:51"
+      },
+      "eta_rueb": "02:27",
+      "eta_schleuse": "06:02",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:51"
     },
     {
       "is_target": false,
@@ -487,14 +497,14 @@
       "time": "Sun Mar 01 00:46:00 CET 2026",
       "times": {
         "eta_schleuse": "10:59",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "06:32",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": null,
+      "eta_rueb": "06:32",
       "eta_schleuse": "10:59",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -767,13 +777,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "02:28",
-      "eta_rueb": "02:25",
-      "ship": "VLIERBORG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:39",
       "eta_rueb": "04:15",
