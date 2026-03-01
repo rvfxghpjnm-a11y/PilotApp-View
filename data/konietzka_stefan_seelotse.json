@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T01:58:37",
+  "generated_at": "2026-03-01T02:00:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -72,9 +72,14 @@
       "fahrzeug": "TALINA B",
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -89,15 +94,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:35",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "10:33",
+        "eta_rueb": "06:22",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "10:35",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "06:22",
+      "eta_schleuse": "10:33",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -109,9 +114,14 @@
       "fahrzeug": "RIX ATLANTIC",
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:52",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:52",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -486,9 +496,14 @@
       "fahrzeug": "TALINA B",
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -503,15 +518,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:35",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "10:33",
+        "eta_rueb": "06:22",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "10:35",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "06:22",
+      "eta_schleuse": "10:33",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -523,9 +538,14 @@
       "fahrzeug": "RIX ATLANTIC",
       "route": "HOR → RÜB",
       "time": "Sun Mar 01 00:26:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:52",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:52",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
