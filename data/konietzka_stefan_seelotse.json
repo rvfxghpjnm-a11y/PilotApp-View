@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T10:12:37",
+  "generated_at": "2026-03-01T10:14:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "JUDITH",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 08:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:09",
+        "eta_rueb": "10:14",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "10:14",
+      "eta_schleuse": "14:09",
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -217,14 +222,14 @@
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": {
         "eta_schleuse": "15:43",
-        "eta_rueb": "10:27",
-        "delta_rueb_schleuse": "05:16",
-        "delta_start_rueb": "03:37"
+        "eta_rueb": "10:28",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": "10:27",
+      "eta_rueb": "10:28",
       "eta_schleuse": "15:43",
-      "delta_rueb_schleuse": "05:16",
-      "delta_start_rueb": "03:37"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -238,14 +243,14 @@
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": {
         "eta_schleuse": "15:51",
-        "eta_rueb": "10:34",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "10:37",
+        "delta_rueb_schleuse": "05:14",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "10:34",
+      "eta_rueb": "10:37",
       "eta_schleuse": "15:51",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "05:14",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -259,14 +264,14 @@
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": {
         "eta_schleuse": "15:47",
-        "eta_rueb": "10:31",
-        "delta_rueb_schleuse": "05:16",
-        "delta_start_rueb": "03:29"
+        "eta_rueb": "10:34",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "10:31",
+      "eta_rueb": "10:34",
       "eta_schleuse": "15:47",
-      "delta_rueb_schleuse": "05:16",
-      "delta_start_rueb": "03:29"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -436,14 +441,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "JUDITH",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 08:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:09",
+        "eta_rueb": "10:14",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "10:14",
+      "eta_schleuse": "14:09",
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -557,14 +567,14 @@
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": {
         "eta_schleuse": "15:43",
-        "eta_rueb": "10:27",
-        "delta_rueb_schleuse": "05:16",
-        "delta_start_rueb": "03:37"
+        "eta_rueb": "10:28",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": "10:27",
+      "eta_rueb": "10:28",
       "eta_schleuse": "15:43",
-      "delta_rueb_schleuse": "05:16",
-      "delta_start_rueb": "03:37"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -578,14 +588,14 @@
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": {
         "eta_schleuse": "15:51",
-        "eta_rueb": "10:34",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "10:37",
+        "delta_rueb_schleuse": "05:14",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "10:34",
+      "eta_rueb": "10:37",
       "eta_schleuse": "15:51",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "05:14",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -599,14 +609,14 @@
       "time": "Sun Mar 01 05:03:00 CET 2026",
       "times": {
         "eta_schleuse": "15:47",
-        "eta_rueb": "10:31",
-        "delta_rueb_schleuse": "05:16",
-        "delta_start_rueb": "03:29"
+        "eta_rueb": "10:34",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "10:31",
+      "eta_rueb": "10:34",
       "eta_schleuse": "15:47",
-      "delta_rueb_schleuse": "05:16",
-      "delta_start_rueb": "03:29"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -707,10 +717,10 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:14",
-      "eta_rueb": "10:30",
-      "ship": "JUDITH",
-      "q_gruppe": "1",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "10:35",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
       "route": "RÜB → HOS"
     },
     {
@@ -721,7 +731,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:48",
+      "eta_rueb_kiel": "13:46",
       "eta_rueb": "13:45",
       "ship": "LADY HABARKA",
       "q_gruppe": "5",
