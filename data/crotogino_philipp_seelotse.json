@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T09:12:36",
+  "generated_at": "2026-03-01T09:14:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -104,14 +104,14 @@
       "time": "Sun Mar 01 07:47:00 CET 2026",
       "times": {
         "eta_schleuse": "18:02",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "12:50",
+        "delta_rueb_schleuse": "05:12",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": null,
+      "eta_rueb": "12:50",
       "eta_schleuse": "18:02",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:12",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -492,14 +492,14 @@
       "time": "Sun Mar 01 07:47:00 CET 2026",
       "times": {
         "eta_schleuse": "18:02",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "12:50",
+        "delta_rueb_schleuse": "05:12",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": null,
+      "eta_rueb": "12:50",
       "eta_schleuse": "18:02",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:12",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -701,6 +701,13 @@
       "ship": "CMA CGM RUNDALE",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "13:46",
+      "eta_rueb": "13:45",
+      "ship": "LADY HABARKA",
+      "q_gruppe": "5",
+      "route": "RÜB → UTG"
     }
   ]
 }
