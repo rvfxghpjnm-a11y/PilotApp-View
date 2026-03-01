@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T00:32:37",
+  "generated_at": "2026-03-02T00:34:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -140,16 +140,11 @@
       "fahrzeug": "TOLLUND",
       "route": "HOS → KLT",
       "time": "Sun Mar 01 19:39:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "18:46",
-        "delta_rueb_schleuse": "2285448:00",
-        "delta_start_rueb": "05:16"
-      },
-      "eta_rueb": "18:46",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2285448:00",
-      "delta_start_rueb": "05:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -162,14 +157,14 @@
       "route": "HOS → KLT",
       "time": "Sun Mar 01 19:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:36",
+        "eta_schleuse": "00:37",
         "eta_rueb": "20:44",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "07:20"
       },
       "eta_rueb": "20:44",
-      "eta_schleuse": "00:36",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "00:37",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "07:20"
     },
     {
@@ -437,21 +432,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:00",
+      "eta_rueb_kiel": "02:59",
       "eta_rueb": "02:55",
       "ship": "KERTU",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:03",
+      "eta_rueb_kiel": "03:02",
       "eta_rueb": "02:57",
       "ship": "FEED STAVANGER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:06",
+      "eta_rueb_kiel": "03:05",
       "eta_rueb": "02:59",
       "ship": "MED ANTARCTIC",
       "q_gruppe": "3",
