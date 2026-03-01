@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-01T16:44:37",
+  "generated_at": "2026-03-01T16:46:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 2,
     "see": 5
   },
@@ -127,14 +127,14 @@
       "time": "Sun Mar 01 12:07:00 CET 2026",
       "times": {
         "eta_schleuse": "20:26",
-        "eta_rueb": "16:51",
-        "delta_rueb_schleuse": "03:35",
-        "delta_start_rueb": "03:53"
+        "eta_rueb": "16:52",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "16:51",
+      "eta_rueb": "16:52",
       "eta_schleuse": "20:26",
-      "delta_rueb_schleuse": "03:35",
-      "delta_start_rueb": "03:53"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -362,22 +362,6 @@
       "eta_schleuse": "17:34",
       "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:37"
-    },
-    {
-      "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Weise",
-      "name": "Carsten Weise",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sun Mar 01 05:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -451,14 +435,14 @@
       "time": "Sun Mar 01 12:07:00 CET 2026",
       "times": {
         "eta_schleuse": "20:26",
-        "eta_rueb": "16:51",
-        "delta_rueb_schleuse": "03:35",
-        "delta_start_rueb": "03:53"
+        "eta_rueb": "16:52",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "16:51",
+      "eta_rueb": "16:52",
       "eta_schleuse": "20:26",
-      "delta_rueb_schleuse": "03:35",
-      "delta_start_rueb": "03:53"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -622,28 +606,12 @@
       "eta_schleuse": "17:34",
       "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:37"
-    },
-    {
-      "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Weise",
-      "name": "Carsten Weise",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sun Mar 01 05:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:49",
+      "eta_rueb_kiel": "18:48",
       "eta_rueb": "18:35",
       "ship": "GEORG ESSBERGER",
       "q_gruppe": "4",
@@ -664,7 +632,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:54",
+      "eta_rueb_kiel": "20:55",
       "eta_rueb": "21:00",
       "ship": "DUZGIT ENDEAVOUR",
       "q_gruppe": "1",
