@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T07:12:36",
+  "generated_at": "2026-03-01T07:14:35",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -242,14 +242,19 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW ARROW",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 00:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:19",
+        "eta_rueb": "07:40",
+        "delta_rueb_schleuse": "03:39",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "07:40",
+      "eta_schleuse": "11:19",
+      "delta_rueb_schleuse": "03:39",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -279,8 +284,8 @@
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HIRA V",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -450,14 +455,19 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW ARROW",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 00:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:19",
+        "eta_rueb": "07:40",
+        "delta_rueb_schleuse": "03:39",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "07:40",
+      "eta_schleuse": "11:19",
+      "delta_rueb_schleuse": "03:39",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -487,8 +497,8 @@
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HIRA V",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 01 00:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -541,20 +551,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "07:42",
-      "eta_rueb": "07:42",
-      "ship": "ARKLOW ARROW",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "07:45",
-      "ship": "HIRA V",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "07:54",
       "eta_rueb": "07:48",
