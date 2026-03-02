@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T23:30:46",
+  "generated_at": "2026-03-02T23:32:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "LOLLAND",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Mar 02 21:36:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -122,14 +122,14 @@
       "time": "Mon Mar 02 20:49:00 CET 2026",
       "times": {
         "eta_schleuse": "06:16",
-        "eta_rueb": "01:15",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "03:29"
+        "eta_rueb": "01:14",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "01:15",
+      "eta_rueb": "01:14",
       "eta_schleuse": "06:16",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "03:29"
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -254,8 +254,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 18:04:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -270,8 +270,8 @@
       "name": "Johannes Röhrs",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 17:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -286,8 +286,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 17:12:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -302,8 +302,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "VESTVIND",
-      "route": "HOS → KLT",
+      "fahrzeug": "VLIELAND",
+      "route": "KLT → HOS",
       "time": "Mon Mar 02 16:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -396,14 +396,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 14:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:17",
+        "eta_schleuse": "00:16",
         "eta_rueb": "20:37",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "20:37",
-      "eta_schleuse": "00:17",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "00:16",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:19"
     }
   ],
@@ -489,14 +489,14 @@
       "time": "Mon Mar 02 20:49:00 CET 2026",
       "times": {
         "eta_schleuse": "06:16",
-        "eta_rueb": "01:15",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "03:29"
+        "eta_rueb": "01:14",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "01:15",
+      "eta_rueb": "01:14",
       "eta_schleuse": "06:16",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "03:29"
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -589,8 +589,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 18:04:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -605,8 +605,8 @@
       "name": "Johannes Röhrs",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 17:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -621,8 +621,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 17:12:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -683,14 +683,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 14:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:17",
+        "eta_schleuse": "00:16",
         "eta_rueb": "20:37",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "20:37",
-      "eta_schleuse": "00:17",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "00:16",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:19"
     }
   ],
@@ -715,13 +715,6 @@
       "eta_rueb": "02:53",
       "ship": "BALTIC WHALE",
       "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "23:30",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
       "route": "RÜB → HOS"
     }
   ]
