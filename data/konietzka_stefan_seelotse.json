@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-02T13:18:39",
+  "generated_at": "2026-03-02T13:20:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
-    "wach": 4,
+    "wach": 2,
     "see": 3
   },
   "times": null,
@@ -16,14 +16,19 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "NORDBORG",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 12:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:29",
+        "eta_rueb": "13:52",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "05:32"
+      },
+      "eta_rueb": "13:52",
+      "eta_schleuse": "17:29",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "05:32"
     },
     {
       "is_target": false,
@@ -73,15 +78,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Mar 02 12:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:56",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "21:53",
+        "eta_rueb": "16:52",
+        "delta_rueb_schleuse": "05:01",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "21:56",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "16:52",
+      "eta_schleuse": "21:53",
+      "delta_rueb_schleuse": "05:01",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -126,14 +131,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Mar 02 11:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:37",
+        "eta_schleuse": "21:34",
         "eta_rueb": "16:47",
-        "delta_rueb_schleuse": "04:50",
+        "delta_rueb_schleuse": "04:47",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "16:47",
-      "eta_schleuse": "21:37",
-      "delta_rueb_schleuse": "04:50",
+      "eta_schleuse": "21:34",
+      "delta_rueb_schleuse": "04:47",
       "delta_start_rueb": "03:33"
     },
     {
@@ -221,14 +226,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:20",
+        "eta_schleuse": "13:22",
         "eta_rueb": "09:29",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "09:29",
-      "eta_schleuse": "13:20",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "13:22",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "05:43"
     },
     {
@@ -242,14 +247,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:28",
+        "eta_schleuse": "13:30",
         "eta_rueb": "09:36",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "09:36",
-      "eta_schleuse": "13:28",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "13:30",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:36"
     },
     {
@@ -259,14 +264,19 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBWATER",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 07:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:39",
+        "eta_rueb": "13:44",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "05:24"
+      },
+      "eta_rueb": "13:44",
+      "eta_schleuse": "17:39",
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "05:24"
     },
     {
       "is_target": false,
@@ -275,8 +285,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SYLVIA",
+      "route": "KRH → RÜB",
       "time": "Mon Mar 02 07:19:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -323,55 +333,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Erskine",
-      "nachname": "Schuh",
-      "name": "Erskine Schuh",
-      "aufgabe": "Wachgänger",
-      "nr": 18,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Mon Mar 02 04:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Florian",
-      "nachname": "Koch",
-      "name": "Florian Koch",
-      "aufgabe": "Wachgänger",
-      "nr": 19,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Mon Mar 02 04:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Alexander",
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 18,
       "fahrzeug": "RIX GULF",
       "route": "RÜB → HOS",
       "time": "Sun Mar 01 23:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:24",
+        "eta_schleuse": "13:26",
         "eta_rueb": "09:33",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "09:33",
-      "eta_schleuse": "13:24",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "13:26",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "05:43"
     }
   ],
@@ -383,14 +361,19 @@
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "NORDBORG",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 12:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:29",
+        "eta_rueb": "13:52",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "05:32"
+      },
+      "eta_rueb": "13:52",
+      "eta_schleuse": "17:29",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "05:32"
     },
     {
       "is_target": false,
@@ -440,15 +423,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Mar 02 12:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:56",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "21:53",
+        "eta_rueb": "16:52",
+        "delta_rueb_schleuse": "05:01",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "21:56",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "16:52",
+      "eta_schleuse": "21:53",
+      "delta_rueb_schleuse": "05:01",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -461,14 +444,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Mar 02 11:51:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:37",
+        "eta_schleuse": "21:34",
         "eta_rueb": "16:47",
-        "delta_rueb_schleuse": "04:50",
+        "delta_rueb_schleuse": "04:47",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "16:47",
-      "eta_schleuse": "21:37",
-      "delta_rueb_schleuse": "04:50",
+      "eta_schleuse": "21:34",
+      "delta_rueb_schleuse": "04:47",
       "delta_start_rueb": "03:33"
     },
     {
@@ -540,14 +523,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:20",
+        "eta_schleuse": "13:22",
         "eta_rueb": "09:29",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "09:29",
-      "eta_schleuse": "13:20",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "13:22",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "05:43"
     },
     {
@@ -561,14 +544,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 08:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:28",
+        "eta_schleuse": "13:30",
         "eta_rueb": "09:36",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "09:36",
-      "eta_schleuse": "13:28",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "13:30",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:36"
     },
     {
@@ -578,14 +561,19 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBWATER",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 02 07:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:39",
+        "eta_rueb": "13:44",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "05:24"
+      },
+      "eta_rueb": "13:44",
+      "eta_schleuse": "17:39",
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "05:24"
     },
     {
       "is_target": false,
@@ -594,8 +582,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SYLVIA",
+      "route": "KRH → RÜB",
       "time": "Mon Mar 02 07:19:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -609,45 +597,24 @@
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 18,
       "fahrzeug": "RIX GULF",
       "route": "RÜB → HOS",
       "time": "Sun Mar 01 23:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:24",
+        "eta_schleuse": "13:26",
         "eta_rueb": "09:33",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "09:33",
-      "eta_schleuse": "13:24",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "13:26",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "05:43"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "13:44",
-      "eta_rueb": "13:45",
-      "ship": "ELBWATER",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "13:52",
-      "eta_rueb": "13:48",
-      "ship": "NORDBORG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "14:00",
-      "ship": "SYLVIA",
-      "q_gruppe": "5",
-      "route": "KRH → RÜB"
-    },
     {
       "eta_rueb_kiel": "16:01",
       "eta_rueb": "15:45",
@@ -691,7 +658,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:39",
+      "eta_rueb_kiel": "18:36",
       "eta_rueb": "17:45",
       "ship": "VESTVIND",
       "q_gruppe": "1",
@@ -712,7 +679,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:36",
+      "eta_rueb_kiel": "18:29",
       "eta_rueb": "17:45",
       "ship": "LOLLAND",
       "q_gruppe": "4",
