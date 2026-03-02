@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T17:28:42",
+  "generated_at": "2026-03-02T17:30:41",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,9 +12,9 @@
     "nr": 8
   },
   "gruppen": {
-    "kanal": 16,
+    "kanal": 17,
     "wach": 2,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -39,7 +39,7 @@
       "vorname": "Mykola",
       "nachname": "Zozulya",
       "name": "Mykola Zozulya",
-      "aufgabe": "Seebört",
+      "aufgabe": "Kanalbört",
       "nr": 2,
       "fahrzeug": "Leerfahrt",
       "route": "HOS → RÜB",
@@ -288,14 +288,14 @@
       "route": "HOS → KLT",
       "time": "Mon Mar 02 12:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:32",
+        "eta_schleuse": "17:33",
         "eta_rueb": "13:51",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "05:31"
       },
       "eta_rueb": "13:51",
-      "eta_schleuse": "17:32",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "17:33",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "05:31"
     },
     {
@@ -463,14 +463,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 07:49:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:29",
+        "eta_schleuse": "17:30",
         "eta_rueb": "13:43",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "13:43",
-      "eta_schleuse": "17:29",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "17:30",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:23"
     }
   ],
@@ -485,6 +485,22 @@
       "fahrzeug": "AQUAMAR",
       "route": "HOS → RÜB",
       "time": "Mon Mar 02 17:12:00 CET 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
+      "vorname": "Mykola",
+      "nachname": "Zozulya",
+      "name": "Mykola Zozulya",
+      "aufgabe": "Kanalbört",
+      "nr": 2,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → RÜB",
+      "time": "Mon Mar 02 16:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -771,14 +787,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 07:49:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:29",
+        "eta_schleuse": "17:30",
         "eta_rueb": "13:43",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "13:43",
-      "eta_schleuse": "17:29",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "17:30",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:23"
     }
   ],
