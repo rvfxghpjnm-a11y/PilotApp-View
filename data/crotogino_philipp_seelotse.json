@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T17:52:42",
+  "generated_at": "2026-03-02T17:54:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 9
   },
   "gruppen": {
-    "kanal": 18,
+    "kanal": 17,
     "wach": 2,
     "see": 6
   },
@@ -267,15 +267,15 @@
       "route": "HOR → RÜB",
       "time": "Mon Mar 02 13:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:27",
-        "eta_rueb": "18:15",
+        "eta_schleuse": "22:26",
+        "eta_rueb": "18:14",
         "delta_rueb_schleuse": "04:12",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "18:15",
-      "eta_schleuse": "22:27",
+      "eta_rueb": "18:14",
+      "eta_schleuse": "22:26",
       "delta_rueb_schleuse": "04:12",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -462,22 +462,6 @@
       "eta_schleuse": "19:43",
       "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:51"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 26,
-      "fahrzeug": "ELBWATER",
-      "route": "RÜB → HOS",
-      "time": "Mon Mar 02 07:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -666,15 +650,15 @@
       "route": "HOR → RÜB",
       "time": "Mon Mar 02 13:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:27",
-        "eta_rueb": "18:15",
+        "eta_schleuse": "22:26",
+        "eta_rueb": "18:14",
         "delta_rueb_schleuse": "04:12",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "18:15",
-      "eta_schleuse": "22:27",
+      "eta_rueb": "18:14",
+      "eta_schleuse": "22:26",
       "delta_rueb_schleuse": "04:12",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -797,22 +781,6 @@
       "eta_schleuse": "19:43",
       "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:51"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 26,
-      "fahrzeug": "ELBWATER",
-      "route": "RÜB → HOS",
-      "time": "Mon Mar 02 07:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -848,6 +816,13 @@
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "17:55",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "18:20",
       "ship": "Leerfahrt",
       "q_gruppe": "",
       "route": "RÜB → HOS"
