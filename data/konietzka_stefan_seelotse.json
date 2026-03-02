@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T17:48:38",
+  "generated_at": "2026-03-02T17:50:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Mar 02 16:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -216,14 +216,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 14:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:58",
+        "eta_schleuse": "19:57",
         "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "16:23",
-      "eta_schleuse": "19:58",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "19:57",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:29"
     },
     {
@@ -403,8 +403,8 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "FL STOROE",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Mar 02 09:23:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -511,8 +511,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Mar 02 16:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -615,14 +615,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Mar 02 14:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:58",
+        "eta_schleuse": "19:57",
         "eta_rueb": "16:23",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:29"
       },
       "eta_rueb": "16:23",
-      "eta_schleuse": "19:58",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "19:57",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:29"
     },
     {
@@ -738,8 +738,8 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "FL STOROE",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Mar 02 09:23:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -809,13 +809,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "17:40",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "18:13",
       "eta_rueb": "17:45",
       "ship": "VESTVIND",
@@ -841,6 +834,13 @@
       "eta_rueb": "17:45",
       "ship": "LOLLAND",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "17:55",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
       "route": "RÜB → HOS"
     },
     {
