@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T06:00:47",
+  "generated_at": "2026-03-02T06:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "NOREN",
       "route": "HOR → RÜB",
       "time": "Mon Mar 02 04:56:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -35,11 +40,16 @@
       "fahrzeug": "NORDIC ERIKA",
       "route": "HOR → RÜB",
       "time": "Mon Mar 02 04:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:32",
+        "eta_rueb": "10:05",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:03"
+      },
+      "eta_rueb": "10:05",
+      "eta_schleuse": "14:32",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -279,14 +289,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Mar 01 18:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:52",
+        "eta_schleuse": "06:51",
         "eta_rueb": "02:54",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "02:54",
-      "eta_schleuse": "06:52",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "06:51",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "05:52"
     }
   ],
@@ -301,9 +311,14 @@
       "fahrzeug": "NOREN",
       "route": "HOR → RÜB",
       "time": "Mon Mar 02 04:56:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -317,11 +332,16 @@
       "fahrzeug": "NORDIC ERIKA",
       "route": "HOR → RÜB",
       "time": "Mon Mar 02 04:36:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:32",
+        "eta_rueb": "10:05",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:03"
+      },
+      "eta_rueb": "10:05",
+      "eta_schleuse": "14:32",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -513,14 +533,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Mar 01 18:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:52",
+        "eta_schleuse": "06:51",
         "eta_rueb": "02:54",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "02:54",
-      "eta_schleuse": "06:52",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "06:51",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "05:52"
     }
   ],
