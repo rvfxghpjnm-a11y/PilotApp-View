@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T14:26:47",
+  "generated_at": "2026-03-02T14:28:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -337,11 +337,16 @@
       "fahrzeug": "SYLVIA",
       "route": "KRH → RÜB",
       "time": "Mon Mar 02 07:19:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "13:39",
+        "delta_rueb_schleuse": "2285477:07",
+        "delta_start_rueb": "48:49"
+      },
+      "eta_rueb": "13:39",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285477:07",
+      "delta_start_rueb": "48:49"
     }
   ],
   "kanallotsen": [
@@ -593,11 +598,16 @@
       "fahrzeug": "SYLVIA",
       "route": "KRH → RÜB",
       "time": "Mon Mar 02 07:19:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "13:39",
+        "delta_rueb_schleuse": "2285477:07",
+        "delta_start_rueb": "48:49"
+      },
+      "eta_rueb": "13:39",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285477:07",
+      "delta_start_rueb": "48:49"
     }
   ],
   "meldungen_kiel": [],
