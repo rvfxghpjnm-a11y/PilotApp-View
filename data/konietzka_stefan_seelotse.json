@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T17:44:37",
+  "generated_at": "2026-03-03T17:46:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Mar 03 17:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -206,14 +206,19 @@
       "name": "Helge Rambadt",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "IVER BRILLIANT",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 03 11:48:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:21",
+        "eta_rueb": "18:06",
+        "delta_rueb_schleuse": "04:15",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "18:06",
+      "eta_schleuse": "22:21",
+      "delta_rueb_schleuse": "04:15",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -270,14 +275,19 @@
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STOLT PELICAN",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 03 09:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:25",
+        "eta_rueb": "18:03",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:05"
+      },
+      "eta_rueb": "18:03",
+      "eta_schleuse": "22:25",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -341,8 +351,8 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Mar 03 17:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -499,14 +509,19 @@
       "name": "Helge Rambadt",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "IVER BRILLIANT",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 03 11:48:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:21",
+        "eta_rueb": "18:06",
+        "delta_rueb_schleuse": "04:15",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "18:06",
+      "eta_schleuse": "22:21",
+      "delta_rueb_schleuse": "04:15",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -515,14 +530,19 @@
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STOLT PELICAN",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 03 09:46:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:25",
+        "eta_rueb": "18:03",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:05"
+      },
+      "eta_rueb": "18:03",
+      "eta_schleuse": "22:25",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -565,21 +585,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:03",
-      "eta_rueb": "18:00",
-      "ship": "STOLT PELICAN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "18:06",
-      "eta_rueb": "18:02",
-      "ship": "IVER BRILLIANT",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "18:11",
+      "eta_rueb_kiel": "18:10",
       "eta_rueb": "18:04",
       "ship": "STOC NIKE",
       "q_gruppe": "3",
