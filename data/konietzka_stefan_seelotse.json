@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T21:46:37",
+  "generated_at": "2026-03-03T21:48:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -258,14 +258,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 11:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:26",
+        "eta_schleuse": "22:25",
         "eta_rueb": "18:05",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "18:05",
-      "eta_schleuse": "22:26",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "22:25",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:07"
     },
     {
@@ -492,14 +492,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 11:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:26",
+        "eta_schleuse": "22:25",
         "eta_rueb": "18:05",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "18:05",
-      "eta_schleuse": "22:26",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "22:25",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:07"
     },
     {
@@ -541,24 +541,31 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "03:27",
       "eta_rueb": "03:00",
       "ship": "KARILIN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:37",
-      "eta_rueb": "23:30",
-      "ship": "SOUTH ENABLER",
-      "q_gruppe": "0",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "03:03",
+      "ship": "KIARA",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "22:30",
-      "eta_rueb": "23:32",
+      "eta_rueb": "22:30",
       "ship": "OSTBORG",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "22:37",
+      "eta_rueb": "22:33",
+      "ship": "SOUTH ENABLER",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     }
   ]
