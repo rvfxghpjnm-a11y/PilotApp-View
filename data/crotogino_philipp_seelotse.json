@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T21:26:47",
+  "generated_at": "2026-03-03T21:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "MARIETJE HESTER",
       "route": "HOR → RÜB",
       "time": "Tue Mar 03 20:30:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:48",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:48",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -296,9 +301,14 @@
       "fahrzeug": "MARIETJE HESTER",
       "route": "HOR → RÜB",
       "time": "Tue Mar 03 20:30:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:48",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:48",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -518,14 +528,14 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "01:09",
-      "eta_rueb": "01:00",
+      "eta_rueb": "00:50",
       "ship": "AGNES ESSBERGER",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "01:12",
-      "eta_rueb": "01:02",
+      "eta_rueb": "00:53",
       "ship": "HALTI",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
