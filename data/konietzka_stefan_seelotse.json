@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T11:22:37",
+  "generated_at": "2026-03-03T11:24:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKOGAFOSS",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 03 10:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:45",
+        "eta_rueb": "11:52",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "11:52",
+      "eta_schleuse": "15:45",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -378,14 +383,19 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKOGAFOSS",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 03 10:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:45",
+        "eta_rueb": "11:52",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "11:52",
+      "eta_schleuse": "15:45",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -590,13 +600,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "11:51",
-      "eta_rueb": "11:45",
-      "ship": "SKOGAFOSS",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "11:55",
       "eta_rueb": "11:50",
