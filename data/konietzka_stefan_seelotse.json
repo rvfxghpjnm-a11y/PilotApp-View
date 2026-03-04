@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T06:56:38",
+  "generated_at": "2026-03-04T06:58:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Wed Mar 04 06:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:02",
+        "eta_schleuse": "07:04",
         "eta_rueb": "03:01",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:11"
       },
       "eta_rueb": "03:01",
-      "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "07:04",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:11"
     },
     {
@@ -109,9 +109,14 @@
       "fahrzeug": "FOLLA",
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 05:41:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:03",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:03",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -348,14 +353,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 20:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:06",
+        "eta_schleuse": "07:08",
         "eta_rueb": "03:03",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "03:03",
-      "eta_schleuse": "07:06",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "07:08",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:39"
     },
     {
@@ -369,14 +374,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 19:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:02",
+        "eta_schleuse": "07:04",
         "eta_rueb": "03:01",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:11"
       },
       "eta_rueb": "03:01",
-      "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "07:04",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:11"
     },
     {
@@ -460,9 +465,14 @@
       "fahrzeug": "FOLLA",
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 05:41:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:03",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:03",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -619,14 +629,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 20:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:06",
+        "eta_schleuse": "07:08",
         "eta_rueb": "03:03",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "03:03",
-      "eta_schleuse": "07:06",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "07:08",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:39"
     },
     {
@@ -640,14 +650,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 19:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:02",
+        "eta_schleuse": "07:04",
         "eta_rueb": "03:01",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:11"
       },
       "eta_rueb": "03:01",
-      "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "07:04",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:11"
     },
     {
@@ -675,7 +685,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "07:42",
+      "eta_rueb_kiel": "07:41",
       "eta_rueb": "07:35",
       "ship": "SERENADA",
       "q_gruppe": "4",
