@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T09:24:37",
+  "generated_at": "2026-03-04T09:26:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "ARKLOW MOOR",
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 08:06:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:23",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:23",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -36,15 +41,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 07:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:27",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "17:24",
+        "eta_rueb": "12:57",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:33"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "17:27",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "12:57",
+      "eta_schleuse": "17:24",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:33"
     },
     {
       "is_target": false,
@@ -327,9 +332,14 @@
       "fahrzeug": "ARKLOW MOOR",
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 08:06:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:23",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:23",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -344,15 +354,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 07:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:27",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "17:24",
+        "eta_rueb": "12:57",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:33"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "17:27",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "12:57",
+      "eta_schleuse": "17:24",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:33"
     },
     {
       "is_target": false,
@@ -570,7 +580,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:56",
+      "eta_rueb_kiel": "14:00",
       "eta_rueb": "13:35",
       "ship": "ELBSUMMER",
       "q_gruppe": "1",
