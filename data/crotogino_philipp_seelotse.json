@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T17:34:46",
+  "generated_at": "2026-03-04T17:36:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 12,
     "wach": 1,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -174,15 +174,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Mar 04 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:03",
-        "eta_rueb": "18:36",
+        "eta_schleuse": "23:02",
+        "eta_rueb": "18:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:32"
+        "delta_start_rueb": "07:31"
       },
-      "eta_rueb": "18:36",
-      "eta_schleuse": "23:03",
+      "eta_rueb": "18:35",
+      "eta_schleuse": "23:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:32"
+      "delta_start_rueb": "07:31"
     },
     {
       "is_target": false,
@@ -195,15 +195,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:15",
-        "eta_rueb": "18:48",
+        "eta_schleuse": "23:05",
+        "eta_rueb": "18:38",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:20"
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "18:48",
-      "eta_schleuse": "23:15",
+      "eta_rueb": "18:38",
+      "eta_schleuse": "23:05",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:20"
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -216,15 +216,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 13:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:19",
-        "eta_rueb": "18:51",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:09"
+        "eta_schleuse": "23:16",
+        "eta_rueb": "18:49",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "18:51",
-      "eta_schleuse": "23:19",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:09"
+      "eta_rueb": "18:49",
+      "eta_schleuse": "23:16",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -244,27 +244,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Migge",
-      "name": "Alexander Migge",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Mar 04 12:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jan",
       "nachname": "Stürenburg",
       "name": "Jan Stürenburg",
       "aufgabe": "Wachgänger",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Wed Mar 04 12:00:00 CET 2026",
@@ -280,7 +264,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Wed Mar 04 11:00:00 CET 2026",
@@ -296,20 +280,15 @@
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "LUEHE",
       "route": "RÜB → KRH",
       "time": "Wed Mar 04 10:42:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:31",
-        "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "03:55"
-      },
-      "eta_rueb": "16:35",
-      "eta_schleuse": "20:31",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "03:55"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -317,7 +296,7 @@
       "nachname": "Meise",
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "RIX WARRIOR",
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 09:35:00 CET 2026",
@@ -451,15 +430,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Mar 04 14:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:03",
-        "eta_rueb": "18:36",
+        "eta_schleuse": "23:02",
+        "eta_rueb": "18:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:32"
+        "delta_start_rueb": "07:31"
       },
-      "eta_rueb": "18:36",
-      "eta_schleuse": "23:03",
+      "eta_rueb": "18:35",
+      "eta_schleuse": "23:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:32"
+      "delta_start_rueb": "07:31"
     },
     {
       "is_target": false,
@@ -472,15 +451,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:15",
-        "eta_rueb": "18:48",
+        "eta_schleuse": "23:05",
+        "eta_rueb": "18:38",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:20"
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "18:48",
-      "eta_schleuse": "23:15",
+      "eta_rueb": "18:38",
+      "eta_schleuse": "23:05",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:20"
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -493,15 +472,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 13:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:19",
-        "eta_rueb": "18:51",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:09"
+        "eta_schleuse": "23:16",
+        "eta_rueb": "18:49",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "18:51",
-      "eta_schleuse": "23:19",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:09"
+      "eta_rueb": "18:49",
+      "eta_schleuse": "23:16",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -525,20 +504,15 @@
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "LUEHE",
       "route": "RÜB → KRH",
       "time": "Wed Mar 04 10:42:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:31",
-        "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "03:55"
-      },
-      "eta_rueb": "16:35",
-      "eta_schleuse": "20:31",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "03:55"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -546,7 +520,7 @@
       "nachname": "Meise",
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "RIX WARRIOR",
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 09:35:00 CET 2026",
