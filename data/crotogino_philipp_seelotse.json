@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T22:12:46",
+  "generated_at": "2026-03-04T22:14:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -167,16 +167,11 @@
       "fahrzeug": "ALANA",
       "route": "HOS → KLT",
       "time": "Wed Mar 04 16:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:10",
-        "eta_rueb": "18:11",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "05:19"
-      },
-      "eta_rueb": "18:11",
-      "eta_schleuse": "22:10",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "05:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -430,7 +425,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:13",
+      "eta_rueb_kiel": "02:12",
       "eta_rueb": "02:00",
       "ship": "MERSEY",
       "q_gruppe": "4",
