@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:40:39",
+  "generated_at": "2026-03-04T15:42:42",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
-    "see": 3
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -178,10 +178,10 @@
       "vorname": "Tomas",
       "nachname": "Witte",
       "name": "Tomas Witte",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Wed Mar 04 11:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -391,22 +391,6 @@
       "fahrzeug": "NETA A.",
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 13:24:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tomas",
-      "nachname": "Witte",
-      "name": "Tomas Witte",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Mar 04 11:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
