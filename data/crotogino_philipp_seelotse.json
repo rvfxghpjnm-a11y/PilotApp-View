@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T07:28:39",
+  "generated_at": "2026-03-04T07:30:40",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 9
   },
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 0,
     "see": 7
   },
@@ -88,14 +88,14 @@
       "time": "Wed Mar 04 06:20:00 CET 2026",
       "times": {
         "eta_schleuse": "11:42",
-        "eta_rueb": "07:52",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:14"
+        "eta_rueb": "07:51",
+        "delta_rueb_schleuse": "03:51",
+        "delta_start_rueb": "04:13"
       },
-      "eta_rueb": "07:52",
+      "eta_rueb": "07:51",
       "eta_schleuse": "11:42",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:14"
+      "delta_rueb_schleuse": "03:51",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -377,14 +377,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 20:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:28",
+        "eta_schleuse": "07:29",
         "eta_rueb": "03:03",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "03:03",
-      "eta_schleuse": "07:28",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "07:29",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:39"
     },
     {
@@ -397,22 +397,6 @@
       "fahrzeug": "KIARA",
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 19:02:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "KARILIN",
-      "route": "RÜB → HOS",
-      "time": "Tue Mar 03 18:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -454,14 +438,14 @@
       "time": "Wed Mar 04 06:20:00 CET 2026",
       "times": {
         "eta_schleuse": "11:42",
-        "eta_rueb": "07:52",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:14"
+        "eta_rueb": "07:51",
+        "delta_rueb_schleuse": "03:51",
+        "delta_start_rueb": "04:13"
       },
-      "eta_rueb": "07:52",
+      "eta_rueb": "07:51",
       "eta_schleuse": "11:42",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:14"
+      "delta_rueb_schleuse": "03:51",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -663,14 +647,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Mar 03 20:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:28",
+        "eta_schleuse": "07:29",
         "eta_rueb": "03:03",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "03:03",
-      "eta_schleuse": "07:28",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "07:29",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:39"
     },
     {
@@ -688,28 +672,12 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "KARILIN",
-      "route": "RÜB → HOS",
-      "time": "Tue Mar 03 18:52:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:24",
+      "eta_rueb_kiel": "08:23",
       "eta_rueb": "08:15",
       "ship": "ARKLOW GRACE",
       "q_gruppe": "5",
