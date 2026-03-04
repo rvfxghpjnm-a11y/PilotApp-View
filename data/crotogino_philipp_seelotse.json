@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T10:44:38",
+  "generated_at": "2026-03-04T10:46:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -50,14 +50,14 @@
       "route": "UTG → RÜB",
       "time": "Wed Mar 04 09:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:15",
+        "eta_schleuse": "19:14",
         "eta_rueb": "14:18",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:56",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "14:18",
-      "eta_schleuse": "19:15",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "19:14",
+      "delta_rueb_schleuse": "04:56",
       "delta_start_rueb": "05:50"
     },
     {
@@ -330,14 +330,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 01:07:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:26",
+        "eta_schleuse": "11:25",
         "eta_rueb": "06:57",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "07:41"
       },
       "eta_rueb": "06:57",
-      "eta_schleuse": "11:26",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "11:25",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "07:41"
     }
   ],
@@ -369,14 +369,14 @@
       "route": "UTG → RÜB",
       "time": "Wed Mar 04 09:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:15",
+        "eta_schleuse": "19:14",
         "eta_rueb": "14:18",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:56",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "14:18",
-      "eta_schleuse": "19:15",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "19:14",
+      "delta_rueb_schleuse": "04:56",
       "delta_start_rueb": "05:50"
     },
     {
@@ -564,14 +564,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 01:07:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:26",
+        "eta_schleuse": "11:25",
         "eta_rueb": "06:57",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "07:41"
       },
       "eta_rueb": "06:57",
-      "eta_schleuse": "11:26",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "11:25",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "07:41"
     }
   ],
@@ -596,6 +596,13 @@
       "eta_rueb": "13:35",
       "ship": "ELBSUMMER",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:55",
+      "eta_rueb": "14:00",
+      "ship": "RIX WARRIOR",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
