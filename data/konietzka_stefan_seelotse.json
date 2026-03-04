@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T00:02:36",
+  "generated_at": "2026-03-05T00:04:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 22:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:17",
+        "eta_schleuse": "07:16",
         "eta_rueb": "02:50",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:34"
       },
       "eta_rueb": "02:50",
-      "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:34"
     },
     {
@@ -143,14 +143,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BIANCA RAMBOW",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 04 18:52:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:12",
+        "eta_rueb": "00:38",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:28"
+      },
+      "eta_rueb": "00:38",
+      "eta_schleuse": "04:12",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:28"
     },
     {
       "is_target": false,
@@ -216,14 +221,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:15",
+        "eta_schleuse": "01:14",
         "eta_rueb": "21:09",
-        "delta_rueb_schleuse": "04:06",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:09",
-      "eta_schleuse": "01:15",
-      "delta_rueb_schleuse": "04:06",
+      "eta_schleuse": "01:14",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:43"
     }
   ],
@@ -255,14 +260,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 04 22:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:17",
+        "eta_schleuse": "07:16",
         "eta_rueb": "02:50",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:34"
       },
       "eta_rueb": "02:50",
-      "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:34"
     },
     {
@@ -314,14 +319,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BIANCA RAMBOW",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 04 18:52:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:12",
+        "eta_rueb": "00:38",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:28"
+      },
+      "eta_rueb": "00:38",
+      "eta_schleuse": "04:12",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:28"
     },
     {
       "is_target": false,
@@ -355,26 +365,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:15",
+        "eta_schleuse": "01:14",
         "eta_rueb": "21:09",
-        "delta_rueb_schleuse": "04:06",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:09",
-      "eta_schleuse": "01:15",
-      "delta_rueb_schleuse": "04:06",
+      "eta_schleuse": "01:14",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:43"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:38",
-      "eta_rueb": "00:20",
-      "ship": "BIANCA RAMBOW",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "02:06",
       "eta_rueb": "02:00",
