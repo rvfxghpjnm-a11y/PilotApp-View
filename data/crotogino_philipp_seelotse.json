@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T07:28:44",
+  "generated_at": "2026-03-05T07:30:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -110,14 +110,14 @@
       "route": "HOS → KLT",
       "time": "Thu Mar 05 04:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:33",
         "eta_rueb": "03:40",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:58"
       },
       "eta_rueb": "03:40",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "07:33",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:58"
     },
     {
@@ -147,14 +147,14 @@
       "route": "HOS → KLT",
       "time": "Thu Mar 05 03:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:28",
+        "eta_schleuse": "07:29",
         "eta_rueb": "03:37",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "03:37",
-      "eta_schleuse": "07:28",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "07:29",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:47"
     },
     {
@@ -196,14 +196,19 @@
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MARIELYST",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 00:53:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:33",
+        "eta_rueb": "07:57",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "05:27"
+      },
+      "eta_rueb": "07:57",
+      "eta_schleuse": "11:33",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "05:27"
     },
     {
       "is_target": false,
@@ -237,14 +242,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 22:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:33",
         "eta_rueb": "03:40",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:58"
       },
       "eta_rueb": "03:40",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "07:33",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:58"
     },
     {
@@ -258,14 +263,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 21:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:28",
+        "eta_schleuse": "07:29",
         "eta_rueb": "03:37",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "03:37",
-      "eta_schleuse": "07:28",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "07:29",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:47"
     }
   ],
@@ -335,14 +340,19 @@
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MARIELYST",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 00:53:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:33",
+        "eta_rueb": "07:57",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "05:27"
+      },
+      "eta_rueb": "07:57",
+      "eta_schleuse": "11:33",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "05:27"
     },
     {
       "is_target": false,
@@ -376,14 +386,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 22:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:33",
         "eta_rueb": "03:40",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:58"
       },
       "eta_rueb": "03:40",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "07:33",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:58"
     },
     {
@@ -397,26 +407,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 21:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:28",
+        "eta_schleuse": "07:29",
         "eta_rueb": "03:37",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "03:37",
-      "eta_schleuse": "07:28",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "07:29",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:47"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "07:57",
-      "eta_rueb": "07:50",
-      "ship": "MARIELYST",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "09:56",
       "eta_rueb": "09:50",
