@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T09:24:36",
+  "generated_at": "2026-03-05T09:26:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CEMSOL",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 08:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:26",
+        "eta_rueb": "09:50",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "05:02"
+      },
+      "eta_rueb": "09:50",
+      "eta_schleuse": "13:26",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "05:02"
     },
     {
       "is_target": false,
@@ -68,14 +73,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Mar 05 07:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:18",
+        "eta_schleuse": "17:17",
         "eta_rueb": "12:50",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:54"
       },
       "eta_rueb": "12:50",
-      "eta_schleuse": "17:18",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "17:17",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:54"
     },
     {
@@ -89,15 +94,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Mar 05 07:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "12:47",
+        "eta_schleuse": "17:13",
+        "eta_rueb": "12:46",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:05"
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": "12:47",
-      "eta_schleuse": "17:14",
+      "eta_rueb": "12:46",
+      "eta_schleuse": "17:13",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:05"
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -306,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 23:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:34",
+        "eta_schleuse": "09:33",
         "eta_rueb": "05:51",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:53"
       },
       "eta_rueb": "05:51",
-      "eta_schleuse": "09:34",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:33",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:53"
     }
   ],
@@ -341,14 +346,19 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CEMSOL",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 08:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:26",
+        "eta_rueb": "09:50",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "05:02"
+      },
+      "eta_rueb": "09:50",
+      "eta_schleuse": "13:26",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "05:02"
     },
     {
       "is_target": false,
@@ -377,14 +387,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Mar 05 07:42:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:18",
+        "eta_schleuse": "17:17",
         "eta_rueb": "12:50",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:54"
       },
       "eta_rueb": "12:50",
-      "eta_schleuse": "17:18",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "17:17",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:54"
     },
     {
@@ -398,15 +408,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Mar 05 07:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "12:47",
+        "eta_schleuse": "17:13",
+        "eta_rueb": "12:46",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:05"
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": "12:47",
-      "eta_schleuse": "17:14",
+      "eta_rueb": "12:46",
+      "eta_schleuse": "17:13",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:05"
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -482,26 +492,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 23:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:34",
+        "eta_schleuse": "09:33",
         "eta_rueb": "05:51",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:53"
       },
       "eta_rueb": "05:51",
-      "eta_schleuse": "09:34",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "09:33",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:53"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "09:50",
-      "eta_rueb": "09:50",
-      "ship": "CEMSOL",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "09:55",
       "eta_rueb": "09:53",
