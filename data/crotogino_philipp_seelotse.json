@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T01:14:45",
+  "generated_at": "2026-03-05T01:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -57,14 +57,14 @@
       "route": "HOS → KLT",
       "time": "Wed Mar 04 23:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:12",
+        "eta_schleuse": "01:15",
         "eta_rueb": "21:09",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:09",
-      "eta_schleuse": "01:12",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:43"
     },
     {
@@ -210,14 +210,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:12",
+        "eta_schleuse": "01:15",
         "eta_rueb": "21:09",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:09",
-      "eta_schleuse": "01:12",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:43"
     }
   ],
@@ -370,14 +370,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 04 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:12",
+        "eta_schleuse": "01:15",
         "eta_rueb": "21:09",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:09",
-      "eta_schleuse": "01:12",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:43"
     }
   ],
@@ -401,6 +401,20 @@
       "eta_rueb_kiel": "03:40",
       "eta_rueb": "04:18",
       "ship": "KRISTEL",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:59",
+      "eta_rueb": "06:00",
+      "ship": "ELBIA",
+      "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "06:03",
+      "eta_rueb": "06:02",
+      "ship": "FRI PORSGRUNN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
