@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T05:14:36",
+  "generated_at": "2026-03-05T05:16:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -53,8 +53,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Mar 05 04:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -267,8 +267,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Mar 05 04:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -405,6 +405,13 @@
       "eta_rueb": "10:45",
       "ship": "NORDIC PORTO",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "10:09",
+      "eta_rueb": "10:47",
+      "ship": "CEMSOL",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
