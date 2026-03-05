@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T14:56:39",
+  "generated_at": "2026-03-05T14:58:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -131,15 +131,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Mar 05 11:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:53",
-        "eta_rueb": "16:26",
+        "eta_schleuse": "20:51",
+        "eta_rueb": "16:24",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:44"
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "16:26",
-      "eta_schleuse": "20:53",
+      "eta_rueb": "16:24",
+      "eta_schleuse": "20:51",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:44"
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -244,14 +244,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSPRINTER",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 07:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:42",
+        "eta_rueb": "15:24",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "15:24",
+      "eta_schleuse": "19:42",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:14"
     }
   ],
   "kanallotsen": [
@@ -377,15 +382,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Mar 05 11:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:53",
-        "eta_rueb": "16:26",
+        "eta_schleuse": "20:51",
+        "eta_rueb": "16:24",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:44"
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "16:26",
-      "eta_schleuse": "20:53",
+      "eta_rueb": "16:24",
+      "eta_schleuse": "20:51",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:44"
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -442,25 +447,23 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSPRINTER",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 07:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:42",
+        "eta_rueb": "15:24",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "15:24",
+      "eta_schleuse": "19:42",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:14"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:24",
-      "eta_rueb": "15:20",
-      "ship": "ELBSPRINTER",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:28",
       "eta_rueb": "15:23",
@@ -497,7 +500,7 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "17:10",
+      "eta_rueb_kiel": "17:09",
       "eta_rueb": "17:05",
       "ship": "ILKA",
       "q_gruppe": "5",
