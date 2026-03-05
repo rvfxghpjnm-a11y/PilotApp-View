@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T21:14:37",
+  "generated_at": "2026-03-05T21:16:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -53,14 +53,14 @@
       "time": "Thu Mar 05 19:51:00 CET 2026",
       "times": {
         "eta_schleuse": "04:46",
-        "eta_rueb": "00:20",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "00:19",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:33"
       },
-      "eta_rueb": "00:20",
+      "eta_rueb": "00:19",
       "eta_schleuse": "04:46",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:33"
     },
     {
       "is_target": false,
@@ -223,19 +223,19 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "FWN ARCTIC",
-      "route": "HOS → RÜB",
+      "fahrzeug": "DANIEL DEYMANN",
+      "route": "RÜB → UTG",
       "time": "Thu Mar 05 16:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:39",
-        "eta_rueb": "21:12",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:52"
+        "eta_schleuse": "00:45",
+        "eta_rueb": "21:14",
+        "delta_rueb_schleuse": "03:31",
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "21:12",
-      "eta_schleuse": "01:39",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:52"
+      "eta_rueb": "21:14",
+      "eta_schleuse": "00:45",
+      "delta_rueb_schleuse": "03:31",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -325,14 +325,14 @@
       "time": "Thu Mar 05 19:51:00 CET 2026",
       "times": {
         "eta_schleuse": "04:46",
-        "eta_rueb": "00:20",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "00:19",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:33"
       },
-      "eta_rueb": "00:20",
+      "eta_rueb": "00:19",
       "eta_schleuse": "04:46",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:33"
     },
     {
       "is_target": false,
@@ -383,19 +383,19 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "FWN ARCTIC",
-      "route": "HOS → RÜB",
+      "fahrzeug": "DANIEL DEYMANN",
+      "route": "RÜB → UTG",
       "time": "Thu Mar 05 16:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:39",
-        "eta_rueb": "21:12",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:52"
+        "eta_schleuse": "00:45",
+        "eta_rueb": "21:14",
+        "delta_rueb_schleuse": "03:31",
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "21:12",
-      "eta_schleuse": "01:39",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:52"
+      "eta_rueb": "21:14",
+      "eta_schleuse": "00:45",
+      "delta_rueb_schleuse": "03:31",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -441,13 +441,5 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "21:14",
-      "eta_rueb": "21:15",
-      "ship": "DANIEL DEYMANN",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
-    }
-  ]
+  "ruesterbergen": []
 }
