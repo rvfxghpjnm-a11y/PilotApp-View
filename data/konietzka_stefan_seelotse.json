@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T02:32:37",
+  "generated_at": "2026-03-05T02:34:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -100,14 +100,14 @@
       "time": "Wed Mar 04 21:22:00 CET 2026",
       "times": {
         "eta_schleuse": "07:06",
-        "eta_rueb": "02:40",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "02:38",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "02:40",
+      "eta_rueb": "02:38",
       "eta_schleuse": "07:06",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -281,14 +281,14 @@
       "time": "Wed Mar 04 21:22:00 CET 2026",
       "times": {
         "eta_schleuse": "07:06",
-        "eta_rueb": "02:40",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "02:38",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "02:40",
+      "eta_rueb": "02:38",
       "eta_schleuse": "07:06",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -382,6 +382,13 @@
       "eta_rueb": "06:02",
       "ship": "FRI PORSGRUNN",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:11",
+      "eta_rueb": "08:15",
+      "ship": "MARIELYST",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
