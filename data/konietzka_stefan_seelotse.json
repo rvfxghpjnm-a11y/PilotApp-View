@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T22:24:37",
+  "generated_at": "2026-03-06T22:26:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Mar 06 20:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:43",
+        "eta_schleuse": "06:42",
         "eta_rueb": "01:31",
-        "delta_rueb_schleuse": "05:12",
+        "delta_rueb_schleuse": "05:11",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "01:31",
-      "eta_schleuse": "06:43",
-      "delta_rueb_schleuse": "05:12",
+      "eta_schleuse": "06:42",
+      "delta_rueb_schleuse": "05:11",
       "delta_start_rueb": "04:21"
     },
     {
@@ -105,14 +105,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 17:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:32",
+        "eta_schleuse": "22:33",
         "eta_rueb": "18:53",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "05:35"
       },
       "eta_rueb": "18:53",
-      "eta_schleuse": "22:32",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "22:33",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "05:35"
     },
     {
@@ -207,8 +207,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "CELLUS",
-      "route": "HOR → RÜB",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Mar 06 15:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -362,14 +362,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Mar 06 20:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:43",
+        "eta_schleuse": "06:42",
         "eta_rueb": "01:31",
-        "delta_rueb_schleuse": "05:12",
+        "delta_rueb_schleuse": "05:11",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "01:31",
-      "eta_schleuse": "06:43",
-      "delta_rueb_schleuse": "05:12",
+      "eta_schleuse": "06:42",
+      "delta_rueb_schleuse": "05:11",
       "delta_start_rueb": "04:21"
     },
     {
@@ -383,14 +383,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 17:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:32",
+        "eta_schleuse": "22:33",
         "eta_rueb": "18:53",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "05:35"
       },
       "eta_rueb": "18:53",
-      "eta_schleuse": "22:32",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "22:33",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "05:35"
     },
     {
@@ -469,8 +469,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "CELLUS",
-      "route": "HOR → RÜB",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Mar 06 15:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -517,7 +517,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:04",
+      "eta_rueb_kiel": "23:03",
       "eta_rueb": "23:03",
       "ship": "LOVISA",
       "q_gruppe": "4",
