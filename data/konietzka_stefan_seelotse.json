@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T14:40:37",
+  "generated_at": "2026-03-06T14:42:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -207,8 +207,8 @@
       "name": "Nik Suermann",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "STEN FJELL",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Mar 06 08:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -264,14 +264,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 06:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:38",
+        "eta_schleuse": "16:37",
         "eta_rueb": "13:10",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "13:10",
-      "eta_schleuse": "16:38",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:18"
     },
     {
@@ -467,14 +467,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 06:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:38",
+        "eta_schleuse": "16:37",
         "eta_rueb": "13:10",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "13:10",
-      "eta_schleuse": "16:38",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:18"
     },
     {
@@ -497,7 +497,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:19",
+      "eta_rueb_kiel": "16:17",
       "eta_rueb": "16:00",
       "ship": "NORDLAND",
       "q_gruppe": "5",
