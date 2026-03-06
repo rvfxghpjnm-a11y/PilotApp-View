@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-06T10:48:37",
+  "generated_at": "2026-03-06T10:50:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "RÜB",
-    "from": null,
-    "to": null,
+    "fahrzeug": "WARBER",
+    "from": "RÜB",
+    "to": "UTG",
     "time": "Fri Mar 06 05:29:00 CET 2026",
     "nr": 9
   },
@@ -16,7 +16,12 @@
     "wach": 1,
     "see": 5
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "14:43",
+    "eta_rueb": "11:03",
+    "delta_rueb_schleuse": "03:40",
+    "delta_start_rueb": "04:07"
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -61,14 +66,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:16",
+        "eta_schleuse": "13:15",
         "eta_rueb": "09:45",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:01"
       },
       "eta_rueb": "09:45",
-      "eta_schleuse": "13:16",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "13:15",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:01"
     },
     {
@@ -78,19 +83,14 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "LUEHE",
-      "route": "KRH → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Mar 06 08:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:16",
-        "eta_rueb": "10:50",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "00:50"
-      },
-      "eta_rueb": "10:50",
-      "eta_schleuse": "15:16",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "00:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -178,14 +178,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WARBER",
+      "route": "RÜB → UTG",
       "time": "Fri Mar 06 05:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:43",
+        "eta_rueb": "11:03",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "04:07"
+      },
+      "eta_rueb": "11:03",
+      "eta_schleuse": "14:43",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -354,14 +359,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:16",
+        "eta_schleuse": "13:15",
         "eta_rueb": "09:45",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:01"
       },
       "eta_rueb": "09:45",
-      "eta_schleuse": "13:16",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "13:15",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:01"
     },
     {
@@ -371,19 +376,14 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "LUEHE",
-      "route": "KRH → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Mar 06 08:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:16",
-        "eta_rueb": "10:50",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "00:50"
-      },
-      "eta_rueb": "10:50",
-      "eta_schleuse": "15:16",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "00:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -455,14 +455,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WARBER",
+      "route": "RÜB → UTG",
       "time": "Fri Mar 06 05:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:43",
+        "eta_rueb": "11:03",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "04:07"
+      },
+      "eta_rueb": "11:03",
+      "eta_schleuse": "14:43",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -509,13 +514,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "11:04",
-      "eta_rueb": "11:10",
-      "ship": "WARBER",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "13:18",
       "eta_rueb": "13:10",
