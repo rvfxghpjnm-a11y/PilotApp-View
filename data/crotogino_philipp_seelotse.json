@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T07:48:37",
+  "generated_at": "2026-03-06T07:50:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -49,9 +49,14 @@
       "fahrzeug": "FREDO",
       "route": "HOR → RÜB",
       "time": "Fri Mar 06 06:57:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -216,14 +221,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ZAANBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 23:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:09",
+        "eta_rueb": "08:16",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "05:06"
+      },
+      "eta_rueb": "08:16",
+      "eta_schleuse": "12:09",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "05:06"
     },
     {
       "is_target": false,
@@ -274,9 +284,14 @@
       "fahrzeug": "FREDO",
       "route": "HOR → RÜB",
       "time": "Fri Mar 06 06:57:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -345,14 +360,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ZAANBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Mar 05 23:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:09",
+        "eta_rueb": "08:16",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "05:06"
+      },
+      "eta_rueb": "08:16",
+      "eta_schleuse": "12:09",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "05:06"
     },
     {
       "is_target": false,
@@ -394,7 +414,7 @@
     },
     {
       "eta_rueb_kiel": "11:19",
-      "eta_rueb": "11:20",
+      "eta_rueb": "11:15",
       "ship": "WARBER",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
