@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T11:36:36",
+  "generated_at": "2026-03-06T11:38:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,15 +73,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Mar 06 10:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:17",
-        "eta_rueb": "14:50",
+        "eta_schleuse": "19:18",
+        "eta_rueb": "14:51",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "14:50",
-      "eta_schleuse": "19:17",
+      "eta_rueb": "14:51",
+      "eta_schleuse": "19:18",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -350,15 +350,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Mar 06 10:27:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:17",
-        "eta_rueb": "14:50",
+        "eta_schleuse": "19:18",
+        "eta_rueb": "14:51",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "14:50",
-      "eta_schleuse": "19:17",
+      "eta_rueb": "14:51",
+      "eta_schleuse": "19:18",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -571,6 +571,13 @@
       "ship": "NORDLAND",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "15:55",
+      "ship": "ANNIKA BRAREN",
+      "q_gruppe": "5",
+      "route": "RÜB → UTG"
     }
   ]
 }
