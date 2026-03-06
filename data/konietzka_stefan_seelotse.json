@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T11:34:37",
+  "generated_at": "2026-03-06T11:36:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -115,14 +115,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:31",
+        "eta_schleuse": "13:29",
         "eta_rueb": "09:45",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:01"
       },
       "eta_rueb": "09:45",
-      "eta_schleuse": "13:31",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "13:29",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:01"
     },
     {
@@ -185,19 +185,14 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "COSTAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Mar 06 06:46:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:02",
-        "eta_rueb": "11:35",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "11:35",
-      "eta_schleuse": "16:02",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -295,14 +290,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 03:00:12 CET 2026",
       "times": {
-        "eta_schleuse": "12:30",
+        "eta_schleuse": "12:29",
         "eta_rueb": "09:05",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "09:05",
-      "eta_schleuse": "12:30",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "12:29",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:21"
     },
     {
@@ -397,14 +392,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 08:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:31",
+        "eta_schleuse": "13:29",
         "eta_rueb": "09:45",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:01"
       },
       "eta_rueb": "09:45",
-      "eta_schleuse": "13:31",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "13:29",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:01"
     },
     {
@@ -467,19 +462,14 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "COSTAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Mar 06 06:46:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:02",
-        "eta_rueb": "11:35",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "11:35",
-      "eta_schleuse": "16:02",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -513,14 +503,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 03:00:12 CET 2026",
       "times": {
-        "eta_schleuse": "12:30",
+        "eta_schleuse": "12:29",
         "eta_rueb": "09:05",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "09:05",
-      "eta_schleuse": "12:30",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "12:29",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:21"
     },
     {
@@ -574,6 +564,13 @@
       "ship": "MAIKE",
       "q_gruppe": "5",
       "route": "KRH → HOS"
+    },
+    {
+      "eta_rueb_kiel": "15:58",
+      "eta_rueb": "15:50",
+      "ship": "NORDLAND",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
