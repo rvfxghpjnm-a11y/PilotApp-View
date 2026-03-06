@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T18:14:37",
+  "generated_at": "2026-03-06T18:16:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Mar 06 17:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -120,15 +120,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Mar 06 15:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:24",
-        "eta_rueb": "20:57",
+        "eta_schleuse": "01:21",
+        "eta_rueb": "20:54",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:19"
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "20:57",
-      "eta_schleuse": "01:24",
+      "eta_rueb": "20:54",
+      "eta_schleuse": "01:21",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:19"
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -141,15 +141,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Mar 06 15:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:30",
-        "eta_rueb": "21:03",
+        "eta_schleuse": "01:28",
+        "eta_rueb": "21:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:25"
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "21:03",
-      "eta_schleuse": "01:30",
+      "eta_rueb": "21:01",
+      "eta_schleuse": "01:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:25"
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -162,15 +162,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Mar 06 15:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:27",
-        "eta_rueb": "21:00",
+        "eta_schleuse": "01:25",
+        "eta_rueb": "20:58",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:16"
+        "delta_start_rueb": "04:14"
       },
-      "eta_rueb": "21:00",
-      "eta_schleuse": "01:27",
+      "eta_rueb": "20:58",
+      "eta_schleuse": "01:25",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:16"
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -298,16 +298,11 @@
       "fahrzeug": "MARIE LEHMANN",
       "route": "HOS → KLT",
       "time": "Fri Mar 06 14:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:11",
-        "eta_rueb": "14:44",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:08"
-      },
-      "eta_rueb": "14:44",
-      "eta_schleuse": "18:11",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -319,16 +314,11 @@
       "fahrzeug": "ALEXANDER B",
       "route": "HOS → KLT",
       "time": "Fri Mar 06 14:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:13",
-        "eta_rueb": "14:51",
-        "delta_rueb_schleuse": "03:22",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "14:51",
-      "eta_schleuse": "18:13",
-      "delta_rueb_schleuse": "03:22",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -456,16 +446,11 @@
       "fahrzeug": "ALEXANDER B",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 08:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:13",
-        "eta_rueb": "14:51",
-        "delta_rueb_schleuse": "03:22",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "14:51",
-      "eta_schleuse": "18:13",
-      "delta_rueb_schleuse": "03:22",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -477,16 +462,11 @@
       "fahrzeug": "MARIE LEHMANN",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 06:57:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:11",
-        "eta_rueb": "14:44",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:08"
-      },
-      "eta_rueb": "14:44",
-      "eta_schleuse": "18:11",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -497,8 +477,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Mar 06 17:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -601,15 +581,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Mar 06 15:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:24",
-        "eta_rueb": "20:57",
+        "eta_schleuse": "01:21",
+        "eta_rueb": "20:54",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:19"
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "20:57",
-      "eta_schleuse": "01:24",
+      "eta_rueb": "20:54",
+      "eta_schleuse": "01:21",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:19"
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -622,15 +602,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Mar 06 15:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:30",
-        "eta_rueb": "21:03",
+        "eta_schleuse": "01:28",
+        "eta_rueb": "21:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:25"
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "21:03",
-      "eta_schleuse": "01:30",
+      "eta_rueb": "21:01",
+      "eta_schleuse": "01:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:25"
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -643,15 +623,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Mar 06 15:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:27",
-        "eta_rueb": "21:00",
+        "eta_schleuse": "01:25",
+        "eta_rueb": "20:58",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:16"
+        "delta_start_rueb": "04:14"
       },
-      "eta_rueb": "21:00",
-      "eta_schleuse": "01:27",
+      "eta_rueb": "20:58",
+      "eta_schleuse": "01:25",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:16"
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -831,16 +811,11 @@
       "fahrzeug": "ALEXANDER B",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 08:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:13",
-        "eta_rueb": "14:51",
-        "delta_rueb_schleuse": "03:22",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "14:51",
-      "eta_schleuse": "18:13",
-      "delta_rueb_schleuse": "03:22",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -852,16 +827,11 @@
       "fahrzeug": "MARIE LEHMANN",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 06:57:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:11",
-        "eta_rueb": "14:44",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:08"
-      },
-      "eta_rueb": "14:44",
-      "eta_schleuse": "18:11",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:08"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
