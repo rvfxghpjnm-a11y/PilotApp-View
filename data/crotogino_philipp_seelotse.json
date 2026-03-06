@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T21:28:45",
+  "generated_at": "2026-03-06T21:30:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -21,14 +21,14 @@
       "time": "Fri Mar 06 20:13:00 CET 2026",
       "times": {
         "eta_schleuse": "06:39",
-        "eta_rueb": "01:36",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "04:26"
+        "eta_rueb": "01:35",
+        "delta_rueb_schleuse": "05:04",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "01:36",
+      "eta_rueb": "01:35",
       "eta_schleuse": "06:39",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "04:26"
+      "delta_rueb_schleuse": "05:04",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -125,16 +125,11 @@
       "fahrzeug": "AGATH",
       "route": "HOS → KLT",
       "time": "Fri Mar 06 16:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:29",
-        "eta_rueb": "17:35",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "17:35",
-      "eta_schleuse": "21:29",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -330,14 +325,14 @@
       "time": "Fri Mar 06 20:13:00 CET 2026",
       "times": {
         "eta_schleuse": "06:39",
-        "eta_rueb": "01:36",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "04:26"
+        "eta_rueb": "01:35",
+        "delta_rueb_schleuse": "05:04",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "01:36",
+      "eta_rueb": "01:35",
       "eta_schleuse": "06:39",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "04:26"
+      "delta_rueb_schleuse": "05:04",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -496,14 +491,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:22",
+      "eta_rueb_kiel": "01:21",
       "eta_rueb": "01:10",
       "ship": "LINGEBORG",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:03",
+      "eta_rueb_kiel": "23:02",
       "eta_rueb": "23:00",
       "ship": "FRISIANA",
       "q_gruppe": "3",
