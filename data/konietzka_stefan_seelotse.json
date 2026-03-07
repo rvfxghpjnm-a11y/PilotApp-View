@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:54:35",
+  "generated_at": "2026-03-07T19:56:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 1,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -157,20 +157,20 @@
       "vorname": "Tim",
       "nachname": "Woitanowski",
       "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "EVITA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Mar 07 15:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:22",
+        "eta_schleuse": "20:23",
         "eta_rueb": "16:52",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "16:52",
-      "eta_schleuse": "20:22",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "20:23",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:00"
     },
     {
@@ -343,14 +343,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 09:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:17",
+        "eta_schleuse": "20:19",
         "eta_rueb": "16:47",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "16:47",
-      "eta_schleuse": "20:17",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "20:19",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:01"
     },
     {
@@ -364,14 +364,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Mar 07 09:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:30",
+        "eta_schleuse": "20:31",
         "eta_rueb": "16:44",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "06:22"
       },
       "eta_rueb": "16:44",
-      "eta_schleuse": "20:30",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "20:31",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "06:22"
     }
   ],
@@ -470,27 +470,6 @@
       "eta_schleuse": "02:38",
       "delta_rueb_schleuse": "04:47",
       "delta_start_rueb": "03:57"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "EVITA",
-      "route": "RÜB → HOS",
-      "time": "Sat Mar 07 15:25:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:22",
-        "eta_rueb": "16:52",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "05:00"
-      },
-      "eta_rueb": "16:52",
-      "eta_schleuse": "20:22",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "05:00"
     },
     {
       "is_target": false,
@@ -598,14 +577,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 09:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:17",
+        "eta_schleuse": "20:19",
         "eta_rueb": "16:47",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "16:47",
-      "eta_schleuse": "20:17",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "20:19",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:01"
     },
     {
@@ -619,14 +598,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Mar 07 09:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:30",
+        "eta_schleuse": "20:31",
         "eta_rueb": "16:44",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "06:22"
       },
       "eta_rueb": "16:44",
-      "eta_schleuse": "20:30",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "20:31",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "06:22"
     }
   ],
