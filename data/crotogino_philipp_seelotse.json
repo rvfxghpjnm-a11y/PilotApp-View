@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T02:08:45",
+  "generated_at": "2026-03-07T02:10:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 1,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -101,8 +101,8 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "PHILIPP ESSBERGER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Mar 07 00:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -196,14 +196,14 @@
       "time": "Fri Mar 06 22:57:00 CET 2026",
       "times": {
         "eta_schleuse": "09:03",
-        "eta_rueb": "04:05",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "04:03",
+        "delta_rueb_schleuse": "05:00",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "04:05",
+      "eta_rueb": "04:03",
       "eta_schleuse": "09:03",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "05:00",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -355,27 +355,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jens Michael",
-      "nachname": "Rohn",
-      "name": "Jens Michael Rohn",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "SPANACO RELIABILITY",
-      "route": "KLT → HOS",
-      "time": "Fri Mar 06 16:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Knut Paul",
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "FRISIANA",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 16:06:00 CET 2026",
@@ -515,14 +499,14 @@
       "time": "Fri Mar 06 22:57:00 CET 2026",
       "times": {
         "eta_schleuse": "09:03",
-        "eta_rueb": "04:05",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "04:03",
+        "delta_rueb_schleuse": "05:00",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "04:05",
+      "eta_rueb": "04:03",
       "eta_schleuse": "09:03",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "05:00",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -630,7 +614,7 @@
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "FRISIANA",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 16:06:00 CET 2026",
