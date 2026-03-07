@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T09:04:43",
+  "generated_at": "2026-03-07T09:06:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -411,8 +411,8 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Mar 07 02:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -427,8 +427,8 @@
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Mar 07 01:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -443,8 +443,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Mar 07 01:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -573,16 +573,11 @@
       "fahrzeug": "ASTREA",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 22:57:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:03",
-        "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "05:53"
-      },
-      "eta_rueb": "05:29",
-      "eta_schleuse": "09:03",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "05:53"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -924,8 +919,8 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Mar 07 02:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -940,8 +935,8 @@
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Mar 07 01:53:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -956,8 +951,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "Leerfahrt",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Mar 07 01:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -1054,22 +1049,17 @@
       "fahrzeug": "ASTREA",
       "route": "RÜB → HOS",
       "time": "Fri Mar 06 22:57:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:03",
-        "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "05:53"
-      },
-      "eta_rueb": "05:29",
-      "eta_schleuse": "09:03",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "05:53"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:19",
+      "eta_rueb_kiel": "10:18",
       "eta_rueb": "10:10",
       "ship": "THETIS D",
       "q_gruppe": "0",
@@ -1087,6 +1077,20 @@
       "eta_rueb": "12:15",
       "ship": "MARBURG",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:38",
+      "eta_rueb": "14:15",
+      "ship": "SIEGFRIED LEHMANN",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:42",
+      "eta_rueb": "14:20",
+      "ship": "ATLANTIS ALHAMBRA",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
