@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T05:02:44",
+  "generated_at": "2026-03-07T05:04:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -307,8 +307,8 @@
       "name": "Carsten Weise",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BALTIC WAVE",
+      "route": "KLT → HOS",
       "time": "Sat Mar 07 00:11:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -355,14 +355,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ASTREA",
+      "route": "RÜB → HOS",
       "time": "Fri Mar 06 22:57:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:05",
+        "eta_rueb": "05:31",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:55"
+      },
+      "eta_rueb": "05:31",
+      "eta_schleuse": "09:05",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:55"
     },
     {
       "is_target": false,
@@ -375,14 +380,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Mar 06 21:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:02",
+        "eta_schleuse": "07:01",
         "eta_rueb": "03:13",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "03:13",
-      "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "07:01",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:47"
     },
     {
@@ -727,14 +732,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ASTREA",
+      "route": "RÜB → HOS",
       "time": "Fri Mar 06 22:57:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:05",
+        "eta_rueb": "05:31",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:55"
+      },
+      "eta_rueb": "05:31",
+      "eta_schleuse": "09:05",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:55"
     },
     {
       "is_target": false,
@@ -747,14 +757,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Mar 06 21:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:02",
+        "eta_schleuse": "07:01",
         "eta_rueb": "03:13",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "03:13",
-      "eta_schleuse": "07:02",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "07:01",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:47"
     },
     {
@@ -818,13 +828,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:31",
-      "eta_rueb": "05:25",
-      "ship": "ASTREA",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "05:34",
       "eta_rueb": "05:28",
