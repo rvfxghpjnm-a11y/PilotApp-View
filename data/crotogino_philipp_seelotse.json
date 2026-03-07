@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T06:22:46",
+  "generated_at": "2026-03-07T06:24:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -126,14 +126,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 07 04:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:31",
+        "eta_schleuse": "14:32",
         "eta_rueb": "10:04",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "10:04",
-      "eta_schleuse": "14:31",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "14:32",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:12"
     },
     {
@@ -247,14 +247,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Mar 07 02:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:34",
+        "eta_schleuse": "13:35",
         "eta_rueb": "07:45",
-        "delta_rueb_schleuse": "05:49",
+        "delta_rueb_schleuse": "05:50",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "07:45",
-      "eta_schleuse": "13:34",
-      "delta_rueb_schleuse": "05:49",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "05:50",
       "delta_start_rueb": "05:27"
     },
     {
@@ -289,14 +289,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 07 01:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:41",
+        "eta_schleuse": "13:42",
         "eta_rueb": "08:32",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:10",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "08:32",
-      "eta_schleuse": "13:41",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "13:42",
+      "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "05:36"
     },
     {
@@ -327,8 +327,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "LINGEBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Mar 07 01:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -375,8 +375,8 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Seebört",
       "nr": 20,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Mar 07 00:26:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -597,14 +597,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 07 04:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:31",
+        "eta_schleuse": "14:32",
         "eta_rueb": "10:04",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "10:04",
-      "eta_schleuse": "14:31",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "14:32",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:12"
     },
     {
@@ -702,14 +702,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Mar 07 02:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:34",
+        "eta_schleuse": "13:35",
         "eta_rueb": "07:45",
-        "delta_rueb_schleuse": "05:49",
+        "delta_rueb_schleuse": "05:50",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "07:45",
-      "eta_schleuse": "13:34",
-      "delta_rueb_schleuse": "05:49",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "05:50",
       "delta_start_rueb": "05:27"
     },
     {
@@ -744,14 +744,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 07 01:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:41",
+        "eta_schleuse": "13:42",
         "eta_rueb": "08:32",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:10",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "08:32",
-      "eta_schleuse": "13:41",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "13:42",
+      "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "05:36"
     },
     {
@@ -986,7 +986,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:20",
+      "eta_rueb_kiel": "10:21",
       "eta_rueb": "10:15",
       "ship": "THETIS D",
       "q_gruppe": "0",
