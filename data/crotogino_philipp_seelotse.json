@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T16:18:37",
+  "generated_at": "2026-03-07T16:20:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -87,15 +87,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 07 15:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:09",
-        "eta_rueb": "19:42",
+        "eta_schleuse": "00:08",
+        "eta_rueb": "19:41",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:36"
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "19:42",
-      "eta_schleuse": "00:09",
+      "eta_rueb": "19:41",
+      "eta_schleuse": "00:08",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:36"
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -273,14 +273,19 @@
       "name": "Kai Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EMMA F",
+      "route": "RÜB → HOS",
       "time": "Sat Mar 07 09:48:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:32",
+        "eta_rueb": "16:49",
+        "delta_rueb_schleuse": "03:43",
+        "delta_start_rueb": "05:03"
+      },
+      "eta_rueb": "16:49",
+      "eta_schleuse": "20:32",
+      "delta_rueb_schleuse": "03:43",
+      "delta_start_rueb": "05:03"
     },
     {
       "is_target": false,
@@ -289,14 +294,19 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HARBOUR FEATURE",
+      "route": "RÜB → UTG",
       "time": "Sat Mar 07 09:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:26",
+        "eta_rueb": "16:46",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "06:24"
+      },
+      "eta_rueb": "16:46",
+      "eta_schleuse": "20:26",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "06:24"
     },
     {
       "is_target": false,
@@ -369,15 +379,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 07 15:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:09",
-        "eta_rueb": "19:42",
+        "eta_schleuse": "00:08",
+        "eta_rueb": "19:41",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:36"
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "19:42",
-      "eta_schleuse": "00:09",
+      "eta_rueb": "19:41",
+      "eta_schleuse": "00:08",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:36"
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -491,14 +501,19 @@
       "name": "Kai Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EMMA F",
+      "route": "RÜB → HOS",
       "time": "Sat Mar 07 09:48:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:32",
+        "eta_rueb": "16:49",
+        "delta_rueb_schleuse": "03:43",
+        "delta_start_rueb": "05:03"
+      },
+      "eta_rueb": "16:49",
+      "eta_schleuse": "20:32",
+      "delta_rueb_schleuse": "03:43",
+      "delta_start_rueb": "05:03"
     },
     {
       "is_target": false,
@@ -507,14 +522,19 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HARBOUR FEATURE",
+      "route": "RÜB → UTG",
       "time": "Sat Mar 07 09:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:26",
+        "eta_rueb": "16:46",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "06:24"
+      },
+      "eta_rueb": "16:46",
+      "eta_schleuse": "20:26",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "06:24"
     },
     {
       "is_target": false,
@@ -569,20 +589,6 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:46",
-      "eta_rueb": "16:35",
-      "ship": "HARBOUR FEATURE",
-      "q_gruppe": "2",
-      "route": "RÜB → UTG"
-    },
-    {
-      "eta_rueb_kiel": "16:49",
-      "eta_rueb": "16:38",
-      "ship": "EMMA F",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "16:53",
       "eta_rueb": "16:40",
       "ship": "EVITA",
@@ -611,7 +617,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "19:06",
+      "eta_rueb_kiel": "19:05",
       "eta_rueb": "18:40",
       "ship": "NORDICA",
       "q_gruppe": "1",
