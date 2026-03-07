@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T13:46:38",
+  "generated_at": "2026-03-07T13:48:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -282,16 +282,11 @@
       "fahrzeug": "THETIS D",
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 04:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:45",
-        "eta_rueb": "10:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "05:04"
-      },
-      "eta_rueb": "10:16",
-      "eta_schleuse": "13:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "05:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -479,16 +474,11 @@
       "fahrzeug": "THETIS D",
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 04:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:45",
-        "eta_rueb": "10:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "05:04"
-      },
-      "eta_rueb": "10:16",
-      "eta_schleuse": "13:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "05:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -501,7 +491,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:40",
+      "eta_rueb_kiel": "14:39",
       "eta_rueb": "14:30",
       "ship": "SIEGFRIED LEHMANN",
       "q_gruppe": "4",
