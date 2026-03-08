@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T19:38:45",
+  "generated_at": "2026-03-08T19:40:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -78,8 +78,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "MERSEY",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Mar 08 17:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -115,14 +115,14 @@
       "time": "Sun Mar 08 16:34:00 CET 2026",
       "times": {
         "eta_schleuse": "01:51",
-        "eta_rueb": "21:25",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "21:24",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "21:25",
+      "eta_rueb": "21:24",
       "eta_schleuse": "01:51",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -135,15 +135,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 08 16:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:45",
-        "eta_rueb": "22:18",
+        "eta_schleuse": "02:44",
+        "eta_rueb": "22:17",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:22"
+        "delta_start_rueb": "04:21"
       },
-      "eta_rueb": "22:18",
-      "eta_schleuse": "02:45",
+      "eta_rueb": "22:17",
+      "eta_schleuse": "02:44",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:22"
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -460,14 +460,14 @@
       "time": "Sun Mar 08 16:34:00 CET 2026",
       "times": {
         "eta_schleuse": "01:51",
-        "eta_rueb": "21:25",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "21:24",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "21:25",
+      "eta_rueb": "21:24",
       "eta_schleuse": "01:51",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -480,15 +480,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Mar 08 16:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:45",
-        "eta_rueb": "22:18",
+        "eta_schleuse": "02:44",
+        "eta_rueb": "22:17",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:22"
+        "delta_start_rueb": "04:21"
       },
-      "eta_rueb": "22:18",
-      "eta_schleuse": "02:45",
+      "eta_rueb": "22:17",
+      "eta_schleuse": "02:44",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:22"
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -733,7 +733,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:05",
+      "eta_rueb_kiel": "21:04",
       "eta_rueb": "20:38",
       "ship": "CORAL IVORY",
       "q_gruppe": "4",
