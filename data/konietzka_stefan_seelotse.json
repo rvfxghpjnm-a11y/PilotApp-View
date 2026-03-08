@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T08:42:44",
+  "generated_at": "2026-03-08T08:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 11,
     "wach": 0,
-    "see": 5
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -121,24 +121,24 @@
       "time": "Sun Mar 08 05:52:00 CET 2026",
       "times": {
         "eta_schleuse": "15:25",
-        "eta_rueb": "10:42",
-        "delta_rueb_schleuse": "04:43",
-        "delta_start_rueb": "04:00"
+        "eta_rueb": "10:41",
+        "delta_rueb_schleuse": "04:44",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "10:42",
+      "eta_rueb": "10:41",
       "eta_schleuse": "15:25",
-      "delta_rueb_schleuse": "04:43",
-      "delta_start_rueb": "04:00"
+      "delta_rueb_schleuse": "04:44",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
       "vorname": "Tom",
       "nachname": "Demant",
       "name": "Tom Demant",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "LADY ALEXANDRA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Mar 08 04:45:00 CET 2026",
       "times": {
         "eta_schleuse": "09:22",
@@ -153,13 +153,34 @@
     },
     {
       "is_target": false,
+      "vorname": "Malte",
+      "nachname": "Krause",
+      "name": "Malte Krause",
+      "aufgabe": "Kanalbört",
+      "nr": 8,
+      "fahrzeug": "STEN FRIGG",
+      "route": "RÜB → HOS",
+      "time": "Sun Mar 08 04:00:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:18",
+        "eta_rueb": "05:35",
+        "delta_rueb_schleuse": "03:43",
+        "delta_start_rueb": "04:53"
+      },
+      "eta_rueb": "05:35",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "03:43",
+      "delta_start_rueb": "04:53"
+    },
+    {
+      "is_target": false,
       "vorname": "Knut Paul",
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
+      "aufgabe": "Seebört",
+      "nr": 9,
       "fahrzeug": "STELLA VIRGO",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Mar 08 04:00:00 CET 2026",
       "times": {
         "eta_schleuse": "09:08",
@@ -177,10 +198,10 @@
       "vorname": "Thomas",
       "nachname": "Skairies",
       "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
+      "aufgabe": "Seebört",
+      "nr": 10,
       "fahrzeug": "ARAGONITH",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Mar 08 04:00:00 CET 2026",
       "times": {
         "eta_schleuse": "09:12",
@@ -192,27 +213,6 @@
       "eta_schleuse": "09:12",
       "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:46"
-    },
-    {
-      "is_target": false,
-      "vorname": "Malte",
-      "nachname": "Krause",
-      "name": "Malte Krause",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "STEN FRIGG",
-      "route": "RÜB → HOS",
-      "time": "Sun Mar 08 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:18",
-        "eta_rueb": "05:35",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "04:53"
-      },
-      "eta_rueb": "05:35",
-      "eta_schleuse": "09:18",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "04:53"
     },
     {
       "is_target": false,
@@ -476,77 +476,14 @@
       "time": "Sun Mar 08 05:52:00 CET 2026",
       "times": {
         "eta_schleuse": "15:25",
-        "eta_rueb": "10:42",
-        "delta_rueb_schleuse": "04:43",
-        "delta_start_rueb": "04:00"
+        "eta_rueb": "10:41",
+        "delta_rueb_schleuse": "04:44",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "10:42",
+      "eta_rueb": "10:41",
       "eta_schleuse": "15:25",
-      "delta_rueb_schleuse": "04:43",
-      "delta_start_rueb": "04:00"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tom",
-      "nachname": "Demant",
-      "name": "Tom Demant",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "LADY ALEXANDRA",
-      "route": "RÜB → HOS",
-      "time": "Sun Mar 08 04:45:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:22",
-        "eta_rueb": "05:55",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:27"
-      },
-      "eta_rueb": "05:55",
-      "eta_schleuse": "09:22",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:27"
-    },
-    {
-      "is_target": false,
-      "vorname": "Knut Paul",
-      "nachname": "Klüver",
-      "name": "Knut Paul Klüver",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "STELLA VIRGO",
-      "route": "RÜB → HOS",
-      "time": "Sun Mar 08 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:08",
-        "eta_rueb": "05:25",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "04:47"
-      },
-      "eta_rueb": "05:25",
-      "eta_schleuse": "09:08",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "04:47"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "ARAGONITH",
-      "route": "RÜB → HOS",
-      "time": "Sun Mar 08 04:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:12",
-        "eta_rueb": "05:28",
-        "delta_rueb_schleuse": "03:44",
-        "delta_start_rueb": "04:46"
-      },
-      "eta_rueb": "05:28",
-      "eta_schleuse": "09:12",
-      "delta_rueb_schleuse": "03:44",
-      "delta_start_rueb": "04:46"
+      "delta_rueb_schleuse": "04:44",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -554,7 +491,7 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 10,
+      "nr": 8,
       "fahrzeug": "STEN FRIGG",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 04:00:00 CET 2026",
