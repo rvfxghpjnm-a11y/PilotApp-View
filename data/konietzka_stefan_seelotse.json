@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T07:42:45",
+  "generated_at": "2026-03-08T07:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 14,
     "wach": 0,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -74,14 +74,14 @@
       "time": "Sun Mar 08 06:25:00 CET 2026",
       "times": {
         "eta_schleuse": "11:24",
-        "eta_rueb": "07:41",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "04:21"
+        "eta_rueb": "07:43",
+        "delta_rueb_schleuse": "03:41",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "07:41",
+      "eta_rueb": "07:43",
       "eta_schleuse": "11:24",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "04:21"
+      "delta_rueb_schleuse": "03:41",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -285,27 +285,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Seebört",
-      "nr": 15,
-      "fahrzeug": "BALTIC CRYSTAL",
-      "route": "KLT → HOS",
-      "time": "Sun Mar 08 01:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Stephan",
       "nachname": "Thomaßen",
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "MEDEMBORG",
       "route": "RÜB → UTG",
       "time": "Sun Mar 08 00:50:00 CET 2026",
@@ -326,7 +310,7 @@
       "nachname": "Fehse",
       "name": "Torsten Fehse",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "KLT",
       "route": null,
       "time": "Sun Mar 08 00:33:00 CET 2026",
@@ -342,7 +326,7 @@
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SCHILLPLATE",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 00:27:00 CET 2026",
@@ -363,7 +347,7 @@
       "nachname": "Röhrs",
       "name": "Johannes Röhrs",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "EDITH",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 00:26:00 CET 2026",
@@ -384,7 +368,7 @@
       "nachname": "Migge",
       "name": "Alexander Migge",
       "aufgabe": "Seebört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "KLT",
       "route": null,
       "time": "Sun Mar 08 00:05:00 CET 2026",
@@ -445,14 +429,14 @@
       "time": "Sun Mar 08 06:25:00 CET 2026",
       "times": {
         "eta_schleuse": "11:24",
-        "eta_rueb": "07:41",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "04:21"
+        "eta_rueb": "07:43",
+        "delta_rueb_schleuse": "03:41",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "07:41",
+      "eta_rueb": "07:43",
       "eta_schleuse": "11:24",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "04:21"
+      "delta_rueb_schleuse": "03:41",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -628,7 +612,7 @@
       "nachname": "Thomaßen",
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "MEDEMBORG",
       "route": "RÜB → UTG",
       "time": "Sun Mar 08 00:50:00 CET 2026",
@@ -649,7 +633,7 @@
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SCHILLPLATE",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 00:27:00 CET 2026",
@@ -670,7 +654,7 @@
       "nachname": "Röhrs",
       "name": "Johannes Röhrs",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "EDITH",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 00:26:00 CET 2026",
@@ -689,7 +673,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:54",
+      "eta_rueb_kiel": "08:55",
       "eta_rueb": "08:30",
       "ship": "WILSON SAIMAA",
       "q_gruppe": "5",
