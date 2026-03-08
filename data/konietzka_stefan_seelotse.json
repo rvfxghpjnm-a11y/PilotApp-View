@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T02:10:45",
+  "generated_at": "2026-03-08T02:12:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,14 +41,14 @@
       "route": "HOS → KLT",
       "time": "Sun Mar 08 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:14",
+        "eta_schleuse": "02:15",
         "eta_rueb": "22:47",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "22:47",
-      "eta_schleuse": "02:14",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:35"
     },
     {
@@ -61,16 +61,11 @@
       "fahrzeug": "STELLAMAR",
       "route": "HOS → KLT",
       "time": "Sun Mar 08 01:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "02:11",
-        "eta_rueb": "22:44",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:38"
-      },
-      "eta_rueb": "22:44",
-      "eta_schleuse": "02:11",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -411,14 +406,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 16:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:14",
+        "eta_schleuse": "02:15",
         "eta_rueb": "22:47",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "22:47",
-      "eta_schleuse": "02:14",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:35"
     },
     {
@@ -431,16 +426,11 @@
       "fahrzeug": "STELLAMAR",
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 15:21:00 CET 2026",
-      "times": {
-        "eta_schleuse": "02:11",
-        "eta_rueb": "22:44",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:38"
-      },
-      "eta_rueb": "22:44",
-      "eta_schleuse": "02:11",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -613,14 +603,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 16:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:14",
+        "eta_schleuse": "02:15",
         "eta_rueb": "22:47",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:35"
       },
       "eta_rueb": "22:47",
-      "eta_schleuse": "02:14",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:35"
     },
     {
@@ -633,22 +623,17 @@
       "fahrzeug": "STELLAMAR",
       "route": "RÜB → HOS",
       "time": "Sat Mar 07 15:21:00 CET 2026",
-      "times": {
-        "eta_schleuse": "02:11",
-        "eta_rueb": "22:44",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:38"
-      },
-      "eta_rueb": "22:44",
-      "eta_schleuse": "02:11",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:34",
+      "eta_rueb_kiel": "05:33",
       "eta_rueb": "05:20",
       "ship": "STELLA VIRGO",
       "q_gruppe": "4",
@@ -683,7 +668,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:22",
+      "eta_rueb_kiel": "06:23",
       "eta_rueb": "05:35",
       "ship": "EDITH",
       "q_gruppe": "2",
