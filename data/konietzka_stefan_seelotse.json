@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T04:24:43",
+  "generated_at": "2026-03-08T04:26:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -289,9 +289,14 @@
       "fahrzeug": "FWN ATLANTIDE",
       "route": "HOS → UTG",
       "time": "Sat Mar 07 23:24:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -555,7 +560,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:04",
+      "eta_rueb_kiel": "06:03",
       "eta_rueb": "06:00",
       "ship": "LADY ALEXANDRA",
       "q_gruppe": "5",
