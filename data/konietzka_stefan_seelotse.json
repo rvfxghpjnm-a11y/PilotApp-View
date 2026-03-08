@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T10:10:44",
+  "generated_at": "2026-03-08T10:12:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -185,14 +185,14 @@
       "time": "Sun Mar 08 05:52:00 CET 2026",
       "times": {
         "eta_schleuse": "15:22",
-        "eta_rueb": "10:38",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "10:37",
+        "delta_rueb_schleuse": "04:45",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "10:38",
+      "eta_rueb": "10:37",
       "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:45",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -510,14 +510,14 @@
       "time": "Sun Mar 08 05:52:00 CET 2026",
       "times": {
         "eta_schleuse": "15:22",
-        "eta_rueb": "10:38",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "10:37",
+        "delta_rueb_schleuse": "04:45",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "10:38",
+      "eta_rueb": "10:37",
       "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:45",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -631,16 +631,23 @@
     },
     {
       "eta_rueb_kiel": "14:11",
-      "eta_rueb": "14:00",
+      "eta_rueb": "14:03",
       "ship": "FAIRPLAY-40",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "14:30",
+      "eta_rueb": "15:00",
       "ship": "MAUREEN S",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "16:16",
+      "eta_rueb": "16:00",
+      "ship": "NORMA",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
