@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T15:52:46",
+  "generated_at": "2026-03-08T15:54:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Crischan Czurda",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARABELLA",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 08 14:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:55",
+        "eta_rueb": "16:20",
+        "delta_rueb_schleuse": "04:35",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "16:20",
+      "eta_schleuse": "20:55",
+      "delta_rueb_schleuse": "04:35",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -248,14 +253,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORMA",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 08 10:39:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:51",
+        "eta_rueb": "16:17",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "06:09"
+      },
+      "eta_rueb": "16:17",
+      "eta_schleuse": "20:51",
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "06:09"
     },
     {
       "is_target": false,
@@ -514,14 +524,19 @@
       "name": "Crischan Czurda",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARABELLA",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 08 14:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:55",
+        "eta_rueb": "16:20",
+        "delta_rueb_schleuse": "04:35",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "16:20",
+      "eta_schleuse": "20:55",
+      "delta_rueb_schleuse": "04:35",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -698,14 +713,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NORMA",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 08 10:39:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:51",
+        "eta_rueb": "16:17",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "06:09"
+      },
+      "eta_rueb": "16:17",
+      "eta_schleuse": "20:51",
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "06:09"
     },
     {
       "is_target": false,
@@ -884,20 +904,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "16:17",
-      "eta_rueb": "16:13",
-      "ship": "NORMA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "16:20",
-      "eta_rueb": "16:16",
-      "ship": "ARABELLA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "16:19",
