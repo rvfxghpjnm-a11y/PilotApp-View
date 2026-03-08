@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T22:32:44",
+  "generated_at": "2026-03-08T22:34:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -143,8 +143,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "BRO ANNA",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Mar 08 17:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -194,16 +194,11 @@
       "fahrzeug": "WILSON DOVER",
       "route": "UTG → HOS",
       "time": "Sun Mar 08 16:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "16:12",
-        "delta_rueb_schleuse": "2285282:34",
-        "delta_start_rueb": "04:42"
-      },
-      "eta_rueb": "16:12",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2285282:34",
-      "delta_start_rueb": "04:42"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -661,7 +656,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:14",
+      "eta_rueb_kiel": "23:07",
       "eta_rueb": "23:00",
       "ship": "ELBRUNNER",
       "q_gruppe": "2",
@@ -675,7 +670,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:17",
+      "eta_rueb_kiel": "23:13",
       "eta_rueb": "23:05",
       "ship": "LADY MENNA",
       "q_gruppe": "4",
