@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T21:24:47",
+  "generated_at": "2026-03-08T21:26:43",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -162,11 +162,16 @@
       "fahrzeug": "WILSON DOVER",
       "route": "UTG → HOS",
       "time": "Sun Mar 08 16:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "2285282:34",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "16:12",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285282:34",
+      "delta_start_rueb": "04:42"
     },
     {
       "is_target": false,
@@ -352,11 +357,16 @@
       "fahrzeug": "WILSON DOVER",
       "route": "RÜB → UTG",
       "time": "Sun Mar 08 09:51:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "2285282:34",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "16:12",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285282:34",
+      "delta_start_rueb": "04:42"
     }
   ],
   "kanallotsen": [
@@ -607,11 +617,16 @@
       "fahrzeug": "WILSON DOVER",
       "route": "RÜB → UTG",
       "time": "Sun Mar 08 09:51:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "2285282:34",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "16:12",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285282:34",
+      "delta_start_rueb": "04:42"
     }
   ],
   "meldungen_kiel": [],
