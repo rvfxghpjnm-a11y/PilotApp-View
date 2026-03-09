@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T03:20:43",
+  "generated_at": "2026-03-09T03:22:43",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -200,14 +200,19 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCOT TRADER",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 08 21:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:23",
+        "eta_rueb": "03:49",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "03:49",
+      "eta_schleuse": "07:23",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": true,
@@ -408,14 +413,19 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCOT TRADER",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 08 21:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:23",
+        "eta_rueb": "03:49",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "03:49",
+      "eta_schleuse": "07:23",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": true,
@@ -525,13 +535,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:49",
-      "eta_rueb": "03:33",
-      "ship": "SCOT TRADER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "03:52",
       "eta_rueb": "03:35",
