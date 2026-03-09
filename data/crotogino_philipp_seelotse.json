@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-09T13:24:47",
+  "generated_at": "2026-03-09T13:26:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 7,
-    "wach": 1,
+    "wach": 0,
     "see": 5
   },
   "times": null,
@@ -212,27 +212,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Florian",
-      "nachname": "Koch",
-      "name": "Florian Koch",
-      "aufgabe": "Wachgänger",
-      "nr": 12,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Mon Mar 09 04:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Daniel",
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "LYDIA",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 02:45:00 CET 2026",
@@ -376,7 +360,7 @@
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "LYDIA",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 02:45:00 CET 2026",
@@ -393,5 +377,13 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": []
+  "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "14:00",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    }
+  ]
 }
