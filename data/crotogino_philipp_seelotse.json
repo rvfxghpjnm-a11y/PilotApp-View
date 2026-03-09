@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T14:56:49",
+  "generated_at": "2026-03-09T14:58:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 5,
     "wach": 0,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -178,22 +178,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Frank",
-      "nachname": "Staedler",
-      "name": "Frank Staedler",
-      "aufgabe": "Seebört",
-      "nr": 11,
-      "fahrzeug": "NEUSEBORG",
-      "route": "KLT → HOS",
-      "time": "Mon Mar 09 06:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -291,10 +275,17 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:27",
+      "eta_rueb_kiel": "19:19",
       "eta_rueb": "19:00",
       "ship": "BALTIC SEA",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:29",
+      "eta_rueb": "19:05",
+      "ship": "RAGNA",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
