@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T22:52:45",
+  "generated_at": "2026-03-09T22:54:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,16 +40,11 @@
       "fahrzeug": "LUNAMAR",
       "route": "HOS → KLT",
       "time": "Mon Mar 09 22:22:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:51",
-        "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "19:30",
-      "eta_schleuse": "22:51",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -61,16 +56,11 @@
       "fahrzeug": "RAGNA",
       "route": "HOS → KLT",
       "time": "Mon Mar 09 22:02:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:33",
-        "eta_rueb": "19:08",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "19:08",
-      "eta_schleuse": "22:33",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:14"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -98,9 +88,14 @@
       "fahrzeug": "STEN FJELL",
       "route": "HOS → RÜB",
       "time": "Mon Mar 09 21:39:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -331,16 +326,11 @@
       "fahrzeug": "LUNAMAR",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 14:12:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:51",
-        "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "19:30",
-      "eta_schleuse": "22:51",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -373,16 +363,11 @@
       "fahrzeug": "RAGNA",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 11:27:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:33",
-        "eta_rueb": "19:08",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "19:08",
-      "eta_schleuse": "22:33",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:14"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -396,9 +381,14 @@
       "fahrzeug": "STEN FJELL",
       "route": "HOS → RÜB",
       "time": "Mon Mar 09 21:39:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -565,16 +555,11 @@
       "fahrzeug": "LUNAMAR",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 14:12:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:51",
-        "eta_rueb": "19:30",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "19:30",
-      "eta_schleuse": "22:51",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -607,16 +592,11 @@
       "fahrzeug": "RAGNA",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 11:27:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:33",
-        "eta_rueb": "19:08",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "19:08",
-      "eta_schleuse": "22:33",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:14"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -633,6 +613,13 @@
       "eta_rueb": "01:50",
       "ship": "SONGA RUBY",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "04:10",
+      "eta_rueb": "03:40",
+      "ship": "WILSON NANTES",
+      "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
