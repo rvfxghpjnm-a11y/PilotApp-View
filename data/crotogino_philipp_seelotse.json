@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T19:58:54",
+  "generated_at": "2026-03-09T20:00:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -72,9 +72,14 @@
       "fahrzeug": "EKNOE",
       "route": "HOS → RÜB",
       "time": "Mon Mar 09 18:41:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -90,14 +95,14 @@
       "time": "Mon Mar 09 18:35:00 CET 2026",
       "times": {
         "eta_schleuse": "04:47",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "00:19",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": null,
+      "eta_rueb": "00:19",
       "eta_schleuse": "04:47",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -407,9 +412,14 @@
       "fahrzeug": "EKNOE",
       "route": "HOS → RÜB",
       "time": "Mon Mar 09 18:41:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -425,14 +435,14 @@
       "time": "Mon Mar 09 18:35:00 CET 2026",
       "times": {
         "eta_schleuse": "04:47",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "00:19",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": null,
+      "eta_rueb": "00:19",
       "eta_schleuse": "04:47",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -617,7 +627,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "21:41",
+      "eta_rueb_kiel": "21:39",
       "eta_rueb": "21:35",
       "ship": "VEGA CLARA",
       "q_gruppe": "5",
