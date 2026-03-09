@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-09T11:40:37",
+  "generated_at": "2026-03-09T11:42:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "RÜB",
-    "from": null,
-    "to": null,
+    "fahrzeug": "Leerfahrt",
+    "from": "RÜB",
+    "to": "HOS",
     "time": "Mon Mar 09 00:05:00 CET 2026",
     "nr": 16
   },
@@ -93,15 +93,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Mar 09 09:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:32",
-        "eta_rueb": "14:05",
+        "eta_schleuse": "18:30",
+        "eta_rueb": "14:03",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "14:05",
-      "eta_schleuse": "18:32",
+      "eta_rueb": "14:03",
+      "eta_schleuse": "18:30",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -184,8 +184,8 @@
       "name": "Kai Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 09 06:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -200,8 +200,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 09 06:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -285,8 +285,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 09 00:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -355,15 +355,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Mar 09 09:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:32",
-        "eta_rueb": "14:05",
+        "eta_schleuse": "18:30",
+        "eta_rueb": "14:03",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "14:05",
-      "eta_schleuse": "18:32",
+      "eta_rueb": "14:03",
+      "eta_schleuse": "18:30",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -414,8 +414,8 @@
       "name": "Kai Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 09 06:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -430,8 +430,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 09 06:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -467,8 +467,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Mar 09 00:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -478,13 +478,5 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "11:40",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    }
-  ]
+  "ruesterbergen": []
 }
