@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09T14:52:47",
+  "generated_at": "2026-03-09T14:54:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 5,
     "wach": 0,
     "see": 6
   },
@@ -90,14 +90,14 @@
       "time": "Mon Mar 09 11:09:00 CET 2026",
       "times": {
         "eta_schleuse": "20:50",
-        "eta_rueb": "16:14",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "16:13",
+        "delta_rueb_schleuse": "04:37",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "16:14",
+      "eta_rueb": "16:13",
       "eta_schleuse": "20:50",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:37",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -194,22 +194,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "LYDIA",
-      "route": "RÜB → HOS",
-      "time": "Mon Mar 09 02:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -294,36 +278,20 @@
       "time": "Mon Mar 09 11:09:00 CET 2026",
       "times": {
         "eta_schleuse": "20:50",
-        "eta_rueb": "16:14",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "16:13",
+        "delta_rueb_schleuse": "04:37",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "16:14",
+      "eta_rueb": "16:13",
       "eta_schleuse": "20:50",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:32"
-    },
-    {
-      "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "LYDIA",
-      "route": "RÜB → HOS",
-      "time": "Mon Mar 09 02:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:37",
+      "delta_start_rueb": "03:31"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:23",
+      "eta_rueb_kiel": "19:25",
       "eta_rueb": "19:00",
       "ship": "BALTIC SEA",
       "q_gruppe": "5",
