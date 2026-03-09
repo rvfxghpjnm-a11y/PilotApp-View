@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T07:20:37",
+  "generated_at": "2026-03-09T07:22:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 8,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -29,14 +29,14 @@
       "route": "HOS → KLT",
       "time": "Mon Mar 09 06:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:20",
+        "eta_schleuse": "07:21",
         "eta_rueb": "03:51",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "05:11"
       },
       "eta_rueb": "03:51",
-      "eta_schleuse": "07:20",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "07:21",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "05:11"
     },
     {
@@ -222,39 +222,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Hark",
-      "nachname": "Borggräfe",
-      "name": "Hark Borggräfe",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "BIANCA RAMBOW",
-      "route": "KLT → HOS",
-      "time": "Sun Mar 08 22:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jürgen",
       "nachname": "Marth",
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "BALTIC STAR",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:02",
+        "eta_schleuse": "09:57",
         "eta_rueb": "05:56",
-        "delta_rueb_schleuse": "04:06",
+        "delta_rueb_schleuse": "04:01",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "05:56",
-      "eta_schleuse": "10:02",
-      "delta_rueb_schleuse": "04:06",
+      "eta_schleuse": "09:57",
+      "delta_rueb_schleuse": "04:01",
       "delta_start_rueb": "05:36"
     },
     {
@@ -263,19 +247,19 @@
       "nachname": "Dalecki",
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "BALTIC SHARK",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 22:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:20",
+        "eta_schleuse": "07:21",
         "eta_rueb": "03:51",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "05:11"
       },
       "eta_rueb": "03:51",
-      "eta_schleuse": "07:20",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "07:21",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "05:11"
     },
     {
@@ -284,7 +268,7 @@
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "SCOT TRADER",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 21:20:00 CET 2026",
@@ -300,7 +284,7 @@
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "CALAMAR",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 19:11:00 CET 2026",
@@ -387,19 +371,19 @@
       "nachname": "Marth",
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "BALTIC STAR",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 22:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:02",
+        "eta_schleuse": "09:57",
         "eta_rueb": "05:56",
-        "delta_rueb_schleuse": "04:06",
+        "delta_rueb_schleuse": "04:01",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "05:56",
-      "eta_schleuse": "10:02",
-      "delta_rueb_schleuse": "04:06",
+      "eta_schleuse": "09:57",
+      "delta_rueb_schleuse": "04:01",
       "delta_start_rueb": "05:36"
     },
     {
@@ -408,19 +392,19 @@
       "nachname": "Dalecki",
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "BALTIC SHARK",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 22:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:20",
+        "eta_schleuse": "07:21",
         "eta_rueb": "03:51",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "05:11"
       },
       "eta_rueb": "03:51",
-      "eta_schleuse": "07:20",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "07:21",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "05:11"
     },
     {
@@ -429,7 +413,7 @@
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "SCOT TRADER",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 21:20:00 CET 2026",
@@ -445,7 +429,7 @@
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "CALAMAR",
       "route": "RÜB → HOS",
       "time": "Sun Mar 08 19:11:00 CET 2026",
