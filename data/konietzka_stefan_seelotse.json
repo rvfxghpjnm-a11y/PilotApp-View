@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T15:32:47",
+  "generated_at": "2026-03-10T15:34:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Remo Kordt",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BALTIC WHALE",
+      "route": "KLT → HOS",
       "time": "Tue Mar 10 14:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -64,8 +64,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "LADY IRINA",
+      "route": "KLT → HOS",
       "time": "Tue Mar 10 14:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -274,11 +274,16 @@
       "fahrzeug": "LEVENSAU",
       "route": "AHL → RÜB",
       "time": "Tue Mar 10 08:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "07:52",
+        "delta_rueb_schleuse": "2285890:54",
+        "delta_start_rueb": "655:42"
+      },
+      "eta_rueb": "07:52",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285890:54",
+      "delta_start_rueb": "655:42"
     },
     {
       "is_target": false,
@@ -524,11 +529,16 @@
       "fahrzeug": "LEVENSAU",
       "route": "AHL → RÜB",
       "time": "Tue Mar 10 08:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "07:52",
+        "delta_rueb_schleuse": "2285890:54",
+        "delta_start_rueb": "655:42"
+      },
+      "eta_rueb": "07:52",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285890:54",
+      "delta_start_rueb": "655:42"
     },
     {
       "is_target": false,
@@ -646,7 +656,7 @@
       "route": "KRH → HOS"
     },
     {
-      "eta_rueb_kiel": "18:28",
+      "eta_rueb_kiel": "18:27",
       "eta_rueb": "18:20",
       "ship": "BERND DEYMANN",
       "q_gruppe": "5",
