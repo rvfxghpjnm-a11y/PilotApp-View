@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T08:04:45",
+  "generated_at": "2026-03-10T08:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -269,14 +269,14 @@
       "time": "Tue Mar 10 03:59:00 CET 2026",
       "times": {
         "eta_schleuse": "13:37",
-        "eta_rueb": "09:10",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "09:09",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "09:10",
+      "eta_rueb": "09:09",
       "eta_schleuse": "13:37",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -359,14 +359,14 @@
       "time": "Tue Mar 10 01:45:00 CET 2026",
       "times": {
         "eta_schleuse": "12:10",
-        "eta_rueb": "08:24",
-        "delta_rueb_schleuse": "03:46",
-        "delta_start_rueb": "05:10"
+        "eta_rueb": "08:23",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "05:09"
       },
-      "eta_rueb": "08:24",
+      "eta_rueb": "08:23",
       "eta_schleuse": "12:10",
-      "delta_rueb_schleuse": "03:46",
-      "delta_start_rueb": "05:10"
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "05:09"
     },
     {
       "is_target": false,
@@ -630,14 +630,14 @@
       "time": "Tue Mar 10 03:59:00 CET 2026",
       "times": {
         "eta_schleuse": "13:37",
-        "eta_rueb": "09:10",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "09:09",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "09:10",
+      "eta_rueb": "09:09",
       "eta_schleuse": "13:37",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -672,14 +672,14 @@
       "time": "Tue Mar 10 01:45:00 CET 2026",
       "times": {
         "eta_schleuse": "12:10",
-        "eta_rueb": "08:24",
-        "delta_rueb_schleuse": "03:46",
-        "delta_start_rueb": "05:10"
+        "eta_rueb": "08:23",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "05:09"
       },
-      "eta_rueb": "08:24",
+      "eta_rueb": "08:23",
       "eta_schleuse": "12:10",
-      "delta_rueb_schleuse": "03:46",
-      "delta_start_rueb": "05:10"
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "05:09"
     }
   ],
   "meldungen_kiel": [],
@@ -711,6 +711,13 @@
       "ship": "PAULA",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "12:10",
+      "ship": "COE KAETHE",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
