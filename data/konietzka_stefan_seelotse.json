@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T17:56:45",
+  "generated_at": "2026-03-10T17:58:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "BALTIC WHALE",
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 16:34:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:50",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:50",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -67,11 +72,16 @@
       "fahrzeug": "ROCAMAR",
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 16:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:11",
+        "eta_rueb": "21:44",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:46"
+      },
+      "eta_rueb": "21:44",
+      "eta_schleuse": "02:11",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -83,11 +93,16 @@
       "fahrzeug": "MANAS",
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 16:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:46",
+        "eta_rueb": "21:41",
+        "delta_rueb_schleuse": "05:05",
+        "delta_start_rueb": "03:43"
+      },
+      "eta_rueb": "21:41",
+      "eta_schleuse": "02:46",
+      "delta_rueb_schleuse": "05:05",
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -160,14 +175,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ARKLOW GEM",
+      "route": "HOS → KLT",
       "time": "Tue Mar 10 14:16:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:15",
+        "eta_rueb": "14:42",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:16"
+      },
+      "eta_rueb": "14:42",
+      "eta_schleuse": "18:15",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:16"
     },
     {
       "is_target": false,
@@ -180,15 +200,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:41",
-        "eta_rueb": "18:59",
+        "eta_schleuse": "00:40",
+        "eta_rueb": "18:58",
         "delta_rueb_schleuse": "05:42",
-        "delta_start_rueb": "04:11"
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "18:59",
-      "eta_schleuse": "00:41",
+      "eta_rueb": "18:58",
+      "eta_schleuse": "00:40",
       "delta_rueb_schleuse": "05:42",
-      "delta_start_rueb": "04:11"
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -218,14 +238,14 @@
       "time": "Tue Mar 10 13:27:00 CET 2026",
       "times": {
         "eta_schleuse": "00:33",
-        "eta_rueb": "19:03",
-        "delta_rueb_schleuse": "05:30",
-        "delta_start_rueb": "04:11"
+        "eta_rueb": "19:02",
+        "delta_rueb_schleuse": "05:31",
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "19:03",
+      "eta_rueb": "19:02",
       "eta_schleuse": "00:33",
-      "delta_rueb_schleuse": "05:30",
-      "delta_start_rueb": "04:11"
+      "delta_rueb_schleuse": "05:31",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -238,15 +258,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 13:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:21",
-        "eta_rueb": "18:54",
+        "eta_schleuse": "23:20",
+        "eta_rueb": "18:53",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:06"
+        "delta_start_rueb": "04:05"
       },
-      "eta_rueb": "18:54",
-      "eta_schleuse": "23:21",
+      "eta_rueb": "18:53",
+      "eta_schleuse": "23:20",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:06"
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -303,14 +323,19 @@
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BERND DEYMANN",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 10 10:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:03",
+        "eta_rueb": "18:13",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:05"
+      },
+      "eta_rueb": "18:13",
+      "eta_schleuse": "22:03",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -401,16 +426,11 @@
       "fahrzeug": "COE KAETHE",
       "route": "RÜB → HOS",
       "time": "Tue Mar 10 06:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:53",
-        "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "06:28"
-      },
-      "eta_rueb": "14:32",
-      "eta_schleuse": "17:53",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "06:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -440,9 +460,14 @@
       "fahrzeug": "BALTIC WHALE",
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 16:34:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:50",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:50",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -456,11 +481,16 @@
       "fahrzeug": "ROCAMAR",
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 16:29:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:11",
+        "eta_rueb": "21:44",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:46"
+      },
+      "eta_rueb": "21:44",
+      "eta_schleuse": "02:11",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -472,11 +502,16 @@
       "fahrzeug": "MANAS",
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 16:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:46",
+        "eta_rueb": "21:41",
+        "delta_rueb_schleuse": "05:05",
+        "delta_start_rueb": "03:43"
+      },
+      "eta_rueb": "21:41",
+      "eta_schleuse": "02:46",
+      "delta_rueb_schleuse": "05:05",
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -489,15 +524,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 13:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:41",
-        "eta_rueb": "18:59",
+        "eta_schleuse": "00:40",
+        "eta_rueb": "18:58",
         "delta_rueb_schleuse": "05:42",
-        "delta_start_rueb": "04:11"
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "18:59",
-      "eta_schleuse": "00:41",
+      "eta_rueb": "18:58",
+      "eta_schleuse": "00:40",
       "delta_rueb_schleuse": "05:42",
-      "delta_start_rueb": "04:11"
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -511,14 +546,14 @@
       "time": "Tue Mar 10 13:27:00 CET 2026",
       "times": {
         "eta_schleuse": "00:33",
-        "eta_rueb": "19:03",
-        "delta_rueb_schleuse": "05:30",
-        "delta_start_rueb": "04:11"
+        "eta_rueb": "19:02",
+        "delta_rueb_schleuse": "05:31",
+        "delta_start_rueb": "04:10"
       },
-      "eta_rueb": "19:03",
+      "eta_rueb": "19:02",
       "eta_schleuse": "00:33",
-      "delta_rueb_schleuse": "05:30",
-      "delta_start_rueb": "04:11"
+      "delta_rueb_schleuse": "05:31",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -531,15 +566,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Mar 10 13:22:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:21",
-        "eta_rueb": "18:54",
+        "eta_schleuse": "23:20",
+        "eta_rueb": "18:53",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:06"
+        "delta_start_rueb": "04:05"
       },
-      "eta_rueb": "18:54",
-      "eta_schleuse": "23:21",
+      "eta_rueb": "18:53",
+      "eta_schleuse": "23:20",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:06"
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -580,14 +615,19 @@
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BERND DEYMANN",
+      "route": "RÜB → HOS",
       "time": "Tue Mar 10 10:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:03",
+        "eta_rueb": "18:13",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:05"
+      },
+      "eta_rueb": "18:13",
+      "eta_schleuse": "22:03",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -678,34 +718,15 @@
       "fahrzeug": "COE KAETHE",
       "route": "RÜB → HOS",
       "time": "Tue Mar 10 06:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:53",
-        "eta_rueb": "14:32",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "06:28"
-      },
-      "eta_rueb": "14:32",
-      "eta_schleuse": "17:53",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "06:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "18:13",
-      "eta_rueb": "18:15",
-      "ship": "BERND DEYMANN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "18:21",
-      "eta_rueb": "18:20",
-      "ship": "LENA MARIE",
-      "q_gruppe": "5",
-      "route": "RÜB → TOT"
-    },
     {
       "eta_rueb_kiel": "18:25",
       "eta_rueb": "18:23",
