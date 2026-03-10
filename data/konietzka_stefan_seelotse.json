@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-10T07:54:46",
+  "generated_at": "2026-03-10T07:56:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 1,
     "see": 6
   },
@@ -359,8 +359,8 @@
       "name": "Malte Krause",
       "aufgabe": "Seebört",
       "nr": 19,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "SWE-CARRIER",
+      "route": "KLT → HOS",
       "time": "Tue Mar 10 01:14:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -375,8 +375,8 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Seebört",
       "nr": 20,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Mar 10 00:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -394,22 +394,6 @@
       "fahrzeug": "WILSON NANTES",
       "route": "RÜB → HOS",
       "time": "Mon Mar 09 21:39:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Gunnar",
-      "nachname": "Thomsen",
-      "name": "Gunnar Thomsen",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "KADRI",
-      "route": "RÜB → HOS",
-      "time": "Mon Mar 09 18:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -696,22 +680,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Gunnar",
-      "nachname": "Thomsen",
-      "name": "Gunnar Thomsen",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "KADRI",
-      "route": "RÜB → HOS",
-      "time": "Mon Mar 09 18:43:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -738,7 +706,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:22",
+      "eta_rueb_kiel": "11:21",
       "eta_rueb": "11:05",
       "ship": "PAULA",
       "q_gruppe": "5",
