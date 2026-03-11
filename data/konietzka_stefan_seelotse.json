@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T07:24:47",
+  "generated_at": "2026-03-11T07:26:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -121,14 +121,14 @@
       "route": "HOS → KLT",
       "time": "Wed Mar 11 02:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:23",
+        "eta_schleuse": "07:26",
         "eta_rueb": "03:16",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "03:16",
-      "eta_schleuse": "07:23",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "07:26",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:22"
     },
     {
@@ -217,14 +217,14 @@
       "time": "Tue Mar 10 22:48:00 CET 2026",
       "times": {
         "eta_schleuse": "11:31",
-        "eta_rueb": "07:34",
-        "delta_rueb_schleuse": "03:57",
-        "delta_start_rueb": "04:14"
+        "eta_rueb": "07:33",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "04:13"
       },
-      "eta_rueb": "07:34",
+      "eta_rueb": "07:33",
       "eta_schleuse": "11:31",
-      "delta_rueb_schleuse": "03:57",
-      "delta_start_rueb": "04:14"
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -351,14 +351,14 @@
       "time": "Tue Mar 10 22:48:00 CET 2026",
       "times": {
         "eta_schleuse": "11:31",
-        "eta_rueb": "07:34",
-        "delta_rueb_schleuse": "03:57",
-        "delta_start_rueb": "04:14"
+        "eta_rueb": "07:33",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "04:13"
       },
-      "eta_rueb": "07:34",
+      "eta_rueb": "07:33",
       "eta_schleuse": "11:31",
-      "delta_rueb_schleuse": "03:57",
-      "delta_start_rueb": "04:14"
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -395,6 +395,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "11:40",
+      "ship": "BENABELL G",
+      "q_gruppe": "5",
+      "route": "RÜB → UTG"
+    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "11:45",
