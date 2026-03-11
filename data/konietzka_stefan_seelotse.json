@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-11T16:40:47",
+  "generated_at": "2026-03-11T16:42:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 7
   },
@@ -163,14 +163,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 11 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:14",
+        "eta_schleuse": "20:13",
         "eta_rueb": "16:39",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "16:39",
-      "eta_schleuse": "20:14",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "20:13",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:11"
     },
     {
@@ -326,22 +326,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Dietrich",
-      "name": "Thomas Dietrich",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "RIX MARINER",
-      "route": "RÜB → HOS",
-      "time": "Wed Mar 11 08:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -483,14 +467,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 11 11:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:14",
+        "eta_schleuse": "20:13",
         "eta_rueb": "16:39",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "16:39",
-      "eta_schleuse": "20:14",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "20:13",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:11"
     },
     {
@@ -529,22 +513,6 @@
       "eta_schleuse": "19:31",
       "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:23"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Dietrich",
-      "name": "Thomas Dietrich",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "RIX MARINER",
-      "route": "RÜB → HOS",
-      "time": "Wed Mar 11 08:22:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -571,7 +539,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:17",
+      "eta_rueb_kiel": "20:16",
       "eta_rueb": "20:05",
       "ship": "JOMI",
       "q_gruppe": "5",
