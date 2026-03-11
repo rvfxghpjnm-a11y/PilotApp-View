@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T11:18:45",
+  "generated_at": "2026-03-11T11:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -95,8 +95,8 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Mar 11 10:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -131,15 +131,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 11 09:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:18",
-        "eta_rueb": "14:47",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:55"
+        "eta_schleuse": "19:16",
+        "eta_rueb": "14:46",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "14:47",
-      "eta_schleuse": "19:18",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:55"
+      "eta_rueb": "14:46",
+      "eta_schleuse": "19:16",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -152,15 +152,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 11 09:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:14",
-        "eta_rueb": "14:44",
+        "eta_schleuse": "19:13",
+        "eta_rueb": "14:43",
         "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "14:44",
-      "eta_schleuse": "19:14",
+      "eta_rueb": "14:43",
+      "eta_schleuse": "19:13",
       "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -173,15 +173,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Mar 11 09:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:25",
-        "eta_rueb": "14:53",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:57"
+        "eta_schleuse": "19:23",
+        "eta_rueb": "14:52",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "14:53",
-      "eta_schleuse": "19:25",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:57"
+      "eta_rueb": "14:52",
+      "eta_schleuse": "19:23",
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -194,15 +194,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Mar 11 09:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:21",
-        "eta_rueb": "14:50",
+        "eta_schleuse": "19:20",
+        "eta_rueb": "14:49",
         "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "14:50",
-      "eta_schleuse": "19:21",
+      "eta_rueb": "14:49",
+      "eta_schleuse": "19:20",
       "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -301,14 +301,19 @@
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SWAN ATLANTIC",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 03:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:03",
+        "eta_rueb": "11:49",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "05:37"
+      },
+      "eta_rueb": "11:49",
+      "eta_schleuse": "16:03",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "05:37"
     },
     {
       "is_target": false,
@@ -398,8 +403,8 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Mar 11 10:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -418,15 +423,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 11 09:53:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:18",
-        "eta_rueb": "14:47",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:55"
+        "eta_schleuse": "19:16",
+        "eta_rueb": "14:46",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "14:47",
-      "eta_schleuse": "19:18",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:55"
+      "eta_rueb": "14:46",
+      "eta_schleuse": "19:16",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -439,15 +444,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Mar 11 09:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:14",
-        "eta_rueb": "14:44",
+        "eta_schleuse": "19:13",
+        "eta_rueb": "14:43",
         "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "14:44",
-      "eta_schleuse": "19:14",
+      "eta_rueb": "14:43",
+      "eta_schleuse": "19:13",
       "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -460,15 +465,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Mar 11 09:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:25",
-        "eta_rueb": "14:53",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:57"
+        "eta_schleuse": "19:23",
+        "eta_rueb": "14:52",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "14:53",
-      "eta_schleuse": "19:25",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:57"
+      "eta_rueb": "14:52",
+      "eta_schleuse": "19:23",
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -481,15 +486,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Mar 11 09:26:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:21",
-        "eta_rueb": "14:50",
+        "eta_schleuse": "19:20",
+        "eta_rueb": "14:49",
         "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "14:50",
-      "eta_schleuse": "19:21",
+      "eta_rueb": "14:49",
+      "eta_schleuse": "19:20",
       "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -540,14 +545,19 @@
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SWAN ATLANTIC",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 03:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:03",
+        "eta_rueb": "11:49",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "05:37"
+      },
+      "eta_rueb": "11:49",
+      "eta_schleuse": "16:03",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "05:37"
     },
     {
       "is_target": false,
@@ -615,20 +625,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "11:49",
-      "eta_rueb": "11:40",
-      "ship": "SWAN ATLANTIC",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "11:52",
-      "eta_rueb": "11:43",
-      "ship": "BENABELL G",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "12:42",
       "eta_rueb": "12:35",
