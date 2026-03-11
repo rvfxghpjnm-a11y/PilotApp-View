@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T15:26:47",
+  "generated_at": "2026-03-11T15:28:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -268,14 +268,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Mar 11 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:25",
+        "eta_schleuse": "15:27",
         "eta_rueb": "11:52",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "11:52",
-      "eta_schleuse": "15:25",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "15:27",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:28"
     },
     {
@@ -317,14 +317,19 @@
       "name": "Andreas Arlt",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PEAK BILBAO",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 09:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:38",
+        "eta_rueb": "15:39",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "15:39",
+      "eta_schleuse": "19:38",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -374,14 +379,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 11 06:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:00",
+        "eta_schleuse": "15:59",
         "eta_rueb": "12:37",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "12:37",
-      "eta_schleuse": "16:00",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "15:59",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:15"
     },
     {
@@ -586,14 +591,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Mar 11 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:25",
+        "eta_schleuse": "15:27",
         "eta_rueb": "11:52",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "11:52",
-      "eta_schleuse": "15:25",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "15:27",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:28"
     },
     {
@@ -619,14 +624,19 @@
       "name": "Andreas Arlt",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PEAK BILBAO",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 09:44:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:38",
+        "eta_rueb": "15:39",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "15:39",
+      "eta_schleuse": "19:38",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -660,14 +670,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 11 06:36:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:00",
+        "eta_schleuse": "15:59",
         "eta_rueb": "12:37",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "12:37",
-      "eta_schleuse": "16:00",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "15:59",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:15"
     },
     {
@@ -694,13 +704,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:39",
-      "eta_rueb": "15:30",
-      "ship": "PEAK BILBAO",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "15:45",
