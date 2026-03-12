@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T23:32:45",
+  "generated_at": "2026-03-12T23:34:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -306,8 +306,8 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SEA CARRIER",
+      "route": "KLT → HOS",
       "time": "Thu Mar 12 16:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -689,6 +689,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "03:35",
+      "eta_rueb": "03:12",
+      "ship": "ELBINSEL",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "03:29",
       "eta_rueb": "03:15",
       "ship": "PONEM",
@@ -700,13 +707,6 @@
       "eta_rueb": "03:18",
       "ship": "ROBIJN",
       "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "03:35",
-      "eta_rueb": "03:21",
-      "ship": "ELBINSEL",
-      "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
