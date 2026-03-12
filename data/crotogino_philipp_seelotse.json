@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T19:18:47",
+  "generated_at": "2026-03-12T19:20:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -93,9 +93,14 @@
       "fahrzeug": "ELBSUN",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 17:49:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:48",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:48",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -328,9 +333,14 @@
       "fahrzeug": "ELBSUN",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 17:49:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:48",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:48",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -484,7 +494,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:03",
+      "eta_rueb_kiel": "21:02",
       "eta_rueb": "20:53",
       "ship": "WILSON CALAIS",
       "q_gruppe": "5",
