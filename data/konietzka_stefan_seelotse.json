@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T01:34:43",
+  "generated_at": "2026-03-12T01:36:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -144,8 +144,8 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 20:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -160,8 +160,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 20:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -233,14 +233,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 11 17:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:46",
+        "eta_schleuse": "04:45",
         "eta_rueb": "01:13",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "01:13",
-      "eta_schleuse": "04:46",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "04:45",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:33"
     }
   ],
@@ -316,8 +316,8 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 20:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -332,8 +332,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Mar 11 20:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -373,26 +373,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Mar 11 17:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:46",
+        "eta_schleuse": "04:45",
         "eta_rueb": "01:13",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "01:13",
-      "eta_schleuse": "04:46",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "04:45",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:33"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "01:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:39",
       "eta_rueb": "04:30",
