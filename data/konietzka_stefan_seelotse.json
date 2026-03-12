@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T12:16:37",
+  "generated_at": "2026-03-12T12:18:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -124,15 +124,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Mar 12 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:14",
-        "eta_rueb": "15:47",
+        "eta_schleuse": "20:19",
+        "eta_rueb": "15:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:47"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "15:47",
-      "eta_schleuse": "20:14",
+      "eta_rueb": "15:52",
+      "eta_schleuse": "20:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:47"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -304,8 +304,8 @@
       "name": "Justus Heyder",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ANNE",
+      "route": "KLT → HOS",
       "time": "Thu Mar 12 07:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -474,15 +474,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Mar 12 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:14",
-        "eta_rueb": "15:47",
+        "eta_schleuse": "20:19",
+        "eta_rueb": "15:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:47"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "15:47",
-      "eta_schleuse": "20:14",
+      "eta_rueb": "15:52",
+      "eta_schleuse": "20:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:47"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -677,7 +677,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "14:47",
+      "eta_rueb_kiel": "14:49",
       "eta_rueb": "15:30",
       "ship": "RUTH",
       "q_gruppe": "2",
