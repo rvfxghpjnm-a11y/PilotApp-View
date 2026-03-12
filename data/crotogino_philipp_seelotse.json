@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T10:26:44",
+  "generated_at": "2026-03-12T10:28:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 1,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -126,14 +126,14 @@
       "time": "Thu Mar 12 08:28:00 CET 2026",
       "times": {
         "eta_schleuse": "17:54",
-        "eta_rueb": "13:27",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "13:26",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": "13:27",
+      "eta_rueb": "13:26",
       "eta_schleuse": "17:54",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -243,39 +243,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Tobias",
-      "nachname": "Pietsch",
-      "name": "Tobias Pietsch",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "SKAGENBANK",
-      "route": "HOS → UTG",
-      "time": "Thu Mar 12 06:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Caspar-Maria",
       "nachname": "Krüger",
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "SOLEA",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 06:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:59",
+        "eta_schleuse": "15:58",
         "eta_rueb": "11:01",
-        "delta_rueb_schleuse": "04:58",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "03:29"
       },
       "eta_rueb": "11:01",
-      "eta_schleuse": "15:59",
-      "delta_rueb_schleuse": "04:58",
+      "eta_schleuse": "15:58",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "03:29"
     },
     {
@@ -284,19 +268,19 @@
       "nachname": "Schie",
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "IDA RAMBOW",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 06:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:55",
+        "eta_schleuse": "15:54",
         "eta_rueb": "10:58",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:56",
         "delta_start_rueb": "03:26"
       },
       "eta_rueb": "10:58",
-      "eta_schleuse": "15:55",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "15:54",
+      "delta_rueb_schleuse": "04:56",
       "delta_start_rueb": "03:26"
     },
     {
@@ -305,19 +289,19 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "SATURNUS",
       "route": "HOS → RÜB",
       "time": "Thu Mar 12 05:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:02",
+        "eta_schleuse": "16:01",
         "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:56",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "11:05",
-      "eta_schleuse": "16:02",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "16:01",
+      "delta_rueb_schleuse": "04:56",
       "delta_start_rueb": "03:33"
     },
     {
@@ -326,7 +310,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "SCA OSTRAND",
       "route": "KLT → OUH",
       "time": "Thu Mar 12 04:17:00 CET 2026",
@@ -342,7 +326,7 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Wachgänger",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Thu Mar 12 04:00:00 CET 2026",
@@ -358,7 +342,7 @@
       "nachname": "Hahn",
       "name": "Peter Hahn",
       "aufgabe": "Seebört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Thu Mar 12 03:00:00 CET 2026",
@@ -487,14 +471,14 @@
       "time": "Thu Mar 12 08:28:00 CET 2026",
       "times": {
         "eta_schleuse": "17:54",
-        "eta_rueb": "13:27",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "13:26",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": "13:27",
+      "eta_rueb": "13:26",
       "eta_schleuse": "17:54",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -544,19 +528,19 @@
       "nachname": "Krüger",
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "SOLEA",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 06:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:59",
+        "eta_schleuse": "15:58",
         "eta_rueb": "11:01",
-        "delta_rueb_schleuse": "04:58",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "03:29"
       },
       "eta_rueb": "11:01",
-      "eta_schleuse": "15:59",
-      "delta_rueb_schleuse": "04:58",
+      "eta_schleuse": "15:58",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "03:29"
     },
     {
@@ -565,19 +549,19 @@
       "nachname": "Schie",
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "IDA RAMBOW",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 06:02:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:55",
+        "eta_schleuse": "15:54",
         "eta_rueb": "10:58",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:56",
         "delta_start_rueb": "03:26"
       },
       "eta_rueb": "10:58",
-      "eta_schleuse": "15:55",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "15:54",
+      "delta_rueb_schleuse": "04:56",
       "delta_start_rueb": "03:26"
     },
     {
@@ -586,19 +570,19 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "SATURNUS",
       "route": "HOS → RÜB",
       "time": "Thu Mar 12 05:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:02",
+        "eta_schleuse": "16:01",
         "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:56",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "11:05",
-      "eta_schleuse": "16:02",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "16:01",
+      "delta_rueb_schleuse": "04:56",
       "delta_start_rueb": "03:33"
     }
   ],
