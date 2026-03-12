@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-03-12T12:26:38",
-  "status": "seelotse",
-  "person": {
-    "vorname": "Stefan",
-    "nachname": "Konietzka",
-    "aufgabe": "Kanalbört",
-    "fahrzeug": "RIX ATLANTIC",
-    "from": "RÜB",
-    "to": "HOS",
-    "time": "Thu Mar 12 07:40:00 CET 2026",
-    "nr": 16
-  },
+  "generated_at": "2026-03-12T12:28:48",
+  "status": "not_in_seelotse",
+  "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 2,
     "see": 5
   },
-  "times": {
-    "eta_schleuse": "12:14",
-    "eta_rueb": "08:50",
-    "delta_rueb_schleuse": "03:24",
-    "delta_start_rueb": "06:54"
-  },
+  "times": null,
   "lotsen": [
     {
       "is_target": false,
@@ -103,15 +89,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 10:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:59",
-        "eta_rueb": "15:32",
+        "eta_schleuse": "19:57",
+        "eta_rueb": "15:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "15:32",
-      "eta_schleuse": "19:59",
+      "eta_rueb": "15:30",
+      "eta_schleuse": "19:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -230,14 +216,14 @@
       "time": "Thu Mar 12 08:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:06",
-        "eta_rueb": "13:36",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "13:35",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "13:36",
+      "eta_rueb": "13:35",
       "eta_schleuse": "18:06",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -314,33 +300,12 @@
       "delta_start_rueb": null
     },
     {
-      "is_target": true,
-      "vorname": "Stefan",
-      "nachname": "Konietzka",
-      "name": "Stefan Konietzka",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "RIX ATLANTIC",
-      "route": "RÜB → HOS",
-      "time": "Thu Mar 12 07:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "12:14",
-        "eta_rueb": "08:50",
-        "delta_rueb_schleuse": "03:24",
-        "delta_start_rueb": "06:54"
-      },
-      "eta_rueb": "08:50",
-      "eta_schleuse": "12:14",
-      "delta_rueb_schleuse": "03:24",
-      "delta_start_rueb": "06:54"
-    },
-    {
       "is_target": false,
       "vorname": "Roman",
       "nachname": "Spiller",
       "name": "Roman Spiller",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "MERSEY",
       "route": "NWK → HER",
       "time": "Thu Mar 12 06:55:00 CET 2026",
@@ -356,7 +321,7 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "BRAVEWIND",
       "route": "RÜB → HOS",
       "time": "Thu Mar 12 05:58:00 CET 2026",
@@ -377,7 +342,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Seebört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "SCA OSTRAND",
       "route": "OUH → HOS",
       "time": "Thu Mar 12 04:17:00 CET 2026",
@@ -393,7 +358,7 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Wachgänger",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Thu Mar 12 04:00:00 CET 2026",
@@ -453,15 +418,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 10:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:59",
-        "eta_rueb": "15:32",
+        "eta_schleuse": "19:57",
+        "eta_rueb": "15:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "15:32",
-      "eta_schleuse": "19:59",
+      "eta_rueb": "15:30",
+      "eta_schleuse": "19:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -580,14 +545,14 @@
       "time": "Thu Mar 12 08:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:06",
-        "eta_rueb": "13:36",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "13:35",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "13:36",
+      "eta_rueb": "13:35",
       "eta_schleuse": "18:06",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -632,33 +597,12 @@
       "delta_start_rueb": "03:32"
     },
     {
-      "is_target": true,
-      "vorname": "Stefan",
-      "nachname": "Konietzka",
-      "name": "Stefan Konietzka",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "RIX ATLANTIC",
-      "route": "RÜB → HOS",
-      "time": "Thu Mar 12 07:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "12:14",
-        "eta_rueb": "08:50",
-        "delta_rueb_schleuse": "03:24",
-        "delta_start_rueb": "06:54"
-      },
-      "eta_rueb": "08:50",
-      "eta_schleuse": "12:14",
-      "delta_rueb_schleuse": "03:24",
-      "delta_start_rueb": "06:54"
-    },
-    {
       "is_target": false,
       "vorname": "Dolf",
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "BRAVEWIND",
       "route": "RÜB → HOS",
       "time": "Thu Mar 12 05:58:00 CET 2026",
