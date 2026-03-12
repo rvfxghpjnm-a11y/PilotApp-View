@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-12T19:14:46",
+  "generated_at": "2026-03-12T19:16:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 4
   },
@@ -72,9 +72,14 @@
       "fahrzeug": "ANTONIA B",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 17:51:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:41",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:41",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -273,27 +278,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Kaschke",
-      "name": "Henning Kaschke",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "RUTH",
-      "route": "RÜB → HOS",
-      "time": "Thu Mar 12 08:36:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:00",
-        "eta_rueb": "14:42",
-        "delta_rueb_schleuse": "04:18",
-        "delta_start_rueb": "05:06"
-      },
-      "eta_rueb": "14:42",
-      "eta_schleuse": "19:00",
-      "delta_rueb_schleuse": "04:18",
-      "delta_start_rueb": "05:06"
     }
   ],
   "kanallotsen": [
@@ -323,9 +307,14 @@
       "fahrzeug": "ANTONIA B",
       "route": "HOR → RÜB",
       "time": "Thu Mar 12 17:51:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:41",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:41",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -476,27 +465,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Kaschke",
-      "name": "Henning Kaschke",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "RUTH",
-      "route": "RÜB → HOS",
-      "time": "Thu Mar 12 08:36:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:00",
-        "eta_rueb": "14:42",
-        "delta_rueb_schleuse": "04:18",
-        "delta_start_rueb": "05:06"
-      },
-      "eta_rueb": "14:42",
-      "eta_schleuse": "19:00",
-      "delta_rueb_schleuse": "04:18",
-      "delta_start_rueb": "05:06"
     }
   ],
   "meldungen_kiel": [],
@@ -544,7 +512,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:15",
+      "eta_rueb_kiel": "23:14",
       "eta_rueb": "23:05",
       "ship": "SYN TURAIS",
       "q_gruppe": "4",
