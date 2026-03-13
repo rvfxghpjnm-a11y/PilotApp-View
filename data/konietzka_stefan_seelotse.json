@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T08:54:48",
+  "generated_at": "2026-03-13T08:56:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -258,14 +258,14 @@
       "route": "KRH → RÜB",
       "time": "Fri Mar 13 01:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:21",
+        "eta_schleuse": "13:13",
         "eta_rueb": "09:00",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "00:46"
       },
       "eta_rueb": "09:00",
-      "eta_schleuse": "13:21",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "13:13",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "00:46"
     },
     {
@@ -529,14 +529,14 @@
       "route": "KRH → RÜB",
       "time": "Fri Mar 13 01:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:21",
+        "eta_schleuse": "13:13",
         "eta_rueb": "09:00",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "00:46"
       },
       "eta_rueb": "09:00",
-      "eta_schleuse": "13:21",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "13:13",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "00:46"
     },
     {
@@ -616,21 +616,14 @@
     },
     {
       "eta_rueb_kiel": "11:35",
-      "eta_rueb": "13:02",
+      "eta_rueb": "11:32",
       "ship": "PEAK BELFAST",
       "q_gruppe": "5",
       "route": "RÜB → RDP"
     },
     {
-      "eta_rueb_kiel": "11:42",
-      "eta_rueb": "13:04",
-      "ship": "ANNIKA BRAREN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": null,
-      "eta_rueb": "13:06",
+      "eta_rueb": "11:34",
       "ship": "BRIGITTE F",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
@@ -648,6 +641,13 @@
       "ship": "AMADEUS DIAMOND",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "11:42",
+      "eta_rueb": "13:36",
+      "ship": "ANNIKA BRAREN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
