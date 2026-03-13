@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-13T07:18:46",
+  "generated_at": "2026-03-13T07:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 0,
     "see": 7
   },
@@ -237,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 13 01:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:10",
+        "eta_schleuse": "11:09",
         "eta_rueb": "07:36",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "07:36",
-      "eta_schleuse": "11:10",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "11:09",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "05:36"
     },
     {
@@ -310,22 +310,6 @@
       "fahrzeug": "PONEM",
       "route": "UTG → HOS",
       "time": "Fri Mar 13 00:26:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Böttcher",
-      "name": "Peter Böttcher",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "ELBINSEL",
-      "route": "RÜB → HOS",
-      "time": "Thu Mar 12 21:56:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -498,14 +482,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 13 01:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:10",
+        "eta_schleuse": "11:09",
         "eta_rueb": "07:36",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "07:36",
-      "eta_schleuse": "11:10",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "11:09",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "05:36"
     },
     {
@@ -528,22 +512,6 @@
       "eta_schleuse": "11:13",
       "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:37"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Böttcher",
-      "name": "Peter Böttcher",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "ELBINSEL",
-      "route": "RÜB → HOS",
-      "time": "Thu Mar 12 21:56:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -573,6 +541,13 @@
       "eta_rueb_kiel": "12:49",
       "eta_rueb": "13:04",
       "ship": "ANNIKA BRAREN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:06",
+      "ship": "BRIGITTE F",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
