@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T21:38:46",
+  "generated_at": "2026-03-13T21:40:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -209,10 +209,10 @@
       "vorname": "Hartmut",
       "nachname": "Köller",
       "name": "Hartmut Köller",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 11,
       "fahrzeug": "CONTAINERSHIPS 8",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Mar 13 16:50:00 CET 2026",
       "times": {
         "eta_schleuse": "22:16",
@@ -232,14 +232,19 @@
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "EKNOE",
+      "route": "HOS → KLT",
       "time": "Fri Mar 13 16:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:06",
+        "eta_rueb": "18:12",
+        "delta_rueb_schleuse": "03:54",
+        "delta_start_rueb": "08:26"
+      },
+      "eta_rueb": "18:12",
+      "eta_schleuse": "22:06",
+      "delta_rueb_schleuse": "03:54",
+      "delta_start_rueb": "08:26"
     },
     {
       "is_target": false,
@@ -368,14 +373,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Mar 13 10:57:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:58",
+        "eta_schleuse": "21:59",
         "eta_rueb": "18:09",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "18:09",
-      "eta_schleuse": "21:58",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "21:59",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:33"
     },
     {
@@ -410,14 +415,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 13 10:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:40",
+        "eta_schleuse": "21:42",
         "eta_rueb": "17:58",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "17:58",
-      "eta_schleuse": "21:40",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "21:42",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:52"
     }
   ],
@@ -571,27 +576,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Hartmut",
-      "nachname": "Köller",
-      "name": "Hartmut Köller",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "CONTAINERSHIPS 8",
-      "route": "RÜB → HOS",
-      "time": "Fri Mar 13 16:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:16",
-        "eta_rueb": "18:21",
-        "delta_rueb_schleuse": "03:55",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "18:21",
-      "eta_schleuse": "22:16",
-      "delta_rueb_schleuse": "03:55",
-      "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
       "vorname": "Thomas",
       "nachname": "Thiel",
       "name": "Thomas Thiel",
@@ -696,14 +680,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Mar 13 10:57:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:58",
+        "eta_schleuse": "21:59",
         "eta_rueb": "18:09",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "18:09",
-      "eta_schleuse": "21:58",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "21:59",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "05:33"
     },
     {
@@ -738,14 +722,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Mar 13 10:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:40",
+        "eta_schleuse": "21:42",
         "eta_rueb": "17:58",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "17:58",
-      "eta_schleuse": "21:40",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "21:42",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:52"
     }
   ],
@@ -773,7 +757,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "23:44",
+      "eta_rueb_kiel": "23:43",
       "eta_rueb": "23:33",
       "ship": "ORAMALIA",
       "q_gruppe": "4",
