@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T17:22:38",
+  "generated_at": "2026-03-13T17:24:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -265,11 +265,16 @@
       "fahrzeug": "AMADEUS DIAMOND",
       "route": "UTG → HOS",
       "time": "Fri Mar 13 11:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "12:52",
+        "delta_rueb_schleuse": "2285165:54",
+        "delta_start_rueb": "04:32"
+      },
+      "eta_rueb": "12:52",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285165:54",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -792,7 +797,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:30",
+      "eta_rueb_kiel": "22:29",
       "eta_rueb": "22:10",
       "ship": "CAROLIN G.",
       "q_gruppe": "5",
