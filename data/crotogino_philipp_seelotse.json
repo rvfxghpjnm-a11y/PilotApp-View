@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T17:10:45",
+  "generated_at": "2026-03-13T17:12:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,11 +35,16 @@
       "fahrzeug": "VISSERSBANK",
       "route": "HOS → RÜB",
       "time": "Fri Mar 13 16:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:21",
+        "eta_rueb": "20:54",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:42"
+      },
+      "eta_rueb": "20:54",
+      "eta_schleuse": "01:21",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -148,14 +153,14 @@
       "time": "Fri Mar 13 13:50:00 CET 2026",
       "times": {
         "eta_schleuse": "23:09",
-        "eta_rueb": "18:42",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:30"
+        "eta_rueb": "18:41",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:29"
       },
-      "eta_rueb": "18:42",
+      "eta_rueb": "18:41",
       "eta_schleuse": "23:09",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:30"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -440,11 +445,16 @@
       "fahrzeug": "VISSERSBANK",
       "route": "HOS → RÜB",
       "time": "Fri Mar 13 16:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:21",
+        "eta_rueb": "20:54",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:42"
+      },
+      "eta_rueb": "20:54",
+      "eta_schleuse": "01:21",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -537,14 +547,14 @@
       "time": "Fri Mar 13 13:50:00 CET 2026",
       "times": {
         "eta_schleuse": "23:09",
-        "eta_rueb": "18:42",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:30"
+        "eta_rueb": "18:41",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:29"
       },
-      "eta_rueb": "18:42",
+      "eta_rueb": "18:41",
       "eta_schleuse": "23:09",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:30"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -741,7 +751,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:01",
+      "eta_rueb_kiel": "18:00",
       "eta_rueb": "18:00",
       "ship": "LADY HEDWIG",
       "q_gruppe": "5",
@@ -797,7 +807,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "22:33",
       "eta_rueb": "22:13",
       "ship": "KATI",
       "q_gruppe": "4",
