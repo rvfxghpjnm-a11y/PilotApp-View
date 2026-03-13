@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T17:26:37",
+  "generated_at": "2026-03-13T17:28:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -171,14 +171,14 @@
       "route": "UTG → RÜB",
       "time": "Fri Mar 13 13:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:08",
+        "eta_schleuse": "23:07",
         "eta_rueb": "18:40",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "18:40",
-      "eta_schleuse": "23:08",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "23:07",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:28"
     },
     {
@@ -192,15 +192,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Mar 13 13:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:04",
-        "eta_rueb": "18:37",
+        "eta_schleuse": "23:03",
+        "eta_rueb": "18:36",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:25"
+        "delta_start_rueb": "03:24"
       },
-      "eta_rueb": "18:37",
-      "eta_schleuse": "23:04",
+      "eta_rueb": "18:36",
+      "eta_schleuse": "23:03",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:25"
+      "delta_start_rueb": "03:24"
     },
     {
       "is_target": false,
@@ -347,14 +347,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY HEDWIG",
+      "route": "RÜB → HOS",
       "time": "Fri Mar 13 10:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:34",
+        "eta_rueb": "18:00",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:54"
+      },
+      "eta_rueb": "18:00",
+      "eta_schleuse": "21:34",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:54"
     },
     {
       "is_target": false,
@@ -559,14 +564,14 @@
       "route": "UTG → RÜB",
       "time": "Fri Mar 13 13:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:08",
+        "eta_schleuse": "23:07",
         "eta_rueb": "18:40",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "18:40",
-      "eta_schleuse": "23:08",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "23:07",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:28"
     },
     {
@@ -580,15 +585,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Mar 13 13:44:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:04",
-        "eta_rueb": "18:37",
+        "eta_schleuse": "23:03",
+        "eta_rueb": "18:36",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:25"
+        "delta_start_rueb": "03:24"
       },
-      "eta_rueb": "18:37",
-      "eta_schleuse": "23:04",
+      "eta_rueb": "18:36",
+      "eta_schleuse": "23:03",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:25"
+      "delta_start_rueb": "03:24"
     },
     {
       "is_target": false,
@@ -682,14 +687,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LADY HEDWIG",
+      "route": "RÜB → HOS",
       "time": "Fri Mar 13 10:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:34",
+        "eta_rueb": "18:00",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:54"
+      },
+      "eta_rueb": "18:00",
+      "eta_schleuse": "21:34",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:54"
     },
     {
       "is_target": false,
@@ -748,13 +758,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:00",
-      "eta_rueb": "18:00",
-      "ship": "LADY HEDWIG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "18:07",
       "eta_rueb": "18:03",
       "ship": "ELBSPRING",
@@ -762,7 +765,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:11",
+      "eta_rueb_kiel": "18:10",
       "eta_rueb": "18:06",
       "ship": "COE ANNA",
       "q_gruppe": "4",
@@ -783,7 +786,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:22",
+      "eta_rueb_kiel": "18:21",
       "eta_rueb": "18:16",
       "ship": "CONTAINERSHIPS 8",
       "q_gruppe": "1",
