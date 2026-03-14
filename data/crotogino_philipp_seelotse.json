@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-14T21:20:46",
+  "generated_at": "2026-03-14T21:22:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
-    "wach": 1,
+    "wach": 0,
     "see": 8
   },
   "times": null,
@@ -200,15 +200,15 @@
       "route": "AHL → RÜB",
       "time": "Sat Mar 14 14:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:37",
-        "eta_rueb": "22:15",
-        "delta_rueb_schleuse": "04:22",
-        "delta_start_rueb": "01:09"
+        "eta_schleuse": "03:32",
+        "eta_rueb": "23:11",
+        "delta_rueb_schleuse": "04:21",
+        "delta_start_rueb": "02:05"
       },
-      "eta_rueb": "22:15",
-      "eta_schleuse": "02:37",
-      "delta_rueb_schleuse": "04:22",
-      "delta_start_rueb": "01:09"
+      "eta_rueb": "23:11",
+      "eta_schleuse": "03:32",
+      "delta_rueb_schleuse": "04:21",
+      "delta_start_rueb": "02:05"
     },
     {
       "is_target": false,
@@ -260,27 +260,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Rambadt",
-      "name": "Helge Rambadt",
-      "aufgabe": "Wachgänger",
-      "nr": 15,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Sat Mar 14 12:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "THEODOR ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sat Mar 14 11:52:00 CET 2026",
@@ -301,7 +285,7 @@
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "TERSCHELLING",
       "route": "RÜB → HOS",
       "time": "Sat Mar 14 11:51:00 CET 2026",
@@ -317,7 +301,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "OLIVIA",
       "route": "RÜB → HOS",
       "time": "Sat Mar 14 10:58:00 CET 2026",
@@ -440,15 +424,15 @@
       "route": "AHL → RÜB",
       "time": "Sat Mar 14 14:29:00 CET 2026",
       "times": {
-        "eta_schleuse": "02:37",
-        "eta_rueb": "22:15",
-        "delta_rueb_schleuse": "04:22",
-        "delta_start_rueb": "01:09"
+        "eta_schleuse": "03:32",
+        "eta_rueb": "23:11",
+        "delta_rueb_schleuse": "04:21",
+        "delta_start_rueb": "02:05"
       },
-      "eta_rueb": "22:15",
-      "eta_schleuse": "02:37",
-      "delta_rueb_schleuse": "04:22",
-      "delta_start_rueb": "01:09"
+      "eta_rueb": "23:11",
+      "eta_schleuse": "03:32",
+      "delta_rueb_schleuse": "04:21",
+      "delta_start_rueb": "02:05"
     },
     {
       "is_target": false,
@@ -456,7 +440,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "THEODOR ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sat Mar 14 11:52:00 CET 2026",
@@ -477,7 +461,7 @@
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "TERSCHELLING",
       "route": "RÜB → HOS",
       "time": "Sat Mar 14 11:51:00 CET 2026",
@@ -493,7 +477,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "OLIVIA",
       "route": "RÜB → HOS",
       "time": "Sat Mar 14 10:58:00 CET 2026",
