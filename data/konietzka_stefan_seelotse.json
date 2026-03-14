@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T00:22:44",
+  "generated_at": "2026-03-15T00:24:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "FRISIAN RIVER",
       "route": "HOS → RÜB",
       "time": "Sat Mar 14 23:23:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:30",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -52,15 +57,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Mar 14 23:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:29",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "08:26",
+        "eta_rueb": "03:59",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "08:29",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "03:59",
+      "eta_schleuse": "08:26",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -73,15 +78,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 14 22:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:32",
-        "eta_rueb": "03:54",
+        "eta_schleuse": "08:33",
+        "eta_rueb": "03:55",
         "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "03:54",
-      "eta_schleuse": "08:32",
+      "eta_rueb": "03:55",
+      "eta_schleuse": "08:33",
       "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -115,14 +120,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 14 21:02:45 CET 2026",
       "times": {
-        "eta_schleuse": "06:26",
+        "eta_schleuse": "06:27",
         "eta_rueb": "01:43",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:44",
         "delta_start_rueb": "03:29"
       },
       "eta_rueb": "01:43",
-      "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "06:27",
+      "delta_rueb_schleuse": "04:44",
       "delta_start_rueb": "03:29"
     },
     {
@@ -180,14 +185,19 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC SKIPPER",
+      "route": "RÜB → HOS",
       "time": "Sat Mar 14 16:47:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:46",
+        "eta_rueb": "00:57",
+        "delta_rueb_schleuse": "03:49",
+        "delta_start_rueb": "05:53"
+      },
+      "eta_rueb": "00:57",
+      "eta_schleuse": "04:46",
+      "delta_rueb_schleuse": "03:49",
+      "delta_start_rueb": "05:53"
     },
     {
       "is_target": false,
@@ -280,9 +290,14 @@
       "fahrzeug": "FRISIAN RIVER",
       "route": "HOS → RÜB",
       "time": "Sat Mar 14 23:23:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:30",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -297,15 +312,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Mar 14 23:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:29",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "08:26",
+        "eta_rueb": "03:59",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "08:29",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "03:59",
+      "eta_schleuse": "08:26",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -318,15 +333,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 14 22:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:32",
-        "eta_rueb": "03:54",
+        "eta_schleuse": "08:33",
+        "eta_rueb": "03:55",
         "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "03:54",
-      "eta_schleuse": "08:32",
+      "eta_rueb": "03:55",
+      "eta_schleuse": "08:33",
       "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -360,14 +375,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Mar 14 21:02:45 CET 2026",
       "times": {
-        "eta_schleuse": "06:26",
+        "eta_schleuse": "06:27",
         "eta_rueb": "01:43",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:44",
         "delta_start_rueb": "03:29"
       },
       "eta_rueb": "01:43",
-      "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "06:27",
+      "delta_rueb_schleuse": "04:44",
       "delta_start_rueb": "03:29"
     },
     {
@@ -377,14 +392,19 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC SKIPPER",
+      "route": "RÜB → HOS",
       "time": "Sat Mar 14 16:47:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:46",
+        "eta_rueb": "00:57",
+        "delta_rueb_schleuse": "03:49",
+        "delta_start_rueb": "05:53"
+      },
+      "eta_rueb": "00:57",
+      "eta_schleuse": "04:46",
+      "delta_rueb_schleuse": "03:49",
+      "delta_start_rueb": "05:53"
     },
     {
       "is_target": false,
@@ -452,13 +472,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:57",
-      "eta_rueb": "00:55",
-      "ship": "BALTIC SKIPPER",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "00:59",
       "eta_rueb": "00:58",
