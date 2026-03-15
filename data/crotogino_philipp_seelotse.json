@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T17:02:42",
+  "generated_at": "2026-03-15T17:04:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "JULIA-B",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 15 16:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -90,8 +90,8 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS BOREALIS",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 15 10:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -138,8 +138,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Mar 15 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -154,8 +154,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Mar 15 09:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -257,11 +257,16 @@
       "fahrzeug": "AMADEUS RUBY",
       "route": "UTG → HOS",
       "time": "Sun Mar 15 05:42:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "12:13",
+        "delta_rueb_schleuse": "2285118:33",
+        "delta_start_rueb": "04:15"
+      },
+      "eta_rueb": "12:13",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2285118:33",
+      "delta_start_rueb": "04:15"
     }
   ],
   "kanallotsen": [
@@ -272,8 +277,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "JULIA-B",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 15 16:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -330,8 +335,8 @@
       "name": "Peter Hüpers",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS BOREALIS",
+      "route": "RÜB → HOS",
       "time": "Sun Mar 15 10:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -426,20 +431,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "17:45",
-      "ship": "CONTAINERSHIPS BOREALIS",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "17:45",
-      "ship": "JULIA-B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "19:39",
       "eta_rueb": "19:40",
