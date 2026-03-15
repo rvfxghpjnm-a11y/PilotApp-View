@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-15T17:36:37",
+  "generated_at": "2026-03-15T17:38:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Seebört",
-    "fahrzeug": "Leerfahrt",
-    "from": "KLT",
-    "to": "HOS",
+    "fahrzeug": "HOS",
+    "from": null,
+    "to": null,
     "time": "Sun Mar 15 09:55:00 CET 2026",
     "nr": 12
   },
@@ -211,8 +211,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Mar 15 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -227,8 +227,8 @@
       "name": "Stephan Wulff",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Mar 15 09:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -532,7 +532,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:38",
+      "eta_rueb_kiel": "19:37",
       "eta_rueb": "19:40",
       "ship": "HAV SNAPPER",
       "q_gruppe": "5",
