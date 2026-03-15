@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T10:06:44",
+  "generated_at": "2026-03-15T10:08:43",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -148,8 +148,8 @@
       "name": "Jörn Lielienthal",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "VLIELAND",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Mar 15 08:03:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -164,8 +164,8 @@
       "name": "Christian Schie",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "JETTE THERESA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Mar 15 07:56:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -205,14 +205,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Mar 15 06:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:06",
+        "eta_schleuse": "16:05",
         "eta_rueb": "11:39",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:55"
       },
       "eta_rueb": "11:39",
-      "eta_schleuse": "16:06",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "16:05",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:55"
     },
     {
@@ -259,8 +259,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "ELBWATER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Mar 15 03:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -487,14 +487,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Mar 15 06:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:06",
+        "eta_schleuse": "16:05",
         "eta_rueb": "11:39",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:55"
       },
       "eta_rueb": "11:39",
-      "eta_schleuse": "16:06",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "16:05",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:55"
     },
     {
@@ -580,7 +580,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:20",
+      "eta_rueb_kiel": "11:19",
       "eta_rueb": "11:20",
       "ship": "NORDICA",
       "q_gruppe": "1",
