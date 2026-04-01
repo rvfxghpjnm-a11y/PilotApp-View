@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T00:30:47",
+  "generated_at": "2026-04-02T00:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -189,10 +189,10 @@
       "vorname": "Martin",
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Wed Apr 01 19:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -248,14 +248,14 @@
       "route": "RÜB → TOT",
       "time": "Wed Apr 01 17:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:32",
+        "eta_schleuse": "01:31",
         "eta_rueb": "22:12",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:19",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "22:12",
-      "eta_schleuse": "01:32",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "01:31",
+      "delta_rueb_schleuse": "03:19",
       "delta_start_rueb": "04:16"
     },
     {
@@ -410,22 +410,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Wachsmuth",
-      "name": "Martin Wachsmuth",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Apr 01 19:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jens",
       "nachname": "Röhl",
       "name": "Jens Röhl",
@@ -435,14 +419,14 @@
       "route": "RÜB → TOT",
       "time": "Wed Apr 01 17:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:32",
+        "eta_schleuse": "01:31",
         "eta_rueb": "22:12",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:19",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "22:12",
-      "eta_schleuse": "01:32",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "01:31",
+      "delta_rueb_schleuse": "03:19",
       "delta_start_rueb": "04:16"
     },
     {
@@ -484,7 +468,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:20",
+      "eta_rueb_kiel": "03:17",
       "eta_rueb": "03:00",
       "ship": "JOHANN ESSBERGER",
       "q_gruppe": "4",
