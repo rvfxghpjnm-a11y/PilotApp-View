@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T01:38:46",
+  "generated_at": "2026-04-02T01:40:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "BALTIC MERCHANT",
       "route": "HOR → RÜB",
       "time": "Thu Apr 02 00:17:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -291,9 +296,14 @@
       "fahrzeug": "BALTIC MERCHANT",
       "route": "HOR → RÜB",
       "time": "Thu Apr 02 00:17:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
