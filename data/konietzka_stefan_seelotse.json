@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T02:06:45",
+  "generated_at": "2026-04-02T02:08:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 8,
     "wach": 0,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -37,8 +37,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "MARIELYST",
+      "route": "KLT → HOS",
       "time": "Thu Apr 02 00:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -157,14 +157,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 01 20:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:32",
+        "eta_schleuse": "04:30",
         "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "01:02",
-      "eta_schleuse": "04:32",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "04:30",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:48"
     },
     {
@@ -195,8 +195,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KAARI",
+      "route": "KLT → HOS",
       "time": "Wed Apr 01 19:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -214,22 +214,6 @@
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Wed Apr 01 19:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "name": "Steffen Zimmermann",
-      "aufgabe": "Seebört",
-      "nr": 12,
-      "fahrzeug": "ANNIKA BRAREN",
-      "route": "UTG → HOS",
-      "time": "Wed Apr 01 18:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -370,14 +354,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 01 20:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:32",
+        "eta_schleuse": "04:30",
         "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "01:02",
-      "eta_schleuse": "04:32",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "04:30",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:48"
     },
     {
@@ -405,7 +389,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:14",
+      "eta_rueb_kiel": "03:13",
       "eta_rueb": "03:05",
       "ship": "JOHANN ESSBERGER",
       "q_gruppe": "4",
