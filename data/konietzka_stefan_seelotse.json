@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T22:48:46",
+  "generated_at": "2026-04-02T22:50:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,14 +169,14 @@
       "time": "Thu Apr 02 17:01:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:35",
-        "eta_rueb": "23:06",
-        "delta_rueb_schleuse": "04:29",
-        "delta_start_rueb": "04:20"
+        "eta_rueb": "23:05",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:19"
       },
-      "eta_rueb": "23:06",
+      "eta_rueb": "23:05",
       "eta_schleuse": "03:35",
-      "delta_rueb_schleuse": "04:29",
-      "delta_start_rueb": "04:20"
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:19"
     },
     {
       "is_target": false,
@@ -360,14 +360,14 @@
       "time": "Thu Apr 02 17:01:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:35",
-        "eta_rueb": "23:06",
-        "delta_rueb_schleuse": "04:29",
-        "delta_start_rueb": "04:20"
+        "eta_rueb": "23:05",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:19"
       },
-      "eta_rueb": "23:06",
+      "eta_rueb": "23:05",
       "eta_schleuse": "03:35",
-      "delta_rueb_schleuse": "04:29",
-      "delta_start_rueb": "04:20"
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:19"
     },
     {
       "is_target": false,
@@ -492,10 +492,17 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:45",
+      "eta_rueb_kiel": "01:44",
       "eta_rueb": "01:40",
       "ship": "ELBSPRING",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "03:46",
+      "eta_rueb": "03:30",
+      "ship": "CORAL IVORY",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
