@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T14:44:48",
+  "generated_at": "2026-04-02T14:46:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -196,14 +196,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STEN BOTHNIA",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 02 09:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "15:11",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:07"
+      },
+      "eta_rueb": "15:11",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:07"
     },
     {
       "is_target": false,
@@ -409,14 +414,19 @@
       "name": "Tomas Witte",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STEN BOTHNIA",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 02 09:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "15:11",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:07"
+      },
+      "eta_rueb": "15:11",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:07"
     },
     {
       "is_target": false,
@@ -516,13 +526,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:11",
-      "eta_rueb": "15:06",
-      "ship": "STEN BOTHNIA",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "15:15",
