@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T12:22:45",
+  "generated_at": "2026-04-02T12:24:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 12,
     "wach": 1,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -242,16 +242,11 @@
       "fahrzeug": "WILSON ROTTERDAM",
       "route": "RÜB → UTG",
       "time": "Thu Apr 02 04:30:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:21",
-        "eta_rueb": "08:56",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:04"
-      },
-      "eta_rueb": "08:56",
-      "eta_schleuse": "12:21",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -292,27 +287,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jan-Torben",
-      "nachname": "Lüdtke",
-      "name": "Jan-Torben Lüdtke",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Thu Apr 02 03:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Knut Paul",
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
       "aufgabe": "Seebört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SCHELDEBANK",
       "route": "KLT → HOS",
       "time": "Thu Apr 02 02:57:00 CEST 2026",
@@ -493,16 +472,11 @@
       "fahrzeug": "WILSON ROTTERDAM",
       "route": "RÜB → UTG",
       "time": "Thu Apr 02 04:30:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:21",
-        "eta_rueb": "08:56",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:04"
-      },
-      "eta_rueb": "08:56",
-      "eta_schleuse": "12:21",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -559,7 +533,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "15:13",
+      "eta_rueb_kiel": "15:12",
       "eta_rueb": "15:03",
       "ship": "NEUENFELDE",
       "q_gruppe": "2",
