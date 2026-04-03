@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T23:18:46",
+  "generated_at": "2026-04-03T23:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -227,14 +227,19 @@
       "name": "Kai Heyenga",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "LADY MONIQUE",
+      "route": "HOS → KLT",
       "time": "Fri Apr 03 19:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:01",
+        "eta_rueb": "20:33",
+        "delta_rueb_schleuse": "03:28",
+        "delta_start_rueb": "05:23"
+      },
+      "eta_rueb": "20:33",
+      "eta_schleuse": "00:01",
+      "delta_rueb_schleuse": "03:28",
+      "delta_start_rueb": "05:23"
     },
     {
       "is_target": false,
