@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T22:38:47",
+  "generated_at": "2026-04-03T22:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -206,17 +206,12 @@
       "name": "Kai Heyenga",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "CELLUS",
-      "route": "HOS → UTG",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Apr 03 19:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "18:46",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -670,7 +665,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:35",
+      "eta_rueb_kiel": "02:36",
       "eta_rueb": "02:30",
       "ship": "KATJA",
       "q_gruppe": "4",
