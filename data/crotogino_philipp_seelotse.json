@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T14:02:49",
+  "generated_at": "2026-04-03T14:04:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -167,16 +167,11 @@
       "fahrzeug": "KARMEL",
       "route": "HOS → KLT",
       "time": "Fri Apr 03 08:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:54",
-        "eta_rueb": "10:05",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "10:05",
-      "eta_schleuse": "13:54",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "04:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -443,7 +438,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:35",
+      "eta_rueb_kiel": "18:34",
       "eta_rueb": "18:10",
       "ship": "NORDIC SAGA",
       "q_gruppe": "5",
