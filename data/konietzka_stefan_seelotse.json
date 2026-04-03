@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T00:24:45",
+  "generated_at": "2026-04-04T00:26:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 18,
+    "kanal": 17,
     "wach": 2,
     "see": 4
   },
@@ -111,14 +111,14 @@
       "time": "Fri Apr 03 23:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:34",
-        "eta_rueb": "00:40",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "05:18"
+        "eta_rueb": "00:39",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "05:17"
       },
-      "eta_rueb": "00:40",
+      "eta_rueb": "00:39",
       "eta_schleuse": "04:34",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "05:18"
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -130,9 +130,14 @@
       "fahrzeug": "NIMBUS",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 23:03:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -441,22 +446,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "name": "Steffen Zimmermann",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "LADY MONIQUE",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 03 13:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -546,14 +535,14 @@
       "time": "Fri Apr 03 23:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:34",
-        "eta_rueb": "00:40",
-        "delta_rueb_schleuse": "03:54",
-        "delta_start_rueb": "05:18"
+        "eta_rueb": "00:39",
+        "delta_rueb_schleuse": "03:55",
+        "delta_start_rueb": "05:17"
       },
-      "eta_rueb": "00:40",
+      "eta_rueb": "00:39",
       "eta_schleuse": "04:34",
-      "delta_rueb_schleuse": "03:54",
-      "delta_start_rueb": "05:18"
+      "delta_rueb_schleuse": "03:55",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -565,9 +554,14 @@
       "fahrzeug": "NIMBUS",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 23:03:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -791,22 +785,6 @@
       "fahrzeug": "SCOT LEADER",
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 14:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "name": "Steffen Zimmermann",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "LADY MONIQUE",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 03 13:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
