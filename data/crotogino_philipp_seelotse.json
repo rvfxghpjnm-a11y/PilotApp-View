@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:32:45",
+  "generated_at": "2026-04-03T08:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "ESPERANCE",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 06:55:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -312,8 +317,8 @@
       "name": "Sören Ehlers",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "FL STOROE",
+      "route": "KLT → HOS",
       "time": "Fri Apr 03 02:46:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -444,9 +449,14 @@
       "fahrzeug": "ESPERANCE",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 06:55:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
