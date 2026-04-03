@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T01:26:47",
+  "generated_at": "2026-04-04T01:28:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "LADY HANNAH",
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 00:22:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:43",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:43",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -423,9 +428,14 @@
       "fahrzeug": "LADY HANNAH",
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 00:22:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:43",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:43",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
