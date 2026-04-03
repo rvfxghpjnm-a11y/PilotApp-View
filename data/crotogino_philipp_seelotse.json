@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-03T03:52:46",
+  "generated_at": "2026-04-03T03:54:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 7,
     "wach": 2,
     "see": 7
   },
@@ -85,8 +85,8 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Apr 03 00:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -294,38 +294,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "BIRTHE ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 02 17:01:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Kevin",
-      "nachname": "Koslik",
-      "name": "Kevin Koslik",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "MORGENSTOND II",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 02 16:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -470,44 +438,12 @@
       "eta_schleuse": "04:38",
       "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "05:32"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "BIRTHE ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 02 17:01:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Kevin",
-      "nachname": "Koslik",
-      "name": "Kevin Koslik",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "MORGENSTOND II",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 02 16:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:44",
+      "eta_rueb_kiel": "05:42",
       "eta_rueb": "05:30",
       "ship": "AMADEUS GOLD",
       "q_gruppe": "5",
