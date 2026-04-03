@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T06:50:44",
+  "generated_at": "2026-04-03T06:52:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "CAROLINA",
       "route": "HOR → RÜB",
       "time": "Fri Apr 03 05:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -99,9 +104,14 @@
       "fahrzeug": "ALDEBARAN J",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 05:40:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:30",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -446,9 +456,14 @@
       "fahrzeug": "CAROLINA",
       "route": "HOR → RÜB",
       "time": "Fri Apr 03 05:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -462,9 +477,14 @@
       "fahrzeug": "ALDEBARAN J",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 05:40:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:30",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
