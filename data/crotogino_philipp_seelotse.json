@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:24:45",
+  "generated_at": "2026-04-03T07:26:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,8 +85,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ATLANTIC  MATE",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -163,14 +163,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 05:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:22",
+        "eta_schleuse": "15:17",
         "eta_rueb": "10:34",
-        "delta_rueb_schleuse": "04:48",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "10:34",
-      "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "04:48",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "03:42"
     },
     {
@@ -264,14 +264,14 @@
       "route": "HOS → KLT",
       "time": "Fri Apr 03 02:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:26",
+        "eta_schleuse": "07:28",
         "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "03:45",
-      "eta_schleuse": "07:26",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "07:28",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:39"
     },
     {
@@ -412,14 +412,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 02 20:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:26",
+        "eta_schleuse": "07:28",
         "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "03:45",
-      "eta_schleuse": "07:26",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "07:28",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:39"
     }
   ],
@@ -500,8 +500,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ATLANTIC  MATE",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -578,14 +578,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 05:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:22",
+        "eta_schleuse": "15:17",
         "eta_rueb": "10:34",
-        "delta_rueb_schleuse": "04:48",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "10:34",
-      "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "04:48",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "03:42"
     },
     {
@@ -710,26 +710,19 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 02 20:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:26",
+        "eta_schleuse": "07:28",
         "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "03:45",
-      "eta_schleuse": "07:26",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "07:28",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:39"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "07:50",
-      "ship": "ATLANTIC  MATE",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:11",
       "eta_rueb": "10:00",
