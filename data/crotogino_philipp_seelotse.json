@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T05:20:46",
+  "generated_at": "2026-04-03T05:22:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "MORGENSTOND II",
-      "route": "HOS → KLT",
+      "fahrzeug": "ALDEBARAN J",
+      "route": "KLT → HOS",
       "time": "Fri Apr 03 02:53:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -64,8 +64,8 @@
       "name": "Sören Ehlers",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "TARNBRIS",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 03 02:46:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -84,14 +84,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 01:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:12",
+        "eta_schleuse": "11:11",
         "eta_rueb": "06:33",
-        "delta_rueb_schleuse": "04:39",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "06:33",
-      "eta_schleuse": "11:12",
-      "delta_rueb_schleuse": "04:39",
+      "eta_schleuse": "11:11",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "04:05"
     },
     {
@@ -282,14 +282,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 01:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:12",
+        "eta_schleuse": "11:11",
         "eta_rueb": "06:33",
-        "delta_rueb_schleuse": "04:39",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "06:33",
-      "eta_schleuse": "11:12",
-      "delta_rueb_schleuse": "04:39",
+      "eta_schleuse": "11:11",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "04:05"
     },
     {
@@ -392,7 +392,7 @@
       "eta_rueb_kiel": "07:45",
       "eta_rueb": "07:30",
       "ship": "ECO PAMPERO",
-      "q_gruppe": "1",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
