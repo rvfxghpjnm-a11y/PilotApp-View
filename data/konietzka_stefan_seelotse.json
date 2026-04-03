@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-03T04:56:45",
+  "generated_at": "2026-04-03T04:58:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 2,
     "see": 7
   },
@@ -260,27 +260,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Franck",
-      "nachname": "Escher",
-      "name": "Franck Escher",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "BALTIC EXPRESS",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 02 19:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Stefan",
       "nachname": "Bruhn",
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Thu Apr 02 19:00:00 CEST 2026",
@@ -412,22 +396,6 @@
       "eta_schleuse": "05:03",
       "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "05:55"
-    },
-    {
-      "is_target": false,
-      "vorname": "Franck",
-      "nachname": "Escher",
-      "name": "Franck Escher",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "BALTIC EXPRESS",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 02 19:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
