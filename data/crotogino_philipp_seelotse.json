@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T10:46:43",
+  "generated_at": "2026-04-03T10:48:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -280,19 +280,14 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "MICHALI",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:03:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:20",
-        "eta_rueb": "10:53",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:15"
-      },
-      "eta_rueb": "10:53",
-      "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -631,19 +626,14 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "MICHALI",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:03:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:20",
-        "eta_rueb": "10:53",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:15"
-      },
-      "eta_rueb": "10:53",
-      "eta_schleuse": "15:20",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -754,6 +744,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "10:45",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "11:50",
