@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-03T21:20:46",
+  "generated_at": "2026-04-03T21:22:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
-    "wach": 3,
+    "wach": 2,
     "see": 7
   },
   "times": null,
@@ -216,15 +216,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Apr 03 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:59",
-        "eta_rueb": "23:32",
+        "eta_schleuse": "03:58",
+        "eta_rueb": "23:31",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:34"
+        "delta_start_rueb": "05:33"
       },
-      "eta_rueb": "23:32",
-      "eta_schleuse": "03:59",
+      "eta_rueb": "23:31",
+      "eta_schleuse": "03:58",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:34"
+      "delta_start_rueb": "05:33"
     },
     {
       "is_target": false,
@@ -307,8 +307,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "CHARLOTTE ESSBERGER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 03 15:47:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -397,27 +397,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Crischan",
-      "nachname": "Czurda",
-      "name": "Crischan Czurda",
-      "aufgabe": "Wachgänger",
-      "nr": 22,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Fri Apr 03 12:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "NORDIC SAGA",
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 10:50:00 CEST 2026",
@@ -572,15 +556,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Apr 03 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:59",
-        "eta_rueb": "23:32",
+        "eta_schleuse": "03:58",
+        "eta_rueb": "23:31",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:34"
+        "delta_start_rueb": "05:33"
       },
-      "eta_rueb": "23:32",
-      "eta_schleuse": "03:59",
+      "eta_rueb": "23:31",
+      "eta_schleuse": "03:58",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:34"
+      "delta_start_rueb": "05:33"
     },
     {
       "is_target": false,
@@ -672,7 +656,7 @@
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "NORDIC SAGA",
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 10:50:00 CEST 2026",
@@ -719,14 +703,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:42",
+      "eta_rueb_kiel": "22:41",
       "eta_rueb": "22:30",
       "ship": "SEAPIKE",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:32",
+      "eta_rueb_kiel": "23:31",
       "eta_rueb": "23:25",
       "ship": "HUMBER RUNNER",
       "q_gruppe": "5",
