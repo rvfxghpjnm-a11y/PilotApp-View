@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:46:37",
+  "generated_at": "2026-04-03T07:48:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -218,9 +218,14 @@
       "fahrzeug": "BALTIC SAILOR",
       "route": "HOR → RÜB",
       "time": "Fri Apr 03 05:22:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:47",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:47",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -282,16 +287,11 @@
       "fahrzeug": "CORAL IVORY",
       "route": "HOS → KLT",
       "time": "Fri Apr 03 02:53:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:35",
-        "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "05:39"
-      },
-      "eta_rueb": "03:45",
-      "eta_schleuse": "07:35",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "05:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -430,16 +430,11 @@
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Apr 02 20:53:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:35",
-        "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "05:39"
-      },
-      "eta_rueb": "03:45",
-      "eta_schleuse": "07:35",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "05:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -638,9 +633,14 @@
       "fahrzeug": "BALTIC SAILOR",
       "route": "HOR → RÜB",
       "time": "Fri Apr 03 05:22:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:47",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:47",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -733,16 +733,11 @@
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Apr 02 20:53:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:35",
-        "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "05:39"
-      },
-      "eta_rueb": "03:45",
-      "eta_schleuse": "07:35",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "05:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
