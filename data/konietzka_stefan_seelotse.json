@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T15:16:46",
+  "generated_at": "2026-04-03T15:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,19 +106,14 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "KIMBERLY",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 10:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:50",
-        "eta_rueb": "15:23",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:35"
-      },
-      "eta_rueb": "15:23",
-      "eta_schleuse": "19:50",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:35"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -336,19 +331,14 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "KIMBERLY",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 10:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:50",
-        "eta_rueb": "15:23",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:35"
-      },
-      "eta_rueb": "15:23",
-      "eta_schleuse": "19:50",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:35"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -481,7 +471,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "20:39",
       "eta_rueb": "20:18",
       "ship": "SCOT LEADER",
       "q_gruppe": "4",
