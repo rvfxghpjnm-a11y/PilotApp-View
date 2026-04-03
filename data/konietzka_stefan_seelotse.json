@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:36:37",
+  "generated_at": "2026-04-03T07:38:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -139,11 +139,16 @@
       "fahrzeug": "MICHALI",
       "route": "HOR → RÜB",
       "time": "Fri Apr 03 06:03:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:32",
+        "eta_rueb": "11:05",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:27"
+      },
+      "eta_rueb": "11:05",
+      "eta_schleuse": "15:32",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": true,
@@ -554,11 +559,16 @@
       "fahrzeug": "MICHALI",
       "route": "HOR → RÜB",
       "time": "Fri Apr 03 06:03:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:32",
+        "eta_rueb": "11:05",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:27"
+      },
+      "eta_rueb": "11:05",
+      "eta_schleuse": "15:32",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": true,
