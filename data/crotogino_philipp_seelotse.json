@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T19:32:46",
+  "generated_at": "2026-04-03T19:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -192,8 +192,8 @@
       "name": "René Winkler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "JSP SAMSOE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 14:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -344,14 +344,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 09:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:40",
+        "eta_schleuse": "19:41",
         "eta_rueb": "16:18",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "06:08"
       },
       "eta_rueb": "16:18",
-      "eta_schleuse": "19:40",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "19:41",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "06:08"
     }
   ],
@@ -427,8 +427,8 @@
       "name": "René Winkler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "JSP SAMSOE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 14:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -547,28 +547,28 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 09:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:40",
+        "eta_schleuse": "19:41",
         "eta_rueb": "16:18",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "06:08"
       },
       "eta_rueb": "16:18",
-      "eta_schleuse": "19:40",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "19:41",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "06:08"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:46",
+      "eta_rueb_kiel": "00:44",
       "eta_rueb": "00:30",
       "ship": "OLIVIA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:49",
+      "eta_rueb_kiel": "00:48",
       "eta_rueb": "00:33",
       "ship": "SALTSTRAUM",
       "q_gruppe": "3",
