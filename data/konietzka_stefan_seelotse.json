@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T20:32:46",
+  "generated_at": "2026-04-03T20:34:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "GRIFTBOR",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 19:30:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:23",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:23",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -371,9 +376,14 @@
       "fahrzeug": "GRIFTBOR",
       "route": "HOS → RÜB",
       "time": "Fri Apr 03 19:30:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:23",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:23",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
