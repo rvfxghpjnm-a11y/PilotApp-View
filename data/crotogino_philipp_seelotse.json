@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:06:43",
+  "generated_at": "2026-04-03T07:08:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -96,8 +96,8 @@
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -254,14 +254,14 @@
       "route": "HOS → KLT",
       "time": "Fri Apr 03 02:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:11",
+        "eta_schleuse": "07:12",
         "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "03:45",
-      "eta_schleuse": "07:11",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "07:12",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "05:39"
     },
     {
@@ -402,14 +402,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 02 20:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:11",
+        "eta_schleuse": "07:12",
         "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "03:45",
-      "eta_schleuse": "07:11",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "07:12",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "05:39"
     }
   ],
@@ -469,8 +469,8 @@
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -485,8 +485,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -501,8 +501,8 @@
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 03 06:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -690,14 +690,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 02 20:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:11",
+        "eta_schleuse": "07:12",
         "eta_rueb": "03:45",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "03:45",
-      "eta_schleuse": "07:11",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "07:12",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "05:39"
     }
   ],
@@ -711,7 +711,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:45",
+      "eta_rueb_kiel": "07:44",
       "eta_rueb": "07:43",
       "ship": "FINE SCHEPERS",
       "q_gruppe": "2",
