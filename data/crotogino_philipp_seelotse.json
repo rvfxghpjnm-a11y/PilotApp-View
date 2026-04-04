@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T00:44:45",
+  "generated_at": "2026-04-05T00:46:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "NHF → RÜB",
       "time": "Sat Apr 04 23:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:19",
+        "eta_schleuse": "09:17",
         "eta_rueb": "04:06",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:11",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "04:06",
-      "eta_schleuse": "09:19",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "09:17",
+      "delta_rueb_schleuse": "05:11",
       "delta_start_rueb": "04:22"
     },
     {
@@ -301,14 +301,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HAV SAND",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:54",
+        "eta_rueb": "01:12",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "04:54"
+      },
+      "eta_rueb": "01:12",
+      "eta_schleuse": "05:54",
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "04:54"
     },
     {
       "is_target": false,
@@ -445,14 +450,14 @@
       "route": "NHF → RÜB",
       "time": "Sat Apr 04 23:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:19",
+        "eta_schleuse": "09:17",
         "eta_rueb": "04:06",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:11",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "04:06",
-      "eta_schleuse": "09:19",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "09:17",
+      "delta_rueb_schleuse": "05:11",
       "delta_start_rueb": "04:22"
     },
     {
@@ -673,14 +678,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HAV SAND",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:54",
+        "eta_rueb": "01:12",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "04:54"
+      },
+      "eta_rueb": "01:12",
+      "eta_schleuse": "05:54",
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "04:54"
     },
     {
       "is_target": false,
@@ -728,13 +738,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:12",
-      "eta_rueb": "01:18",
-      "ship": "HAV SAND",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "01:16",
       "eta_rueb": "01:21",
       "ship": "TIMBUS",
@@ -756,7 +759,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "05:39",
+      "eta_rueb_kiel": "05:38",
       "eta_rueb": "05:20",
       "ship": "WILSON LOVIISA",
       "q_gruppe": "5",
@@ -770,7 +773,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:06",
+      "eta_rueb_kiel": "06:05",
       "eta_rueb": "05:26",
       "ship": "CONTAINERSHIPS AURORA",
       "q_gruppe": "1",
