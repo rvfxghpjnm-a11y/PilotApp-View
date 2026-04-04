@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T07:00:49",
+  "generated_at": "2026-04-04T07:02:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "FAIRPLAY 64",
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 06:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -297,9 +302,14 @@
       "fahrzeug": "FAIRPLAY 64",
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 06:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
