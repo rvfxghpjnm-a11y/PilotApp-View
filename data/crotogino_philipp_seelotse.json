@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T00:46:45",
+  "generated_at": "2026-04-05T00:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -136,14 +136,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 21:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:37",
+        "eta_schleuse": "03:38",
         "eta_rueb": "23:16",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "23:16",
-      "eta_schleuse": "03:37",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "03:38",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:24"
     },
     {
@@ -285,14 +285,19 @@
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TIMBUS",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:56",
+        "eta_rueb": "01:15",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "01:15",
+      "eta_schleuse": "05:56",
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -305,14 +310,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:54",
+        "eta_schleuse": "05:53",
         "eta_rueb": "01:12",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "01:12",
-      "eta_schleuse": "05:54",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "05:53",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:54"
     },
     {
@@ -326,15 +331,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:51",
-        "eta_rueb": "01:09",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "05:05"
+        "eta_schleuse": "05:49",
+        "eta_rueb": "01:08",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "05:04"
       },
-      "eta_rueb": "01:09",
-      "eta_schleuse": "05:51",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "05:05"
+      "eta_rueb": "01:08",
+      "eta_schleuse": "05:49",
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "05:04"
     },
     {
       "is_target": false,
@@ -550,14 +555,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 21:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:37",
+        "eta_schleuse": "03:38",
         "eta_rueb": "23:16",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "23:16",
-      "eta_schleuse": "03:37",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "03:38",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:24"
     },
     {
@@ -662,14 +667,19 @@
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TIMBUS",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:56",
+        "eta_rueb": "01:15",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "01:15",
+      "eta_schleuse": "05:56",
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -682,14 +692,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:54",
+        "eta_schleuse": "05:53",
         "eta_rueb": "01:12",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "01:12",
-      "eta_schleuse": "05:54",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "05:53",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:54"
     },
     {
@@ -703,15 +713,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:51",
-        "eta_rueb": "01:09",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "05:05"
+        "eta_schleuse": "05:49",
+        "eta_rueb": "01:08",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "05:04"
       },
-      "eta_rueb": "01:09",
-      "eta_schleuse": "05:51",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "05:05"
+      "eta_rueb": "01:08",
+      "eta_schleuse": "05:49",
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "05:04"
     },
     {
       "is_target": false,
@@ -737,13 +747,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "01:16",
-      "eta_rueb": "01:21",
-      "ship": "TIMBUS",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "02:53",
       "eta_rueb": "02:30",
