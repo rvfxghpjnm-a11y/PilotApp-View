@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:02:45",
+  "generated_at": "2026-04-04T04:04:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Hannes Rink",
       "aufgabe": "Wachgänger",
       "nr": 1,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
+      "route": "HOS → HOS",
       "time": "Sat Apr 04 04:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -32,8 +32,8 @@
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
       "nr": 2,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
+      "route": "HOS → HOS",
       "time": "Sat Apr 04 04:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Hartmut Köller",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "HUMBER RUNNER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 04 02:18:16 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -163,15 +163,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Apr 03 23:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:10",
+        "eta_schleuse": "09:36",
+        "eta_rueb": "05:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:10"
+        "delta_start_rueb": "07:09"
       },
-      "eta_rueb": "05:10",
-      "eta_schleuse": "09:37",
+      "eta_rueb": "05:09",
+      "eta_schleuse": "09:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:10"
+      "delta_start_rueb": "07:09"
     },
     {
       "is_target": false,
@@ -513,15 +513,15 @@
       "route": "UTG → RÜB",
       "time": "Fri Apr 03 23:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:10",
+        "eta_schleuse": "09:36",
+        "eta_rueb": "05:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:10"
+        "delta_start_rueb": "07:09"
       },
-      "eta_rueb": "05:10",
-      "eta_schleuse": "09:37",
+      "eta_rueb": "05:09",
+      "eta_schleuse": "09:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:10"
+      "delta_start_rueb": "07:09"
     },
     {
       "is_target": false,
@@ -718,7 +718,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:44",
+      "eta_rueb_kiel": "04:43",
       "eta_rueb": "04:45",
       "ship": "NINA B",
       "q_gruppe": "5",
@@ -732,7 +732,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:35",
+      "eta_rueb_kiel": "06:34",
       "eta_rueb": "06:30",
       "ship": "CHARLOCK",
       "q_gruppe": "3",
