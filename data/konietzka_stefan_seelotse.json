@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T08:06:46",
+  "generated_at": "2026-04-04T08:08:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,15 +52,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 06:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:52",
-        "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "04:47"
+        "eta_schleuse": "16:32",
+        "eta_rueb": "11:50",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "04:48"
       },
-      "eta_rueb": "11:49",
-      "eta_schleuse": "16:52",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "04:47"
+      "eta_rueb": "11:50",
+      "eta_schleuse": "16:32",
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "04:48"
     },
     {
       "is_target": false,
@@ -202,14 +202,19 @@
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KLAVERBANK",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 01:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:07",
+        "eta_rueb": "08:33",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "08:33",
+      "eta_schleuse": "12:07",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -301,14 +306,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 22:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:10",
+        "eta_schleuse": "08:18",
         "eta_rueb": "04:43",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "04:43",
-      "eta_schleuse": "08:10",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "08:18",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:17"
     }
   ],
@@ -356,15 +361,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 06:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:52",
-        "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "05:03",
-        "delta_start_rueb": "04:47"
+        "eta_schleuse": "16:32",
+        "eta_rueb": "11:50",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "04:48"
       },
-      "eta_rueb": "11:49",
-      "eta_schleuse": "16:52",
-      "delta_rueb_schleuse": "05:03",
-      "delta_start_rueb": "04:47"
+      "eta_rueb": "11:50",
+      "eta_schleuse": "16:32",
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "04:48"
     },
     {
       "is_target": false,
@@ -394,14 +399,19 @@
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KLAVERBANK",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 01:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:07",
+        "eta_rueb": "08:33",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "08:33",
+      "eta_schleuse": "12:07",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -477,28 +487,21 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 03 22:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:10",
+        "eta_schleuse": "08:18",
         "eta_rueb": "04:43",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "04:43",
-      "eta_schleuse": "08:10",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "08:18",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:17"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:33",
-      "eta_rueb": "08:30",
-      "ship": "KLAVERBANK",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "10:46",
+      "eta_rueb_kiel": "10:47",
       "eta_rueb": "10:30",
       "ship": "MARIETJE HESTER",
       "q_gruppe": "5",
