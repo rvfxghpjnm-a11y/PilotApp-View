@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T22:36:46",
+  "generated_at": "2026-04-04T22:38:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -339,14 +339,19 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 19,
-      "fahrzeug": "ESTEMAR",
-      "route": "KLT → HOS",
+      "fahrzeug": "W NORTH",
+      "route": "HOS → KLT",
       "time": "Sat Apr 04 17:03:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:54",
+        "eta_rueb": "19:01",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "19:01",
+      "eta_schleuse": "22:54",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
