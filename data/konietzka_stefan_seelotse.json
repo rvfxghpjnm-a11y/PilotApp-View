@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T11:50:45",
+  "generated_at": "2026-04-04T11:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 2,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -249,27 +249,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Justus",
-      "nachname": "Heyder",
-      "name": "Justus Heyder",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sat Apr 04 04:19:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hannes",
       "nachname": "Rink",
       "name": "Hannes Rink",
       "aufgabe": "Wachgänger",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sat Apr 04 04:00:00 CEST 2026",
@@ -285,7 +269,7 @@
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sat Apr 04 04:00:00 CEST 2026",
@@ -301,7 +285,7 @@
       "nachname": "Kurfeld",
       "name": "Jan Kurfeld",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sat Apr 04 03:00:00 CEST 2026",
@@ -317,20 +301,15 @@
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "KLAVERBANK",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 01:44:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:47",
-        "eta_rueb": "08:32",
-        "delta_rueb_schleuse": "03:15",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "08:32",
-      "eta_schleuse": "11:47",
-      "delta_rueb_schleuse": "03:15",
-      "delta_start_rueb": "04:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -530,20 +509,15 @@
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "KLAVERBANK",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 01:44:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:47",
-        "eta_rueb": "08:32",
-        "delta_rueb_schleuse": "03:15",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "08:32",
-      "eta_schleuse": "11:47",
-      "delta_rueb_schleuse": "03:15",
-      "delta_start_rueb": "04:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -556,7 +530,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:33",
+      "eta_rueb_kiel": "13:31",
       "eta_rueb": "13:20",
       "ship": "HEINRICH EHLER",
       "q_gruppe": "0",
