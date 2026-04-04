@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T08:50:44",
+  "generated_at": "2026-04-04T08:52:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -53,14 +53,14 @@
       "time": "Sat Apr 04 07:06:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:37",
-        "eta_rueb": "13:10",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:48"
+        "eta_rueb": "13:09",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:47"
       },
-      "eta_rueb": "13:10",
+      "eta_rueb": "13:09",
       "eta_schleuse": "17:37",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:48"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -73,14 +73,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 06:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:29",
+        "eta_schleuse": "16:31",
         "eta_rueb": "10:48",
-        "delta_rueb_schleuse": "05:41",
+        "delta_rueb_schleuse": "05:43",
         "delta_start_rueb": "03:46"
       },
       "eta_rueb": "10:48",
-      "eta_schleuse": "16:29",
-      "delta_rueb_schleuse": "05:41",
+      "eta_schleuse": "16:31",
+      "delta_rueb_schleuse": "05:43",
       "delta_start_rueb": "03:46"
     },
     {
@@ -106,8 +106,8 @@
       "name": "Volker Kahler",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "KAIRIIN",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 04 05:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -138,8 +138,8 @@
       "name": "Justus Heyder",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KARILIN",
-      "route": "HOS → UTG",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 04 04:19:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -341,14 +341,14 @@
       "time": "Sat Apr 04 07:06:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:37",
-        "eta_rueb": "13:10",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:48"
+        "eta_rueb": "13:09",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:47"
       },
-      "eta_rueb": "13:10",
+      "eta_rueb": "13:09",
       "eta_schleuse": "17:37",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:48"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -361,14 +361,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 06:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:29",
+        "eta_schleuse": "16:31",
         "eta_rueb": "10:48",
-        "delta_rueb_schleuse": "05:41",
+        "delta_rueb_schleuse": "05:43",
         "delta_start_rueb": "03:46"
       },
       "eta_rueb": "10:48",
-      "eta_schleuse": "16:29",
-      "delta_rueb_schleuse": "05:41",
+      "eta_schleuse": "16:31",
+      "delta_rueb_schleuse": "05:43",
       "delta_start_rueb": "03:46"
     },
     {
@@ -475,7 +475,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:45",
+      "eta_rueb_kiel": "10:44",
       "eta_rueb": "10:35",
       "ship": "MARIETJE HESTER",
       "q_gruppe": "5",
