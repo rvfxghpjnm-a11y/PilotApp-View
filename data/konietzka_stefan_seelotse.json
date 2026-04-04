@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T18:32:46",
+  "generated_at": "2026-04-04T18:34:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,8 +85,8 @@
       "name": "Helge Buch",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KIARA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 04 16:26:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -443,6 +443,13 @@
       "eta_rueb": "23:13",
       "ship": "LONGEARTH",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "23:27",
+      "eta_rueb": "23:16",
+      "ship": "BALTIC ECLIPSE",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
