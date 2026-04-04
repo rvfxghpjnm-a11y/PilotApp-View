@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T20:30:46",
+  "generated_at": "2026-04-04T20:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 12,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -185,15 +185,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 17:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:47",
-        "eta_rueb": "22:09",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "03:27"
+        "eta_schleuse": "02:48",
+        "eta_rueb": "22:08",
+        "delta_rueb_schleuse": "04:40",
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "22:09",
-      "eta_schleuse": "02:47",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "03:27"
+      "eta_rueb": "22:08",
+      "eta_schleuse": "02:48",
+      "delta_rueb_schleuse": "04:40",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -202,8 +202,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ESTEMAR",
+      "route": "KLT → HOS",
       "time": "Sat Apr 04 17:03:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -324,27 +324,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Sat Apr 04 11:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Marco",
       "nachname": "Feldes",
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "W NORTH",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 10:30:00 CEST 2026",
@@ -365,7 +349,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "RIX UNION",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 10:05:00 CEST 2026",
@@ -494,15 +478,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 17:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:47",
-        "eta_rueb": "22:09",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "03:27"
+        "eta_schleuse": "02:48",
+        "eta_rueb": "22:08",
+        "delta_rueb_schleuse": "04:40",
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "22:09",
-      "eta_schleuse": "02:47",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "03:27"
+      "eta_rueb": "22:08",
+      "eta_schleuse": "02:48",
+      "delta_rueb_schleuse": "04:40",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -573,7 +557,7 @@
       "nachname": "Feldes",
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "W NORTH",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 10:30:00 CEST 2026",
@@ -594,7 +578,7 @@
       "nachname": "Külzer",
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "RIX UNION",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 10:05:00 CEST 2026",
@@ -634,14 +618,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:23",
+      "eta_rueb_kiel": "23:25",
       "eta_rueb": "23:13",
       "ship": "LONGEARTH",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:26",
+      "eta_rueb_kiel": "23:28",
       "eta_rueb": "23:16",
       "ship": "BALTIC ECLIPSE",
       "q_gruppe": "5",
@@ -655,7 +639,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:33",
+      "eta_rueb_kiel": "23:34",
       "eta_rueb": "23:22",
       "ship": "MARBURG",
       "q_gruppe": "1",
