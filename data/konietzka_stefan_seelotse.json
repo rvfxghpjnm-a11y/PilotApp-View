@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T11:16:47",
+  "generated_at": "2026-04-04T11:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,11 +35,16 @@
       "fahrzeug": "CELTIC RAIDER",
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 10:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:15",
+        "eta_rueb": "15:48",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:30"
+      },
+      "eta_rueb": "15:48",
+      "eta_schleuse": "20:15",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -217,8 +222,8 @@
       "name": "Justus Heyder",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Apr 04 04:19:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -265,8 +270,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Apr 04 03:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -344,11 +349,16 @@
       "fahrzeug": "CELTIC RAIDER",
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 10:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:15",
+        "eta_rueb": "15:48",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:30"
+      },
+      "eta_rueb": "15:48",
+      "eta_schleuse": "20:15",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
