@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T06:44:45",
+  "generated_at": "2026-04-04T06:46:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "KATJA",
+      "route": "UTG → HOS",
       "time": "Sat Apr 04 04:28:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -255,8 +255,8 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "CARELIE",
+      "route": "KLT → HOS",
       "time": "Fri Apr 03 23:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -448,6 +448,13 @@
       "eta_rueb": "10:33",
       "ship": "MINTAKA I",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "11:00",
+      "ship": "EMS POWER+EMS PONTON 10+HELMUT",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
