@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:16:45",
+  "generated_at": "2026-04-04T04:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 04 03:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Hartmut Köller",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Apr 04 02:18:16 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -243,14 +243,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NINA B",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 03 22:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:17",
+        "eta_rueb": "04:43",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "04:43",
+      "eta_schleuse": "08:17",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -259,8 +264,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Apr 03 21:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -414,8 +419,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 04 03:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -577,14 +582,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NINA B",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 03 22:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:17",
+        "eta_rueb": "04:43",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "04:43",
+      "eta_schleuse": "08:17",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -699,13 +709,6 @@
       "eta_rueb": "04:30",
       "ship": "BOTHNIABORG",
       "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "04:43",
-      "eta_rueb": "04:45",
-      "ship": "NINA B",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
