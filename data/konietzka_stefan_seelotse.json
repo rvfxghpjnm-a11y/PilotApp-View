@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T10:02:45",
+  "generated_at": "2026-04-04T10:04:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 2,
     "see": 6
   },
@@ -16,8 +16,8 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 04 09:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -32,8 +32,8 @@
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 04 09:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -52,14 +52,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:43",
+        "eta_schleuse": "17:44",
         "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:06"
       },
       "eta_rueb": "13:16",
-      "eta_schleuse": "17:43",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "17:44",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:06"
     },
     {
@@ -73,14 +73,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 07:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:40",
+        "eta_schleuse": "17:41",
         "eta_rueb": "13:13",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "13:13",
-      "eta_schleuse": "17:40",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "17:41",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:03"
     },
     {
@@ -295,36 +295,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 00:22:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:30",
+        "eta_schleuse": "11:29",
         "eta_rueb": "07:47",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "06:09"
       },
       "eta_rueb": "07:47",
-      "eta_schleuse": "11:30",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "11:29",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "06:09"
-    },
-    {
-      "is_target": false,
-      "vorname": "Nik",
-      "nachname": "Suermann",
-      "name": "Nik Suermann",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "CHARLOCK",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 03 23:31:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:49",
-        "eta_rueb": "06:28",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "06:28",
-      "eta_schleuse": "09:49",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:16"
     }
   ],
   "kanallotsen": [
@@ -335,8 +314,8 @@
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 04 09:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -351,8 +330,8 @@
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 04 09:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -371,14 +350,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:43",
+        "eta_schleuse": "17:44",
         "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:06"
       },
       "eta_rueb": "13:16",
-      "eta_schleuse": "17:43",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "17:44",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:06"
     },
     {
@@ -392,14 +371,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 07:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:40",
+        "eta_schleuse": "17:41",
         "eta_rueb": "13:13",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "13:13",
-      "eta_schleuse": "17:40",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "17:41",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:03"
     },
     {
@@ -476,36 +455,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 00:22:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:30",
+        "eta_schleuse": "11:29",
         "eta_rueb": "07:47",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "06:09"
       },
       "eta_rueb": "07:47",
-      "eta_schleuse": "11:30",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "11:29",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "06:09"
-    },
-    {
-      "is_target": false,
-      "vorname": "Nik",
-      "nachname": "Suermann",
-      "name": "Nik Suermann",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "CHARLOCK",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 03 23:31:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:49",
-        "eta_rueb": "06:28",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "06:28",
-      "eta_schleuse": "09:49",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:16"
     }
   ],
   "meldungen_kiel": [],
