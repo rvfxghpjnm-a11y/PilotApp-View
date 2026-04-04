@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T18:40:51",
+  "generated_at": "2026-04-04T18:42:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "KRISTEL",
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 17:48:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:48",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:48",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -281,9 +286,14 @@
       "fahrzeug": "KRISTEL",
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 17:48:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:48",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:48",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
