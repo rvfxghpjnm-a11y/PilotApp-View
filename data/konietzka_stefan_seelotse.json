@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T22:46:45",
+  "generated_at": "2026-04-04T22:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -258,15 +258,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:40",
-        "eta_rueb": "00:13",
+        "eta_schleuse": "04:39",
+        "eta_rueb": "00:12",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "00:13",
-      "eta_schleuse": "04:40",
+      "eta_rueb": "00:12",
+      "eta_schleuse": "04:39",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -328,14 +328,19 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LONGEARTH",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 17:48:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:35",
+        "eta_rueb": "23:14",
+        "delta_rueb_schleuse": "04:21",
+        "delta_start_rueb": "05:18"
+      },
+      "eta_rueb": "23:14",
+      "eta_schleuse": "03:35",
+      "delta_rueb_schleuse": "04:21",
+      "delta_start_rueb": "05:18"
     },
     {
       "is_target": false,
@@ -709,15 +714,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:40",
-        "eta_rueb": "00:13",
+        "eta_schleuse": "04:39",
+        "eta_rueb": "00:12",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "00:13",
-      "eta_schleuse": "04:40",
+      "eta_rueb": "00:12",
+      "eta_schleuse": "04:39",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -726,14 +731,19 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LONGEARTH",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 17:48:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:35",
+        "eta_rueb": "23:14",
+        "delta_rueb_schleuse": "04:21",
+        "delta_start_rueb": "05:18"
+      },
+      "eta_rueb": "23:14",
+      "eta_schleuse": "03:35",
+      "delta_rueb_schleuse": "04:21",
+      "delta_start_rueb": "05:18"
     },
     {
       "is_target": false,
@@ -851,14 +861,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:14",
-      "eta_rueb": "23:13",
-      "ship": "LONGEARTH",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:19",
+      "eta_rueb_kiel": "23:18",
       "eta_rueb": "23:16",
       "ship": "MARBURG",
       "q_gruppe": "1",
