@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T17:12:44",
+  "generated_at": "2026-04-05T17:14:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -79,14 +79,14 @@
       "time": "Sun Apr 05 15:27:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:27",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "21:00",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": null,
+      "eta_rueb": "21:00",
       "eta_schleuse": "01:27",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -364,14 +364,14 @@
       "time": "Sun Apr 05 11:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:53",
-        "eta_rueb": "17:32",
-        "delta_rueb_schleuse": "04:21",
-        "delta_start_rueb": "04:26"
+        "eta_rueb": "17:31",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "17:32",
+      "eta_rueb": "17:31",
       "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "04:21",
-      "delta_start_rueb": "04:26"
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -561,14 +561,14 @@
       "time": "Sun Apr 05 15:27:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:27",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "21:00",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": null,
+      "eta_rueb": "21:00",
       "eta_schleuse": "01:27",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -729,14 +729,14 @@
       "time": "Sun Apr 05 11:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:53",
-        "eta_rueb": "17:32",
-        "delta_rueb_schleuse": "04:21",
-        "delta_start_rueb": "04:26"
+        "eta_rueb": "17:31",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "17:32",
+      "eta_rueb": "17:31",
       "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "04:21",
-      "delta_start_rueb": "04:26"
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -826,7 +826,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:27",
+      "eta_rueb_kiel": "18:26",
       "eta_rueb": "18:20",
       "ship": "TAIGA DESGAGNES",
       "q_gruppe": "1",
@@ -854,7 +854,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:51",
+      "eta_rueb_kiel": "22:43",
       "eta_rueb": "22:25",
       "ship": "BERKBORG",
       "q_gruppe": "5",
@@ -868,7 +868,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:58",
+      "eta_rueb_kiel": "22:51",
       "eta_rueb": "22:31",
       "ship": "JADELAND",
       "q_gruppe": "4",
