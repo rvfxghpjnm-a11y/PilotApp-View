@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T02:12:46",
+  "generated_at": "2026-04-05T02:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,15 +20,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 23:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:26",
-        "eta_rueb": "04:59",
+        "eta_schleuse": "09:25",
+        "eta_rueb": "04:58",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:03"
+        "delta_start_rueb": "04:02"
       },
-      "eta_rueb": "04:59",
-      "eta_schleuse": "09:26",
+      "eta_rueb": "04:58",
+      "eta_schleuse": "09:25",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:03"
+      "delta_start_rueb": "04:02"
     },
     {
       "is_target": false,
@@ -62,15 +62,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:23",
-        "eta_rueb": "04:56",
+        "eta_schleuse": "09:22",
+        "eta_rueb": "04:55",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:02"
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": "04:56",
-      "eta_schleuse": "09:23",
+      "eta_rueb": "04:55",
+      "eta_schleuse": "09:22",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:02"
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -226,8 +226,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 20:27:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -428,15 +428,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 04 23:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:26",
-        "eta_rueb": "04:59",
+        "eta_schleuse": "09:25",
+        "eta_rueb": "04:58",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:03"
+        "delta_start_rueb": "04:02"
       },
-      "eta_rueb": "04:59",
-      "eta_schleuse": "09:26",
+      "eta_rueb": "04:58",
+      "eta_schleuse": "09:25",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:03"
+      "delta_start_rueb": "04:02"
     },
     {
       "is_target": false,
@@ -470,15 +470,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 04 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:23",
-        "eta_rueb": "04:56",
+        "eta_schleuse": "09:22",
+        "eta_rueb": "04:55",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:02"
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": "04:56",
-      "eta_schleuse": "09:23",
+      "eta_rueb": "04:55",
+      "eta_schleuse": "09:22",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:02"
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -634,8 +634,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 20:27:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -746,13 +746,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "01:55",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "02:54",
       "eta_rueb": "02:30",
