@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T00:46:46",
+  "generated_at": "2026-04-06T00:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -230,16 +230,11 @@
       "fahrzeug": "JADELAND",
       "route": "HOS → KLT",
       "time": "Sun Apr 05 18:38:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:44",
-        "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "01:59"
-      },
-      "eta_rueb": "21:15",
-      "eta_schleuse": "00:44",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "01:59"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -281,7 +276,7 @@
       "aufgabe": "Seebört",
       "nr": 15,
       "fahrzeug": "RUNA",
-      "route": "KLT → HOR",
+      "route": "KLT → HOS",
       "time": "Sun Apr 05 17:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -315,16 +310,11 @@
       "fahrzeug": "JADELAND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:44",
-        "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "01:59"
-      },
-      "eta_rueb": "21:15",
-      "eta_schleuse": "00:44",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "01:59"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -565,16 +555,11 @@
       "fahrzeug": "JADELAND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:44",
-        "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "01:59"
-      },
-      "eta_rueb": "21:15",
-      "eta_schleuse": "00:44",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "01:59"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -649,7 +634,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:54",
+      "eta_rueb_kiel": "02:53",
       "eta_rueb": "02:50",
       "ship": "KRAFTCA",
       "q_gruppe": "0",
@@ -663,24 +648,24 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:04",
+      "eta_rueb_kiel": "05:05",
       "eta_rueb": "05:00",
       "ship": "ASTINA",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:01",
+      "eta_rueb_kiel": "05:08",
       "eta_rueb": "05:05",
-      "ship": "X-PRESS AGILITY",
-      "q_gruppe": "1",
+      "ship": "FREJ",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:07",
+      "eta_rueb_kiel": "05:01",
       "eta_rueb": "05:10",
-      "ship": "FREJ",
-      "q_gruppe": "4",
+      "ship": "X-PRESS AGILITY",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
