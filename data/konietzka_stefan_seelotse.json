@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T05:06:45",
+  "generated_at": "2026-04-05T05:08:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -170,14 +170,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WESTEWIND",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 23:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:07",
+        "eta_rueb": "05:33",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:15"
+      },
+      "eta_rueb": "05:33",
+      "eta_schleuse": "09:07",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:15"
     },
     {
       "is_target": false,
@@ -505,14 +510,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WESTEWIND",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 23:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:07",
+        "eta_rueb": "05:33",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:15"
+      },
+      "eta_rueb": "05:33",
+      "eta_schleuse": "09:07",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:15"
     },
     {
       "is_target": false,
@@ -665,13 +675,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:33",
-      "eta_rueb": "05:23",
-      "ship": "WESTEWIND",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "05:54",
       "eta_rueb": "05:26",
       "ship": "CONTAINERSHIPS AURORA",
@@ -679,22 +682,22 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:48",
-      "eta_rueb": "07:25",
+      "eta_rueb_kiel": "07:49",
+      "eta_rueb": "07:30",
       "ship": "FRI KVAM",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "07:52",
-      "eta_rueb": "07:30",
+      "eta_rueb_kiel": "07:53",
+      "eta_rueb": "07:35",
       "ship": "SPANACO SIMPLICITY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:55",
-      "eta_rueb": "07:35",
+      "eta_rueb_kiel": "07:56",
+      "eta_rueb": "07:40",
       "ship": "AMADEUS AMETHIST",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
