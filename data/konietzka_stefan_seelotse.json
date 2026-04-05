@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T15:44:38",
+  "generated_at": "2026-04-05T15:46:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -57,14 +57,19 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "FRAKT VIK",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 15:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:47",
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "16:12",
+      "eta_schleuse": "19:47",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -284,14 +289,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 11:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:51",
+        "eta_schleuse": "21:53",
         "eta_rueb": "16:36",
-        "delta_rueb_schleuse": "05:15",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "03:54"
       },
       "eta_rueb": "16:36",
-      "eta_schleuse": "21:51",
-      "delta_rueb_schleuse": "05:15",
+      "eta_schleuse": "21:53",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "03:54"
     },
     {
@@ -321,14 +326,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 05 09:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:48",
+        "eta_schleuse": "21:49",
         "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "16:32",
-      "eta_schleuse": "21:48",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "21:49",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "05:46"
     },
     {
@@ -458,14 +463,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:55",
+        "eta_schleuse": "15:56",
         "eta_rueb": "12:33",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "12:33",
-      "eta_schleuse": "15:55",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "15:56",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:17"
     },
     {
@@ -525,14 +530,19 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "FRAKT VIK",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 15:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:47",
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "16:12",
+      "eta_schleuse": "19:47",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -640,14 +650,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 11:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:51",
+        "eta_schleuse": "21:53",
         "eta_rueb": "16:36",
-        "delta_rueb_schleuse": "05:15",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "03:54"
       },
       "eta_rueb": "16:36",
-      "eta_schleuse": "21:51",
-      "delta_rueb_schleuse": "05:15",
+      "eta_schleuse": "21:53",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "03:54"
     },
     {
@@ -661,14 +671,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 05 09:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:48",
+        "eta_schleuse": "21:49",
         "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:17",
         "delta_start_rueb": "05:46"
       },
       "eta_rueb": "16:32",
-      "eta_schleuse": "21:48",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "21:49",
+      "delta_rueb_schleuse": "05:17",
       "delta_start_rueb": "05:46"
     },
     {
@@ -782,26 +792,19 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:55",
+        "eta_schleuse": "15:56",
         "eta_rueb": "12:33",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "12:33",
-      "eta_schleuse": "15:55",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "15:56",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:17"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "16:12",
-      "eta_rueb": "16:05",
-      "ship": "FRAKT VIK",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "17:35",
       "eta_rueb": "17:15",
@@ -817,14 +820,14 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "18:31",
+      "eta_rueb_kiel": "18:32",
       "eta_rueb": "18:20",
       "ship": "TAIGA DESGAGNES",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:34",
+      "eta_rueb_kiel": "18:35",
       "eta_rueb": "18:25",
       "ship": "EDZARD SCHULTE",
       "q_gruppe": "1",
