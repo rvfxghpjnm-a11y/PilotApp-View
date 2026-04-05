@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T17:54:44",
+  "generated_at": "2026-04-05T17:56:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TAIGA DESGAGNES",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 17:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:57",
+        "eta_rueb": "18:23",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "06:19"
+      },
+      "eta_rueb": "18:23",
+      "eta_schleuse": "21:57",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "06:19"
     },
     {
       "is_target": false,
@@ -499,14 +504,19 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TAIGA DESGAGNES",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 17:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:57",
+        "eta_rueb": "18:23",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "06:19"
+      },
+      "eta_rueb": "18:23",
+      "eta_schleuse": "21:57",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "06:19"
     },
     {
       "is_target": false,
@@ -801,13 +811,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:23",
-      "eta_rueb": "18:20",
-      "ship": "TAIGA DESGAGNES",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "18:29",
       "eta_rueb": "18:25",
       "ship": "EDZARD SCHULTE",
@@ -815,21 +818,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:43",
+      "eta_rueb_kiel": "20:40",
       "eta_rueb": "20:20",
       "ship": "KRISLIN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:46",
+      "eta_rueb_kiel": "20:43",
       "eta_rueb": "20:23",
       "ship": "GT CETUS",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:22",
+      "eta_rueb_kiel": "21:20",
       "eta_rueb": "21:05",
       "ship": "BERKBORG",
       "q_gruppe": "5",
