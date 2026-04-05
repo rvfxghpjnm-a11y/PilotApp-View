@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T00:24:46",
+  "generated_at": "2026-04-06T00:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 12,
     "wach": 1,
-    "see": 7
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -21,14 +21,14 @@
       "time": "Sun Apr 05 22:56:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:43",
-        "eta_rueb": "04:02",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "04:01",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "04:02",
+      "eta_rueb": "04:01",
       "eta_schleuse": "08:43",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -42,14 +42,14 @@
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:36",
-        "eta_rueb": "03:56",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:44"
+        "eta_rueb": "03:54",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "03:56",
+      "eta_rueb": "03:54",
       "eta_schleuse": "08:36",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:44"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -63,14 +63,14 @@
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:40",
-        "eta_rueb": "03:59",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "03:57",
+        "delta_rueb_schleuse": "04:43",
+        "delta_start_rueb": "03:45"
       },
-      "eta_rueb": "03:59",
+      "eta_rueb": "03:57",
       "eta_schleuse": "08:40",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "04:43",
+      "delta_start_rueb": "03:45"
     },
     {
       "is_target": false,
@@ -193,16 +193,21 @@
       "vorname": "Lars",
       "nachname": "Doering",
       "name": "Lars Doering",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "LADY ELA",
+      "route": "HOS → KLT",
       "time": "Sun Apr 05 19:03:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:42",
+        "eta_rueb": "21:10",
+        "delta_rueb_schleuse": "03:32",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "21:10",
+      "eta_schleuse": "00:42",
+      "delta_rueb_schleuse": "03:32",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -225,16 +230,21 @@
       "vorname": "Dennis",
       "nachname": "Heyenga",
       "name": "Dennis Heyenga",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "JADELAND",
+      "route": "HOS → KLT",
       "time": "Sun Apr 05 18:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:45",
+        "eta_rueb": "21:15",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "01:59"
+      },
+      "eta_rueb": "21:15",
+      "eta_schleuse": "00:45",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "01:59"
     },
     {
       "is_target": false,
@@ -440,14 +450,14 @@
       "time": "Sun Apr 05 22:56:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:43",
-        "eta_rueb": "04:02",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "04:01",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "04:02",
+      "eta_rueb": "04:01",
       "eta_schleuse": "08:43",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -461,14 +471,14 @@
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:36",
-        "eta_rueb": "03:56",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:44"
+        "eta_rueb": "03:54",
+        "delta_rueb_schleuse": "04:42",
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "03:56",
+      "eta_rueb": "03:54",
       "eta_schleuse": "08:36",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:44"
+      "delta_rueb_schleuse": "04:42",
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -482,14 +492,14 @@
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:40",
-        "eta_rueb": "03:59",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "03:57",
+        "delta_rueb_schleuse": "04:43",
+        "delta_start_rueb": "03:45"
       },
-      "eta_rueb": "03:59",
+      "eta_rueb": "03:57",
       "eta_schleuse": "08:40",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "04:43",
+      "delta_start_rueb": "03:45"
     },
     {
       "is_target": false,
@@ -553,38 +563,6 @@
       "eta_schleuse": "06:21",
       "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "03:57"
-    },
-    {
-      "is_target": false,
-      "vorname": "Lars",
-      "nachname": "Doering",
-      "name": "Lars Doering",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sun Apr 05 19:03:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Dennis",
-      "nachname": "Heyenga",
-      "name": "Dennis Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sun Apr 05 18:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -736,6 +714,13 @@
       "eta_rueb": "05:05",
       "ship": "X-PRESS AGILITY",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:07",
+      "eta_rueb": "05:10",
+      "ship": "FREJ",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
