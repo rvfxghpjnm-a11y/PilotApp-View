@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T03:44:46",
+  "generated_at": "2026-04-05T03:46:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "KAIRE",
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 02:38:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -184,14 +189,14 @@
       "route": "HOS → KLT",
       "time": "Sat Apr 04 21:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:54",
+        "eta_schleuse": "03:55",
         "eta_rueb": "23:16",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "23:16",
-      "eta_schleuse": "03:54",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "03:55",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "05:24"
     },
     {
@@ -386,9 +391,14 @@
       "fahrzeug": "KAIRE",
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 02:38:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -628,7 +638,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:42",
+      "eta_rueb_kiel": "04:41",
       "eta_rueb": "04:30",
       "ship": "BONITA",
       "q_gruppe": "5",
@@ -663,21 +673,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:44",
+      "eta_rueb_kiel": "07:46",
       "eta_rueb": "07:25",
       "ship": "FRI KVAM",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "07:48",
+      "eta_rueb_kiel": "07:50",
       "eta_rueb": "07:30",
       "ship": "SPANACO SIMPLICITY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:51",
+      "eta_rueb_kiel": "07:53",
       "eta_rueb": "07:35",
       "ship": "AMADEUS AMETHIST",
       "q_gruppe": "5",
