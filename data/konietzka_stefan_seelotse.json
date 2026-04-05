@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T23:30:46",
+  "generated_at": "2026-04-05T23:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -212,8 +212,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 18:38:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -228,8 +228,8 @@
       "name": "Kai Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 18:32:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -276,8 +276,8 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 16:51:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -312,14 +312,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:50",
+        "eta_schleuse": "00:48",
         "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "01:59"
       },
       "eta_rueb": "21:15",
-      "eta_schleuse": "00:50",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "00:48",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "01:59"
     },
     {
@@ -333,14 +333,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 15:27:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:45",
         "eta_rueb": "21:10",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "21:10",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "00:45",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:28"
     },
     {
@@ -595,8 +595,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 18:38:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -611,8 +611,8 @@
       "name": "Kai Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 18:32:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -627,8 +627,8 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 16:51:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -663,14 +663,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:50",
+        "eta_schleuse": "00:48",
         "eta_rueb": "21:15",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "01:59"
       },
       "eta_rueb": "21:15",
-      "eta_schleuse": "00:50",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "00:48",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "01:59"
     },
     {
@@ -684,14 +684,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 15:27:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:45",
         "eta_rueb": "21:10",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "21:10",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "00:45",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:28"
     },
     {
@@ -779,13 +779,6 @@
       "eta_rueb": "04:45",
       "ship": "ASTINA",
       "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "23:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
       "route": "RÜB → HOS"
     }
   ]
