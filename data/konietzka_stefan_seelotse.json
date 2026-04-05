@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T14:08:39",
+  "generated_at": "2026-04-05T14:10:46",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -294,14 +294,14 @@
       "route": "RÜB → KRH",
       "time": "Sun Apr 05 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:36",
+        "eta_schleuse": "14:37",
         "eta_rueb": "13:54",
-        "delta_rueb_schleuse": "00:42",
+        "delta_rueb_schleuse": "00:43",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "13:54",
-      "eta_schleuse": "14:36",
-      "delta_rueb_schleuse": "00:42",
+      "eta_schleuse": "14:37",
+      "delta_rueb_schleuse": "00:43",
       "delta_start_rueb": "04:24"
     },
     {
@@ -708,14 +708,14 @@
       "route": "RÜB → KRH",
       "time": "Sun Apr 05 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:36",
+        "eta_schleuse": "14:37",
         "eta_rueb": "13:54",
-        "delta_rueb_schleuse": "00:42",
+        "delta_rueb_schleuse": "00:43",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "13:54",
-      "eta_schleuse": "14:36",
-      "delta_rueb_schleuse": "00:42",
+      "eta_schleuse": "14:37",
+      "delta_rueb_schleuse": "00:43",
       "delta_start_rueb": "04:24"
     },
     {
@@ -843,6 +843,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "14:30",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "15:45",
       "eta_rueb": "15:40",
       "ship": "WILSON MONSOON",
@@ -858,7 +865,7 @@
     },
     {
       "eta_rueb_kiel": "16:20",
-      "eta_rueb": "16:10",
+      "eta_rueb": "16:05",
       "ship": "FRAKT VIK",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
