@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T16:14:39",
+  "generated_at": "2026-04-05T16:16:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -28,9 +28,14 @@
       "fahrzeug": "PONEM",
       "route": "UTG → RÜB",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -130,13 +135,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 14:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:56",
+        "eta_schleuse": "00:53",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "00:56",
+      "eta_schleuse": "00:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -311,14 +316,14 @@
       "time": "Sun Apr 05 11:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:53",
-        "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "05:21",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "16:28",
+        "delta_rueb_schleuse": "05:25",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "16:32",
+      "eta_rueb": "16:28",
       "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "05:21",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "05:25",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -343,19 +348,14 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "BIANCA RAMBOW",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 05 09:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:49",
-        "eta_rueb": "16:26",
-        "delta_rueb_schleuse": "05:23",
-        "delta_start_rueb": "05:40"
-      },
-      "eta_rueb": "16:26",
-      "eta_schleuse": "21:49",
-      "delta_rueb_schleuse": "05:23",
-      "delta_start_rueb": "05:40"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -468,14 +468,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:20",
+        "eta_schleuse": "16:22",
         "eta_rueb": "12:33",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "12:33",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "16:22",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "04:17"
     },
     {
@@ -506,9 +506,14 @@
       "fahrzeug": "PONEM",
       "route": "UTG → RÜB",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -592,13 +597,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 14:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:56",
+        "eta_schleuse": "00:53",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "00:56",
+      "eta_schleuse": "00:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -677,14 +682,14 @@
       "time": "Sun Apr 05 11:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:53",
-        "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "05:21",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "16:28",
+        "delta_rueb_schleuse": "05:25",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "16:32",
+      "eta_rueb": "16:28",
       "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "05:21",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "05:25",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -693,19 +698,14 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "BIANCA RAMBOW",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 05 09:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:49",
-        "eta_rueb": "16:26",
-        "delta_rueb_schleuse": "05:23",
-        "delta_start_rueb": "05:40"
-      },
-      "eta_rueb": "16:26",
-      "eta_schleuse": "21:49",
-      "delta_rueb_schleuse": "05:23",
-      "delta_start_rueb": "05:40"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -818,14 +818,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:20",
+        "eta_schleuse": "16:22",
         "eta_rueb": "12:33",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "12:33",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "16:22",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "04:17"
     }
   ],
@@ -860,14 +860,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:45",
+      "eta_rueb_kiel": "20:43",
       "eta_rueb": "20:20",
       "ship": "KRISLIN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:48",
+      "eta_rueb_kiel": "20:47",
       "eta_rueb": "20:23",
       "ship": "GT CETUS",
       "q_gruppe": "5",
