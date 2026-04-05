@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T07:36:45",
+  "generated_at": "2026-04-05T07:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -96,8 +96,8 @@
       "name": "Nik Suermann",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "BALTIC SEA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 05 06:22:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -116,14 +116,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:34",
+        "eta_schleuse": "11:36",
         "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:38"
       },
       "eta_rueb": "07:58",
-      "eta_schleuse": "11:34",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "11:36",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:38"
     },
     {
@@ -507,14 +507,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Apr 04 21:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:06",
+        "eta_schleuse": "08:05",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "08:06",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "08:05",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:26"
     }
   ],
@@ -594,14 +594,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:34",
+        "eta_schleuse": "11:36",
         "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:38"
       },
       "eta_rueb": "07:58",
-      "eta_schleuse": "11:34",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "11:36",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:38"
     },
     {
@@ -857,21 +857,21 @@
       "route": "RÜB → UTG",
       "time": "Sat Apr 04 21:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:06",
+        "eta_schleuse": "08:05",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "08:06",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "08:05",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "04:26"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:03",
+      "eta_rueb_kiel": "08:02",
       "eta_rueb": "07:50",
       "ship": "DONGEBORG",
       "q_gruppe": "3",
