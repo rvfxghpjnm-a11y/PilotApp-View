@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T07:18:45",
+  "generated_at": "2026-04-05T07:20:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 18,
     "wach": 2,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -367,14 +367,19 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FRI KVAM",
+      "route": "RÜB → UTG",
       "time": "Sat Apr 04 23:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:17",
+        "eta_rueb": "07:47",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "05:59"
+      },
+      "eta_rueb": "07:47",
+      "eta_schleuse": "11:17",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "05:59"
     },
     {
       "is_target": false,
@@ -457,27 +462,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jens Michael",
-      "nachname": "Rohn",
-      "name": "Jens Michael Rohn",
-      "aufgabe": "Seebört",
-      "nr": 27,
-      "fahrzeug": "AVENIR ASPIRATION",
-      "route": "KLT → HOS",
-      "time": "Sat Apr 04 21:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Nickolaj",
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
-      "nr": 28,
+      "nr": 27,
       "fahrzeug": "MARIA G",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 21:50:00 CEST 2026",
@@ -498,19 +487,19 @@
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
-      "nr": 29,
+      "nr": 28,
       "fahrzeug": "BONITA",
       "route": "RÜB → UTG",
       "time": "Sat Apr 04 21:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:05",
+        "eta_schleuse": "08:06",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "08:05",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "08:06",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:26"
     }
   ],
@@ -729,14 +718,19 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FRI KVAM",
+      "route": "RÜB → UTG",
       "time": "Sat Apr 04 23:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:17",
+        "eta_rueb": "07:47",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "05:59"
+      },
+      "eta_rueb": "07:47",
+      "eta_schleuse": "11:17",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "05:59"
     },
     {
       "is_target": false,
@@ -807,7 +801,7 @@
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
-      "nr": 28,
+      "nr": 27,
       "fahrzeug": "MARIA G",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 21:50:00 CEST 2026",
@@ -828,31 +822,24 @@
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
-      "nr": 29,
+      "nr": 28,
       "fahrzeug": "BONITA",
       "route": "RÜB → UTG",
       "time": "Sat Apr 04 21:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:05",
+        "eta_schleuse": "08:06",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "08:05",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "08:06",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:26"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "07:47",
-      "eta_rueb": "07:30",
-      "ship": "FRI KVAM",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "07:50",
       "eta_rueb": "07:35",
