@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T06:06:45",
+  "generated_at": "2026-04-05T06:08:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 2,
     "see": 8
   },
@@ -227,14 +227,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:05",
+        "eta_schleuse": "09:04",
         "eta_rueb": "05:32",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "05:32",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "09:04",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:14"
     },
     {
@@ -248,14 +248,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 22:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:02",
+        "eta_schleuse": "09:01",
         "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:19"
       },
       "eta_rueb": "05:29",
-      "eta_schleuse": "09:02",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "09:01",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:19"
     },
     {
@@ -376,8 +376,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 21,
-      "fahrzeug": "HIPPO",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 04 19:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -395,16 +395,11 @@
       "fahrzeug": "TIMBUS",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:28:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:01",
-        "eta_rueb": "01:15",
-        "delta_rueb_schleuse": "04:46",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "01:15",
-      "eta_schleuse": "06:01",
-      "delta_rueb_schleuse": "04:46",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -416,22 +411,6 @@
       "fahrzeug": "HAV SAND",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "NOREN",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 04 19:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -562,14 +541,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:05",
+        "eta_schleuse": "09:04",
         "eta_rueb": "05:32",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "05:32",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "09:04",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:14"
     },
     {
@@ -583,14 +562,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 22:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:02",
+        "eta_schleuse": "09:01",
         "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:19"
       },
       "eta_rueb": "05:29",
-      "eta_schleuse": "09:02",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "09:01",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:19"
     },
     {
@@ -666,16 +645,11 @@
       "fahrzeug": "TIMBUS",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:28:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:01",
-        "eta_rueb": "01:15",
-        "delta_rueb_schleuse": "04:46",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "01:15",
-      "eta_schleuse": "06:01",
-      "delta_rueb_schleuse": "04:46",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -687,22 +661,6 @@
       "fahrzeug": "HAV SAND",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 19:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "NOREN",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 04 19:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -727,7 +685,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:58",
+      "eta_rueb_kiel": "07:57",
       "eta_rueb": "07:40",
       "ship": "AMADEUS AMETHIST",
       "q_gruppe": "5",
