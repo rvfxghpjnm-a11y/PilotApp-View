@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T05:04:48",
+  "generated_at": "2026-04-05T05:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,14 +101,14 @@
       "time": "Sun Apr 05 02:38:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:23",
-        "eta_rueb": "08:19",
-        "delta_rueb_schleuse": "05:04",
-        "delta_start_rueb": "04:33"
+        "eta_rueb": "08:21",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:35"
       },
-      "eta_rueb": "08:19",
+      "eta_rueb": "08:21",
       "eta_schleuse": "13:23",
-      "delta_rueb_schleuse": "05:04",
-      "delta_start_rueb": "04:33"
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -122,14 +122,14 @@
       "time": "Sun Apr 05 02:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:19",
-        "eta_rueb": "08:15",
-        "delta_rueb_schleuse": "05:04",
-        "delta_start_rueb": "04:31"
+        "eta_rueb": "08:16",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "04:32"
       },
-      "eta_rueb": "08:15",
+      "eta_rueb": "08:16",
       "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "05:04",
-      "delta_start_rueb": "04:31"
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -186,14 +186,19 @@
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON LOVIISA",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 22:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:04",
+        "eta_rueb": "05:30",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "05:30",
+      "eta_schleuse": "09:04",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -218,8 +223,8 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ELEONORA",
+      "route": "KLT → HOS",
       "time": "Sat Apr 04 21:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -431,14 +436,14 @@
       "time": "Sun Apr 05 02:38:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:23",
-        "eta_rueb": "08:19",
-        "delta_rueb_schleuse": "05:04",
-        "delta_start_rueb": "04:33"
+        "eta_rueb": "08:21",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:35"
       },
-      "eta_rueb": "08:19",
+      "eta_rueb": "08:21",
       "eta_schleuse": "13:23",
-      "delta_rueb_schleuse": "05:04",
-      "delta_start_rueb": "04:33"
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -452,14 +457,14 @@
       "time": "Sun Apr 05 02:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:19",
-        "eta_rueb": "08:15",
-        "delta_rueb_schleuse": "05:04",
-        "delta_start_rueb": "04:31"
+        "eta_rueb": "08:16",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "04:32"
       },
-      "eta_rueb": "08:15",
+      "eta_rueb": "08:16",
       "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "05:04",
-      "delta_start_rueb": "04:31"
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -516,14 +521,19 @@
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON LOVIISA",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 04 22:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:04",
+        "eta_rueb": "05:30",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "05:30",
+      "eta_schleuse": "09:04",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -655,13 +665,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:30",
-      "eta_rueb": "05:20",
-      "ship": "WILSON LOVIISA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "05:33",
       "eta_rueb": "05:23",
       "ship": "WESTEWIND",
@@ -676,35 +679,35 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:47",
+      "eta_rueb_kiel": "07:48",
       "eta_rueb": "07:25",
       "ship": "FRI KVAM",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "07:50",
+      "eta_rueb_kiel": "07:52",
       "eta_rueb": "07:30",
       "ship": "SPANACO SIMPLICITY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:54",
+      "eta_rueb_kiel": "07:55",
       "eta_rueb": "07:35",
       "ship": "AMADEUS AMETHIST",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:01",
+      "eta_rueb_kiel": "08:02",
       "eta_rueb": "07:40",
       "ship": "BELTMAR",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:04",
+      "eta_rueb_kiel": "08:06",
       "eta_rueb": "07:45",
       "ship": "DONGEBORG",
       "q_gruppe": "3",
