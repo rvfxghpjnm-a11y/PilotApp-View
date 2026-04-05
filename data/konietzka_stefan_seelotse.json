@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T09:28:45",
+  "generated_at": "2026-04-05T09:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -194,14 +194,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:30",
+        "eta_schleuse": "11:33",
         "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:38"
       },
       "eta_rueb": "07:58",
-      "eta_schleuse": "11:30",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "11:33",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:38"
     },
     {
@@ -257,14 +257,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:30",
+        "eta_schleuse": "11:32",
         "eta_rueb": "08:02",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "08:02",
-      "eta_schleuse": "11:30",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "11:32",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:34"
     },
     {
@@ -375,14 +375,19 @@
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBWIND",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 02:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:46",
+        "eta_rueb": "09:53",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "05:33"
+      },
+      "eta_rueb": "09:53",
+      "eta_schleuse": "13:46",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "05:33"
     },
     {
       "is_target": false,
@@ -395,14 +400,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 02:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:41",
+        "eta_schleuse": "13:42",
         "eta_rueb": "09:42",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:26"
       },
       "eta_rueb": "09:42",
-      "eta_schleuse": "13:41",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "13:42",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:26"
     },
     {
@@ -478,16 +483,11 @@
       "fahrzeug": "WILSON LOVIISA",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 22:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:27",
-        "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "05:19"
-      },
-      "eta_rueb": "05:29",
-      "eta_schleuse": "09:27",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "05:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -644,14 +644,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:30",
+        "eta_schleuse": "11:33",
         "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:38"
       },
       "eta_rueb": "07:58",
-      "eta_schleuse": "11:30",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "11:33",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:38"
     },
     {
@@ -707,14 +707,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:30",
+        "eta_schleuse": "11:32",
         "eta_rueb": "08:02",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "08:02",
-      "eta_schleuse": "11:30",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "11:32",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:34"
     },
     {
@@ -761,14 +761,19 @@
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBWIND",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 02:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:46",
+        "eta_rueb": "09:53",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "05:33"
+      },
+      "eta_rueb": "09:53",
+      "eta_schleuse": "13:46",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "05:33"
     },
     {
       "is_target": false,
@@ -781,14 +786,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 02:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:41",
+        "eta_schleuse": "13:42",
         "eta_rueb": "09:42",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:26"
       },
       "eta_rueb": "09:42",
-      "eta_schleuse": "13:41",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "13:42",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:26"
     },
     {
@@ -864,29 +869,17 @@
       "fahrzeug": "WILSON LOVIISA",
       "route": "RÜB → HOS",
       "time": "Sat Apr 04 22:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:27",
-        "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "05:19"
-      },
-      "eta_rueb": "05:29",
-      "eta_schleuse": "09:27",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "05:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:54",
-      "eta_rueb": "09:45",
-      "ship": "ELBWIND",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "11:11",
+      "eta_rueb_kiel": "11:10",
       "eta_rueb": "11:00",
       "ship": "ROGALAND",
       "q_gruppe": "4",
