@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:26:38",
+  "generated_at": "2026-04-05T21:28:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,9 +12,9 @@
     "nr": 21
   },
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 3,
-    "see": 9
+    "see": 10
   },
   "times": null,
   "lotsen": [
@@ -176,20 +176,20 @@
       "vorname": "Volker",
       "nachname": "Kahler",
       "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "EDZARD SCHULTE",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 05 17:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:36",
+        "eta_schleuse": "22:35",
         "eta_rueb": "18:33",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "06:47"
       },
       "eta_rueb": "18:33",
-      "eta_schleuse": "22:36",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "22:35",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "06:47"
     },
     {
@@ -203,14 +203,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 05 17:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:10",
+        "eta_schleuse": "22:09",
         "eta_rueb": "18:23",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "06:19"
       },
       "eta_rueb": "18:23",
-      "eta_schleuse": "22:10",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "22:09",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "06:19"
     },
     {
@@ -631,27 +631,6 @@
       "eta_schleuse": "04:01",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "EDZARD SCHULTE",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 05 17:10:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:36",
-        "eta_rueb": "18:33",
-        "delta_rueb_schleuse": "04:03",
-        "delta_start_rueb": "06:47"
-      },
-      "eta_rueb": "18:33",
-      "eta_schleuse": "22:36",
-      "delta_rueb_schleuse": "04:03",
-      "delta_start_rueb": "06:47"
     },
     {
       "is_target": false,
