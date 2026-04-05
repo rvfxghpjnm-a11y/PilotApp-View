@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:20:38",
+  "generated_at": "2026-04-05T21:22:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,9 +12,9 @@
     "nr": 21
   },
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 3,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -60,9 +60,14 @@
       "fahrzeug": "DP WORLD LIMASSOL",
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -187,10 +192,10 @@
       "vorname": "Jens Michael",
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "TAIGA DESGAGNES",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 05 17:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "22:10",
@@ -543,9 +548,14 @@
       "fahrzeug": "DP WORLD LIMASSOL",
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -632,27 +642,6 @@
       "eta_schleuse": "22:36",
       "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "06:47"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens Michael",
-      "nachname": "Rohn",
-      "name": "Jens Michael Rohn",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "TAIGA DESGAGNES",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 05 17:10:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:10",
-        "eta_rueb": "18:23",
-        "delta_rueb_schleuse": "03:47",
-        "delta_start_rueb": "06:19"
-      },
-      "eta_rueb": "18:23",
-      "eta_schleuse": "22:10",
-      "delta_rueb_schleuse": "03:47",
-      "delta_start_rueb": "06:19"
     },
     {
       "is_target": false,
