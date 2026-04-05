@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T04:54:46",
+  "generated_at": "2026-04-05T04:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,15 +84,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 02:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:20",
-        "eta_rueb": "08:20",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "04:34"
+        "eta_schleuse": "13:24",
+        "eta_rueb": "08:22",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:36"
       },
-      "eta_rueb": "08:20",
-      "eta_schleuse": "13:20",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "04:34"
+      "eta_rueb": "08:22",
+      "eta_schleuse": "13:24",
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -105,15 +105,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 02:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:24",
-        "eta_rueb": "08:23",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "04:39"
+        "eta_schleuse": "13:20",
+        "eta_rueb": "08:18",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "08:23",
-      "eta_schleuse": "13:24",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "04:39"
+      "eta_rueb": "08:18",
+      "eta_schleuse": "13:20",
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -202,8 +202,8 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "LONGEARTH",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 04 21:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -398,15 +398,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 02:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:20",
-        "eta_rueb": "08:20",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "04:34"
+        "eta_schleuse": "13:24",
+        "eta_rueb": "08:22",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:36"
       },
-      "eta_rueb": "08:20",
-      "eta_schleuse": "13:20",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "04:34"
+      "eta_rueb": "08:22",
+      "eta_schleuse": "13:24",
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -419,15 +419,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 02:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:24",
-        "eta_rueb": "08:23",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "04:39"
+        "eta_schleuse": "13:20",
+        "eta_rueb": "08:18",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "08:23",
-      "eta_schleuse": "13:24",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "04:39"
+      "eta_rueb": "08:18",
+      "eta_schleuse": "13:20",
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -623,7 +623,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:31",
+      "eta_rueb_kiel": "05:30",
       "eta_rueb": "05:20",
       "ship": "WILSON LOVIISA",
       "q_gruppe": "5",
@@ -644,7 +644,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:46",
+      "eta_rueb_kiel": "07:47",
       "eta_rueb": "07:25",
       "ship": "FRI KVAM",
       "q_gruppe": "5",
@@ -658,28 +658,28 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:55",
+      "eta_rueb_kiel": "07:54",
       "eta_rueb": "07:35",
       "ship": "AMADEUS AMETHIST",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:08",
+      "eta_rueb_kiel": "08:04",
       "eta_rueb": "07:40",
       "ship": "BELTMAR",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:05",
+      "eta_rueb_kiel": "08:07",
       "eta_rueb": "07:45",
       "ship": "DONGEBORG",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "09:50",
+      "eta_rueb_kiel": "09:49",
       "eta_rueb": "09:40",
       "ship": "ALESSANDRA LEHMANN",
       "q_gruppe": "4",
