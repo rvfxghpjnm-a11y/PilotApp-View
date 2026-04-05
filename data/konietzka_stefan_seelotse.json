@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T16:24:37",
+  "generated_at": "2026-04-05T16:26:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -45,15 +45,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:38",
-        "eta_rueb": "20:11",
+        "eta_schleuse": "00:59",
+        "eta_rueb": "20:32",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:23"
+        "delta_start_rueb": "05:44"
       },
-      "eta_rueb": "20:11",
-      "eta_schleuse": "00:38",
+      "eta_rueb": "20:32",
+      "eta_schleuse": "00:59",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:23"
+      "delta_start_rueb": "05:44"
     },
     {
       "is_target": false,
@@ -124,15 +124,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 14:54:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:00",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "01:03",
+        "eta_rueb": "20:36",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "01:00",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "20:36",
+      "eta_schleuse": "01:03",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -316,19 +316,14 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "JENNIFER",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 05 11:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:00",
-        "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:50"
-      },
-      "eta_rueb": "16:32",
-      "eta_schleuse": "21:00",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -337,19 +332,14 @@
       "name": "René Winkler",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "MOSTRAUM",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 05 11:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:53",
-        "eta_rueb": "16:29",
-        "delta_rueb_schleuse": "05:24",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "16:29",
-      "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "05:24",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -436,14 +426,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:30",
+        "eta_schleuse": "17:28",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:30",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "17:28",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:26"
     },
     {
@@ -478,14 +468,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:26",
+        "eta_schleuse": "16:27",
         "eta_rueb": "12:33",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "12:33",
-      "eta_schleuse": "16:26",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "16:27",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:17"
     },
     {
@@ -533,15 +523,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 05 16:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:38",
-        "eta_rueb": "20:11",
+        "eta_schleuse": "00:59",
+        "eta_rueb": "20:32",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:23"
+        "delta_start_rueb": "05:44"
       },
-      "eta_rueb": "20:11",
-      "eta_schleuse": "00:38",
+      "eta_rueb": "20:32",
+      "eta_schleuse": "00:59",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:23"
+      "delta_start_rueb": "05:44"
     },
     {
       "is_target": false,
@@ -612,15 +602,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 05 14:54:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:00",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "01:03",
+        "eta_rueb": "20:36",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "01:00",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "20:36",
+      "eta_schleuse": "01:03",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -692,19 +682,14 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "JENNIFER",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 05 11:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:00",
-        "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:50"
-      },
-      "eta_rueb": "16:32",
-      "eta_schleuse": "21:00",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -713,19 +698,14 @@
       "name": "René Winkler",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "MOSTRAUM",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 05 11:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:53",
-        "eta_rueb": "16:29",
-        "delta_rueb_schleuse": "05:24",
-        "delta_start_rueb": "03:47"
-      },
-      "eta_rueb": "16:29",
-      "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "05:24",
-      "delta_start_rueb": "03:47"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -796,14 +776,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:30",
+        "eta_schleuse": "17:28",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:30",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "17:28",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:26"
     },
     {
@@ -838,14 +818,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:26",
+        "eta_schleuse": "16:27",
         "eta_rueb": "12:33",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "12:33",
-      "eta_schleuse": "16:26",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "16:27",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:17"
     }
   ],
@@ -853,14 +833,14 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "17:33",
-      "eta_rueb": "17:15",
+      "eta_rueb": "17:25",
       "ship": "JOHANNA HELENA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "17:37",
-      "eta_rueb": "17:20",
+      "eta_rueb": "17:30",
       "ship": "KAREN",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
