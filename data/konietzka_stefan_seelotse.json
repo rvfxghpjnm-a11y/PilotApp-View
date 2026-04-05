@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T15:24:37",
+  "generated_at": "2026-04-05T15:26:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,14 +14,9 @@
   "gruppen": {
     "kanal": 16,
     "wach": 2,
-    "see": 10
+    "see": 9
   },
-  "times": {
-    "eta_schleuse": "18:46",
-    "eta_rueb": "07:46",
-    "delta_rueb_schleuse": "2284619:00",
-    "delta_start_rueb": "06:04"
-  },
+  "times": null,
   "lotsen": [
     {
       "is_target": false,
@@ -134,16 +129,11 @@
       "fahrzeug": "FRI KVAM",
       "route": "HOS → KLT",
       "time": "Sun Apr 05 13:46:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "07:46",
-        "delta_rueb_schleuse": "2284619:00",
-        "delta_start_rueb": "06:04"
-      },
-      "eta_rueb": "07:46",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2284619:00",
-      "delta_start_rueb": "06:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -173,8 +163,8 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "ELBWIND",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 05 13:21:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -332,14 +322,19 @@
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORAHOLM",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 09:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:41",
+        "eta_rueb": "15:51",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "15:51",
+      "eta_schleuse": "19:41",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -352,14 +347,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 08:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:28",
+        "eta_schleuse": "19:29",
         "eta_rueb": "15:43",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "15:43",
-      "eta_schleuse": "19:28",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "19:29",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:23"
     },
     {
@@ -373,14 +368,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:33",
+        "eta_schleuse": "17:32",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:33",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "17:32",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:26"
     },
     {
@@ -446,27 +441,6 @@
       "fahrzeug": "FRI KVAM",
       "route": "UTG → HOS",
       "time": "Sun Apr 05 06:22:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "07:46",
-        "delta_rueb_schleuse": "2284619:00",
-        "delta_start_rueb": "06:04"
-      },
-      "eta_rueb": "07:46",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2284619:00",
-      "delta_start_rueb": "06:04"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Seebört",
-      "nr": 25,
-      "fahrzeug": "BBC LAGOS",
-      "route": "KLT → HOS",
-      "time": "Sun Apr 05 06:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -479,7 +453,7 @@
       "nachname": "Alt",
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
-      "nr": 26,
+      "nr": 25,
       "fahrzeug": "FAST JEF",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
@@ -500,20 +474,15 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 27,
+      "nr": 26,
       "fahrzeug": "ROGALAND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:13",
-        "eta_rueb": "11:07",
-        "delta_rueb_schleuse": "04:06",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "11:07",
-      "eta_schleuse": "15:13",
-      "delta_rueb_schleuse": "04:06",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -521,7 +490,7 @@
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
-      "nr": 28,
+      "nr": 27,
       "fahrzeug": "HOS",
       "route": null,
       "time": "Sun Apr 05 04:00:00 CEST 2026",
@@ -709,14 +678,19 @@
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ORAHOLM",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 09:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:41",
+        "eta_rueb": "15:51",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "15:51",
+      "eta_schleuse": "19:41",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -729,14 +703,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 08:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:28",
+        "eta_schleuse": "19:29",
         "eta_rueb": "15:43",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "15:43",
-      "eta_schleuse": "19:28",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "19:29",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:23"
     },
     {
@@ -750,14 +724,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:33",
+        "eta_schleuse": "17:32",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:33",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "17:32",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:26"
     },
     {
@@ -803,7 +777,7 @@
       "nachname": "Alt",
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
-      "nr": 26,
+      "nr": 25,
       "fahrzeug": "FAST JEF",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:19:00 CEST 2026",
@@ -824,20 +798,15 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 27,
+      "nr": 26,
       "fahrzeug": "ROGALAND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 05:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:13",
-        "eta_rueb": "11:07",
-        "delta_rueb_schleuse": "04:06",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "11:07",
-      "eta_schleuse": "15:13",
-      "delta_rueb_schleuse": "04:06",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -850,13 +819,6 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:51",
-      "eta_rueb": "15:45",
-      "ship": "ORAHOLM",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "16:15",
       "eta_rueb": "16:05",
       "ship": "FRAKT VIK",
@@ -864,7 +826,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:30",
+      "eta_rueb_kiel": "17:31",
       "eta_rueb": "17:15",
       "ship": "JOHANNA HELENA",
       "q_gruppe": "4",
