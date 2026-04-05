@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-05T19:08:37",
+  "generated_at": "2026-04-05T19:10:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Seebört",
-    "fahrzeug": "Leerfahrt",
-    "from": "KLT",
-    "to": "HOS",
+    "fahrzeug": "HOS",
+    "from": null,
+    "to": null,
     "time": "Sun Apr 05 13:46:00 CEST 2026",
     "nr": 17
   },
@@ -278,8 +278,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Apr 05 14:47:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -331,8 +331,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Apr 05 13:46:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -960,7 +960,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:25",
+      "eta_rueb_kiel": "21:24",
       "eta_rueb": "21:11",
       "ship": "JADELAND",
       "q_gruppe": "4",
