@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T01:50:47",
+  "generated_at": "2026-04-07T01:52:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 5,
     "wach": 2,
-    "see": 2
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -20,15 +20,15 @@
       "route": "UTG → RÜB",
       "time": "Tue Apr 07 00:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:09",
-        "eta_rueb": "04:58",
+        "eta_schleuse": "10:08",
+        "eta_rueb": "04:57",
         "delta_rueb_schleuse": "05:11",
-        "delta_start_rueb": "07:08"
+        "delta_start_rueb": "07:07"
       },
-      "eta_rueb": "04:58",
-      "eta_schleuse": "10:09",
+      "eta_rueb": "04:57",
+      "eta_schleuse": "10:08",
       "delta_rueb_schleuse": "05:11",
-      "delta_start_rueb": "07:08"
+      "delta_start_rueb": "07:07"
     },
     {
       "is_target": false,
@@ -57,15 +57,15 @@
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 23:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:53",
-        "eta_rueb": "04:55",
+        "eta_schleuse": "09:52",
+        "eta_rueb": "04:54",
         "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:39"
+        "delta_start_rueb": "04:38"
       },
-      "eta_rueb": "04:55",
-      "eta_schleuse": "09:53",
+      "eta_rueb": "04:54",
+      "eta_schleuse": "09:52",
       "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:39"
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -78,25 +78,25 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:01",
-        "eta_rueb": "04:52",
+        "eta_schleuse": "10:00",
+        "eta_rueb": "04:51",
         "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:36"
+        "delta_start_rueb": "04:35"
       },
-      "eta_rueb": "04:52",
-      "eta_schleuse": "10:01",
+      "eta_rueb": "04:51",
+      "eta_schleuse": "10:00",
       "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:36"
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
       "vorname": "Tim",
       "nachname": "Merschmann",
       "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "ELBSUN",
-      "route": "RÜB → HOS",
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Mon Apr 06 20:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -202,15 +202,15 @@
       "route": "UTG → RÜB",
       "time": "Tue Apr 07 00:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:09",
-        "eta_rueb": "04:58",
+        "eta_schleuse": "10:08",
+        "eta_rueb": "04:57",
         "delta_rueb_schleuse": "05:11",
-        "delta_start_rueb": "07:08"
+        "delta_start_rueb": "07:07"
       },
-      "eta_rueb": "04:58",
-      "eta_schleuse": "10:09",
+      "eta_rueb": "04:57",
+      "eta_schleuse": "10:08",
       "delta_rueb_schleuse": "05:11",
-      "delta_start_rueb": "07:08"
+      "delta_start_rueb": "07:07"
     },
     {
       "is_target": false,
@@ -223,15 +223,15 @@
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 23:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:53",
-        "eta_rueb": "04:55",
+        "eta_schleuse": "09:52",
+        "eta_rueb": "04:54",
         "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:39"
+        "delta_start_rueb": "04:38"
       },
-      "eta_rueb": "04:55",
-      "eta_schleuse": "09:53",
+      "eta_rueb": "04:54",
+      "eta_schleuse": "09:52",
       "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:39"
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -244,31 +244,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:01",
-        "eta_rueb": "04:52",
+        "eta_schleuse": "10:00",
+        "eta_rueb": "04:51",
         "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:36"
+        "delta_start_rueb": "04:35"
       },
-      "eta_rueb": "04:52",
-      "eta_schleuse": "10:01",
+      "eta_rueb": "04:51",
+      "eta_schleuse": "10:00",
       "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 5,
-      "fahrzeug": "ELBSUN",
-      "route": "RÜB → HOS",
-      "time": "Mon Apr 06 20:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -318,7 +302,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:48",
+      "eta_rueb_kiel": "06:47",
       "eta_rueb": "06:35",
       "ship": "ESPERANCE",
       "q_gruppe": "1",
