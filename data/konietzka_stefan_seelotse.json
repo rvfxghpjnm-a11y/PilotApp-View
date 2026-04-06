@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T01:32:46",
+  "generated_at": "2026-04-07T01:34:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -148,14 +148,19 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 06 19:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:33",
+        "eta_rueb": "01:59",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "01:59",
+      "eta_schleuse": "05:33",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": false,
@@ -298,25 +303,23 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 06 19:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:33",
+        "eta_rueb": "01:59",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "01:59",
+      "eta_schleuse": "05:33",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:13"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "01:59",
-      "eta_rueb": "01:58",
-      "ship": "ELBINSEL",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:38",
       "eta_rueb": "04:30",
