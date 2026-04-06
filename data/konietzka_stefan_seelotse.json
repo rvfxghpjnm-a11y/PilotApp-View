@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T11:06:46",
+  "generated_at": "2026-04-06T11:08:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,14 +85,19 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON POLICE",
+      "route": "RÜB → UTG",
       "time": "Mon Apr 06 10:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:11",
+        "eta_rueb": "11:25",
+        "delta_rueb_schleuse": "03:46",
+        "delta_start_rueb": "04:35"
+      },
+      "eta_rueb": "11:25",
+      "eta_schleuse": "15:11",
+      "delta_rueb_schleuse": "03:46",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -505,14 +510,19 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON POLICE",
+      "route": "RÜB → UTG",
       "time": "Mon Apr 06 10:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:11",
+        "eta_rueb": "11:25",
+        "delta_rueb_schleuse": "03:46",
+        "delta_start_rueb": "04:35"
+      },
+      "eta_rueb": "11:25",
+      "eta_schleuse": "15:11",
+      "delta_rueb_schleuse": "03:46",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
