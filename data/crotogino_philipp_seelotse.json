@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T08:30:46",
+  "generated_at": "2026-04-06T08:32:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -258,9 +258,14 @@
       "fahrzeug": "ANNETTE ESSBERGER",
       "route": "HOS → UTG",
       "time": "Mon Apr 06 00:49:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -338,14 +343,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:40",
+        "eta_schleuse": "08:41",
         "eta_rueb": "04:53",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "05:55"
       },
       "eta_rueb": "04:53",
-      "eta_schleuse": "08:40",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "08:41",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "05:55"
     }
   ],
@@ -583,14 +588,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:40",
+        "eta_schleuse": "08:41",
         "eta_rueb": "04:53",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "05:55"
       },
       "eta_rueb": "04:53",
-      "eta_schleuse": "08:40",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "08:41",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "05:55"
     }
   ],
