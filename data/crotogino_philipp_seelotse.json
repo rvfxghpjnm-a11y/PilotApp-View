@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-06T02:40:46",
+  "generated_at": "2026-04-06T02:42:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 1,
     "see": 9
   },
@@ -90,8 +90,8 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ELISA K.",
+      "route": "HOS → KLT",
       "time": "Mon Apr 06 00:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -326,22 +326,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Thiel",
-      "name": "Thomas Thiel",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "ELISA K.",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 05 16:19:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -497,22 +481,6 @@
       "eta_schleuse": "06:59",
       "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:56"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Thiel",
-      "name": "Thomas Thiel",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "ELISA K.",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 05 16:19:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
