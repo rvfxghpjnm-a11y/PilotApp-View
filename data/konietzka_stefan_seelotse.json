@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T20:54:45",
+  "generated_at": "2026-04-06T20:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "GT PIKE",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 19:46:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:51",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:51",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -88,9 +93,14 @@
       "fahrzeug": "BISCAY",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 19:37:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -307,9 +317,14 @@
       "fahrzeug": "GT PIKE",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 19:46:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:51",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:51",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -344,9 +359,14 @@
       "fahrzeug": "BISCAY",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 19:37:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
