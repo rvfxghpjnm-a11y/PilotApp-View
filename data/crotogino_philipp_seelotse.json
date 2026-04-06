@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T12:02:48",
+  "generated_at": "2026-04-06T12:04:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 2,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -152,15 +152,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 09:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:30",
-        "eta_rueb": "14:03",
+        "eta_schleuse": "18:28",
+        "eta_rueb": "14:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "14:03",
-      "eta_schleuse": "18:30",
+      "eta_rueb": "14:01",
+      "eta_schleuse": "18:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -194,14 +194,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 09:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:17",
+        "eta_schleuse": "18:16",
         "eta_rueb": "14:05",
-        "delta_rueb_schleuse": "04:12",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "03:45"
       },
       "eta_rueb": "14:05",
-      "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "04:12",
+      "eta_schleuse": "18:16",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "03:45"
     },
     {
@@ -386,27 +386,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Schie",
-      "name": "Christian Schie",
-      "aufgabe": "Seebört",
-      "nr": 21,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Mon Apr 06 03:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Knut Paul",
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "ANHOLT",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 02:58:00 CEST 2026",
@@ -518,15 +502,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 09:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:30",
-        "eta_rueb": "14:03",
+        "eta_schleuse": "18:28",
+        "eta_rueb": "14:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "14:03",
-      "eta_schleuse": "18:30",
+      "eta_rueb": "14:01",
+      "eta_schleuse": "18:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -560,14 +544,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 09:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:17",
+        "eta_schleuse": "18:16",
         "eta_rueb": "14:05",
-        "delta_rueb_schleuse": "04:12",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "03:45"
       },
       "eta_rueb": "14:05",
-      "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "04:12",
+      "eta_schleuse": "18:16",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "03:45"
     },
     {
@@ -676,7 +660,7 @@
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "ANHOLT",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 02:58:00 CEST 2026",
@@ -695,7 +679,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:35",
+      "eta_rueb_kiel": "13:34",
       "eta_rueb": "13:30",
       "ship": "MAX + HEBO P39",
       "q_gruppe": "5",
