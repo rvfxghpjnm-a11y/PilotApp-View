@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T14:48:46",
+  "generated_at": "2026-04-06T14:50:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,11 +19,16 @@
       "fahrzeug": "COE KAETHE",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 13:43:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:44",
+        "eta_rueb": "18:17",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:27"
+      },
+      "eta_rueb": "18:17",
+      "eta_schleuse": "22:44",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -85,14 +90,14 @@
       "time": "Mon Apr 06 10:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:59",
-        "eta_rueb": "15:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:46"
+        "eta_rueb": "15:30",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "15:32",
+      "eta_rueb": "15:30",
       "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:46"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -105,15 +110,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 10:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:56",
-        "eta_rueb": "15:29",
+        "eta_schleuse": "19:54",
+        "eta_rueb": "15:27",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "15:29",
-      "eta_schleuse": "19:56",
+      "eta_rueb": "15:27",
+      "eta_schleuse": "19:54",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -313,11 +318,16 @@
       "fahrzeug": "COE KAETHE",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 13:43:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:44",
+        "eta_rueb": "18:17",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:27"
+      },
+      "eta_rueb": "18:17",
+      "eta_schleuse": "22:44",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -331,14 +341,14 @@
       "time": "Mon Apr 06 10:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:59",
-        "eta_rueb": "15:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:46"
+        "eta_rueb": "15:30",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "15:32",
+      "eta_rueb": "15:30",
       "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:46"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -351,15 +361,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 10:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:56",
-        "eta_rueb": "15:29",
+        "eta_schleuse": "19:54",
+        "eta_rueb": "15:27",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "15:29",
-      "eta_schleuse": "19:56",
+      "eta_rueb": "15:27",
+      "eta_schleuse": "19:54",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
