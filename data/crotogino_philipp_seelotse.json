@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T03:44:46",
+  "generated_at": "2026-04-06T03:46:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -223,27 +223,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Köhler",
-      "name": "Olaf Köhler",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "ELBMOON",
-      "route": "KLT → HOS",
-      "time": "Sun Apr 05 21:31:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Kevin",
       "nachname": "Koslik",
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "MARIE LEHMANN",
       "route": "KLT → HOS",
       "time": "Sun Apr 05 21:10:00 CEST 2026",
@@ -259,7 +243,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Apr 05 20:32:00 CEST 2026",
@@ -275,19 +259,19 @@
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "KRAFTCA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:06",
+        "eta_schleuse": "07:07",
         "eta_rueb": "02:50",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "02:50",
-      "eta_schleuse": "07:06",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "07:07",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:56"
     },
     {
@@ -296,7 +280,7 @@
       "nachname": "Rink",
       "name": "Hannes Rink",
       "aufgabe": "Wachgänger",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sun Apr 05 20:00:00 CEST 2026",
@@ -312,7 +296,7 @@
       "nachname": "Doering",
       "name": "Lars Doering",
       "aufgabe": "Seebört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "JSP HALMOE",
       "route": "KLT → HOS",
       "time": "Sun Apr 05 19:03:00 CEST 2026",
@@ -328,7 +312,7 @@
       "nachname": "Borggräfe",
       "name": "Hark Borggräfe",
       "aufgabe": "Seebört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sun Apr 05 19:00:00 CEST 2026",
@@ -494,7 +478,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Apr 05 20:32:00 CEST 2026",
@@ -510,19 +494,19 @@
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "KRAFTCA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:06",
+        "eta_schleuse": "07:07",
         "eta_rueb": "02:50",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "02:50",
-      "eta_schleuse": "07:06",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "07:07",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:56"
     }
   ],
@@ -561,6 +545,20 @@
       "eta_rueb": "07:05",
       "ship": "GOLDEN OLIVE",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "09:24",
+      "eta_rueb": "09:05",
+      "ship": "ANHOLT",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "09:08",
+      "ship": "MONTSERRAT",
+      "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
   ]
