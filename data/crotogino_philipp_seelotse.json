@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T00:20:45",
+  "generated_at": "2026-04-07T00:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
     "wach": 2,
-    "see": 4
+    "see": 2
   },
   "times": null,
   "lotsen": [
@@ -58,14 +58,14 @@
       "time": "Mon Apr 06 23:32:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:23",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "04:57",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": null,
+      "eta_rueb": "04:57",
       "eta_schleuse": "09:23",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -200,14 +200,14 @@
       "time": "Mon Apr 06 19:16:00 CEST 2026",
       "times": {
         "eta_schleuse": "05:42",
-        "eta_rueb": "00:33",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "00:32",
+        "delta_rueb_schleuse": "05:10",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "00:33",
+      "eta_rueb": "00:32",
       "eta_schleuse": "05:42",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "05:10",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -227,43 +227,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Gerd",
-      "nachname": "Pitschmann",
-      "name": "Gerd Pitschmann",
-      "aufgabe": "Seebört",
-      "nr": 12,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Mon Apr 06 18:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Ulrich",
-      "nachname": "Diekmann",
-      "name": "Ulrich Diekmann",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Mon Apr 06 18:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Frank",
       "nachname": "Staedler",
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 12,
       "fahrzeug": "AAVA VG",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 15:38:00 CEST 2026",
@@ -284,7 +252,7 @@
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
-      "nr": 15,
+      "nr": 13,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Mon Apr 06 12:00:00 CEST 2026",
@@ -324,14 +292,14 @@
       "time": "Mon Apr 06 23:32:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:23",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "04:57",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": null,
+      "eta_rueb": "04:57",
       "eta_schleuse": "09:23",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -450,14 +418,14 @@
       "time": "Mon Apr 06 19:16:00 CEST 2026",
       "times": {
         "eta_schleuse": "05:42",
-        "eta_rueb": "00:33",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "00:32",
+        "delta_rueb_schleuse": "05:10",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "00:33",
+      "eta_rueb": "00:32",
       "eta_schleuse": "05:42",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "05:10",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -465,7 +433,7 @@
       "nachname": "Staedler",
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 12,
       "fahrzeug": "AAVA VG",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 15:38:00 CEST 2026",
