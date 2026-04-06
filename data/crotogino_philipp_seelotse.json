@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T17:16:46",
+  "generated_at": "2026-04-06T17:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 5,
     "wach": 2,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -19,16 +19,11 @@
       "fahrzeug": "WILSON POLICE",
       "route": "HOS → KLT",
       "time": "Mon Apr 06 16:57:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "11:24",
-        "delta_rueb_schleuse": "2284591:22",
-        "delta_start_rueb": "04:34"
-      },
-      "eta_rueb": "11:24",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2284591:22",
-      "delta_start_rueb": "04:34"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -40,16 +35,11 @@
       "fahrzeug": "MAX + HEBO P39",
       "route": "HOS → KLT",
       "time": "Mon Apr 06 16:46:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:45",
-        "delta_start_rueb": "05:13"
-      },
-      "eta_rueb": "13:29",
-      "eta_schleuse": "17:14",
-      "delta_rueb_schleuse": "03:45",
-      "delta_start_rueb": "05:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -185,45 +175,19 @@
     },
     {
       "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Bodmann",
-      "name": "Christoph Bodmann",
-      "aufgabe": "Seebört",
-      "nr": 10,
-      "fahrzeug": "WILSON POLICE",
-      "route": "UTG → HOS",
-      "time": "Mon Apr 06 10:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "11:24",
-        "delta_rueb_schleuse": "2284591:22",
-        "delta_start_rueb": "04:34"
-      },
-      "eta_rueb": "11:24",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2284591:22",
-      "delta_start_rueb": "04:34"
-    },
-    {
-      "is_target": false,
       "vorname": "Michael",
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "MAX + HEBO P39",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 07:32:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:45",
-        "delta_start_rueb": "05:13"
-      },
-      "eta_rueb": "13:29",
-      "eta_schleuse": "17:14",
-      "delta_rueb_schleuse": "03:45",
-      "delta_start_rueb": "05:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -317,20 +281,15 @@
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "MAX + HEBO P39",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 07:32:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:14",
-        "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:45",
-        "delta_start_rueb": "05:13"
-      },
-      "eta_rueb": "13:29",
-      "eta_schleuse": "17:14",
-      "delta_rueb_schleuse": "03:45",
-      "delta_start_rueb": "05:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
