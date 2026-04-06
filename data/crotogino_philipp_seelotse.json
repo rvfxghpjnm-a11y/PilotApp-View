@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T15:28:47",
+  "generated_at": "2026-04-06T15:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,14 +85,19 @@
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BBC ECHO",
+      "route": "RÜB → UTG",
       "time": "Mon Apr 06 10:49:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:58",
+        "eta_rueb": "15:27",
+        "delta_rueb_schleuse": "03:31",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "15:27",
+      "eta_schleuse": "18:58",
+      "delta_rueb_schleuse": "03:31",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -101,14 +106,19 @@
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PARAT",
+      "route": "RÜB → NHF",
       "time": "Mon Apr 06 10:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "15:20",
+        "delta_rueb_schleuse": "03:26",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "15:20",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "03:26",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -165,8 +175,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "MYRTE",
+      "route": "KLT → HOS",
       "time": "Mon Apr 06 08:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -241,14 +251,19 @@
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BBC ECHO",
+      "route": "RÜB → UTG",
       "time": "Mon Apr 06 10:49:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:58",
+        "eta_rueb": "15:27",
+        "delta_rueb_schleuse": "03:31",
+        "delta_start_rueb": "04:31"
+      },
+      "eta_rueb": "15:27",
+      "eta_schleuse": "18:58",
+      "delta_rueb_schleuse": "03:31",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -257,14 +272,19 @@
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PARAT",
+      "route": "RÜB → NHF",
       "time": "Mon Apr 06 10:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "15:20",
+        "delta_rueb_schleuse": "03:26",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "15:20",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "03:26",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -323,11 +343,11 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:27",
-      "eta_rueb": "15:30",
-      "ship": "BBC ECHO",
-      "q_gruppe": "2",
-      "route": "RÜB → UTG"
+      "eta_rueb_kiel": "18:59",
+      "eta_rueb": "19:00",
+      "ship": "PRIMA VIKING",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
