@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T21:48:47",
+  "generated_at": "2026-04-06T21:50:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -177,9 +177,14 @@
       "fahrzeug": "MYRTE",
       "route": "HOS → UTG",
       "time": "Mon Apr 06 18:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "03:16",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "03:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
