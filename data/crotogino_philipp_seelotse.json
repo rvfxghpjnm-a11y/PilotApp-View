@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T02:22:45",
+  "generated_at": "2026-04-06T02:24:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "RUNA",
       "route": "HOS → UTG",
       "time": "Mon Apr 06 00:52:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -201,14 +206,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KRAFTCA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:01",
+        "eta_rueb": "02:52",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:58"
+      },
+      "eta_rueb": "02:52",
+      "eta_schleuse": "07:01",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:58"
     },
     {
       "is_target": false,
@@ -233,8 +243,8 @@
       "name": "Lars Doering",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "JSP HALMOE",
+      "route": "KLT → HOS",
       "time": "Sun Apr 05 19:03:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -415,14 +425,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KRAFTCA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:01",
+        "eta_rueb": "02:52",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:58"
+      },
+      "eta_rueb": "02:52",
+      "eta_schleuse": "07:01",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:58"
     },
     {
       "is_target": false,
@@ -443,13 +458,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "02:52",
-      "eta_rueb": "02:45",
-      "ship": "KRAFTCA",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:54",
       "eta_rueb": "05:00",
