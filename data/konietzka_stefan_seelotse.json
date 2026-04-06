@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T04:48:46",
+  "generated_at": "2026-04-06T04:50:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 1,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -237,30 +237,14 @@
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:55",
-        "eta_rueb": "04:56",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "06:02"
+        "eta_rueb": "04:55",
+        "delta_rueb_schleuse": "04:00",
+        "delta_start_rueb": "06:01"
       },
-      "eta_rueb": "04:56",
+      "eta_rueb": "04:55",
       "eta_schleuse": "08:55",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "06:02"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Sun Apr 05 21:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:00",
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -268,7 +252,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "BALTIC MERCHANT",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:32:00 CEST 2026",
@@ -289,7 +273,7 @@
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "KRAFTCA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
@@ -310,7 +294,7 @@
       "nachname": "Rink",
       "name": "Hannes Rink",
       "aufgabe": "Wachgänger",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sun Apr 05 20:00:00 CEST 2026",
@@ -502,14 +486,14 @@
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:55",
-        "eta_rueb": "04:56",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "06:02"
+        "eta_rueb": "04:55",
+        "delta_rueb_schleuse": "04:00",
+        "delta_start_rueb": "06:01"
       },
-      "eta_rueb": "04:56",
+      "eta_rueb": "04:55",
       "eta_schleuse": "08:55",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "06:02"
+      "delta_rueb_schleuse": "04:00",
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -517,7 +501,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "BALTIC MERCHANT",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:32:00 CEST 2026",
@@ -538,7 +522,7 @@
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "KRAFTCA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:23:00 CEST 2026",
