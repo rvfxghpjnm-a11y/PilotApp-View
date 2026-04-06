@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-06T18:52:48",
+  "generated_at": "2026-04-06T18:54:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 5,
+    "kanal": 4,
     "wach": 2,
     "see": 5
   },
@@ -32,8 +32,8 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BISCAY",
+      "route": "KLT → HOS",
       "time": "Mon Apr 06 18:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "JUDITH",
+      "route": "KLT → HOS",
       "time": "Mon Apr 06 18:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -199,27 +199,6 @@
       "eta_schleuse": "18:57",
       "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sven",
-      "nachname": "Janson",
-      "name": "Sven Janson",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "PARAT",
-      "route": "RÜB → NHF",
-      "time": "Mon Apr 06 10:36:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:54",
-        "eta_rueb": "15:20",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "15:20",
-      "eta_schleuse": "18:54",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:28"
     }
   ],
   "kanallotsen": [
@@ -301,33 +280,12 @@
       "eta_schleuse": "18:57",
       "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sven",
-      "nachname": "Janson",
-      "name": "Sven Janson",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "PARAT",
-      "route": "RÜB → NHF",
-      "time": "Mon Apr 06 10:36:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:54",
-        "eta_rueb": "15:20",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "15:20",
-      "eta_schleuse": "18:54",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:28"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:32",
+      "eta_rueb_kiel": "19:31",
       "eta_rueb": "20:00",
       "ship": "SWE CARRIER",
       "q_gruppe": "5",
