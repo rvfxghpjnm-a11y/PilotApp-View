@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T04:24:46",
+  "generated_at": "2026-04-06T04:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -249,14 +249,19 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC MERCHANT",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:32:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:52",
+        "eta_rueb": "04:54",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "05:56"
+      },
+      "eta_rueb": "04:54",
+      "eta_schleuse": "08:52",
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "05:56"
     },
     {
       "is_target": false,
@@ -473,14 +478,19 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC MERCHANT",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 05 20:32:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:52",
+        "eta_rueb": "04:54",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "05:56"
+      },
+      "eta_rueb": "04:54",
+      "eta_schleuse": "08:52",
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "05:56"
     },
     {
       "is_target": false,
