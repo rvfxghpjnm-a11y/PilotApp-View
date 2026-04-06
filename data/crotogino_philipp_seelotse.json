@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T02:18:46",
+  "generated_at": "2026-04-06T02:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -135,20 +135,20 @@
       "vorname": "Sebastian",
       "nachname": "Lüttge",
       "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "RAGNA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 05 21:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:26",
+        "eta_schleuse": "02:27",
         "eta_rueb": "23:09",
-        "delta_rueb_schleuse": "03:17",
+        "delta_rueb_schleuse": "03:18",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "23:09",
-      "eta_schleuse": "02:26",
-      "delta_rueb_schleuse": "03:17",
+      "eta_schleuse": "02:27",
+      "delta_rueb_schleuse": "03:18",
       "delta_start_rueb": "04:55"
     },
     {
@@ -399,27 +399,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "RAGNA",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 05 21:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "02:26",
-        "eta_rueb": "23:09",
-        "delta_rueb_schleuse": "03:17",
-        "delta_start_rueb": "04:55"
-      },
-      "eta_rueb": "23:09",
-      "eta_schleuse": "02:26",
-      "delta_rueb_schleuse": "03:17",
-      "delta_start_rueb": "04:55"
-    },
-    {
-      "is_target": false,
       "vorname": "Ingmar",
       "nachname": "Richter",
       "name": "Ingmar Richter",
@@ -498,7 +477,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:05",
+      "eta_rueb_kiel": "05:06",
       "eta_rueb": "05:10",
       "ship": "X-PRESS AGILITY",
       "q_gruppe": "1",
