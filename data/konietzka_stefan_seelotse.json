@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T16:44:47",
+  "generated_at": "2026-04-06T16:46:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,15 +36,15 @@
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 13:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:36",
-        "eta_rueb": "18:09",
+        "eta_schleuse": "22:35",
+        "eta_rueb": "18:08",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:19"
+        "delta_start_rueb": "03:18"
       },
-      "eta_rueb": "18:09",
-      "eta_schleuse": "22:36",
+      "eta_rueb": "18:08",
+      "eta_schleuse": "22:35",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:19"
+      "delta_start_rueb": "03:18"
     },
     {
       "is_target": false,
@@ -223,15 +223,15 @@
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 13:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:36",
-        "eta_rueb": "18:09",
+        "eta_schleuse": "22:35",
+        "eta_rueb": "18:08",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:19"
+        "delta_start_rueb": "03:18"
       },
-      "eta_rueb": "18:09",
-      "eta_schleuse": "22:36",
+      "eta_rueb": "18:08",
+      "eta_schleuse": "22:35",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:19"
+      "delta_start_rueb": "03:18"
     },
     {
       "is_target": false,
@@ -300,13 +300,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "21:43",
-      "eta_rueb": "12:45",
-      "ship": "ELBSUN",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "18:53",
       "eta_rueb": "19:00",
       "ship": "PRIMA VIKING",
@@ -318,6 +311,20 @@
       "eta_rueb": "20:00",
       "ship": "SWE CARRIER",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:12",
+      "eta_rueb": "21:15",
+      "ship": "AAVA VG",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:43",
+      "eta_rueb": "21:45",
+      "ship": "ELBSUN",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
