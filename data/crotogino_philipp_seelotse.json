@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T20:44:45",
+  "generated_at": "2026-04-06T20:46:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "JUDITH",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 19:40:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -99,9 +104,14 @@
       "fahrzeug": "MARIETJE NORA",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 19:16:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:55",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:55",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -168,9 +178,14 @@
       "fahrzeug": "JUDITH",
       "route": "KLT → HOS",
       "time": "Mon Apr 06 18:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -308,9 +323,14 @@
       "fahrzeug": "JUDITH",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 19:40:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -340,9 +360,14 @@
       "fahrzeug": "MARIETJE NORA",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 19:16:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "05:55",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "05:55",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
