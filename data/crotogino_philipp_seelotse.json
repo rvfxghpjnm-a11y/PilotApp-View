@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T00:26:46",
+  "generated_at": "2026-04-07T00:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Mon Apr 06 23:54:32 CEST 2026",
       "times": {
-        "eta_schleuse": "00:27",
+        "eta_schleuse": "00:28",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "00:27",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:17"
     },
     {
@@ -190,19 +190,14 @@
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "MARIETJE NORA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 06 19:16:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:44",
-        "eta_rueb": "00:32",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "00:32",
-      "eta_schleuse": "05:44",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -231,14 +226,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 15:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:27",
+        "eta_schleuse": "00:28",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "00:27",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:17"
     },
     {
@@ -403,19 +398,14 @@
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "MARIETJE NORA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 06 19:16:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:44",
-        "eta_rueb": "00:32",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "00:32",
-      "eta_schleuse": "05:44",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -428,14 +418,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 15:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:27",
+        "eta_schleuse": "00:28",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "00:27",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:17"
     }
   ],
@@ -449,7 +439,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:40",
+      "eta_rueb_kiel": "04:42",
       "eta_rueb": "04:45",
       "ship": "MARIELYST",
       "q_gruppe": "1",
