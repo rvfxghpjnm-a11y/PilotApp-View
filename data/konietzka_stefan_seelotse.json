@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T08:46:47",
+  "generated_at": "2026-04-06T08:48:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
-    "see": 9
+    "see": 10
   },
   "times": null,
   "lotsen": [
@@ -16,14 +16,19 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "FREJ",
+      "route": "HOS → KLT",
       "time": "Mon Apr 06 08:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:55",
+        "eta_rueb": "04:58",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:38"
+      },
+      "eta_rueb": "04:58",
+      "eta_schleuse": "08:55",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -32,14 +37,19 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "X-PRESS AGILITY",
+      "route": "HOS → KLT",
       "time": "Mon Apr 06 08:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:58",
+        "eta_rueb": "05:01",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:45"
+      },
+      "eta_rueb": "05:01",
+      "eta_schleuse": "08:58",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:45"
     },
     {
       "is_target": false,
@@ -51,9 +61,14 @@
       "fahrzeug": "SPARBORG",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 07:54:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:56",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:56",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -258,16 +273,21 @@
       "vorname": "Merten",
       "nachname": "Wachs",
       "name": "Merten Wachs",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ASTINA",
+      "route": "HOS → KLT",
       "time": "Mon Apr 06 02:39:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:48",
+        "eta_rueb": "04:55",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "06:01"
+      },
+      "eta_rueb": "04:55",
+      "eta_schleuse": "08:48",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -359,14 +379,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:47",
+        "eta_schleuse": "08:48",
         "eta_rueb": "04:55",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "06:01"
       },
       "eta_rueb": "04:55",
-      "eta_schleuse": "08:47",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "08:48",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "06:01"
     },
     {
@@ -402,9 +422,14 @@
       "fahrzeug": "SPARBORG",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 07:54:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:56",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:56",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -526,22 +551,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Merten",
-      "nachname": "Wachs",
-      "name": "Merten Wachs",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Mon Apr 06 02:39:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Tom",
       "nachname": "Weise",
       "name": "Tom Weise",
@@ -593,14 +602,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 05 22:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:47",
+        "eta_schleuse": "08:48",
         "eta_rueb": "04:55",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "06:01"
       },
       "eta_rueb": "04:55",
-      "eta_schleuse": "08:47",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "08:48",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "06:01"
     },
     {
@@ -656,7 +665,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "13:41",
+      "eta_rueb_kiel": "13:42",
       "eta_rueb": "12:30",
       "ship": "MAX + HEBO P39",
       "q_gruppe": "5",
