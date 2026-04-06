@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T10:18:46",
+  "generated_at": "2026-04-06T10:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,9 +88,14 @@
       "fahrzeug": "FERROMAR",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 09:19:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:19",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:19",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -215,9 +220,14 @@
       "fahrzeug": "FERROMAR",
       "route": "KLT → HOS",
       "time": "Mon Apr 06 06:55:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:19",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:19",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -471,9 +481,14 @@
       "fahrzeug": "FERROMAR",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 09:19:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:19",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:19",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
