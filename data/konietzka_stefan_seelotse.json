@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T13:32:37",
+  "generated_at": "2026-04-07T13:34:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 3,
-    "see": 3
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -91,12 +91,12 @@
     },
     {
       "is_target": false,
-      "vorname": "Gregor",
-      "nachname": "Meise",
-      "name": "Gregor Meise",
+      "vorname": "Marius",
+      "nachname": "Schüler",
+      "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "HOS",
+      "fahrzeug": "RÜB",
       "route": null,
       "time": "Tue Apr 07 07:46:00 CEST 2026",
       "times": null,
@@ -107,19 +107,24 @@
     },
     {
       "is_target": false,
-      "vorname": "Marius",
-      "nachname": "Schüler",
-      "name": "Marius Schüler",
-      "aufgabe": "Kanalbört",
+      "vorname": "Gregor",
+      "nachname": "Meise",
+      "name": "Gregor Meise",
+      "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ROCAMAR",
+      "route": "HOS → KLT",
       "time": "Tue Apr 07 07:46:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:59",
+        "eta_rueb": "09:55",
+        "delta_rueb_schleuse": "04:04",
+        "delta_start_rueb": "04:17"
+      },
+      "eta_rueb": "09:55",
+      "eta_schleuse": "13:59",
+      "delta_rueb_schleuse": "04:04",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -289,27 +294,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Gregor",
-      "nachname": "Meise",
-      "name": "Gregor Meise",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Tue Apr 07 07:46:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Marius",
       "nachname": "Schüler",
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
-      "nr": 7,
+      "nr": 6,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Tue Apr 07 07:46:00 CEST 2026",
