@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T14:14:39",
+  "generated_at": "2026-04-07T14:16:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 07 13:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -96,14 +96,19 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MBC DAISY",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:46:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:24",
+        "eta_rueb": "14:41",
+        "delta_rueb_schleuse": "03:43",
+        "delta_start_rueb": "03:17"
+      },
+      "eta_rueb": "14:41",
+      "eta_schleuse": "18:24",
+      "delta_rueb_schleuse": "03:43",
+      "delta_start_rueb": "03:17"
     },
     {
       "is_target": false,
@@ -215,8 +220,8 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 07 13:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -247,14 +252,19 @@
       "name": "Marius Schüler",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MBC DAISY",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:46:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:24",
+        "eta_rueb": "14:41",
+        "delta_rueb_schleuse": "03:43",
+        "delta_start_rueb": "03:17"
+      },
+      "eta_rueb": "14:41",
+      "eta_schleuse": "18:24",
+      "delta_rueb_schleuse": "03:43",
+      "delta_start_rueb": "03:17"
     },
     {
       "is_target": false,
@@ -296,13 +306,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "14:41",
-      "eta_rueb": "14:35",
-      "ship": "MBC DAISY",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "14:50",
       "eta_rueb": "14:45",
