@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T09:06:41",
+  "generated_at": "2026-04-07T09:08:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HESTIA",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:00",
+        "eta_rueb": "09:37",
+        "delta_rueb_schleuse": "04:23",
+        "delta_start_rueb": "04:37"
+      },
+      "eta_rueb": "09:37",
+      "eta_schleuse": "14:00",
+      "delta_rueb_schleuse": "04:23",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -85,14 +90,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EFE",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:56",
+        "eta_rueb": "09:34",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:38"
+      },
+      "eta_rueb": "09:34",
+      "eta_schleuse": "13:56",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -248,15 +258,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 03:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:42",
-        "eta_rueb": "09:15",
+        "eta_schleuse": "13:43",
+        "eta_rueb": "09:16",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:51"
+        "delta_start_rueb": "04:52"
       },
-      "eta_rueb": "09:15",
-      "eta_schleuse": "13:42",
+      "eta_rueb": "09:16",
+      "eta_schleuse": "13:43",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:51"
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -327,14 +337,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:11",
+        "eta_schleuse": "10:12",
         "eta_rueb": "06:45",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "06:45",
-      "eta_schleuse": "10:11",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "10:12",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "05:25"
     },
     {
@@ -394,14 +404,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HESTIA",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:00",
+        "eta_rueb": "09:37",
+        "delta_rueb_schleuse": "04:23",
+        "delta_start_rueb": "04:37"
+      },
+      "eta_rueb": "09:37",
+      "eta_schleuse": "14:00",
+      "delta_rueb_schleuse": "04:23",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -431,14 +446,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EFE",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:56",
+        "eta_rueb": "09:34",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "04:38"
+      },
+      "eta_rueb": "09:34",
+      "eta_schleuse": "13:56",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "04:38"
     },
     {
       "is_target": false,
@@ -530,15 +550,15 @@
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 03:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:42",
-        "eta_rueb": "09:15",
+        "eta_schleuse": "13:43",
+        "eta_rueb": "09:16",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:51"
+        "delta_start_rueb": "04:52"
       },
-      "eta_rueb": "09:15",
-      "eta_schleuse": "13:42",
+      "eta_rueb": "09:16",
+      "eta_schleuse": "13:43",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:51"
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -593,33 +613,19 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:11",
+        "eta_schleuse": "10:12",
         "eta_rueb": "06:45",
-        "delta_rueb_schleuse": "03:26",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "05:25"
       },
       "eta_rueb": "06:45",
-      "eta_schleuse": "10:11",
-      "delta_rueb_schleuse": "03:26",
+      "eta_schleuse": "10:12",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "05:25"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "09:34",
-      "eta_rueb": "09:35",
-      "ship": "EFE",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "09:37",
-      "eta_rueb": "09:38",
-      "ship": "HESTIA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "09:42",
       "eta_rueb": "09:40",
@@ -628,7 +634,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "09:55",
+      "eta_rueb_kiel": "09:54",
       "eta_rueb": "09:45",
       "ship": "ROCAMAR",
       "q_gruppe": "5",
