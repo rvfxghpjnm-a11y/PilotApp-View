@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T22:34:40",
+  "generated_at": "2026-04-07T22:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 1,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -173,14 +173,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:27",
+        "eta_schleuse": "00:26",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "00:27",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "00:26",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:16"
     },
     {
@@ -313,27 +313,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Lars",
-      "nachname": "Doering",
-      "name": "Lars Doering",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Tue Apr 07 14:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hark",
       "nachname": "Borggräfe",
       "name": "Hark Borggräfe",
       "aufgabe": "Seebört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "BELTNES",
       "route": "KO2 → SHF",
       "time": "Tue Apr 07 14:32:00 CEST 2026",
@@ -349,7 +333,7 @@
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "DOLFIJN",
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:20:00 CEST 2026",
@@ -509,14 +493,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:27",
+        "eta_schleuse": "00:26",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "00:27",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "00:26",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:16"
     },
     {
@@ -589,7 +573,7 @@
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "DOLFIJN",
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:20:00 CEST 2026",
@@ -603,7 +587,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:42",
+      "eta_rueb_kiel": "00:41",
       "eta_rueb": "00:20",
       "ship": "OTELLO",
       "q_gruppe": "4",
