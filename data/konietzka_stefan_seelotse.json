@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T06:18:37",
+  "generated_at": "2026-04-07T06:20:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 07 05:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -51,9 +51,14 @@
       "fahrzeug": "KEY SUND",
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 05:21:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -181,14 +186,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ESPERANCE",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:20",
+        "eta_rueb": "06:46",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:26"
+      },
+      "eta_rueb": "06:46",
+      "eta_schleuse": "10:20",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:26"
     },
     {
       "is_target": false,
@@ -236,8 +246,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 07 05:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -255,9 +265,14 @@
       "fahrzeug": "KEY SUND",
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 05:21:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -321,14 +336,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ESPERANCE",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:20",
+        "eta_rueb": "06:46",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:26"
+      },
+      "eta_rueb": "06:46",
+      "eta_schleuse": "10:20",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:26"
     },
     {
       "is_target": false,
@@ -354,13 +374,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "06:46",
-      "eta_rueb": "06:45",
-      "ship": "ESPERANCE",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:53",
       "eta_rueb": "06:50",
