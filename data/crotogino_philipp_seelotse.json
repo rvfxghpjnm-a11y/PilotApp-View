@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T18:06:39",
+  "generated_at": "2026-04-07T18:08:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Tue Apr 07 17:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:10",
+        "eta_schleuse": "18:11",
         "eta_rueb": "14:40",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "03:16"
       },
       "eta_rueb": "14:40",
-      "eta_schleuse": "18:10",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "18:11",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "03:16"
     },
     {
@@ -85,14 +85,19 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BREB TIMBER",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 17:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:07",
+        "eta_rueb": "18:34",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "18:34",
+      "eta_schleuse": "22:07",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -290,14 +295,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:10",
+        "eta_schleuse": "18:11",
         "eta_rueb": "14:40",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "03:16"
       },
       "eta_rueb": "14:40",
-      "eta_schleuse": "18:10",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "18:11",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "03:16"
     },
     {
@@ -362,14 +367,19 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BREB TIMBER",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 17:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:07",
+        "eta_rueb": "18:34",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "18:34",
+      "eta_schleuse": "22:07",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -466,14 +476,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:10",
+        "eta_schleuse": "18:11",
         "eta_rueb": "14:40",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "03:16"
       },
       "eta_rueb": "14:40",
-      "eta_schleuse": "18:10",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "18:11",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "03:16"
     },
     {
@@ -500,13 +510,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "18:34",
-      "eta_rueb": "18:30",
-      "ship": "BREB TIMBER",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "18:48",
       "eta_rueb": "18:40",
