@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T18:48:37",
+  "generated_at": "2026-04-07T18:50:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -469,6 +469,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "20:20",
+      "eta_rueb": "20:10",
+      "ship": "DONIA",
+      "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "20:24",
       "eta_rueb": "20:15",
       "ship": "STOLT SANDPIPER",
@@ -476,17 +483,10 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:29",
+      "eta_rueb_kiel": "20:31",
       "eta_rueb": "20:20",
       "ship": "LYNX",
       "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "20:20",
-      "eta_rueb": "20:20",
-      "ship": "DONIA",
-      "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
   ]
