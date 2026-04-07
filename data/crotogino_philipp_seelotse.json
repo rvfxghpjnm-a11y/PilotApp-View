@@ -1,21 +1,53 @@
 {
-  "generated_at": "2026-04-07T04:00:54",
+  "generated_at": "2026-04-07T04:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 6,
-    "wach": 2,
-    "see": 2
+    "wach": 3,
+    "see": 3
   },
   "times": null,
   "lotsen": [
+    {
+      "is_target": false,
+      "vorname": "Sören",
+      "nachname": "Ehlers",
+      "name": "Sören Ehlers",
+      "aufgabe": "Seebört",
+      "nr": 1,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
+      "time": "Tue Apr 07 04:00:00 CEST 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
+      "vorname": "Malte",
+      "nachname": "Krause",
+      "name": "Malte Krause",
+      "aufgabe": "Wachgänger",
+      "nr": 2,
+      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
+      "route": "HOS → HOS",
+      "time": "Tue Apr 07 04:00:00 CEST 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
     {
       "is_target": false,
       "vorname": "Mykola",
       "nachname": "Zozulya",
       "name": "Mykola Zozulya",
       "aufgabe": "Kanalbört",
-      "nr": 1,
+      "nr": 3,
       "fahrzeug": "ELBWATER",
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 03:04:00 CEST 2026",
@@ -31,7 +63,7 @@
       "nachname": "Schmidt",
       "name": "Thomas Schmidt",
       "aufgabe": "Seebört",
-      "nr": 2,
+      "nr": 4,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Tue Apr 07 03:00:00 CEST 2026",
@@ -47,20 +79,20 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 3,
+      "nr": 5,
       "fahrzeug": "MYRTE",
       "route": "UTG → RÜB",
       "time": "Tue Apr 07 00:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "10:25",
-        "eta_rueb": "04:53",
-        "delta_rueb_schleuse": "05:32",
-        "delta_start_rueb": "07:03"
+        "eta_rueb": "04:52",
+        "delta_rueb_schleuse": "05:33",
+        "delta_start_rueb": "07:02"
       },
-      "eta_rueb": "04:53",
+      "eta_rueb": "04:52",
       "eta_schleuse": "10:25",
-      "delta_rueb_schleuse": "05:32",
-      "delta_start_rueb": "07:03"
+      "delta_rueb_schleuse": "05:33",
+      "delta_start_rueb": "07:02"
     },
     {
       "is_target": false,
@@ -68,20 +100,20 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 4,
+      "nr": 6,
       "fahrzeug": "OSK RENDSBURG",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 23:32:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:56",
-        "eta_rueb": "04:50",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "04:34"
+        "eta_rueb": "04:49",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "04:33"
       },
-      "eta_rueb": "04:50",
+      "eta_rueb": "04:49",
       "eta_schleuse": "09:56",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "04:34"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "04:33"
     },
     {
       "is_target": false,
@@ -89,20 +121,20 @@
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
-      "nr": 5,
+      "nr": 7,
       "fahrzeug": "NECKARBORG",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
       "times": {
         "eta_schleuse": "10:04",
-        "eta_rueb": "04:47",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "04:31"
+        "eta_rueb": "04:46",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": "04:47",
+      "eta_rueb": "04:46",
       "eta_schleuse": "10:04",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "04:31"
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -110,7 +142,7 @@
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Wachgänger",
-      "nr": 6,
+      "nr": 8,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Mon Apr 06 20:00:00 CEST 2026",
@@ -126,7 +158,7 @@
       "nachname": "Fehr",
       "name": "Remko Fehr",
       "aufgabe": "Kanalbört",
-      "nr": 7,
+      "nr": 9,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Mon Apr 06 19:46:00 CEST 2026",
@@ -142,7 +174,7 @@
       "nachname": "Berkenheger",
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
-      "nr": 8,
+      "nr": 10,
       "fahrzeug": "ELBINSEL",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 19:40:00 CEST 2026",
@@ -163,7 +195,7 @@
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Seebört",
-      "nr": 9,
+      "nr": 11,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Mon Apr 06 19:00:00 CEST 2026",
@@ -179,7 +211,7 @@
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
-      "nr": 10,
+      "nr": 12,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Mon Apr 06 12:00:00 CEST 2026",
@@ -197,7 +229,7 @@
       "nachname": "Zozulya",
       "name": "Mykola Zozulya",
       "aufgabe": "Kanalbört",
-      "nr": 1,
+      "nr": 3,
       "fahrzeug": "ELBWATER",
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 03:04:00 CEST 2026",
@@ -213,20 +245,20 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 3,
+      "nr": 5,
       "fahrzeug": "MYRTE",
       "route": "UTG → RÜB",
       "time": "Tue Apr 07 00:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "10:25",
-        "eta_rueb": "04:53",
-        "delta_rueb_schleuse": "05:32",
-        "delta_start_rueb": "07:03"
+        "eta_rueb": "04:52",
+        "delta_rueb_schleuse": "05:33",
+        "delta_start_rueb": "07:02"
       },
-      "eta_rueb": "04:53",
+      "eta_rueb": "04:52",
       "eta_schleuse": "10:25",
-      "delta_rueb_schleuse": "05:32",
-      "delta_start_rueb": "07:03"
+      "delta_rueb_schleuse": "05:33",
+      "delta_start_rueb": "07:02"
     },
     {
       "is_target": false,
@@ -234,20 +266,20 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 4,
+      "nr": 6,
       "fahrzeug": "OSK RENDSBURG",
       "route": "HOR → RÜB",
       "time": "Mon Apr 06 23:32:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:56",
-        "eta_rueb": "04:50",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "04:34"
+        "eta_rueb": "04:49",
+        "delta_rueb_schleuse": "05:07",
+        "delta_start_rueb": "04:33"
       },
-      "eta_rueb": "04:50",
+      "eta_rueb": "04:49",
       "eta_schleuse": "09:56",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "04:34"
+      "delta_rueb_schleuse": "05:07",
+      "delta_start_rueb": "04:33"
     },
     {
       "is_target": false,
@@ -255,20 +287,20 @@
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
-      "nr": 5,
+      "nr": 7,
       "fahrzeug": "NECKARBORG",
       "route": "HOS → RÜB",
       "time": "Mon Apr 06 23:21:00 CEST 2026",
       "times": {
         "eta_schleuse": "10:04",
-        "eta_rueb": "04:47",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "04:31"
+        "eta_rueb": "04:46",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "04:30"
       },
-      "eta_rueb": "04:47",
+      "eta_rueb": "04:46",
       "eta_schleuse": "10:04",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "04:31"
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -276,7 +308,7 @@
       "nachname": "Fehr",
       "name": "Remko Fehr",
       "aufgabe": "Kanalbört",
-      "nr": 7,
+      "nr": 9,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Mon Apr 06 19:46:00 CEST 2026",
@@ -292,7 +324,7 @@
       "nachname": "Berkenheger",
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
-      "nr": 8,
+      "nr": 10,
       "fahrzeug": "ELBINSEL",
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 19:40:00 CEST 2026",
