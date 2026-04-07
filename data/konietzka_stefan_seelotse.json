@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T00:12:37",
+  "generated_at": "2026-04-08T00:14:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -117,14 +117,19 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NIMBUS",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:08:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:10",
+        "eta_rueb": "00:40",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "00:40",
+      "eta_schleuse": "05:10",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -352,14 +357,19 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NIMBUS",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:08:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:10",
+        "eta_rueb": "00:40",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "00:40",
+      "eta_schleuse": "05:10",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -406,13 +416,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:40",
-      "eta_rueb": "00:25",
-      "ship": "NIMBUS",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "00:45",
       "eta_rueb": "00:30",
