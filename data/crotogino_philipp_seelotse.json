@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T13:22:37",
+  "generated_at": "2026-04-07T13:24:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 4,
-    "see": 2
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -133,32 +133,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Johannes",
-      "nachname": "Biedermann",
-      "name": "Johannes Biedermann",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "EFE",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 07:45:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:48",
-        "eta_rueb": "09:33",
-        "delta_rueb_schleuse": "04:15",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "09:33",
-      "eta_schleuse": "13:48",
-      "delta_rueb_schleuse": "04:15",
-      "delta_start_rueb": "04:37"
-    },
-    {
-      "is_target": false,
       "vorname": "Thomas",
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 9,
+      "nr": 8,
       "fahrzeug": "RUYTER",
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
@@ -172,6 +151,27 @@
       "eta_schleuse": "13:56",
       "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:39"
+    },
+    {
+      "is_target": false,
+      "vorname": "Johannes",
+      "nachname": "Biedermann",
+      "name": "Johannes Biedermann",
+      "aufgabe": "Seebört",
+      "nr": 9,
+      "fahrzeug": "EFE",
+      "route": "HOS → KLT",
+      "time": "Tue Apr 07 07:45:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "13:48",
+        "eta_rueb": "09:33",
+        "delta_rueb_schleuse": "04:15",
+        "delta_start_rueb": "04:37"
+      },
+      "eta_rueb": "09:33",
+      "eta_schleuse": "13:48",
+      "delta_rueb_schleuse": "04:15",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -336,32 +336,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Johannes",
-      "nachname": "Biedermann",
-      "name": "Johannes Biedermann",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "EFE",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 07:45:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:48",
-        "eta_rueb": "09:33",
-        "delta_rueb_schleuse": "04:15",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "09:33",
-      "eta_schleuse": "13:48",
-      "delta_rueb_schleuse": "04:15",
-      "delta_start_rueb": "04:37"
-    },
-    {
-      "is_target": false,
       "vorname": "Thomas",
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 9,
+      "nr": 8,
       "fahrzeug": "RUYTER",
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
