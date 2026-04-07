@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-07T13:24:37",
+  "generated_at": "2026-04-07T13:26:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 7,
-    "wach": 4,
+    "wach": 3,
     "see": 3
   },
   "times": null,
@@ -121,14 +121,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:52",
+        "eta_schleuse": "13:51",
         "eta_rueb": "09:36",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:15",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "09:36",
-      "eta_schleuse": "13:52",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "13:51",
+      "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:36"
     },
     {
@@ -228,27 +228,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Malte",
-      "nachname": "Krause",
-      "name": "Malte Krause",
-      "aufgabe": "Wachgänger",
-      "nr": 13,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Tue Apr 07 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Florian",
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Mon Apr 06 12:00:00 CEST 2026",
@@ -324,14 +308,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 07:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:52",
+        "eta_schleuse": "13:51",
         "eta_rueb": "09:36",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:15",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "09:36",
-      "eta_schleuse": "13:52",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "13:51",
+      "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:36"
     },
     {
@@ -410,7 +394,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:14",
+      "eta_rueb_kiel": "16:13",
       "eta_rueb": "16:00",
       "ship": "NARCEA",
       "q_gruppe": "4",
