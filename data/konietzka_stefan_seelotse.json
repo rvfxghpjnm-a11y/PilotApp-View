@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T17:42:39",
+  "generated_at": "2026-04-07T17:44:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -120,9 +120,14 @@
       "fahrzeug": "KAPPAGAS",
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 16:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -190,14 +195,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 13:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:17",
+        "eta_schleuse": "18:18",
         "eta_rueb": "14:49",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "14:49",
-      "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "18:18",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:13"
     },
     {
@@ -382,9 +387,14 @@
       "fahrzeug": "KAPPAGAS",
       "route": "HOS → RÜB",
       "time": "Tue Apr 07 16:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -420,14 +430,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 13:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:17",
+        "eta_schleuse": "18:18",
         "eta_rueb": "14:49",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "14:49",
-      "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "18:18",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:13"
     },
     {
@@ -520,6 +530,13 @@
       "route": "RÜB → HOS"
     },
     {
+      "eta_rueb_kiel": "20:28",
+      "eta_rueb": "20:15",
+      "ship": "STOLT SANDPIPER",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "20:24",
       "eta_rueb": "20:45",
       "ship": "DONIA",
@@ -527,17 +544,10 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:32",
+      "eta_rueb_kiel": "20:31",
       "eta_rueb": "20:50",
       "ship": "LYNX",
       "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "20:28",
-      "eta_rueb": "20:55",
-      "ship": "STOLT SANDPIPER",
-      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
