@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T15:42:39",
+  "generated_at": "2026-04-07T15:44:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NARCEA",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 14:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:41",
+        "eta_rueb": "16:08",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "16:08",
+      "eta_schleuse": "19:41",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -236,14 +241,19 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NARCEA",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 07 14:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:41",
+        "eta_rueb": "16:08",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "16:08",
+      "eta_schleuse": "19:41",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
