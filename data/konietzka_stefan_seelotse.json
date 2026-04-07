@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T05:50:37",
+  "generated_at": "2026-04-07T05:52:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -201,14 +201,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 19:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:04",
+        "eta_schleuse": "08:03",
         "eta_rueb": "04:32",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "04:32",
-      "eta_schleuse": "08:04",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:34"
     },
     {
@@ -341,14 +341,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 06 19:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:04",
+        "eta_schleuse": "08:03",
         "eta_rueb": "04:32",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "04:32",
-      "eta_schleuse": "08:04",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:34"
     }
   ],
@@ -405,24 +405,24 @@
     },
     {
       "eta_rueb_kiel": "09:54",
-      "eta_rueb": "10:06",
+      "eta_rueb": "09:40",
       "ship": "RUYTER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "10:08",
-      "ship": "DUENE+KMB2",
-      "q_gruppe": "5",
-      "route": "RÜB → KRH"
-    },
-    {
       "eta_rueb_kiel": "10:02",
-      "eta_rueb": "10:10",
+      "eta_rueb": "09:45",
       "ship": "ROCAMAR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "09:50",
+      "ship": "DUENE+KMB2",
+      "q_gruppe": "5",
+      "route": "RÜB → KRH"
     }
   ]
 }
