@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T00:24:38",
+  "generated_at": "2026-04-08T00:26:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -105,14 +105,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:13",
+        "eta_schleuse": "05:12",
         "eta_rueb": "00:46",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "00:46",
-      "eta_schleuse": "05:13",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "05:12",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:22"
     },
     {
@@ -126,14 +126,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:10",
+        "eta_schleuse": "05:09",
         "eta_rueb": "00:40",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "00:40",
-      "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "05:09",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "04:22"
     },
     {
@@ -141,10 +141,10 @@
       "vorname": "Heiko",
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "LYNX",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:37",
@@ -168,14 +168,14 @@
       "route": "HOS → KLT",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:28",
+        "eta_schleuse": "00:29",
         "eta_rueb": "20:20",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "20:20",
-      "eta_schleuse": "00:28",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "00:29",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "03:42"
     },
     {
@@ -189,14 +189,14 @@
       "route": "HOS → KLT",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:24",
+        "eta_schleuse": "00:25",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "00:24",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "00:25",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:16"
     },
     {
@@ -258,14 +258,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 16:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:06",
+        "eta_schleuse": "05:05",
         "eta_rueb": "00:36",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "05:26"
       },
       "eta_rueb": "00:36",
-      "eta_schleuse": "05:06",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "05:05",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "05:26"
     }
   ],
@@ -350,14 +350,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:13",
+        "eta_schleuse": "05:12",
         "eta_rueb": "00:46",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "00:46",
-      "eta_schleuse": "05:13",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "05:12",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:22"
     },
     {
@@ -371,36 +371,15 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:10",
+        "eta_schleuse": "05:09",
         "eta_rueb": "00:40",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "00:40",
-      "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "05:09",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "04:22"
-    },
-    {
-      "is_target": false,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "name": "Heiko Hoffmann",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "LYNX",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 19:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:37",
-        "eta_rueb": "20:36",
-        "delta_rueb_schleuse": "04:01",
-        "delta_start_rueb": "04:46"
-      },
-      "eta_rueb": "20:36",
-      "eta_schleuse": "00:37",
-      "delta_rueb_schleuse": "04:01",
-      "delta_start_rueb": "04:46"
     },
     {
       "is_target": false,
@@ -413,14 +392,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 16:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:06",
+        "eta_schleuse": "05:05",
         "eta_rueb": "00:36",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "05:26"
       },
       "eta_rueb": "00:36",
-      "eta_schleuse": "05:06",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "05:05",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "05:26"
     }
   ],
