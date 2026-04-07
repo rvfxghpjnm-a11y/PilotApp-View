@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T23:40:37",
+  "generated_at": "2026-04-07T23:42:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 1,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -101,19 +101,14 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "SOUTH ENABLER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 07 19:12:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:16",
-        "eta_rueb": "23:37",
-        "delta_rueb_schleuse": "04:39",
-        "delta_start_rueb": "03:29"
-      },
-      "eta_rueb": "23:37",
-      "eta_schleuse": "04:16",
-      "delta_rueb_schleuse": "04:39",
-      "delta_start_rueb": "03:29"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -163,14 +158,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:28",
+        "eta_schleuse": "00:27",
         "eta_rueb": "20:20",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "20:20",
-      "eta_schleuse": "00:28",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "00:27",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "03:42"
     },
     {
@@ -184,14 +179,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:23",
+        "eta_schleuse": "00:22",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "00:23",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "00:22",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:16"
     },
     {
@@ -244,27 +239,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Köhler",
-      "name": "Olaf Köhler",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "KIVALLIQ W.",
-      "route": "KLT → HOS",
-      "time": "Tue Apr 07 17:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hüseyin",
       "nachname": "Ünsal",
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Tue Apr 07 16:50:00 CEST 2026",
@@ -352,19 +331,14 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "SOUTH ENABLER",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 07 19:12:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:16",
-        "eta_rueb": "23:37",
-        "delta_rueb_schleuse": "04:39",
-        "delta_start_rueb": "03:29"
-      },
-      "eta_rueb": "23:37",
-      "eta_schleuse": "04:16",
-      "delta_rueb_schleuse": "04:39",
-      "delta_start_rueb": "03:29"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -414,14 +388,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:28",
+        "eta_schleuse": "00:27",
         "eta_rueb": "20:20",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "20:20",
-      "eta_schleuse": "00:28",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "00:27",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "03:42"
     },
     {
@@ -435,14 +409,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 19:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:23",
+        "eta_schleuse": "00:22",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "00:23",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "00:22",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:16"
     },
     {
@@ -451,7 +425,7 @@
       "nachname": "Ünsal",
       "name": "Hüseyin Ünsal",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Tue Apr 07 16:50:00 CEST 2026",
