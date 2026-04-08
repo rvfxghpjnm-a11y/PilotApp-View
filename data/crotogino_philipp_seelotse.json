@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T06:16:39",
+  "generated_at": "2026-04-08T06:18:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -213,8 +213,8 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "DUENE+KMB2",
+      "route": "RDP → HOS",
       "time": "Wed Apr 08 00:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -233,14 +233,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 22:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:31",
+        "eta_schleuse": "09:30",
         "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "05:08",
-      "eta_schleuse": "09:31",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "09:30",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "04:36"
     },
     {
@@ -254,14 +254,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 20:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:28",
+        "eta_schleuse": "09:27",
         "eta_rueb": "05:04",
-        "delta_rueb_schleuse": "04:24",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "05:04",
-      "eta_schleuse": "09:28",
-      "delta_rueb_schleuse": "04:24",
+      "eta_schleuse": "09:27",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:32"
     }
   ],
@@ -342,8 +342,8 @@
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "DUENE+KMB2",
+      "route": "RDP → HOS",
       "time": "Wed Apr 08 00:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -362,14 +362,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 22:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:31",
+        "eta_schleuse": "09:30",
         "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "05:08",
-      "eta_schleuse": "09:31",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "09:30",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "04:36"
     },
     {
@@ -383,26 +383,19 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 07 20:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:28",
+        "eta_schleuse": "09:27",
         "eta_rueb": "05:04",
-        "delta_rueb_schleuse": "04:24",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "05:04",
-      "eta_schleuse": "09:28",
-      "delta_rueb_schleuse": "04:24",
+      "eta_schleuse": "09:27",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:32"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "07:00",
-      "ship": "DUENE+KMB2",
-      "q_gruppe": "5",
-      "route": "RDP → HOS"
-    },
     {
       "eta_rueb_kiel": "07:19",
       "eta_rueb": "07:10",
