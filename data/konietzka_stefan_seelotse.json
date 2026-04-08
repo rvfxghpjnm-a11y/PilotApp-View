@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T19:54:38",
+  "generated_at": "2026-04-08T19:56:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,8 +153,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 14:28:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -451,8 +451,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 14:28:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -579,13 +579,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "19:55",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "01:06",
       "eta_rueb": "23:55",
