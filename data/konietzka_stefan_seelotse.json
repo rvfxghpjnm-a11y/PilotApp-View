@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T14:40:38",
+  "generated_at": "2026-04-08T14:42:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -290,16 +290,11 @@
       "fahrzeug": "ANNA LEHMANN",
       "route": "HOS → KLT",
       "time": "Wed Apr 08 09:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "14:16",
-        "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "03:24",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "10:52",
-      "eta_schleuse": "14:16",
-      "delta_rueb_schleuse": "03:24",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -329,14 +324,19 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KATTEGAT",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 07:22:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:44",
+        "eta_rueb": "15:00",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "15:00",
+      "eta_schleuse": "18:44",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -612,14 +612,19 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KATTEGAT",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 07:22:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:44",
+        "eta_rueb": "15:00",
+        "delta_rueb_schleuse": "03:44",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "15:00",
+      "eta_schleuse": "18:44",
+      "delta_rueb_schleuse": "03:44",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -645,13 +650,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:00",
-      "eta_rueb": "15:00",
-      "ship": "KATTEGAT",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:55",
       "eta_rueb": "15:50",
