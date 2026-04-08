@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T19:28:37",
+  "generated_at": "2026-04-08T19:30:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 1,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -130,10 +130,10 @@
       "vorname": "Tim",
       "nachname": "Merschmann",
       "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "ALEXANDER B",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Apr 08 14:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:08",
@@ -353,14 +353,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 11:34:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:34",
+        "eta_schleuse": "22:33",
         "eta_rueb": "18:08",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "18:08",
-      "eta_schleuse": "22:34",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "22:33",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:08"
     },
     {
@@ -480,27 +480,6 @@
       "eta_schleuse": "01:40",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:27"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "ALEXANDER B",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 08 14:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:08",
-        "eta_rueb": "15:51",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "04:57"
-      },
-      "eta_rueb": "15:51",
-      "eta_schleuse": "20:08",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "04:57"
     },
     {
       "is_target": false,
@@ -629,14 +608,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 11:34:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:34",
+        "eta_schleuse": "22:33",
         "eta_rueb": "18:08",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "18:08",
-      "eta_schleuse": "22:34",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "22:33",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:08"
     }
   ],
