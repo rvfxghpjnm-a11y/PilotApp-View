@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-08T05:26:37",
+  "generated_at": "2026-04-08T05:28:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 4,
     "wach": 3,
     "see": 5
   },
@@ -132,14 +132,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:50",
+        "eta_schleuse": "12:49",
         "eta_rueb": "07:34",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:15",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "07:34",
-      "eta_schleuse": "12:50",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "12:49",
+      "delta_rueb_schleuse": "05:15",
       "delta_start_rueb": "04:24"
     },
     {
@@ -236,38 +236,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "ECO MISTRAL",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 19:12:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "NIMBUS",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 19:08:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -282,14 +250,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:50",
+        "eta_schleuse": "12:49",
         "eta_rueb": "07:34",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:15",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "07:34",
-      "eta_schleuse": "12:50",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "12:49",
+      "delta_rueb_schleuse": "05:15",
       "delta_start_rueb": "04:24"
     },
     {
@@ -354,38 +322,6 @@
       "eta_schleuse": "09:28",
       "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:32"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "ECO MISTRAL",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 19:12:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Lüttge",
-      "name": "Sebastian Lüttge",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "NIMBUS",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 07 19:08:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
