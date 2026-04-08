@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T14:00:39",
+  "generated_at": "2026-04-08T14:02:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -253,10 +253,10 @@
       "vorname": "Sascha",
       "nachname": "Külzer",
       "name": "Sascha Külzer",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 15,
       "fahrzeug": "ANNA LEHMANN",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Apr 08 09:40:00 CEST 2026",
       "times": {
         "eta_schleuse": "14:15",
@@ -519,27 +519,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sascha",
-      "nachname": "Külzer",
-      "name": "Sascha Külzer",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "ANNA LEHMANN",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 08 09:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "14:15",
-        "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "03:23",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "10:52",
-      "eta_schleuse": "14:15",
-      "delta_rueb_schleuse": "03:23",
-      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
