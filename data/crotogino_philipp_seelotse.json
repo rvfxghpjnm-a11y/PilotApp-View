@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:22:38",
+  "generated_at": "2026-04-08T07:24:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -95,14 +95,14 @@
       "time": "Wed Apr 08 05:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:01",
-        "eta_rueb": "07:27",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:35"
+        "eta_rueb": "07:26",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "07:27",
+      "eta_rueb": "07:26",
       "eta_schleuse": "11:01",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:35"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -223,19 +223,14 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "AEROE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 08 02:07:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:44",
-        "eta_rueb": "07:26",
-        "delta_rueb_schleuse": "05:18",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "07:26",
-      "eta_schleuse": "12:44",
-      "delta_rueb_schleuse": "05:18",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -399,14 +394,14 @@
       "time": "Wed Apr 08 05:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:01",
-        "eta_rueb": "07:27",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:35"
+        "eta_rueb": "07:26",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": "07:27",
+      "eta_rueb": "07:26",
       "eta_schleuse": "11:01",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:35"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -415,19 +410,14 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "AEROE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 08 02:07:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:44",
-        "eta_rueb": "07:26",
-        "delta_rueb_schleuse": "05:18",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "07:26",
-      "eta_schleuse": "12:44",
-      "delta_rueb_schleuse": "05:18",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -491,7 +481,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:41",
+      "eta_rueb_kiel": "10:40",
       "eta_rueb": "10:25",
       "ship": "BBC LIMA",
       "q_gruppe": "3",
