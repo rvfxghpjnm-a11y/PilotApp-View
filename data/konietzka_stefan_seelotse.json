@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T00:28:38",
+  "generated_at": "2026-04-09T00:30:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -165,14 +165,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GT DELPHIN",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 17:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:02",
+        "eta_rueb": "00:51",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "05:31"
+      },
+      "eta_rueb": "00:51",
+      "eta_schleuse": "05:02",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "05:31"
     },
     {
       "is_target": false,
@@ -284,25 +289,23 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GT DELPHIN",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 17:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:02",
+        "eta_rueb": "00:51",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "05:31"
+      },
+      "eta_rueb": "00:51",
+      "eta_schleuse": "05:02",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "05:31"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "00:51",
-      "eta_rueb": "00:45",
-      "ship": "GT DELPHIN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "03:01",
       "eta_rueb": "03:00",
