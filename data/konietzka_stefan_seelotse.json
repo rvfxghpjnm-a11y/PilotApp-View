@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T12:14:37",
+  "generated_at": "2026-04-08T12:16:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,14 +132,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 09:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:24",
+        "eta_schleuse": "14:23",
         "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "10:52",
-      "eta_schleuse": "14:24",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "14:23",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:32"
     },
     {
@@ -149,14 +149,19 @@
       "name": "Nik Suermann",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KIMBERLY",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 09:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:43",
+        "eta_rueb": "12:42",
+        "delta_rueb_schleuse": "04:01",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "12:42",
+      "eta_schleuse": "16:43",
+      "delta_rueb_schleuse": "04:01",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -339,13 +344,13 @@
       "route": "KRH → HOS",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:45",
+        "eta_schleuse": "13:44",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "13:45",
+      "eta_schleuse": "13:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -442,14 +447,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 09:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:24",
+        "eta_schleuse": "14:23",
         "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "10:52",
-      "eta_schleuse": "14:24",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "14:23",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:32"
     },
     {
@@ -459,14 +464,19 @@
       "name": "Nik Suermann",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KIMBERLY",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 08 09:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:43",
+        "eta_rueb": "12:42",
+        "delta_rueb_schleuse": "04:01",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "12:42",
+      "eta_schleuse": "16:43",
+      "delta_rueb_schleuse": "04:01",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -521,13 +531,13 @@
       "route": "KRH → HOS",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:45",
+        "eta_schleuse": "13:44",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "13:45",
+      "eta_schleuse": "13:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -549,7 +559,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:10",
+      "eta_rueb_kiel": "15:09",
       "eta_rueb": "15:00",
       "ship": "KATTEGAT",
       "q_gruppe": "3",
