@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T10:16:38",
+  "generated_at": "2026-04-08T10:18:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,14 +73,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 08 06:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:43",
+        "eta_schleuse": "17:44",
         "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "04:47",
+        "delta_rueb_schleuse": "04:48",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "12:56",
-      "eta_schleuse": "17:43",
-      "delta_rueb_schleuse": "04:47",
+      "eta_schleuse": "17:44",
+      "delta_rueb_schleuse": "04:48",
       "delta_start_rueb": "05:00"
     },
     {
@@ -265,8 +265,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MAIKE",
+      "route": "KRH → HOS",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -372,14 +372,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 08 06:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:43",
+        "eta_schleuse": "17:44",
         "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "04:47",
+        "delta_rueb_schleuse": "04:48",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "12:56",
-      "eta_schleuse": "17:43",
-      "delta_rueb_schleuse": "04:47",
+      "eta_schleuse": "17:44",
+      "delta_rueb_schleuse": "04:48",
       "delta_start_rueb": "05:00"
     },
     {
@@ -410,8 +410,8 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MAIKE",
+      "route": "KRH → HOS",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -439,7 +439,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:50",
+      "eta_rueb_kiel": "10:49",
       "eta_rueb": "10:40",
       "ship": "BBC LIMA",
       "q_gruppe": "3",
@@ -451,13 +451,6 @@
       "ship": "ANNA LEHMANN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "11:00",
-      "ship": "MAIKE",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
     },
     {
       "eta_rueb_kiel": null,
@@ -481,7 +474,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:28",
+      "eta_rueb_kiel": "14:30",
       "eta_rueb": "14:10",
       "ship": "KATTEGAT",
       "q_gruppe": "3",
