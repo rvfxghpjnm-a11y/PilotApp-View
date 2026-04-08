@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T11:02:39",
+  "generated_at": "2026-04-08T11:04:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -184,14 +184,14 @@
       "route": "HOS → KLT",
       "time": "Wed Apr 08 05:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:03",
+        "eta_schleuse": "11:04",
         "eta_rueb": "07:26",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "07:26",
-      "eta_schleuse": "11:03",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "11:04",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:34"
     },
     {
@@ -511,6 +511,13 @@
       "eta_rueb": "14:15",
       "ship": "KATTEGAT",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "16:36",
+      "eta_rueb": "15:45",
+      "ship": "ALEXANDER B",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
