@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-08T13:52:38",
+  "generated_at": "2026-04-08T13:54:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 1,
     "see": 8
   },
@@ -16,8 +16,8 @@
       "name": "Stefan Domeier",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "RUTH",
+      "route": "KLT → HOS",
       "time": "Wed Apr 08 13:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -326,22 +326,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "MAIKE",
-      "route": "KRH → HOS",
-      "time": "Wed Apr 08 02:07:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -518,28 +502,12 @@
       "eta_schleuse": "17:50",
       "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "05:43"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "MAIKE",
-      "route": "KRH → HOS",
-      "time": "Wed Apr 08 02:07:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:03",
+      "eta_rueb_kiel": "15:04",
       "eta_rueb": "15:00",
       "ship": "KATTEGAT",
       "q_gruppe": "3",
