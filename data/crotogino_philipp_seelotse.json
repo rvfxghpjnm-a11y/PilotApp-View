@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T12:22:38",
+  "generated_at": "2026-04-08T12:24:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 3,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -191,19 +191,14 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "MIRVA VG",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 08 07:22:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:57",
-        "eta_rueb": "12:29",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:21"
-      },
-      "eta_rueb": "12:29",
-      "eta_schleuse": "16:57",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -216,14 +211,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 08 06:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:12",
+        "eta_schleuse": "17:11",
         "eta_rueb": "12:44",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "12:44",
-      "eta_schleuse": "17:12",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "17:11",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:48"
     },
     {
@@ -308,27 +303,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Knut Paul",
-      "nachname": "Klüver",
-      "name": "Knut Paul Klüver",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "MED ANTARCTIC",
-      "route": "KLT → HOS",
-      "time": "Wed Apr 08 04:22:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Andreas",
       "nachname": "Arlt",
       "name": "Andreas Arlt",
       "aufgabe": "Wachgänger",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Wed Apr 08 04:00:00 CEST 2026",
@@ -344,7 +323,7 @@
       "nachname": "Escher",
       "name": "Franck Escher",
       "aufgabe": "Wachgänger",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Wed Apr 08 04:00:00 CEST 2026",
@@ -360,7 +339,7 @@
       "nachname": "Steffens",
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "MAIKE",
       "route": "KRH → HOS",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
@@ -506,19 +485,14 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "MIRVA VG",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 08 07:22:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:57",
-        "eta_rueb": "12:29",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:21"
-      },
-      "eta_rueb": "12:29",
-      "eta_schleuse": "16:57",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -531,14 +505,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 08 06:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:12",
+        "eta_schleuse": "17:11",
         "eta_rueb": "12:44",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "12:44",
-      "eta_schleuse": "17:12",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "17:11",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:48"
     },
     {
@@ -547,7 +521,7 @@
       "nachname": "Steffens",
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "MAIKE",
       "route": "KRH → HOS",
       "time": "Wed Apr 08 02:07:00 CEST 2026",
@@ -580,14 +554,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:03",
+      "eta_rueb_kiel": "16:02",
       "eta_rueb": "15:50",
       "ship": "ALEXANDER B",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:45",
+      "eta_rueb_kiel": "16:44",
       "eta_rueb": "16:20",
       "ship": "NEUWERK",
       "q_gruppe": "4",
