@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T22:48:37",
+  "generated_at": "2026-04-08T22:50:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,16 +35,11 @@
       "fahrzeug": "ENVIK",
       "route": "HOS → KLT",
       "time": "Wed Apr 08 22:45:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:45",
-        "eta_rueb": "19:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "19:16",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -179,14 +174,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 13:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:49",
+        "eta_schleuse": "22:50",
         "eta_rueb": "19:22",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "19:22",
-      "eta_schleuse": "22:49",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "22:50",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:20"
     },
     {
@@ -199,16 +194,11 @@
       "fahrzeug": "ENVIK",
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 11:52:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:45",
-        "eta_rueb": "19:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "19:16",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -297,14 +287,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 13:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:49",
+        "eta_schleuse": "22:50",
         "eta_rueb": "19:22",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "19:22",
-      "eta_schleuse": "22:49",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "22:50",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:20"
     },
     {
@@ -317,22 +307,17 @@
       "fahrzeug": "ENVIK",
       "route": "RÜB → HOS",
       "time": "Wed Apr 08 11:52:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:45",
-        "eta_rueb": "19:16",
-        "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "19:16",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:05",
+      "eta_rueb_kiel": "03:02",
       "eta_rueb": "02:10",
       "ship": "SAIMAAGRACHT",
       "q_gruppe": "0",
