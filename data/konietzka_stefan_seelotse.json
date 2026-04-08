@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T05:20:37",
+  "generated_at": "2026-04-08T05:22:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -11,12 +11,12 @@
   "lotsen": [
     {
       "is_target": false,
-      "vorname": "Dolf",
-      "nachname": "Jenckel",
-      "name": "Dolf Jenckel",
+      "vorname": "Alexander",
+      "nachname": "Migge",
+      "name": "Alexander Migge",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
+      "fahrzeug": "ECO MISTRAL",
       "route": "HOS → KLT",
       "time": "Wed Apr 08 05:15:00 CEST 2026",
       "times": null,
@@ -27,12 +27,12 @@
     },
     {
       "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Migge",
-      "name": "Alexander Migge",
+      "vorname": "Dolf",
+      "nachname": "Jenckel",
+      "name": "Dolf Jenckel",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "ECO MISTRAL",
+      "fahrzeug": "Leerfahrt",
       "route": "HOS → KLT",
       "time": "Wed Apr 08 04:32:00 CEST 2026",
       "times": null,
@@ -398,24 +398,24 @@
       "route": "RDP → HOS"
     },
     {
-      "eta_rueb_kiel": "07:25",
-      "eta_rueb": "07:30",
-      "ship": "EVA SCHULTE",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "07:29",
-      "eta_rueb": "07:32",
+      "eta_rueb": "07:05",
       "ship": "CATHY JO",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "07:23",
-      "eta_rueb": "07:34",
+      "eta_rueb": "07:10",
       "ship": "RIX VOYAGER",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "07:25",
+      "eta_rueb": "07:30",
+      "ship": "EVA SCHULTE",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
