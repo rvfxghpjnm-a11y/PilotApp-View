@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T23:46:37",
+  "generated_at": "2026-04-09T23:48:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 1,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -73,15 +73,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 21:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:44",
-        "eta_rueb": "02:16",
+        "eta_schleuse": "06:45",
+        "eta_rueb": "02:17",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:57"
       },
-      "eta_rueb": "02:16",
-      "eta_schleuse": "06:44",
+      "eta_rueb": "02:17",
+      "eta_schleuse": "06:45",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:57"
     },
     {
       "is_target": false,
@@ -94,15 +94,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 20:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:40",
-        "eta_rueb": "02:13",
+        "eta_schleuse": "06:41",
+        "eta_rueb": "02:14",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:55"
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "02:13",
-      "eta_schleuse": "06:40",
+      "eta_rueb": "02:14",
+      "eta_schleuse": "06:41",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:55"
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -148,19 +148,14 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "NOREN",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 09 19:19:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:16",
-        "eta_rueb": "23:49",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:15"
-      },
-      "eta_rueb": "23:49",
-      "eta_schleuse": "04:16",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -228,27 +223,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jan-Torben",
-      "nachname": "Lüdtke",
-      "name": "Jan-Torben Lüdtke",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "CLAUDE A. DESGAGNES",
-      "route": "KLT → HOS",
-      "time": "Thu Apr 09 17:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Olaf",
       "nachname": "Köhler",
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Apr 09 17:00:00 CEST 2026",
@@ -264,7 +243,7 @@
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "HAV GROUPER",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:11:00 CEST 2026",
@@ -285,7 +264,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "THETIS D",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:10:00 CEST 2026",
@@ -306,7 +285,7 @@
       "nachname": "Meise",
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WILSON FEDJE",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 15:05:00 CEST 2026",
@@ -327,7 +306,7 @@
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SAPPHIRE A",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 14:55:00 CEST 2026",
@@ -408,15 +387,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 21:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:44",
-        "eta_rueb": "02:16",
+        "eta_schleuse": "06:45",
+        "eta_rueb": "02:17",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:57"
       },
-      "eta_rueb": "02:16",
-      "eta_schleuse": "06:44",
+      "eta_rueb": "02:17",
+      "eta_schleuse": "06:45",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:57"
     },
     {
       "is_target": false,
@@ -429,15 +408,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 20:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:40",
-        "eta_rueb": "02:13",
+        "eta_schleuse": "06:41",
+        "eta_rueb": "02:14",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:55"
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "02:13",
-      "eta_schleuse": "06:40",
+      "eta_rueb": "02:14",
+      "eta_schleuse": "06:41",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:55"
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -467,19 +446,14 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "NOREN",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 09 19:19:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:16",
-        "eta_rueb": "23:49",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:15"
-      },
-      "eta_rueb": "23:49",
-      "eta_schleuse": "04:16",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -503,7 +477,7 @@
       "nachname": "Köhler",
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Apr 09 17:00:00 CEST 2026",
@@ -519,7 +493,7 @@
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "HAV GROUPER",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:11:00 CEST 2026",
@@ -540,7 +514,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "THETIS D",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:10:00 CEST 2026",
@@ -561,7 +535,7 @@
       "nachname": "Meise",
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WILSON FEDJE",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 15:05:00 CEST 2026",
@@ -582,7 +556,7 @@
       "nachname": "Rohn",
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SAPPHIRE A",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 14:55:00 CEST 2026",
