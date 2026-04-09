@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T00:02:37",
+  "generated_at": "2026-04-10T00:04:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -228,14 +228,14 @@
       "time": "Thu Apr 09 17:00:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:49",
-        "eta_rueb": "00:16",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:16"
+        "eta_rueb": "00:15",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:15"
       },
-      "eta_rueb": "00:16",
+      "eta_rueb": "00:15",
       "eta_schleuse": "03:49",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:16"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -311,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 14:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:57",
+        "eta_schleuse": "00:58",
         "eta_rueb": "21:19",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:09"
       },
       "eta_rueb": "21:19",
-      "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "00:58",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:09"
     }
   ],
@@ -478,14 +478,14 @@
       "time": "Thu Apr 09 17:00:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:49",
-        "eta_rueb": "00:16",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:16"
+        "eta_rueb": "00:15",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:15"
       },
-      "eta_rueb": "00:16",
+      "eta_rueb": "00:15",
       "eta_schleuse": "03:49",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:16"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -561,14 +561,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 14:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:57",
+        "eta_schleuse": "00:58",
         "eta_rueb": "21:19",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:09"
       },
       "eta_rueb": "21:19",
-      "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "00:58",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:09"
     }
   ],
@@ -592,6 +592,13 @@
       "eta_rueb_kiel": "03:39",
       "eta_rueb": "03:25",
       "ship": "FWN SPACE",
+      "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "04:11",
+      "eta_rueb": "03:55",
+      "ship": "COASTALWATER",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
