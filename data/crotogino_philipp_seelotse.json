@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-09T15:12:39",
+  "generated_at": "2026-04-09T15:14:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 5,
     "wach": 1,
     "see": 4
   },
@@ -173,22 +173,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Böttcher",
-      "name": "Peter Böttcher",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "SAN BACCO",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 09 01:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -276,28 +260,12 @@
       "eta_schleuse": "17:03",
       "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:36"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Böttcher",
-      "name": "Peter Böttcher",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "SAN BACCO",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 09 01:21:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:53",
+      "eta_rueb_kiel": "15:52",
       "eta_rueb": "15:50",
       "ship": "BALSARE 1",
       "q_gruppe": "5",
@@ -311,7 +279,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:22",
+      "eta_rueb_kiel": "17:21",
       "eta_rueb": "17:18",
       "ship": "BIANCA RAMBOW",
       "q_gruppe": "2",
@@ -325,7 +293,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:24",
+      "eta_rueb_kiel": "18:23",
       "eta_rueb": "18:10",
       "ship": "SEELAND",
       "q_gruppe": "4",
