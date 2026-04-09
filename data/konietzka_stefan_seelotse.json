@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T22:16:38",
+  "generated_at": "2026-04-09T22:18:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "JAN V",
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 20:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:49",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:49",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -142,14 +147,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 09 18:49:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:21",
+        "eta_schleuse": "22:23",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:21",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "22:23",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:14"
     },
     {
@@ -201,8 +206,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "CLAUDE A. DESGAGNES",
+      "route": "KLT → HOS",
       "time": "Thu Apr 09 17:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -237,14 +242,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:21",
+        "eta_schleuse": "22:23",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:21",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "22:23",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:14"
     },
     {
@@ -286,14 +291,19 @@
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON FEDJE",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 09 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:52",
+        "eta_rueb": "22:43",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:19"
+      },
+      "eta_rueb": "22:43",
+      "eta_schleuse": "02:52",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:19"
     },
     {
       "is_target": false,
@@ -376,9 +386,14 @@
       "fahrzeug": "JAN V",
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 20:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:49",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:49",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -472,14 +487,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:21",
+        "eta_schleuse": "22:23",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:21",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "22:23",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:14"
     },
     {
@@ -521,14 +536,19 @@
       "name": "Gregor Meise",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WILSON FEDJE",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 09 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:52",
+        "eta_rueb": "22:43",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:19"
+      },
+      "eta_rueb": "22:43",
+      "eta_schleuse": "02:52",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:19"
     },
     {
       "is_target": false,
@@ -580,13 +600,6 @@
       "eta_rueb": "01:20",
       "ship": "NORDICA",
       "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "22:43",
-      "eta_rueb": "22:40",
-      "ship": "WILSON FEDJE",
-      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
