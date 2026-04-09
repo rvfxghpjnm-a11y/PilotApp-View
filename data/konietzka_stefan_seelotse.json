@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-09T20:44:37",
+  "generated_at": "2026-04-09T20:46:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 2,
     "see": 3
   },
@@ -110,14 +110,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:54",
+        "eta_schleuse": "04:56",
         "eta_rueb": "23:55",
-        "delta_rueb_schleuse": "04:59",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "23:55",
-      "eta_schleuse": "04:54",
-      "delta_rueb_schleuse": "04:59",
+      "eta_schleuse": "04:56",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "03:37"
     },
     {
@@ -210,14 +210,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 09 16:11:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:44",
+        "eta_schleuse": "02:45",
         "eta_rueb": "21:36",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:09",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "21:36",
-      "eta_schleuse": "02:44",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "02:45",
+      "delta_rueb_schleuse": "05:09",
       "delta_start_rueb": "04:20"
     },
     {
@@ -231,14 +231,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 16:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:47",
+        "eta_schleuse": "02:49",
         "eta_rueb": "21:39",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:10",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "21:39",
-      "eta_schleuse": "02:47",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "02:49",
+      "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "04:23"
     },
     {
@@ -272,16 +272,11 @@
       "fahrzeug": "BIANCA RAMBOW",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 15:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:44",
-        "eta_rueb": "17:18",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "17:18",
-      "eta_schleuse": "20:44",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -325,22 +320,6 @@
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Thu Apr 09 12:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tomas",
-      "nachname": "Witte",
-      "name": "Tomas Witte",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "HOLGER R",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 09 09:01:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -402,14 +381,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:54",
+        "eta_schleuse": "04:56",
         "eta_rueb": "23:55",
-        "delta_rueb_schleuse": "04:59",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "23:55",
-      "eta_schleuse": "04:54",
-      "delta_rueb_schleuse": "04:59",
+      "eta_schleuse": "04:56",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "03:37"
     },
     {
@@ -481,14 +460,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 09 16:11:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:44",
+        "eta_schleuse": "02:45",
         "eta_rueb": "21:36",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:09",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "21:36",
-      "eta_schleuse": "02:44",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "02:45",
+      "delta_rueb_schleuse": "05:09",
       "delta_start_rueb": "04:20"
     },
     {
@@ -502,14 +481,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 16:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:47",
+        "eta_schleuse": "02:49",
         "eta_rueb": "21:39",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:10",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "21:39",
-      "eta_schleuse": "02:47",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "02:49",
+      "delta_rueb_schleuse": "05:10",
       "delta_start_rueb": "04:23"
     },
     {
@@ -543,16 +522,11 @@
       "fahrzeug": "BIANCA RAMBOW",
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 15:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:44",
-        "eta_rueb": "17:18",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:18"
-      },
-      "eta_rueb": "17:18",
-      "eta_schleuse": "20:44",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:18"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -585,22 +559,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tomas",
-      "nachname": "Witte",
-      "name": "Tomas Witte",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "HOLGER R",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 09 09:01:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -627,7 +585,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "01:40",
+      "eta_rueb_kiel": "01:41",
       "eta_rueb": "01:20",
       "ship": "NORDICA",
       "q_gruppe": "1",
@@ -648,7 +606,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:30",
+      "eta_rueb_kiel": "23:32",
       "eta_rueb": "23:20",
       "ship": "THETIS D",
       "q_gruppe": "0",
