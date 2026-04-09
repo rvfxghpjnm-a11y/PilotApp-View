@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T22:18:39",
+  "generated_at": "2026-04-09T22:20:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "EEMS SKY",
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 21:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -53,14 +58,14 @@
       "time": "Thu Apr 09 20:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "06:49",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "02:22",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": null,
+      "eta_rueb": "02:22",
       "eta_schleuse": "06:49",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -147,14 +152,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 09 18:49:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "22:24",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "22:24",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:14"
     },
     {
@@ -242,14 +247,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "22:24",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "22:24",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:14"
     },
     {
@@ -370,9 +375,14 @@
       "fahrzeug": "EEMS SKY",
       "route": "HOR → RÜB",
       "time": "Thu Apr 09 21:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -388,14 +398,14 @@
       "time": "Thu Apr 09 20:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "06:49",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "02:22",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": null,
+      "eta_rueb": "02:22",
       "eta_schleuse": "06:49",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -487,14 +497,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 09 16:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "22:24",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "22:24",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:14"
     },
     {
@@ -582,7 +592,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:25",
+      "eta_rueb_kiel": "00:24",
       "eta_rueb": "00:10",
       "ship": "AMULETH",
       "q_gruppe": "4",
