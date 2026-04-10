@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T02:06:37",
+  "generated_at": "2026-04-10T02:08:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -90,19 +90,14 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "EEMS SKY",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 09 21:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:40",
-        "eta_rueb": "02:12",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:52"
-      },
-      "eta_rueb": "02:12",
-      "eta_schleuse": "06:40",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:52"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -216,14 +211,14 @@
       "route": "RÜB → UTG",
       "time": "Thu Apr 09 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:11",
+        "eta_schleuse": "04:10",
         "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "00:43",
-      "eta_schleuse": "04:11",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "04:10",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:13"
     },
     {
@@ -377,19 +372,14 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "EEMS SKY",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 09 21:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:40",
-        "eta_rueb": "02:12",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:52"
-      },
-      "eta_rueb": "02:12",
-      "eta_schleuse": "06:40",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:52"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -455,14 +445,14 @@
       "route": "RÜB → UTG",
       "time": "Thu Apr 09 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:11",
+        "eta_schleuse": "04:10",
         "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "00:43",
-      "eta_schleuse": "04:11",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "04:10",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:13"
     },
     {
@@ -553,6 +543,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "02:20",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "03:30",
       "eta_rueb": "03:25",
       "ship": "FWN SPACE",
@@ -560,7 +557,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:30",
+      "eta_rueb_kiel": "04:31",
       "eta_rueb": "04:35",
       "ship": "COASTALWATER",
       "q_gruppe": "3",
