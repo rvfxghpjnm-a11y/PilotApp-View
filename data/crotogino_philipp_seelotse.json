@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T10:30:39",
+  "generated_at": "2026-04-10T10:32:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -301,8 +301,8 @@
       "name": "Christian Schie",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Fri Apr 10 07:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -417,8 +417,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Seebört",
       "nr": 22,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Fri Apr 10 06:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -465,8 +465,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 25,
-      "fahrzeug": "ANINA",
-      "route": "HOS → KLT",
+      "fahrzeug": "HEIKE LEHMANN",
+      "route": "KLT → HOS",
       "time": "Fri Apr 10 04:52:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -533,14 +533,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 03:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:16",
+        "eta_schleuse": "13:15",
         "eta_rueb": "09:46",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "09:46",
-      "eta_schleuse": "13:16",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "13:15",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:16"
     },
     {
@@ -925,14 +925,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 03:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:16",
+        "eta_schleuse": "13:15",
         "eta_rueb": "09:46",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "09:46",
-      "eta_schleuse": "13:16",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "13:15",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:16"
     }
   ],
@@ -944,6 +944,13 @@
       "ship": "SANS SOUCI",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
+    },
+    {
+      "eta_rueb_kiel": "14:54",
+      "eta_rueb": "12:45",
+      "ship": "COE GISELA",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
