@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T14:32:38",
+  "generated_at": "2026-04-10T14:34:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -296,14 +296,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FAIRCHEM PINNACLE",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 08:24:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:29",
+        "eta_rueb": "14:56",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "14:56",
+      "eta_schleuse": "18:29",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -594,14 +599,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FAIRCHEM PINNACLE",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 08:24:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:29",
+        "eta_rueb": "14:56",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "14:56",
+      "eta_schleuse": "18:29",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -628,13 +638,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "14:56",
-      "eta_rueb": "14:50",
-      "ship": "FAIRCHEM PINNACLE",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "14:59",
       "eta_rueb": "14:55",
       "ship": "ARKLOW WILLOW",
@@ -642,7 +645,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:03",
+      "eta_rueb_kiel": "15:02",
       "eta_rueb": "14:59",
       "ship": "ELBWATER",
       "q_gruppe": "1",
