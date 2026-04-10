@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:56:37",
+  "generated_at": "2026-04-10T15:58:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -116,14 +116,14 @@
       "time": "Fri Apr 10 11:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:25",
-        "eta_rueb": "16:58",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:10"
+        "eta_rueb": "16:59",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "06:11"
       },
-      "eta_rueb": "16:58",
+      "eta_rueb": "16:59",
       "eta_schleuse": "21:25",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:10"
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "06:11"
     },
     {
       "is_target": false,
@@ -190,8 +190,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SANS SOUCI",
+      "route": "KRH → HOS",
       "time": "Fri Apr 10 10:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -413,14 +413,14 @@
       "time": "Fri Apr 10 11:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:25",
-        "eta_rueb": "16:58",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:10"
+        "eta_rueb": "16:59",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "06:11"
       },
-      "eta_rueb": "16:58",
+      "eta_rueb": "16:59",
       "eta_schleuse": "21:25",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:10"
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "06:11"
     },
     {
       "is_target": false,
@@ -471,8 +471,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SANS SOUCI",
+      "route": "KRH → HOS",
       "time": "Fri Apr 10 10:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -605,13 +605,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "16:30",
-      "ship": "SANS SOUCI",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
-    },
-    {
       "eta_rueb_kiel": "19:02",
       "eta_rueb": "18:40",
       "ship": "VICTORIA",
@@ -626,7 +619,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:11",
+      "eta_rueb_kiel": "19:10",
       "eta_rueb": "18:55",
       "ship": "JOHN T. ESSBERGER",
       "q_gruppe": "4",
