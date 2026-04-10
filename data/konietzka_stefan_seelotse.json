@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T14:42:38",
+  "generated_at": "2026-04-10T14:44:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -331,14 +331,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 08:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:29",
+        "eta_schleuse": "18:28",
         "eta_rueb": "14:55",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "14:55",
-      "eta_schleuse": "18:29",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "18:28",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:17"
     },
     {
@@ -644,14 +644,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 08:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:29",
+        "eta_schleuse": "18:28",
         "eta_rueb": "14:55",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "14:55",
-      "eta_schleuse": "18:29",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "18:28",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:17"
     },
     {
@@ -698,6 +698,27 @@
       "ship": "SANS SOUCI",
       "q_gruppe": "5",
       "route": "KRH → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:06",
+      "eta_rueb": "18:40",
+      "ship": "VICTORIA",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:09",
+      "eta_rueb": "18:43",
+      "ship": "MARJATTA",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "18:45",
+      "ship": "JOHN T. ESSBERGER",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
     }
   ]
 }
