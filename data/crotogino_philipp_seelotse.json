@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:38:38",
+  "generated_at": "2026-04-10T15:40:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -201,14 +201,19 @@
       "name": "Gunnar Thomsen",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX PACIFIC",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 09:29:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:05",
+        "eta_rueb": "16:08",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "16:08",
+      "eta_schleuse": "20:05",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -504,14 +509,19 @@
       "name": "Gunnar Thomsen",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX PACIFIC",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 09:29:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:05",
+        "eta_rueb": "16:08",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "16:08",
+      "eta_schleuse": "20:05",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -616,13 +626,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "16:08",
-      "eta_rueb": "16:00",
-      "ship": "RIX PACIFIC",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "16:30",
