@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T11:28:40",
+  "generated_at": "2026-04-10T11:30:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 21,
+    "kanal": 20,
     "wach": 2,
-    "see": 9
+    "see": 10
   },
   "times": null,
   "lotsen": [
@@ -253,14 +253,14 @@
       "time": "Fri Apr 10 07:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:22",
-        "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "12:54",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "12:56",
+      "eta_rueb": "12:54",
       "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -380,27 +380,6 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "FL STOROE",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 10 07:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:07",
-        "eta_rueb": "08:27",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "04:03"
-      },
-      "eta_rueb": "08:27",
-      "eta_schleuse": "12:07",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "04:03"
-    },
-    {
-      "is_target": false,
-      "vorname": "Mykola",
-      "nachname": "Zozulya",
-      "name": "Mykola Zozulya",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
       "fahrzeug": "GT VELA",
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 07:00:00 CEST 2026",
@@ -414,6 +393,27 @@
       "eta_schleuse": "11:59",
       "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:16"
+    },
+    {
+      "is_target": false,
+      "vorname": "Mykola",
+      "nachname": "Zozulya",
+      "name": "Mykola Zozulya",
+      "aufgabe": "Seebört",
+      "nr": 21,
+      "fahrzeug": "FL STOROE",
+      "route": "HOS → KLT",
+      "time": "Fri Apr 10 07:00:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "12:07",
+        "eta_rueb": "08:27",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "04:03"
+      },
+      "eta_rueb": "08:27",
+      "eta_schleuse": "12:07",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -463,14 +463,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:12",
+        "eta_schleuse": "12:10",
         "eta_rueb": "07:42",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "05:30"
       },
       "eta_rueb": "07:42",
-      "eta_schleuse": "12:12",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "12:10",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "05:30"
     },
     {
@@ -836,14 +836,14 @@
       "time": "Fri Apr 10 07:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:22",
-        "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "12:54",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "12:56",
+      "eta_rueb": "12:54",
       "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -915,27 +915,6 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "FL STOROE",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 10 07:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:07",
-        "eta_rueb": "08:27",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "04:03"
-      },
-      "eta_rueb": "08:27",
-      "eta_schleuse": "12:07",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "04:03"
-    },
-    {
-      "is_target": false,
-      "vorname": "Mykola",
-      "nachname": "Zozulya",
-      "name": "Mykola Zozulya",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
       "fahrzeug": "GT VELA",
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 07:00:00 CEST 2026",
@@ -998,14 +977,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 06:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:12",
+        "eta_schleuse": "12:10",
         "eta_rueb": "07:42",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "05:30"
       },
       "eta_rueb": "07:42",
-      "eta_schleuse": "12:12",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "12:10",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "05:30"
     },
     {
@@ -1054,7 +1033,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:20",
+      "eta_rueb_kiel": "15:18",
       "eta_rueb": "14:59",
       "ship": "ELBWATER",
       "q_gruppe": "1",
