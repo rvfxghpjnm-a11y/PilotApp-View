@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-11T12:02:37",
+  "generated_at": "2026-04-11T12:04:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 20,
+    "kanal": 19,
     "wach": 3,
     "see": 7
   },
@@ -68,14 +68,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 09:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:48",
+        "eta_schleuse": "18:38",
         "eta_rueb": "14:27",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "03:39"
       },
       "eta_rueb": "14:27",
-      "eta_schleuse": "18:48",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "18:38",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "03:39"
     },
     {
@@ -89,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 09:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:07",
+        "eta_schleuse": "19:01",
         "eta_rueb": "14:34",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "14:34",
-      "eta_schleuse": "19:07",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "19:01",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:48"
     },
     {
@@ -348,19 +348,14 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "LUNA-B",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 11 06:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:33",
-        "eta_rueb": "12:06",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "12:06",
-      "eta_schleuse": "16:33",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -369,19 +364,14 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "ECHO ELISA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 11 06:43:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:30",
-        "eta_rueb": "12:03",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:07"
-      },
-      "eta_rueb": "12:03",
-      "eta_schleuse": "16:30",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -395,14 +385,14 @@
       "time": "Sat Apr 11 06:36:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:17",
-        "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:59",
-        "delta_start_rueb": "04:50"
+        "eta_rueb": "12:20",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:52"
       },
-      "eta_rueb": "12:18",
+      "eta_rueb": "12:20",
       "eta_schleuse": "17:17",
-      "delta_rueb_schleuse": "04:59",
-      "delta_start_rueb": "04:50"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -416,14 +406,14 @@
       "time": "Sat Apr 11 06:33:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:21",
-        "eta_rueb": "12:21",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "04:25"
+        "eta_rueb": "12:23",
+        "delta_rueb_schleuse": "04:58",
+        "delta_start_rueb": "04:27"
       },
-      "eta_rueb": "12:21",
+      "eta_rueb": "12:23",
       "eta_schleuse": "17:21",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "04:25"
+      "delta_rueb_schleuse": "04:58",
+      "delta_start_rueb": "04:27"
     },
     {
       "is_target": false,
@@ -567,22 +557,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 30,
-      "fahrzeug": "BALTIC COASTER",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 11 02:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -597,14 +571,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 09:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:48",
+        "eta_schleuse": "18:38",
         "eta_rueb": "14:27",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "03:39"
       },
       "eta_rueb": "14:27",
-      "eta_schleuse": "18:48",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "18:38",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "03:39"
     },
     {
@@ -618,14 +592,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 09:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:07",
+        "eta_schleuse": "19:01",
         "eta_rueb": "14:34",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "14:34",
-      "eta_schleuse": "19:07",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "19:01",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:48"
     },
     {
@@ -845,19 +819,14 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "LUNA-B",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 11 06:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:33",
-        "eta_rueb": "12:06",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "12:06",
-      "eta_schleuse": "16:33",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -866,19 +835,14 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "ECHO ELISA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 11 06:43:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:30",
-        "eta_rueb": "12:03",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:07"
-      },
-      "eta_rueb": "12:03",
-      "eta_schleuse": "16:30",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -892,14 +856,14 @@
       "time": "Sat Apr 11 06:36:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:17",
-        "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:59",
-        "delta_start_rueb": "04:50"
+        "eta_rueb": "12:20",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:52"
       },
-      "eta_rueb": "12:18",
+      "eta_rueb": "12:20",
       "eta_schleuse": "17:17",
-      "delta_rueb_schleuse": "04:59",
-      "delta_start_rueb": "04:50"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:52"
     },
     {
       "is_target": false,
@@ -913,14 +877,14 @@
       "time": "Sat Apr 11 06:33:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:21",
-        "eta_rueb": "12:21",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "04:25"
+        "eta_rueb": "12:23",
+        "delta_rueb_schleuse": "04:58",
+        "delta_start_rueb": "04:27"
       },
-      "eta_rueb": "12:21",
+      "eta_rueb": "12:23",
       "eta_schleuse": "17:21",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "04:25"
+      "delta_rueb_schleuse": "04:58",
+      "delta_start_rueb": "04:27"
     },
     {
       "is_target": false,
@@ -974,22 +938,6 @@
       "fahrzeug": "GRIFTBOR",
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 02:26:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 30,
-      "fahrzeug": "BALTIC COASTER",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 11 02:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
