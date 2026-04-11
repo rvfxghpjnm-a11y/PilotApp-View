@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T02:20:36",
+  "generated_at": "2026-04-11T02:22:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,14 +137,14 @@
       "time": "Fri Apr 10 22:47:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:20",
-        "eta_rueb": "03:47",
-        "delta_rueb_schleuse": "04:33",
-        "delta_start_rueb": "03:41"
+        "eta_rueb": "03:46",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "03:47",
+      "eta_rueb": "03:46",
       "eta_schleuse": "08:20",
-      "delta_rueb_schleuse": "04:33",
-      "delta_start_rueb": "03:41"
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -158,14 +158,14 @@
       "time": "Fri Apr 10 22:02:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:17",
-        "eta_rueb": "03:17",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "04:19"
+        "eta_rueb": "03:20",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "03:17",
+      "eta_rueb": "03:20",
       "eta_schleuse": "08:17",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "04:19"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -348,14 +348,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 16:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:45",
+        "eta_schleuse": "03:44",
         "eta_rueb": "23:50",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "23:50",
-      "eta_schleuse": "03:45",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "03:44",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:12"
     },
     {
@@ -520,14 +520,14 @@
       "time": "Fri Apr 10 22:47:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:20",
-        "eta_rueb": "03:47",
-        "delta_rueb_schleuse": "04:33",
-        "delta_start_rueb": "03:41"
+        "eta_rueb": "03:46",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "03:47",
+      "eta_rueb": "03:46",
       "eta_schleuse": "08:20",
-      "delta_rueb_schleuse": "04:33",
-      "delta_start_rueb": "03:41"
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -541,14 +541,14 @@
       "time": "Fri Apr 10 22:02:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:17",
-        "eta_rueb": "03:17",
-        "delta_rueb_schleuse": "05:00",
-        "delta_start_rueb": "04:19"
+        "eta_rueb": "03:20",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "03:17",
+      "eta_rueb": "03:20",
       "eta_schleuse": "08:17",
-      "delta_rueb_schleuse": "05:00",
-      "delta_start_rueb": "04:19"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -667,14 +667,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 16:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:45",
+        "eta_schleuse": "03:44",
         "eta_rueb": "23:50",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "23:50",
-      "eta_schleuse": "03:45",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "03:44",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:12"
     },
     {
@@ -729,6 +729,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "02:40",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "04:46",
       "eta_rueb": "03:35",
       "ship": "TERSCHELLING",
@@ -743,18 +750,18 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:47",
-      "eta_rueb": "04:00",
-      "ship": "FAST ANNA SOFIA",
-      "q_gruppe": "5",
-      "route": "RÜB → KRH"
-    },
-    {
       "eta_rueb_kiel": null,
       "eta_rueb": "04:50",
       "ship": "CONTAINERSHIPS 8",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:47",
+      "eta_rueb": "04:55",
+      "ship": "FAST ANNA SOFIA",
+      "q_gruppe": "5",
+      "route": "RÜB → KRH"
     },
     {
       "eta_rueb_kiel": "07:19",
