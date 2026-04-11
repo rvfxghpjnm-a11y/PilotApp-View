@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T15:04:37",
+  "generated_at": "2026-04-11T15:06:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -141,9 +141,14 @@
       "fahrzeug": "BALTIC ECLIPSE",
       "route": "HOR → RÜB",
       "time": "Sat Apr 11 13:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "23:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "23:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -327,14 +332,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 09:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:08",
+        "eta_schleuse": "15:10",
         "eta_rueb": "11:33",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:09"
       },
       "eta_rueb": "11:33",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "15:10",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:09"
     },
     {
@@ -588,9 +593,14 @@
       "fahrzeug": "BALTIC ECLIPSE",
       "route": "HOR → RÜB",
       "time": "Sat Apr 11 13:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "23:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "23:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -726,14 +736,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 09:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:08",
+        "eta_schleuse": "15:10",
         "eta_rueb": "11:33",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "05:09"
       },
       "eta_rueb": "11:33",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "15:10",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "05:09"
     },
     {
@@ -787,6 +797,13 @@
       "ship": "BBC PLATA",
       "q_gruppe": "2",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "19:45",
+      "ship": "ELBRUNNER",
+      "q_gruppe": "2",
+      "route": "RÜB → HOS"
     }
   ]
 }
