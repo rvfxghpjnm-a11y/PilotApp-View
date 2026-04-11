@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T19:48:38",
+  "generated_at": "2026-04-11T19:50:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -252,14 +252,14 @@
       "route": "HOS → KLT",
       "time": "Sat Apr 11 14:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:49",
+        "eta_schleuse": "19:50",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "04:02",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:49",
-      "delta_rueb_schleuse": "04:02",
+      "eta_schleuse": "19:50",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "04:31"
     },
     {
@@ -295,14 +295,14 @@
       "time": "Sat Apr 11 13:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:06",
-        "eta_rueb": "19:49",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "04:39"
+        "eta_rueb": "19:50",
+        "delta_rueb_schleuse": "04:16",
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "19:49",
+      "eta_rueb": "19:50",
       "eta_schleuse": "00:06",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "04:39"
+      "delta_rueb_schleuse": "04:16",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -597,14 +597,14 @@
       "time": "Sat Apr 11 13:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:06",
-        "eta_rueb": "19:49",
-        "delta_rueb_schleuse": "04:17",
-        "delta_start_rueb": "04:39"
+        "eta_rueb": "19:50",
+        "delta_rueb_schleuse": "04:16",
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "19:49",
+      "eta_rueb": "19:50",
       "eta_schleuse": "00:06",
-      "delta_rueb_schleuse": "04:17",
-      "delta_start_rueb": "04:39"
+      "delta_rueb_schleuse": "04:16",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -682,7 +682,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:18",
+      "eta_rueb_kiel": "00:19",
       "eta_rueb": "23:35",
       "ship": "LADY HESTIA",
       "q_gruppe": "5",
@@ -693,6 +693,13 @@
       "eta_rueb": "23:40",
       "ship": "ZETAGAS",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "23:43",
+      "ship": "RIX AMETHYST",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
