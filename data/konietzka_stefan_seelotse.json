@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T09:06:38",
+  "generated_at": "2026-04-11T09:08:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -56,9 +56,14 @@
       "fahrzeug": "MARIETJE HESTER",
       "route": "HOR → RÜB",
       "time": "Sat Apr 11 08:02:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:21",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:21",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -240,16 +245,11 @@
       "fahrzeug": "TERSCHELLING",
       "route": "HOS → KLT",
       "time": "Sat Apr 11 04:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:05",
-        "eta_rueb": "04:46",
-        "delta_rueb_schleuse": "04:19",
-        "delta_start_rueb": "05:10"
-      },
-      "eta_rueb": "04:46",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "04:19",
-      "delta_start_rueb": "05:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -448,14 +448,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 00:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:07",
+        "eta_schleuse": "10:08",
         "eta_rueb": "06:27",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "06:27",
-      "eta_schleuse": "10:07",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:08",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:03"
     },
     {
@@ -469,14 +469,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 00:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:11",
+        "eta_schleuse": "10:12",
         "eta_rueb": "06:31",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "06:31",
-      "eta_schleuse": "10:11",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:12",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:03"
     },
     {
@@ -547,16 +547,11 @@
       "fahrzeug": "TERSCHELLING",
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 20:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:05",
-        "eta_rueb": "04:46",
-        "delta_rueb_schleuse": "04:19",
-        "delta_start_rueb": "05:10"
-      },
-      "eta_rueb": "04:46",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "04:19",
-      "delta_start_rueb": "05:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -570,9 +565,14 @@
       "fahrzeug": "MARIETJE HESTER",
       "route": "HOR → RÜB",
       "time": "Sat Apr 11 08:02:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:21",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:21",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -845,14 +845,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 00:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:07",
+        "eta_schleuse": "10:08",
         "eta_rueb": "06:27",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "06:27",
-      "eta_schleuse": "10:07",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:08",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:03"
     },
     {
@@ -866,14 +866,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 00:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:11",
+        "eta_schleuse": "10:12",
         "eta_rueb": "06:31",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "06:31",
-      "eta_schleuse": "10:11",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:12",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:03"
     },
     {
@@ -944,16 +944,11 @@
       "fahrzeug": "TERSCHELLING",
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 20:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:05",
-        "eta_rueb": "04:46",
-        "delta_rueb_schleuse": "04:19",
-        "delta_start_rueb": "05:10"
-      },
-      "eta_rueb": "04:46",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "04:19",
-      "delta_start_rueb": "05:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
