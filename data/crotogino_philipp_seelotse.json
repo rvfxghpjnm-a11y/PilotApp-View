@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T04:16:37",
+  "generated_at": "2026-04-11T04:18:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 2,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -242,14 +242,14 @@
       "route": "HOS → KLT",
       "time": "Fri Apr 10 23:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:54",
+        "eta_schleuse": "04:53",
         "eta_rueb": "01:19",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:41"
       },
       "eta_rueb": "01:19",
-      "eta_schleuse": "04:54",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "04:53",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:41"
     },
     {
@@ -334,27 +334,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Rainer",
-      "nachname": "Heeren",
-      "name": "Rainer Heeren",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Fri Apr 10 19:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Martin",
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "TALINA B",
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 18:54:00 CEST 2026",
@@ -368,27 +352,6 @@
       "eta_schleuse": "04:45",
       "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sven",
-      "nachname": "Janson",
-      "name": "Sven Janson",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "RIX STREAM",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 10 16:39:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:00",
-        "eta_rueb": "23:50",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "23:50",
-      "eta_schleuse": "04:00",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "04:12"
     }
   ],
   "kanallotsen": [
@@ -636,7 +599,7 @@
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "TALINA B",
       "route": "RÜB → HOS",
       "time": "Fri Apr 10 18:54:00 CEST 2026",
@@ -650,40 +613,19 @@
       "eta_schleuse": "04:45",
       "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sven",
-      "nachname": "Janson",
-      "name": "Sven Janson",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "RIX STREAM",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 10 16:39:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:00",
-        "eta_rueb": "23:50",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "23:50",
-      "eta_schleuse": "04:00",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "04:12"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:45",
+      "eta_rueb_kiel": "04:47",
       "eta_rueb": "04:20",
       "ship": "TERSCHELLING",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:49",
+      "eta_rueb_kiel": "04:50",
       "eta_rueb": "04:25",
       "ship": "JUDITH",
       "q_gruppe": "1",
@@ -704,7 +646,7 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "05:21",
+      "eta_rueb_kiel": null,
       "eta_rueb": "04:55",
       "ship": "OSK RENDSBURG",
       "q_gruppe": "5",
