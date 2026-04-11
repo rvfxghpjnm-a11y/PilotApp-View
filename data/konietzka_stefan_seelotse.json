@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T03:10:38",
+  "generated_at": "2026-04-11T03:12:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,14 +69,14 @@
       "time": "Sat Apr 11 02:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "12:36",
-        "eta_rueb": "06:57",
-        "delta_rueb_schleuse": "05:39",
-        "delta_start_rueb": "05:51"
+        "eta_rueb": "06:54",
+        "delta_rueb_schleuse": "05:42",
+        "delta_start_rueb": "05:48"
       },
-      "eta_rueb": "06:57",
+      "eta_rueb": "06:54",
       "eta_schleuse": "12:36",
-      "delta_rueb_schleuse": "05:39",
-      "delta_start_rueb": "05:51"
+      "delta_rueb_schleuse": "05:42",
+      "delta_start_rueb": "05:48"
     },
     {
       "is_target": false,
@@ -105,14 +105,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 00:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:35",
+        "eta_schleuse": "10:34",
         "eta_rueb": "05:27",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:07",
         "delta_start_rueb": "03:43"
       },
       "eta_rueb": "05:27",
-      "eta_schleuse": "10:35",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "10:34",
+      "delta_rueb_schleuse": "05:07",
       "delta_start_rueb": "03:43"
     },
     {
@@ -275,8 +275,8 @@
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 19:27:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -397,8 +397,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 12:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -452,14 +452,14 @@
       "time": "Sat Apr 11 02:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "12:36",
-        "eta_rueb": "06:57",
-        "delta_rueb_schleuse": "05:39",
-        "delta_start_rueb": "05:51"
+        "eta_rueb": "06:54",
+        "delta_rueb_schleuse": "05:42",
+        "delta_start_rueb": "05:48"
       },
-      "eta_rueb": "06:57",
+      "eta_rueb": "06:54",
       "eta_schleuse": "12:36",
-      "delta_rueb_schleuse": "05:39",
-      "delta_start_rueb": "05:51"
+      "delta_rueb_schleuse": "05:42",
+      "delta_start_rueb": "05:48"
     },
     {
       "is_target": false,
@@ -472,14 +472,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 00:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:35",
+        "eta_schleuse": "10:34",
         "eta_rueb": "05:27",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:07",
         "delta_start_rueb": "03:43"
       },
       "eta_rueb": "05:27",
-      "eta_schleuse": "10:35",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "10:34",
+      "delta_rueb_schleuse": "05:07",
       "delta_start_rueb": "03:43"
     },
     {
@@ -642,8 +642,8 @@
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 19:27:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -700,8 +700,8 @@
       "name": "Franck Escher",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 10 12:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -713,22 +713,15 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "02:40",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "04:45",
-      "eta_rueb": "03:35",
+      "eta_rueb": "04:20",
       "ship": "TERSCHELLING",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "04:49",
-      "eta_rueb": "03:50",
+      "eta_rueb": "04:25",
       "ship": "JUDITH",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
@@ -762,7 +755,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:17",
+      "eta_rueb_kiel": "07:16",
       "eta_rueb": "07:15",
       "ship": "HENDRIKA MARGARETHA",
       "q_gruppe": "5",
