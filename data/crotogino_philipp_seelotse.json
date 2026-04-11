@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T05:34:37",
+  "generated_at": "2026-04-11T05:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 11 04:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -32,8 +32,8 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 11 04:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 11 04:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -640,17 +640,17 @@
       "route": "RÜB → HOS"
     },
     {
+      "eta_rueb_kiel": "06:35",
+      "eta_rueb": "06:33",
+      "ship": "HENDRIKA MARGARETHA",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "07:26",
       "eta_rueb": "06:35",
       "ship": "HEINRICH EHLER",
       "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "06:35",
-      "eta_rueb": "07:15",
-      "ship": "HENDRIKA MARGARETHA",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
