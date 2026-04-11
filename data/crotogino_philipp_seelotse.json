@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T15:06:37",
+  "generated_at": "2026-04-11T15:08:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -142,15 +142,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 11 13:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:14",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "23:11",
+        "eta_rueb": "19:00",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "19:00",
+      "eta_schleuse": "23:11",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -249,14 +249,19 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MANGEN",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 11 09:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:50",
+        "eta_rueb": "15:36",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "15:36",
+      "eta_schleuse": "19:50",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -326,10 +331,10 @@
       "vorname": "Olaf",
       "nachname": "Tontarra",
       "name": "Olaf Tontarra",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 18,
       "fahrzeug": "BALTIC WAVE",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Apr 11 09:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:10",
@@ -353,14 +358,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 09:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:12",
+        "eta_schleuse": "15:15",
         "eta_rueb": "11:29",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "11:29",
-      "eta_schleuse": "15:12",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "15:15",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "05:07"
     },
     {
@@ -418,8 +423,8 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Seebört",
       "nr": 23,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BALTIC SEA",
+      "route": "KLT → HOS",
       "time": "Sat Apr 11 07:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -594,15 +599,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 11 13:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:14",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "23:11",
+        "eta_rueb": "19:00",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "19:00",
+      "eta_schleuse": "23:11",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -653,14 +658,19 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MANGEN",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 11 09:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:50",
+        "eta_rueb": "15:36",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "15:36",
+      "eta_schleuse": "19:50",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -727,27 +737,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Tontarra",
-      "name": "Olaf Tontarra",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "BALTIC WAVE",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 11 09:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:10",
-        "eta_rueb": "11:33",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "05:09"
-      },
-      "eta_rueb": "11:33",
-      "eta_schleuse": "15:10",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "05:09"
-    },
-    {
-      "is_target": false,
       "vorname": "Sebastian",
       "nachname": "Lüttge",
       "name": "Sebastian Lüttge",
@@ -757,26 +746,19 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 09:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:12",
+        "eta_schleuse": "15:15",
         "eta_rueb": "11:29",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "11:29",
-      "eta_schleuse": "15:12",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "15:15",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "05:07"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:36",
-      "eta_rueb": "15:35",
-      "ship": "MANGEN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:50",
       "eta_rueb": "15:40",
