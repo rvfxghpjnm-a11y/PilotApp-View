@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T21:56:36",
+  "generated_at": "2026-04-11T21:58:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -104,9 +104,14 @@
       "fahrzeug": "ECO PAMPERO",
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 17:00:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -249,8 +254,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 11 14:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -265,8 +270,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 11 14:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -439,9 +444,14 @@
       "fahrzeug": "ECO PAMPERO",
       "route": "HOS → RÜB",
       "time": "Sat Apr 11 17:00:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
