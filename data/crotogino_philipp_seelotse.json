@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T20:08:38",
+  "generated_at": "2026-04-12T20:10:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,16 +35,11 @@
       "fahrzeug": "BOSFOR",
       "route": "HOS → KLT",
       "time": "Sun Apr 12 19:46:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:07",
-        "eta_rueb": "16:17",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "16:17",
-      "eta_schleuse": "20:07",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -212,8 +207,8 @@
       "name": "Christian Wille",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "SCA OSTRAND",
-      "route": "OUH → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 12 14:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -285,14 +280,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 12:54:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:47",
+        "eta_schleuse": "22:46",
         "eta_rueb": "19:06",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "19:06",
-      "eta_schleuse": "22:47",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "22:46",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:34"
     },
     {
@@ -384,16 +379,11 @@
       "fahrzeug": "BOSFOR",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:07",
-        "eta_rueb": "16:17",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "16:17",
-      "eta_schleuse": "20:07",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -556,14 +546,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 12:54:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:47",
+        "eta_schleuse": "22:46",
         "eta_rueb": "19:06",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "19:06",
-      "eta_schleuse": "22:47",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "22:46",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:34"
     },
     {
@@ -639,16 +629,11 @@
       "fahrzeug": "BOSFOR",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:07",
-        "eta_rueb": "16:17",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "16:17",
-      "eta_schleuse": "20:07",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
