@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T16:30:38",
+  "generated_at": "2026-04-12T16:32:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 15,
     "wach": 1,
-    "see": 7
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -33,7 +33,7 @@
       "aufgabe": "Seebört",
       "nr": 2,
       "fahrzeug": "NILS DEYMANN",
-      "route": "OSK → HOS",
+      "route": "HOS → UTG",
       "time": "Sun Apr 12 14:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -220,10 +220,10 @@
       "vorname": "Volker",
       "nachname": "Kahler",
       "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 12,
       "fahrzeug": "ESTEMAR",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:38",
@@ -241,10 +241,10 @@
       "vorname": "Alexander",
       "nachname": "Stoislow",
       "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 13,
       "fahrzeug": "APATYTH",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:34",
@@ -268,14 +268,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:30",
+        "eta_schleuse": "16:32",
         "eta_rueb": "12:25",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "12:25",
-      "eta_schleuse": "16:30",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "16:32",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:57"
     },
     {
@@ -321,14 +321,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:54",
+        "eta_schleuse": "19:55",
         "eta_rueb": "16:17",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "16:17",
-      "eta_schleuse": "19:54",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "19:55",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:19"
     },
     {
@@ -604,48 +604,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "name": "Volker Kahler",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "ESTEMAR",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 11:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:38",
-        "eta_rueb": "12:32",
-        "delta_rueb_schleuse": "04:06",
-        "delta_start_rueb": "04:34"
-      },
-      "eta_rueb": "12:32",
-      "eta_schleuse": "16:38",
-      "delta_rueb_schleuse": "04:06",
-      "delta_start_rueb": "04:34"
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "APATYTH",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 11:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:34",
-        "eta_rueb": "12:29",
-        "delta_rueb_schleuse": "04:05",
-        "delta_start_rueb": "05:01"
-      },
-      "eta_rueb": "12:29",
-      "eta_schleuse": "16:34",
-      "delta_rueb_schleuse": "04:05",
-      "delta_start_rueb": "05:01"
-    },
-    {
-      "is_target": false,
       "vorname": "Knut Paul",
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
@@ -655,14 +613,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:30",
+        "eta_schleuse": "16:32",
         "eta_rueb": "12:25",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "12:25",
-      "eta_schleuse": "16:30",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "16:32",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:57"
     },
     {
@@ -692,14 +650,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:54",
+        "eta_schleuse": "19:55",
         "eta_rueb": "16:17",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "16:17",
-      "eta_schleuse": "19:54",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "19:55",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:19"
     },
     {
