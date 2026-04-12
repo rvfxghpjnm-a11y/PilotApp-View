@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T09:10:38",
+  "generated_at": "2026-04-12T09:12:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,15 +20,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 12 08:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:06",
-        "eta_rueb": "12:39",
+        "eta_schleuse": "17:08",
+        "eta_rueb": "12:41",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:53"
+        "delta_start_rueb": "04:55"
       },
-      "eta_rueb": "12:39",
-      "eta_schleuse": "17:06",
+      "eta_rueb": "12:41",
+      "eta_schleuse": "17:08",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:53"
+      "delta_start_rueb": "04:55"
     },
     {
       "is_target": false,
@@ -356,15 +356,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 12 08:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:06",
-        "eta_rueb": "12:39",
+        "eta_schleuse": "17:08",
+        "eta_rueb": "12:41",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:53"
+        "delta_start_rueb": "04:55"
       },
-      "eta_rueb": "12:39",
-      "eta_schleuse": "17:06",
+      "eta_rueb": "12:41",
+      "eta_schleuse": "17:08",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:53"
+      "delta_start_rueb": "04:55"
     },
     {
       "is_target": false,
@@ -567,7 +567,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:36",
+      "eta_rueb_kiel": "12:35",
       "eta_rueb": "12:25",
       "ship": "IDA RAMBOW",
       "q_gruppe": "2",
@@ -600,6 +600,13 @@
       "ship": "SEAZIP 10",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:00",
+      "ship": "SANS SOUCI",
+      "q_gruppe": "5",
+      "route": "KRH → RÜB"
     }
   ]
 }
