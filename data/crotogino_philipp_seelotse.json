@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T14:42:37",
+  "generated_at": "2026-04-12T14:44:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 20,
+    "kanal": 19,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -273,15 +273,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 12 10:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:43",
-        "eta_rueb": "15:16",
+        "eta_schleuse": "19:42",
+        "eta_rueb": "15:15",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:36"
+        "delta_start_rueb": "05:35"
       },
-      "eta_rueb": "15:16",
-      "eta_schleuse": "19:43",
+      "eta_rueb": "15:15",
+      "eta_schleuse": "19:42",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:36"
+      "delta_start_rueb": "05:35"
     },
     {
       "is_target": false,
@@ -294,14 +294,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:47",
+        "eta_schleuse": "19:45",
         "eta_rueb": "15:19",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:49"
       },
       "eta_rueb": "15:19",
-      "eta_schleuse": "19:47",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "19:45",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:49"
     },
     {
@@ -327,32 +327,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Oleif Johann",
-      "nachname": "Böttger",
-      "name": "Oleif Johann Böttger",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "HIPPO",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 09:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "14:49",
-        "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "03:57",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "10:52",
-      "eta_schleuse": "14:49",
-      "delta_rueb_schleuse": "03:57",
-      "delta_start_rueb": "04:12"
-    },
-    {
-      "is_target": false,
       "vorname": "Jan",
       "nachname": "Hilpert",
       "name": "Jan Hilpert",
       "aufgabe": "Seebört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "RSP-SP-146 +L 4508",
       "route": "HOS → SBK",
       "time": "Sun Apr 12 09:35:00 CEST 2026",
@@ -361,6 +340,27 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
+      "vorname": "Oleif Johann",
+      "nachname": "Böttger",
+      "name": "Oleif Johann Böttger",
+      "aufgabe": "Seebört",
+      "nr": 18,
+      "fahrzeug": "MIRVA VG",
+      "route": "HOS → KLT",
+      "time": "Sun Apr 12 09:35:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "14:42",
+        "eta_rueb": "10:11",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "10:11",
+      "eta_schleuse": "14:42",
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -463,14 +463,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:59:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:20",
+        "eta_schleuse": "16:18",
         "eta_rueb": "11:54",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "11:54",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "16:18",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     },
     {
@@ -728,15 +728,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 12 10:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:43",
-        "eta_rueb": "15:16",
+        "eta_schleuse": "19:42",
+        "eta_rueb": "15:15",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:36"
+        "delta_start_rueb": "05:35"
       },
-      "eta_rueb": "15:16",
-      "eta_schleuse": "19:43",
+      "eta_rueb": "15:15",
+      "eta_schleuse": "19:42",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:36"
+      "delta_start_rueb": "05:35"
     },
     {
       "is_target": false,
@@ -749,14 +749,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:47",
+        "eta_schleuse": "19:45",
         "eta_rueb": "15:19",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:49"
       },
       "eta_rueb": "15:19",
-      "eta_schleuse": "19:47",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "19:45",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:49"
     },
     {
@@ -779,27 +779,6 @@
       "eta_schleuse": "20:01",
       "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:48"
-    },
-    {
-      "is_target": false,
-      "vorname": "Oleif Johann",
-      "nachname": "Böttger",
-      "name": "Oleif Johann Böttger",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "HIPPO",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 09:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "14:49",
-        "eta_rueb": "10:52",
-        "delta_rueb_schleuse": "03:57",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "10:52",
-      "eta_schleuse": "14:49",
-      "delta_rueb_schleuse": "03:57",
-      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -886,14 +865,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:59:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:20",
+        "eta_schleuse": "16:18",
         "eta_rueb": "11:54",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "11:54",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "16:18",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     },
     {
