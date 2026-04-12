@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T05:06:37",
+  "generated_at": "2026-04-12T05:08:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,15 +84,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:00",
-        "eta_rueb": "07:33",
+        "eta_schleuse": "12:02",
+        "eta_rueb": "07:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:07"
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "07:33",
-      "eta_schleuse": "12:00",
+      "eta_rueb": "07:35",
+      "eta_schleuse": "12:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:07"
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -233,8 +233,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 11 22:18:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -292,15 +292,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:00",
-        "eta_rueb": "07:33",
+        "eta_schleuse": "12:02",
+        "eta_rueb": "07:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:07"
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "07:33",
-      "eta_schleuse": "12:00",
+      "eta_rueb": "07:35",
+      "eta_schleuse": "12:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:07"
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -372,8 +372,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 11 22:18:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -406,13 +406,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "05:10",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "08:21",
       "eta_rueb": "08:10",
       "ship": "KAILEEN",
@@ -434,7 +427,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:33",
+      "eta_rueb_kiel": "08:34",
       "eta_rueb": "08:25",
       "ship": "CONTAINERSHIPS BOREALIS",
       "q_gruppe": "1",
