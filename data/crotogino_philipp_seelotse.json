@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T05:18:37",
+  "generated_at": "2026-04-12T05:20:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 2,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -125,10 +125,10 @@
       "vorname": "Nils",
       "nachname": "Föhring",
       "name": "Nils Föhring",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "BALTICBORG",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 12 01:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "06:14",
@@ -206,8 +206,8 @@
       "name": "Remko Fehr",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "ZETAGAS",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 11 23:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -335,27 +335,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Nils",
-      "nachname": "Föhring",
-      "name": "Nils Föhring",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "BALTICBORG",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 01:10:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:14",
-        "eta_rueb": "02:44",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "05:02"
-      },
-      "eta_rueb": "02:44",
-      "eta_schleuse": "06:14",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "05:02"
-    },
-    {
-      "is_target": false,
       "vorname": "Sören",
       "nachname": "Ehlers",
       "name": "Sören Ehlers",
@@ -437,21 +416,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:21",
+      "eta_rueb_kiel": "08:20",
       "eta_rueb": "08:10",
       "ship": "KAILEEN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:25",
+      "eta_rueb_kiel": "08:23",
       "eta_rueb": "08:15",
       "ship": "LADY ANNA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:28",
+      "eta_rueb_kiel": "08:26",
       "eta_rueb": "08:18",
       "ship": "CAPELLA",
       "q_gruppe": "5",
