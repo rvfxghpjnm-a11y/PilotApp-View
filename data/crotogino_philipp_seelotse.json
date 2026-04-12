@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T02:12:36",
+  "generated_at": "2026-04-12T02:14:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ECHO PETRA",
+      "route": "RÜB → UTG",
       "time": "Sun Apr 12 01:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:08",
+        "eta_rueb": "02:39",
+        "delta_rueb_schleuse": "03:29",
+        "delta_start_rueb": "04:57"
+      },
+      "eta_rueb": "02:39",
+      "eta_schleuse": "06:08",
+      "delta_rueb_schleuse": "03:29",
+      "delta_start_rueb": "04:57"
     },
     {
       "is_target": false,
@@ -367,14 +372,19 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ECHO PETRA",
+      "route": "RÜB → UTG",
       "time": "Sun Apr 12 01:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:08",
+        "eta_rueb": "02:39",
+        "delta_rueb_schleuse": "03:29",
+        "delta_start_rueb": "04:57"
+      },
+      "eta_rueb": "02:39",
+      "eta_schleuse": "06:08",
+      "delta_rueb_schleuse": "03:29",
+      "delta_start_rueb": "04:57"
     },
     {
       "is_target": false,
@@ -579,13 +589,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "02:39",
-      "eta_rueb": "02:33",
-      "ship": "ECHO PETRA",
-      "q_gruppe": "5",
-      "route": "RÜB → UTG"
-    },
     {
       "eta_rueb_kiel": "02:44",
       "eta_rueb": "02:35",
