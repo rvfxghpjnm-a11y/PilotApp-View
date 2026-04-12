@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T11:54:38",
+  "generated_at": "2026-04-12T11:56:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 12 11:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -149,8 +149,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 12 10:51:39 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -249,14 +249,14 @@
       "time": "Sun Apr 12 08:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:58",
-        "eta_rueb": "12:32",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:46"
+        "eta_rueb": "12:30",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:44"
       },
-      "eta_rueb": "12:32",
+      "eta_rueb": "12:30",
       "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:46"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -343,15 +343,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 07:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:27",
-        "eta_rueb": "13:00",
+        "eta_schleuse": "17:28",
+        "eta_rueb": "13:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:22"
+        "delta_start_rueb": "03:23"
       },
-      "eta_rueb": "13:00",
-      "eta_schleuse": "17:27",
+      "eta_rueb": "13:01",
+      "eta_schleuse": "17:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:22"
+      "delta_start_rueb": "03:23"
     },
     {
       "is_target": false,
@@ -385,14 +385,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:05",
+        "eta_schleuse": "12:06",
         "eta_rueb": "08:27",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "08:27",
-      "eta_schleuse": "12:05",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "12:06",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:39"
     },
     {
@@ -405,16 +405,11 @@
       "fahrzeug": "LADY ANNA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:54",
-        "eta_rueb": "08:14",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "05:04"
-      },
-      "eta_rueb": "08:14",
-      "eta_schleuse": "11:54",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "05:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -444,8 +439,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Seebört",
       "nr": 24,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 12 06:18:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -476,8 +471,8 @@
       "name": "Franck Escher",
       "aufgabe": "Seebört",
       "nr": 26,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "SPANACO RELIABILITY",
+      "route": "KLT → HOS",
       "time": "Sun Apr 12 05:14:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -764,14 +759,14 @@
       "time": "Sun Apr 12 08:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:58",
-        "eta_rueb": "12:32",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:46"
+        "eta_rueb": "12:30",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:44"
       },
-      "eta_rueb": "12:32",
+      "eta_rueb": "12:30",
       "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:46"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -826,15 +821,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 07:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:27",
-        "eta_rueb": "13:00",
+        "eta_schleuse": "17:28",
+        "eta_rueb": "13:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:22"
+        "delta_start_rueb": "03:23"
       },
-      "eta_rueb": "13:00",
-      "eta_schleuse": "17:27",
+      "eta_rueb": "13:01",
+      "eta_schleuse": "17:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:22"
+      "delta_start_rueb": "03:23"
     },
     {
       "is_target": false,
@@ -868,14 +863,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:05",
+        "eta_schleuse": "12:06",
         "eta_rueb": "08:27",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:39"
       },
       "eta_rueb": "08:27",
-      "eta_schleuse": "12:05",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "12:06",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:39"
     },
     {
@@ -888,16 +883,11 @@
       "fahrzeug": "LADY ANNA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:54",
-        "eta_rueb": "08:14",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "05:04"
-      },
-      "eta_rueb": "08:14",
-      "eta_schleuse": "11:54",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "05:04"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -975,7 +965,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:34",
+      "eta_rueb_kiel": "12:33",
       "eta_rueb": "12:31",
       "ship": "ESTEMAR",
       "q_gruppe": "5",
