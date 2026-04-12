@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T14:34:38",
+  "generated_at": "2026-04-12T14:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 20,
     "wach": 1,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -99,15 +99,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 12:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:52",
-        "eta_rueb": "18:25",
+        "eta_schleuse": "22:50",
+        "eta_rueb": "18:23",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:11"
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "18:25",
-      "eta_schleuse": "22:52",
+      "eta_rueb": "18:23",
+      "eta_schleuse": "22:50",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:11"
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -315,15 +315,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:59",
-        "eta_rueb": "15:23",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:49"
+        "eta_schleuse": "20:01",
+        "eta_rueb": "15:22",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "15:23",
-      "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:49"
+      "eta_rueb": "15:22",
+      "eta_schleuse": "20:01",
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -396,32 +396,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jan-Torben",
-      "nachname": "Lüdtke",
-      "name": "Jan-Torben Lüdtke",
-      "aufgabe": "Seebört",
-      "nr": 21,
-      "fahrzeug": "MIRVA VG",
-      "route": "HOS → KLT",
-      "time": "Sun Apr 12 08:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "14:38",
-        "eta_rueb": "10:11",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "10:11",
-      "eta_schleuse": "14:38",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
       "vorname": "Volker",
       "nachname": "Nagel",
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Apr 12 08:30:00 CEST 2026",
@@ -437,19 +416,19 @@
       "nachname": "Köller",
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "VIYADA NAREE",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 08:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:53",
+        "eta_schleuse": "18:54",
         "eta_rueb": "14:50",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:04",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "14:50",
-      "eta_schleuse": "18:53",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "18:54",
+      "delta_rueb_schleuse": "04:04",
       "delta_start_rueb": "05:02"
     },
     {
@@ -458,7 +437,7 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "GT FORSETI",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 07:43:00 CEST 2026",
@@ -479,7 +458,7 @@
       "nachname": "Staedler",
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "LISA ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:59:00 CEST 2026",
@@ -500,7 +479,7 @@
       "nachname": "Malik",
       "name": "Christoph Malik",
       "aufgabe": "Seebört",
-      "nr": 26,
+      "nr": 25,
       "fahrzeug": "LYDIA",
       "route": "KLT → HOS",
       "time": "Sun Apr 12 06:55:00 CEST 2026",
@@ -516,7 +495,7 @@
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Seebört",
-      "nr": 27,
+      "nr": 26,
       "fahrzeug": "ATLANTIS",
       "route": "NWK → HER",
       "time": "Sun Apr 12 05:29:00 CEST 2026",
@@ -532,19 +511,19 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 28,
+      "nr": 27,
       "fahrzeug": "MIRVA VG",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:38",
+        "eta_schleuse": "14:39",
         "eta_rueb": "10:11",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:11",
-      "eta_schleuse": "14:38",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "14:39",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:39"
     }
   ],
@@ -639,15 +618,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 12:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:52",
-        "eta_rueb": "18:25",
+        "eta_schleuse": "22:50",
+        "eta_rueb": "18:23",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:11"
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "18:25",
-      "eta_schleuse": "22:52",
+      "eta_rueb": "18:23",
+      "eta_schleuse": "22:50",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:11"
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -807,15 +786,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:59",
-        "eta_rueb": "15:23",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:49"
+        "eta_schleuse": "20:01",
+        "eta_rueb": "15:22",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "15:23",
-      "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:49"
+      "eta_rueb": "15:22",
+      "eta_schleuse": "20:01",
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -860,7 +839,7 @@
       "nachname": "Nagel",
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Sun Apr 12 08:30:00 CEST 2026",
@@ -876,19 +855,19 @@
       "nachname": "Köller",
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "VIYADA NAREE",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 08:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:53",
+        "eta_schleuse": "18:54",
         "eta_rueb": "14:50",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:04",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "14:50",
-      "eta_schleuse": "18:53",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "18:54",
+      "delta_rueb_schleuse": "04:04",
       "delta_start_rueb": "05:02"
     },
     {
@@ -897,7 +876,7 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "GT FORSETI",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 07:43:00 CEST 2026",
@@ -918,7 +897,7 @@
       "nachname": "Staedler",
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "LISA ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:59:00 CEST 2026",
@@ -939,19 +918,19 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 28,
+      "nr": 27,
       "fahrzeug": "MIRVA VG",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:38",
+        "eta_schleuse": "14:39",
         "eta_rueb": "10:11",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:11",
-      "eta_schleuse": "14:38",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "14:39",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:39"
     }
   ],
