@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T09:58:37",
+  "generated_at": "2026-04-12T10:00:42",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -143,14 +143,14 @@
       "time": "Sun Apr 12 08:17:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:14",
-        "eta_rueb": "13:32",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:52"
+        "eta_rueb": "13:30",
+        "delta_rueb_schleuse": "04:44",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "13:32",
+      "eta_rueb": "13:30",
       "eta_schleuse": "18:14",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:52"
+      "delta_rueb_schleuse": "04:44",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -296,8 +296,8 @@
       "name": "Franck Escher",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KAIRIT",
-      "route": "HOS → UTG",
+      "fahrzeug": "NILS DEYMANN",
+      "route": "OUH → OSK",
       "time": "Sun Apr 12 05:14:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -483,14 +483,14 @@
       "time": "Sun Apr 12 08:17:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:14",
-        "eta_rueb": "13:32",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:52"
+        "eta_rueb": "13:30",
+        "delta_rueb_schleuse": "04:44",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "13:32",
+      "eta_rueb": "13:30",
       "eta_schleuse": "18:14",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:52"
+      "delta_rueb_schleuse": "04:44",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -695,6 +695,13 @@
       "eta_rueb_kiel": "13:14",
       "eta_rueb": "12:59",
       "ship": "SEAZIP 10",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:25",
+      "eta_rueb": "14:20",
+      "ship": "GT FORSETI",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
