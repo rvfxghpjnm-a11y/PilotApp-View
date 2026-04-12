@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T11:14:38",
+  "generated_at": "2026-04-12T11:16:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -313,19 +313,14 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "CLARA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 06:59:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:54",
-        "eta_rueb": "11:18",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:26"
-      },
-      "eta_rueb": "11:18",
-      "eta_schleuse": "15:54",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -770,19 +765,14 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "CLARA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 06:59:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:54",
-        "eta_rueb": "11:18",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:26"
-      },
-      "eta_rueb": "11:18",
-      "eta_schleuse": "15:54",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -907,7 +897,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:33",
+      "eta_rueb_kiel": "12:32",
       "eta_rueb": "12:28",
       "ship": "APATYTH",
       "q_gruppe": "4",
