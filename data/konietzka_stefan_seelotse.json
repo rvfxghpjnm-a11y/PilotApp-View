@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T01:12:38",
+  "generated_at": "2026-04-13T01:14:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -156,9 +156,14 @@
       "fahrzeug": "AMADEUS AMETHIST",
       "route": "HOR → UTG",
       "time": "Sun Apr 12 19:46:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -374,7 +379,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:17",
+      "eta_rueb_kiel": "05:16",
       "eta_rueb": "05:03",
       "ship": "SNOW CRYSTAL",
       "q_gruppe": "5",
