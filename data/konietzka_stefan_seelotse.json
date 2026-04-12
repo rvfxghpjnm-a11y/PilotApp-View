@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T07:46:37",
+  "generated_at": "2026-04-12T07:48:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 8,
     "wach": 2,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -153,14 +153,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:46",
+        "eta_schleuse": "13:45",
         "eta_rueb": "09:13",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:55"
       },
       "eta_rueb": "09:13",
-      "eta_schleuse": "13:46",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:55"
     },
     {
@@ -218,14 +218,19 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KAILEEN",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:46",
+        "eta_rueb": "08:13",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:25"
+      },
+      "eta_rueb": "08:13",
+      "eta_schleuse": "11:46",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:25"
     },
     {
       "is_target": false,
@@ -284,22 +289,6 @@
       "eta_schleuse": "08:48",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "05:43"
-    },
-    {
-      "is_target": false,
-      "vorname": "Remko",
-      "nachname": "Fehr",
-      "name": "Remko Fehr",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "AIDAPRIMA",
-      "route": "KLT → OSK",
-      "time": "Sat Apr 11 23:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -394,14 +383,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:46",
+        "eta_schleuse": "13:45",
         "eta_rueb": "09:13",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:55"
       },
       "eta_rueb": "09:13",
-      "eta_schleuse": "13:46",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:55"
     },
     {
@@ -411,14 +400,19 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KAILEEN",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:46",
+        "eta_rueb": "08:13",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:25"
+      },
+      "eta_rueb": "08:13",
+      "eta_schleuse": "11:46",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:25"
     },
     {
       "is_target": false,
@@ -444,13 +438,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "08:13",
-      "eta_rueb": "08:10",
-      "ship": "KAILEEN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "08:16",
       "eta_rueb": "08:15",
@@ -487,7 +474,7 @@
       "route": "RÜB → NHF"
     },
     {
-      "eta_rueb_kiel": "11:06",
+      "eta_rueb_kiel": "11:05",
       "eta_rueb": "10:55",
       "ship": "HIPPO",
       "q_gruppe": "5",
