@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T05:16:37",
+  "generated_at": "2026-04-12T05:18:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,9 +40,14 @@
       "fahrzeug": "KAMELIA",
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:49",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:49",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -296,9 +301,14 @@
       "fahrzeug": "KAMELIA",
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "13:49",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "13:49",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
