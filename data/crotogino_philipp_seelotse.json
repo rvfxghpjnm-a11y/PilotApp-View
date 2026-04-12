@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T05:36:36",
+  "generated_at": "2026-04-12T05:38:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -105,15 +105,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:02",
-        "eta_rueb": "07:35",
+        "eta_schleuse": "12:01",
+        "eta_rueb": "07:34",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:09"
+        "delta_start_rueb": "04:08"
       },
-      "eta_rueb": "07:35",
-      "eta_schleuse": "12:02",
+      "eta_rueb": "07:34",
+      "eta_schleuse": "12:01",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:09"
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -126,14 +126,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 12 01:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:14",
+        "eta_schleuse": "06:13",
         "eta_rueb": "02:44",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "02:44",
-      "eta_schleuse": "06:14",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "06:13",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:02"
     },
     {
@@ -313,15 +313,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:02",
-        "eta_rueb": "07:35",
+        "eta_schleuse": "12:01",
+        "eta_rueb": "07:34",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:09"
+        "delta_start_rueb": "04:08"
       },
-      "eta_rueb": "07:35",
-      "eta_schleuse": "12:02",
+      "eta_rueb": "07:34",
+      "eta_schleuse": "12:01",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:09"
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -427,10 +427,17 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:35",
+      "eta_rueb_kiel": "08:34",
       "eta_rueb": "08:25",
       "ship": "CONTAINERSHIPS BOREALIS",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "10:24",
+      "eta_rueb": "10:10",
+      "ship": "MIRVA VG",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
