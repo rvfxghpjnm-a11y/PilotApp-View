@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T11:58:37",
+  "generated_at": "2026-04-12T12:00:43",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Hannes Rink",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -64,8 +64,8 @@
       "name": "Volker Kahler",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -96,14 +96,19 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "IDA RAMBOW",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 11:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:35",
+        "eta_rueb": "12:26",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:58"
+      },
+      "eta_rueb": "12:26",
+      "eta_schleuse": "16:35",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:58"
     },
     {
       "is_target": false,
@@ -590,8 +595,8 @@
       "name": "Hannes Rink",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -606,8 +611,8 @@
       "name": "Volker Kahler",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -622,8 +627,8 @@
       "name": "Alexander Stoislow",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -638,14 +643,19 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "IDA RAMBOW",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 11:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:35",
+        "eta_rueb": "12:26",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "04:58"
+      },
+      "eta_rueb": "12:26",
+      "eta_schleuse": "16:35",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "04:58"
     },
     {
       "is_target": false,
@@ -951,13 +961,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:26",
-      "eta_rueb": "12:25",
-      "ship": "IDA RAMBOW",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "12:30",
       "eta_rueb": "12:28",
       "ship": "APATYTH",
@@ -1012,6 +1015,13 @@
       "ship": "SANS SOUCI",
       "q_gruppe": "5",
       "route": "KRH → RÜB"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:20",
+      "ship": "BOSFOR",
+      "q_gruppe": "2",
+      "route": "RÜB → HOS"
     }
   ]
 }
