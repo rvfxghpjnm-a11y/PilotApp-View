@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T05:52:37",
+  "generated_at": "2026-04-12T05:54:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 5,
     "wach": 2,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -233,27 +233,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Wachsmuth",
-      "name": "Martin Wachsmuth",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "LADY HESTIA",
-      "route": "UTG → HOS",
-      "time": "Sat Apr 11 23:08:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jens",
       "nachname": "Röhl",
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "KATARIINA",
       "route": "KLT → HOS",
       "time": "Sat Apr 11 23:04:00 CEST 2026",
@@ -269,7 +253,7 @@
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "CONTAINERSHIPS STELLAR",
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 18:58:00 CEST 2026",
@@ -376,7 +360,7 @@
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "CONTAINERSHIPS STELLAR",
       "route": "RÜB → HOS",
       "time": "Sat Apr 11 18:58:00 CEST 2026",
@@ -416,7 +400,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:34",
+      "eta_rueb_kiel": "08:33",
       "eta_rueb": "08:25",
       "ship": "CONTAINERSHIPS BOREALIS",
       "q_gruppe": "1",
