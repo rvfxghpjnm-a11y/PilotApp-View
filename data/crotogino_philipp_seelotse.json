@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T11:28:37",
+  "generated_at": "2026-04-12T11:30:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -152,9 +152,14 @@
       "fahrzeug": "LADY HANNEKE",
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:47",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:47",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -646,9 +651,14 @@
       "fahrzeug": "LADY HANNEKE",
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:47",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:47",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -919,13 +929,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:55",
-      "eta_rueb": "11:55",
-      "ship": "LISA ESSBERGER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "12:29",
       "eta_rueb": "12:25",
       "ship": "IDA RAMBOW",
@@ -961,7 +964,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:19",
+      "eta_rueb_kiel": "14:18",
       "eta_rueb": "14:20",
       "ship": "GT FORSETI",
       "q_gruppe": "5",
