@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T07:36:38",
+  "generated_at": "2026-04-12T07:38:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 2,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -227,10 +227,10 @@
       "vorname": "Sören",
       "nachname": "Ehlers",
       "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 14,
       "fahrzeug": "ECHO PETRA",
-      "route": "RÜB → UTG",
+      "route": "UTG → HOS",
       "time": "Sun Apr 12 01:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -401,27 +401,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "ECHO PETRA",
-      "route": "RÜB → UTG",
-      "time": "Sun Apr 12 01:10:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "02:40",
-        "delta_rueb_schleuse": "2284456:06",
-        "delta_start_rueb": "04:58"
-      },
-      "eta_rueb": "02:40",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2284456:06",
-      "delta_start_rueb": "04:58"
-    },
-    {
-      "is_target": false,
       "vorname": "Gerd",
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
@@ -501,7 +480,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "12:44",
       "eta_rueb": "11:50",
       "ship": "APATYTH",
       "q_gruppe": "4",
