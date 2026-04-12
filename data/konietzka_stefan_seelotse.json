@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T12:00:43",
+  "generated_at": "2026-04-12T12:02:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 20,
     "wach": 2,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -369,14 +369,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:59:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:29",
+        "eta_schleuse": "16:28",
         "eta_rueb": "11:54",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "11:54",
-      "eta_schleuse": "16:29",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "16:28",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "04:18"
     },
     {
@@ -540,27 +540,11 @@
     },
     {
       "is_target": false,
-      "vorname": "René",
-      "nachname": "Winkler",
-      "name": "René Winkler",
-      "aufgabe": "Seebört",
-      "nr": 30,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Sun Apr 12 03:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Ulrich",
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
-      "nr": 31,
+      "nr": 30,
       "fahrzeug": "KAILEEN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
@@ -852,14 +836,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 06:59:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:29",
+        "eta_schleuse": "16:28",
         "eta_rueb": "11:54",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "11:54",
-      "eta_schleuse": "16:29",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "16:28",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "04:18"
     },
     {
@@ -947,7 +931,7 @@
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
-      "nr": 31,
+      "nr": 30,
       "fahrzeug": "KAILEEN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 02:14:00 CEST 2026",
@@ -1017,7 +1001,7 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "16:27",
       "eta_rueb": "16:20",
       "ship": "BOSFOR",
       "q_gruppe": "2",
