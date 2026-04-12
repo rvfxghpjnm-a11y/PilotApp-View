@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T03:14:37",
+  "generated_at": "2026-04-12T03:16:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -95,14 +95,14 @@
       "time": "Sat Apr 11 23:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:40",
-        "eta_rueb": "05:14",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "05:13",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "05:14",
+      "eta_rueb": "05:13",
       "eta_schleuse": "09:40",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -414,14 +414,14 @@
       "time": "Sat Apr 11 23:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:40",
-        "eta_rueb": "05:14",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "05:13",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "05:14",
+      "eta_rueb": "05:13",
       "eta_schleuse": "09:40",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -564,7 +564,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:28",
+      "eta_rueb_kiel": "05:27",
       "eta_rueb": "05:10",
       "ship": "MAUREEN S",
       "q_gruppe": "5",
@@ -578,10 +578,17 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:41",
+      "eta_rueb_kiel": "08:40",
       "eta_rueb": "07:13",
       "ship": "CONTAINERSHIPS BOREALIS",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:37",
+      "eta_rueb": "07:15",
+      "ship": "LADY ANNA",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
