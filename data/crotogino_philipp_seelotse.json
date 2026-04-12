@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T13:56:37",
+  "generated_at": "2026-04-12T13:58:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 20,
     "wach": 3,
-    "see": 10
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -237,15 +237,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 12 10:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:34",
-        "eta_rueb": "15:07",
+        "eta_schleuse": "19:35",
+        "eta_rueb": "15:08",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:27"
+        "delta_start_rueb": "05:28"
       },
-      "eta_rueb": "15:07",
-      "eta_schleuse": "19:34",
+      "eta_rueb": "15:08",
+      "eta_schleuse": "19:35",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:27"
+      "delta_start_rueb": "05:28"
     },
     {
       "is_target": false,
@@ -274,15 +274,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:38",
-        "eta_rueb": "15:10",
+        "eta_schleuse": "19:39",
+        "eta_rueb": "15:11",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "15:10",
-      "eta_schleuse": "19:38",
+      "eta_rueb": "15:11",
+      "eta_schleuse": "19:39",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -296,14 +296,14 @@
       "time": "Sun Apr 12 10:08:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:48",
-        "eta_rueb": "15:13",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "15:15",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "15:13",
+      "eta_rueb": "15:15",
       "eta_schleuse": "19:48",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -433,14 +433,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 07:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:17",
+        "eta_schleuse": "18:18",
         "eta_rueb": "14:10",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "14:10",
-      "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "18:18",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:14"
     },
     {
@@ -530,39 +530,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Franck",
-      "nachname": "Escher",
-      "name": "Franck Escher",
-      "aufgabe": "Seebört",
-      "nr": 30,
-      "fahrzeug": "SPANACO RELIABILITY",
-      "route": "KLT → HOS",
-      "time": "Sun Apr 12 05:14:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Julian",
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 31,
+      "nr": 30,
       "fahrzeug": "MIRVA VG",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:41",
+        "eta_schleuse": "14:40",
         "eta_rueb": "10:11",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:11",
-      "eta_schleuse": "14:41",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "14:40",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "04:39"
     },
     {
@@ -571,7 +555,7 @@
       "nachname": "Arlt",
       "name": "Andreas Arlt",
       "aufgabe": "Wachgänger",
-      "nr": 32,
+      "nr": 31,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sun Apr 12 04:00:00 CEST 2026",
@@ -587,7 +571,7 @@
       "nachname": "Heeren",
       "name": "Rainer Heeren",
       "aufgabe": "Wachgänger",
-      "nr": 33,
+      "nr": 32,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Sun Apr 12 04:00:00 CEST 2026",
@@ -779,15 +763,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 12 10:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:34",
-        "eta_rueb": "15:07",
+        "eta_schleuse": "19:35",
+        "eta_rueb": "15:08",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:27"
+        "delta_start_rueb": "05:28"
       },
-      "eta_rueb": "15:07",
-      "eta_schleuse": "19:34",
+      "eta_rueb": "15:08",
+      "eta_schleuse": "19:35",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:27"
+      "delta_start_rueb": "05:28"
     },
     {
       "is_target": false,
@@ -800,15 +784,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 12 10:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:38",
-        "eta_rueb": "15:10",
+        "eta_schleuse": "19:39",
+        "eta_rueb": "15:11",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "15:10",
-      "eta_schleuse": "19:38",
+      "eta_rueb": "15:11",
+      "eta_schleuse": "19:39",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -822,14 +806,14 @@
       "time": "Sun Apr 12 10:08:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:48",
-        "eta_rueb": "15:13",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "15:15",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "15:13",
+      "eta_rueb": "15:15",
       "eta_schleuse": "19:48",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -927,14 +911,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 07:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:17",
+        "eta_schleuse": "18:18",
         "eta_rueb": "14:10",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "14:10",
-      "eta_schleuse": "18:17",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "18:18",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:14"
     },
     {
@@ -964,19 +948,19 @@
       "nachname": "Plaisant",
       "name": "Julian Plaisant",
       "aufgabe": "Kanalbört",
-      "nr": 31,
+      "nr": 30,
       "fahrzeug": "MIRVA VG",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 04:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:41",
+        "eta_schleuse": "14:40",
         "eta_rueb": "10:11",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:11",
-      "eta_schleuse": "14:41",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "14:40",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "04:39"
     }
   ],
@@ -1004,7 +988,7 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "16:20",
+      "eta_rueb_kiel": "16:19",
       "eta_rueb": "16:15",
       "ship": "BOSFOR",
       "q_gruppe": "2",
@@ -1018,7 +1002,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:52",
+      "eta_rueb_kiel": "17:51",
       "eta_rueb": "17:50",
       "ship": "LOTTA",
       "q_gruppe": "5",
