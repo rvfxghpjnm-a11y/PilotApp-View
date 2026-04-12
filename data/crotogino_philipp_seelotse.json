@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T18:06:38",
+  "generated_at": "2026-04-12T18:08:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,19 +137,14 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "KATJA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 13:08:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:41",
-        "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:56"
-      },
-      "eta_rueb": "18:14",
-      "eta_schleuse": "22:41",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:56"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -508,19 +503,14 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "KATJA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 13:08:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:41",
-        "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:56"
-      },
-      "eta_rueb": "18:14",
-      "eta_schleuse": "22:41",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:56"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -702,7 +692,7 @@
     },
     {
       "eta_rueb_kiel": "20:40",
-      "eta_rueb": "20:35",
+      "eta_rueb": "20:30",
       "ship": "PAULA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
