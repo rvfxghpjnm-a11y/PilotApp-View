@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T15:08:37",
+  "generated_at": "2026-04-12T15:10:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -285,19 +285,14 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "KAIRIT",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 10:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:40",
-        "eta_rueb": "15:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:33"
-      },
-      "eta_rueb": "15:13",
-      "eta_schleuse": "19:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -698,19 +693,14 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "KAIRIT",
-      "route": "UTG → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 12 10:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:40",
-        "eta_rueb": "15:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:33"
-      },
-      "eta_rueb": "15:13",
-      "eta_schleuse": "19:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -874,7 +864,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:49",
+      "eta_rueb_kiel": "17:43",
       "eta_rueb": "17:40",
       "ship": "ISAR HIGHWAY",
       "q_gruppe": "3",
