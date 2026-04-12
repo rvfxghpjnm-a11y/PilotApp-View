@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T00:40:37",
+  "generated_at": "2026-04-13T00:42:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,13 +83,13 @@
       "route": "HOR → KRH",
       "time": "Sun Apr 12 21:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:29",
+        "eta_schleuse": "01:28",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "01:29",
+      "eta_schleuse": "01:28",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -268,16 +268,11 @@
       "fahrzeug": "WILSON ECO 2",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 13:08:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:39",
-        "eta_rueb": "21:01",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "21:01",
-      "eta_schleuse": "00:39",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -289,16 +284,11 @@
       "fahrzeug": "PAULA",
       "route": "RÜB → UTG",
       "time": "Sun Apr 12 12:59:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:40",
-        "eta_rueb": "20:31",
-        "delta_rueb_schleuse": "04:09",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "20:31",
-      "eta_schleuse": "00:40",
-      "delta_rueb_schleuse": "04:09",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -376,13 +366,13 @@
       "route": "HOR → KRH",
       "time": "Sun Apr 12 21:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:29",
+        "eta_schleuse": "01:28",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "01:29",
+      "eta_schleuse": "01:28",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -449,16 +439,11 @@
       "fahrzeug": "WILSON ECO 2",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 13:08:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:39",
-        "eta_rueb": "21:01",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "21:01",
-      "eta_schleuse": "00:39",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:19"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -470,16 +455,11 @@
       "fahrzeug": "PAULA",
       "route": "RÜB → UTG",
       "time": "Sun Apr 12 12:59:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:40",
-        "eta_rueb": "20:31",
-        "delta_rueb_schleuse": "04:09",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "20:31",
-      "eta_schleuse": "00:40",
-      "delta_rueb_schleuse": "04:09",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -497,6 +477,20 @@
       "ship": "IVER BRILLIANT",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:25",
+      "eta_rueb": "05:00",
+      "ship": "TRICA",
+      "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "05:03",
+      "ship": "SNOW CRYSTAL",
+      "q_gruppe": "5",
+      "route": "RÜB → KRH"
     }
   ]
 }
