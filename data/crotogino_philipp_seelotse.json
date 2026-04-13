@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T02:30:39",
+  "generated_at": "2026-04-13T02:32:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -42,14 +42,14 @@
       "time": "Mon Apr 13 00:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "10:28",
-        "eta_rueb": "05:40",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "05:41",
+        "delta_rueb_schleuse": "04:47",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "05:40",
+      "eta_rueb": "05:41",
       "eta_schleuse": "10:28",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:47",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -62,14 +62,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 21:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:13",
+        "eta_schleuse": "07:15",
         "eta_rueb": "02:43",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:31"
       },
       "eta_rueb": "02:43",
-      "eta_schleuse": "07:13",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "07:15",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:31"
     },
     {
@@ -111,14 +111,19 @@
       "name": "Denny Pankonin",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "IVER BRILLIANT",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:07:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:31",
+        "eta_rueb": "02:58",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "02:58",
+      "eta_schleuse": "06:31",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -240,14 +245,14 @@
       "time": "Mon Apr 13 00:49:00 CEST 2026",
       "times": {
         "eta_schleuse": "10:28",
-        "eta_rueb": "05:40",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "05:41",
+        "delta_rueb_schleuse": "04:47",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "05:40",
+      "eta_rueb": "05:41",
       "eta_schleuse": "10:28",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:47",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -260,14 +265,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 12 21:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:13",
+        "eta_schleuse": "07:15",
         "eta_rueb": "02:43",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:31"
       },
       "eta_rueb": "02:43",
-      "eta_schleuse": "07:13",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "07:15",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:31"
     },
     {
@@ -309,14 +314,19 @@
       "name": "Denny Pankonin",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "IVER BRILLIANT",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:07:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:31",
+        "eta_rueb": "02:58",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:20"
+      },
+      "eta_rueb": "02:58",
+      "eta_schleuse": "06:31",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:20"
     },
     {
       "is_target": false,
@@ -343,21 +353,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:58",
-      "eta_rueb": "02:55",
-      "ship": "IVER BRILLIANT",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "05:17",
+      "eta_rueb_kiel": "05:19",
       "eta_rueb": "05:00",
       "ship": "TRICA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:20",
+      "eta_rueb_kiel": "05:22",
       "eta_rueb": "05:03",
       "ship": "SNOW CRYSTAL",
       "q_gruppe": "5",
