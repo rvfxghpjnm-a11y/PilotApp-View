@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T05:56:37",
+  "generated_at": "2026-04-13T05:58:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -195,14 +195,14 @@
       "route": "RÜB → KRH",
       "time": "Sun Apr 12 21:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:58",
+        "eta_schleuse": "05:59",
         "eta_rueb": "05:20",
-        "delta_rueb_schleuse": "00:38",
+        "delta_rueb_schleuse": "00:39",
         "delta_start_rueb": "04:44"
       },
       "eta_rueb": "05:20",
-      "eta_schleuse": "05:58",
-      "delta_rueb_schleuse": "00:38",
+      "eta_schleuse": "05:59",
+      "delta_rueb_schleuse": "00:39",
       "delta_start_rueb": "04:44"
     },
     {
@@ -371,14 +371,14 @@
       "route": "RÜB → KRH",
       "time": "Sun Apr 12 21:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:58",
+        "eta_schleuse": "05:59",
         "eta_rueb": "05:20",
-        "delta_rueb_schleuse": "00:38",
+        "delta_rueb_schleuse": "00:39",
         "delta_start_rueb": "04:44"
       },
       "eta_rueb": "05:20",
-      "eta_schleuse": "05:58",
-      "delta_rueb_schleuse": "00:38",
+      "eta_schleuse": "05:59",
+      "delta_rueb_schleuse": "00:39",
       "delta_start_rueb": "04:44"
     },
     {
@@ -448,9 +448,16 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:27",
+      "eta_rueb_kiel": "09:26",
       "eta_rueb": "09:10",
       "ship": "ENDELO SWAN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "11:26",
+      "eta_rueb": "11:30",
+      "ship": "CALAMAR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
