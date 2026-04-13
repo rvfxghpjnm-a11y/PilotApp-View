@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-13T22:20:40",
+  "generated_at": "2026-04-13T22:22:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 1,
     "see": 8
   },
@@ -297,19 +297,14 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "SPEYK",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 13 17:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "02:54",
-        "eta_rueb": "22:28",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:38"
-      },
-      "eta_rueb": "22:28",
-      "eta_schleuse": "02:54",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -407,14 +402,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:17",
+        "eta_schleuse": "23:16",
         "eta_rueb": "19:23",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "19:23",
-      "eta_schleuse": "23:17",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "23:16",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:43"
     },
     {
@@ -437,22 +432,6 @@
       "eta_schleuse": "23:13",
       "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:41"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 25,
-      "fahrzeug": "SNOW CRYSTAL",
-      "route": "KRH → HOS",
-      "time": "Mon Apr 13 12:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -632,19 +611,14 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "SPEYK",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 13 17:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "02:54",
-        "eta_rueb": "22:28",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:38"
-      },
-      "eta_rueb": "22:28",
-      "eta_schleuse": "02:54",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:38"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -710,14 +684,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:17",
+        "eta_schleuse": "23:16",
         "eta_rueb": "19:23",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "19:23",
-      "eta_schleuse": "23:17",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "23:16",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:43"
     },
     {
@@ -740,22 +714,6 @@
       "eta_schleuse": "23:13",
       "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "04:41"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 25,
-      "fahrzeug": "SNOW CRYSTAL",
-      "route": "KRH → HOS",
-      "time": "Mon Apr 13 12:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -817,7 +775,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "23:53",
+      "eta_rueb_kiel": "23:52",
       "eta_rueb": "23:46",
       "ship": "SONGA ATLAS",
       "q_gruppe": "1",
