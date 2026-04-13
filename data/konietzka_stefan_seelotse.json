@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T12:48:38",
+  "generated_at": "2026-04-13T12:50:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -36,15 +36,15 @@
       "route": "UTG → RÜB",
       "time": "Mon Apr 13 12:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:34",
-        "eta_rueb": "16:06",
+        "eta_schleuse": "20:33",
+        "eta_rueb": "16:05",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:36"
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "16:06",
-      "eta_schleuse": "20:34",
+      "eta_rueb": "16:05",
+      "eta_schleuse": "20:33",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:36"
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -148,8 +148,8 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "RYSTRAUM",
+      "route": "KLT → HOS",
       "time": "Mon Apr 13 09:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -328,27 +328,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Dolf",
-      "nachname": "Jenckel",
-      "name": "Dolf Jenckel",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "CAPEWATER",
-      "route": "KLT → HOS",
-      "time": "Mon Apr 13 04:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Gerd",
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CALAMAR",
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 03:05:00 CEST 2026",
@@ -362,27 +346,6 @@
       "eta_schleuse": "14:45",
       "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:17"
-    },
-    {
-      "is_target": false,
-      "vorname": "Franck",
-      "nachname": "Escher",
-      "name": "Franck Escher",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "ENDELO SWAN",
-      "route": "RÜB → HOS",
-      "time": "Mon Apr 13 02:46:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:37",
-        "eta_rueb": "09:11",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "05:35"
-      },
-      "eta_rueb": "09:11",
-      "eta_schleuse": "12:37",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "05:35"
     }
   ],
   "kanallotsen": [
@@ -413,15 +376,15 @@
       "route": "UTG → RÜB",
       "time": "Mon Apr 13 12:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:34",
-        "eta_rueb": "16:06",
+        "eta_schleuse": "20:33",
+        "eta_rueb": "16:05",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:36"
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "16:06",
-      "eta_schleuse": "20:34",
+      "eta_rueb": "16:05",
+      "eta_schleuse": "20:33",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:36"
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -624,7 +587,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CALAMAR",
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 03:05:00 CEST 2026",
@@ -638,27 +601,6 @@
       "eta_schleuse": "14:45",
       "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:17"
-    },
-    {
-      "is_target": false,
-      "vorname": "Franck",
-      "nachname": "Escher",
-      "name": "Franck Escher",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "ENDELO SWAN",
-      "route": "RÜB → HOS",
-      "time": "Mon Apr 13 02:46:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:37",
-        "eta_rueb": "09:11",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "05:35"
-      },
-      "eta_rueb": "09:11",
-      "eta_schleuse": "12:37",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "05:35"
     }
   ],
   "meldungen_kiel": [],
