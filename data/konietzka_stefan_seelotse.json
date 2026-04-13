@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T21:10:39",
+  "generated_at": "2026-04-13T21:12:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Mon Apr 13 20:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:13",
+        "eta_schleuse": "21:14",
         "eta_rueb": "17:30",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "17:30",
-      "eta_schleuse": "21:13",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "21:14",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:12"
     },
     {
@@ -301,14 +301,19 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ANNABA",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 16:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:38",
+        "eta_rueb": "21:40",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "05:52"
+      },
+      "eta_rueb": "21:40",
+      "eta_schleuse": "01:38",
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "05:52"
     },
     {
       "is_target": false,
@@ -337,14 +342,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:22",
+        "eta_schleuse": "23:20",
         "eta_rueb": "19:23",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "19:23",
-      "eta_schleuse": "23:22",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "23:20",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:43"
     },
     {
@@ -416,14 +421,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 11:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:13",
+        "eta_schleuse": "21:14",
         "eta_rueb": "17:30",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "17:30",
-      "eta_schleuse": "21:13",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "21:14",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:12"
     },
     {
@@ -619,14 +624,19 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ANNABA",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 16:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:38",
+        "eta_rueb": "21:40",
+        "delta_rueb_schleuse": "03:58",
+        "delta_start_rueb": "05:52"
+      },
+      "eta_rueb": "21:40",
+      "eta_schleuse": "01:38",
+      "delta_rueb_schleuse": "03:58",
+      "delta_start_rueb": "05:52"
     },
     {
       "is_target": false,
@@ -639,14 +649,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:22",
+        "eta_schleuse": "23:20",
         "eta_rueb": "19:23",
-        "delta_rueb_schleuse": "03:59",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "19:23",
-      "eta_schleuse": "23:22",
-      "delta_rueb_schleuse": "03:59",
+      "eta_schleuse": "23:20",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:43"
     },
     {
@@ -702,14 +712,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 11:14:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:13",
+        "eta_schleuse": "21:14",
         "eta_rueb": "17:30",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "17:30",
-      "eta_schleuse": "21:13",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "21:14",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:12"
     },
     {
@@ -765,13 +775,6 @@
       "ship": "LUEHE",
       "q_gruppe": "5",
       "route": "GAK → RÜB"
-    },
-    {
-      "eta_rueb_kiel": "21:40",
-      "eta_rueb": "21:40",
-      "ship": "ANNABA",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "23:41",
