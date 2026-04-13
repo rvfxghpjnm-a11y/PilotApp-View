@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T20:32:38",
+  "generated_at": "2026-04-13T20:34:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -77,15 +77,15 @@
       "route": "UTG → RÜB",
       "time": "Mon Apr 13 20:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:26",
-        "eta_rueb": "23:59",
+        "eta_schleuse": "04:47",
+        "eta_rueb": "00:20",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:21"
+        "delta_start_rueb": "07:42"
       },
-      "eta_rueb": "23:59",
-      "eta_schleuse": "04:26",
+      "eta_rueb": "00:20",
+      "eta_schleuse": "04:47",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:21"
+      "delta_start_rueb": "07:42"
     },
     {
       "is_target": false,
@@ -454,15 +454,15 @@
       "route": "UTG → RÜB",
       "time": "Mon Apr 13 20:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:26",
-        "eta_rueb": "23:59",
+        "eta_schleuse": "04:47",
+        "eta_rueb": "00:20",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:21"
+        "delta_start_rueb": "07:42"
       },
-      "eta_rueb": "23:59",
-      "eta_schleuse": "04:26",
+      "eta_rueb": "00:20",
+      "eta_schleuse": "04:47",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:21"
+      "delta_start_rueb": "07:42"
     },
     {
       "is_target": false,
@@ -726,6 +726,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "00:57",
+      "eta_rueb": "00:40",
+      "ship": "KEIT",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": null,
       "eta_rueb": "06:00",
       "ship": "LUEHE",
@@ -747,21 +754,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:49",
+      "eta_rueb_kiel": "23:48",
       "eta_rueb": "23:40",
       "ship": "ANNALISA P",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:53",
+      "eta_rueb_kiel": "23:52",
       "eta_rueb": "23:43",
       "ship": "VLISTBORG",
       "q_gruppe": "3",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "23:56",
+      "eta_rueb_kiel": "23:55",
       "eta_rueb": "23:46",
       "ship": "SONGA ATLAS",
       "q_gruppe": "1",
