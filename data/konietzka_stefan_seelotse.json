@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T20:44:37",
+  "generated_at": "2026-04-13T20:46:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -141,9 +141,14 @@
       "fahrzeug": "PRIMA QUEEN",
       "route": "HOR → RÜB",
       "time": "Mon Apr 13 19:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:58",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:58",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -254,14 +259,14 @@
       "time": "Mon Apr 13 17:20:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:09",
-        "eta_rueb": "21:56",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "07:16"
+        "eta_rueb": "21:55",
+        "delta_rueb_schleuse": "05:14",
+        "delta_start_rueb": "07:15"
       },
-      "eta_rueb": "21:56",
+      "eta_rueb": "21:55",
       "eta_schleuse": "03:09",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "07:16"
+      "delta_rueb_schleuse": "05:14",
+      "delta_start_rueb": "07:15"
     },
     {
       "is_target": false,
@@ -486,9 +491,14 @@
       "fahrzeug": "PRIMA QUEEN",
       "route": "HOR → RÜB",
       "time": "Mon Apr 13 19:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:58",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:58",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -567,14 +577,14 @@
       "time": "Mon Apr 13 17:20:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:09",
-        "eta_rueb": "21:56",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "07:16"
+        "eta_rueb": "21:55",
+        "delta_rueb_schleuse": "05:14",
+        "delta_start_rueb": "07:15"
       },
-      "eta_rueb": "21:56",
+      "eta_rueb": "21:55",
       "eta_schleuse": "03:09",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "07:16"
+      "delta_rueb_schleuse": "05:14",
+      "delta_start_rueb": "07:15"
     },
     {
       "is_target": false,
@@ -722,9 +732,16 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:44",
+      "eta_rueb_kiel": "01:42",
       "eta_rueb": "00:40",
       "ship": "KEIT",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "01:53",
+      "eta_rueb": "00:40",
+      "ship": "LUCITA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
