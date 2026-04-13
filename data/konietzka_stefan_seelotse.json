@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T17:42:40",
+  "generated_at": "2026-04-13T17:44:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -96,14 +96,19 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "CELLUS",
+      "route": "HOS → KLT",
       "time": "Mon Apr 13 15:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:21",
+        "eta_rueb": "14:56",
+        "delta_rueb_schleuse": "03:25",
+        "delta_start_rueb": "04:54"
+      },
+      "eta_rueb": "14:56",
+      "eta_schleuse": "18:21",
+      "delta_rueb_schleuse": "03:25",
+      "delta_start_rueb": "04:54"
     },
     {
       "is_target": false,
@@ -259,14 +264,14 @@
       "route": "RÜB → UTG",
       "time": "Mon Apr 13 10:59:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:11",
+        "eta_schleuse": "21:10",
         "eta_rueb": "17:01",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "17:01",
-      "eta_schleuse": "21:11",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "21:10",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:41"
     },
     {
@@ -462,14 +467,14 @@
       "route": "RÜB → UTG",
       "time": "Mon Apr 13 10:59:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:11",
+        "eta_schleuse": "21:10",
         "eta_rueb": "17:01",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "17:01",
-      "eta_schleuse": "21:11",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "21:10",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:41"
     },
     {
