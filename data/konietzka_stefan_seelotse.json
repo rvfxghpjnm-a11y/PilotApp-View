@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T22:24:38",
+  "generated_at": "2026-04-13T22:26:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 15,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -377,27 +377,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Seebört",
-      "nr": 22,
-      "fahrzeug": "EEVA VG",
-      "route": "KLT → HOS",
-      "time": "Mon Apr 13 15:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Thomas",
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "CORAL PEARL",
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
@@ -418,19 +402,19 @@
       "nachname": "Thomsen",
       "name": "Gunnar Thomsen",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "ZILTBORG",
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 12:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:13",
+        "eta_schleuse": "23:11",
         "eta_rueb": "19:19",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "19:19",
-      "eta_schleuse": "23:13",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "23:11",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:41"
     }
   ],
@@ -679,7 +663,7 @@
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "CORAL PEARL",
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
@@ -700,19 +684,19 @@
       "nachname": "Thomsen",
       "name": "Gunnar Thomsen",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "ZILTBORG",
       "route": "RÜB → HOS",
       "time": "Mon Apr 13 12:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:13",
+        "eta_schleuse": "23:11",
         "eta_rueb": "19:19",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "19:19",
-      "eta_schleuse": "23:13",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "23:11",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:41"
     }
   ],
@@ -761,7 +745,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:44",
+      "eta_rueb_kiel": "23:43",
       "eta_rueb": "23:40",
       "ship": "ANNALISA P",
       "q_gruppe": "1",
