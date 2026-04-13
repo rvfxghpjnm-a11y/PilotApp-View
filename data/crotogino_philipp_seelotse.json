@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T07:42:37",
+  "generated_at": "2026-04-13T07:44:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,8 +106,8 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Apr 13 04:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -122,8 +122,8 @@
       "name": "Marius Schüler",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "ALEXANDER B",
+      "route": "KLT → HOS",
       "time": "Mon Apr 13 03:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -333,7 +333,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:19",
+      "eta_rueb_kiel": "09:17",
       "eta_rueb": "09:10",
       "ship": "ENDELO SWAN",
       "q_gruppe": "5",
