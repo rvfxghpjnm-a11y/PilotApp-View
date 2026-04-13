@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T16:54:47",
+  "generated_at": "2026-04-13T16:56:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "SPANACO SIMPLICITY",
-      "route": "HOS → UTG",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Mon Apr 13 15:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -68,14 +68,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:58",
+        "eta_schleuse": "22:57",
         "eta_rueb": "18:13",
-        "delta_rueb_schleuse": "04:45",
+        "delta_rueb_schleuse": "04:44",
         "delta_start_rueb": "03:27"
       },
       "eta_rueb": "18:13",
-      "eta_schleuse": "22:58",
-      "delta_rueb_schleuse": "04:45",
+      "eta_schleuse": "22:57",
+      "delta_rueb_schleuse": "04:44",
       "delta_start_rueb": "03:27"
     },
     {
@@ -261,14 +261,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 13 13:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:58",
+        "eta_schleuse": "22:57",
         "eta_rueb": "18:13",
-        "delta_rueb_schleuse": "04:45",
+        "delta_rueb_schleuse": "04:44",
         "delta_start_rueb": "03:27"
       },
       "eta_rueb": "18:13",
-      "eta_schleuse": "22:58",
-      "delta_rueb_schleuse": "04:45",
+      "eta_schleuse": "22:57",
+      "delta_rueb_schleuse": "04:44",
       "delta_start_rueb": "03:27"
     },
     {
@@ -411,7 +411,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:28",
+      "eta_rueb_kiel": "19:26",
       "eta_rueb": "19:05",
       "ship": "ZILTBORG",
       "q_gruppe": "4",
