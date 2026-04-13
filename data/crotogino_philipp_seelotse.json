@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T13:12:46",
+  "generated_at": "2026-04-13T13:14:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -79,14 +79,14 @@
       "time": "Mon Apr 13 11:14:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:34",
-        "eta_rueb": "15:56",
-        "delta_rueb_schleuse": "05:38",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "15:54",
+        "delta_rueb_schleuse": "05:40",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "15:56",
+      "eta_rueb": "15:54",
       "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "05:38",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "05:40",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -403,14 +403,14 @@
       "time": "Mon Apr 13 11:14:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:34",
-        "eta_rueb": "15:56",
-        "delta_rueb_schleuse": "05:38",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "15:54",
+        "delta_rueb_schleuse": "05:40",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "15:56",
+      "eta_rueb": "15:54",
       "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "05:38",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "05:40",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -612,24 +612,24 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "14:59",
-      "eta_rueb": "14:35",
+      "eta_rueb": "14:55",
       "ship": "CELLUS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:40",
-      "eta_rueb": "16:30",
-      "ship": "CMA CGM RUNDALE",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:21",
-      "eta_rueb": "16:35",
+      "eta_rueb": "16:55",
       "ship": "WILSON LUGA",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "17:40",
+      "eta_rueb": "17:40",
+      "ship": "CMA CGM RUNDALE",
+      "q_gruppe": "0",
+      "route": "RÜB → HOS"
     }
   ]
 }
