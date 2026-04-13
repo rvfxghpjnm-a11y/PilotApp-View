@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T17:56:40",
+  "generated_at": "2026-04-13T17:58:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,15 +52,15 @@
       "route": "UTG → RÜB",
       "time": "Mon Apr 13 17:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:59",
-        "eta_rueb": "22:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:52"
+        "eta_schleuse": "03:15",
+        "eta_rueb": "22:47",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "08:07"
       },
-      "eta_rueb": "22:32",
-      "eta_schleuse": "02:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:52"
+      "eta_rueb": "22:47",
+      "eta_schleuse": "03:15",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "08:07"
     },
     {
       "is_target": false,
@@ -228,19 +228,14 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "MV AGUIMES",
-      "route": "KRH → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 11:09:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:51",
-        "eta_rueb": "17:59",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "00:43"
-      },
-      "eta_rueb": "17:59",
-      "eta_schleuse": "22:51",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "00:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -329,15 +324,15 @@
       "route": "UTG → RÜB",
       "time": "Mon Apr 13 17:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:59",
-        "eta_rueb": "22:32",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "07:52"
+        "eta_schleuse": "03:15",
+        "eta_rueb": "22:47",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "08:07"
       },
-      "eta_rueb": "22:32",
-      "eta_schleuse": "02:59",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "07:52"
+      "eta_rueb": "22:47",
+      "eta_schleuse": "03:15",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "08:07"
     },
     {
       "is_target": false,
@@ -452,19 +447,14 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "MV AGUIMES",
-      "route": "KRH → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 11:09:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:51",
-        "eta_rueb": "17:59",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "00:43"
-      },
-      "eta_rueb": "17:59",
-      "eta_schleuse": "22:51",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "00:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -520,20 +510,13 @@
     },
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "18:00",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
       "eta_rueb": "19:00",
       "ship": "SNOW CRYSTAL",
       "q_gruppe": "5",
       "route": "KRH → HOS"
     },
     {
-      "eta_rueb_kiel": "19:24",
+      "eta_rueb_kiel": "19:22",
       "eta_rueb": "19:05",
       "ship": "ZILTBORG",
       "q_gruppe": "4",
