@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-13T06:36:37",
+  "generated_at": "2026-04-13T06:38:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 9,
+    "kanal": 8,
     "wach": 0,
     "see": 5
   },
@@ -174,14 +174,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 13 02:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:37",
+        "eta_schleuse": "12:36",
         "eta_rueb": "07:43",
-        "delta_rueb_schleuse": "04:54",
+        "delta_rueb_schleuse": "04:53",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "07:43",
-      "eta_schleuse": "12:37",
-      "delta_rueb_schleuse": "04:54",
+      "eta_schleuse": "12:36",
+      "delta_rueb_schleuse": "04:53",
       "delta_start_rueb": "03:35"
     },
     {
@@ -207,8 +207,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "SNOW CRYSTAL",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -227,14 +227,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:16:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:52",
+        "eta_schleuse": "08:51",
         "eta_rueb": "05:15",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "05:15",
-      "eta_schleuse": "08:52",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "08:51",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:43"
     },
     {
@@ -247,22 +247,6 @@
       "fahrzeug": "IVER BRILLIANT",
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:07:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Johannes",
-      "nachname": "Biedermann",
-      "name": "Johannes Biedermann",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "AMADEUS GOLD",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 21:01:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -351,14 +335,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 13 02:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:37",
+        "eta_schleuse": "12:36",
         "eta_rueb": "07:43",
-        "delta_rueb_schleuse": "04:54",
+        "delta_rueb_schleuse": "04:53",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "07:43",
-      "eta_schleuse": "12:37",
-      "delta_rueb_schleuse": "04:54",
+      "eta_schleuse": "12:36",
+      "delta_rueb_schleuse": "04:53",
       "delta_start_rueb": "03:35"
     },
     {
@@ -368,8 +352,8 @@
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "SNOW CRYSTAL",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -388,14 +372,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 12 21:16:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:52",
+        "eta_schleuse": "08:51",
         "eta_rueb": "05:15",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "05:15",
-      "eta_schleuse": "08:52",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "08:51",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:43"
     },
     {
@@ -413,42 +397,19 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Johannes",
-      "nachname": "Biedermann",
-      "name": "Johannes Biedermann",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "AMADEUS GOLD",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 12 21:01:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "06:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "09:24",
+      "eta_rueb_kiel": "09:23",
       "eta_rueb": "09:10",
       "ship": "ENDELO SWAN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:24",
+      "eta_rueb_kiel": "11:23",
       "eta_rueb": "11:30",
       "ship": "CALAMAR",
       "q_gruppe": "5",
