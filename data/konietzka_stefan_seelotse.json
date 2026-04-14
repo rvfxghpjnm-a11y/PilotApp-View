@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T13:42:37",
+  "generated_at": "2026-04-14T13:44:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Lutz Jeske",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Apr 14 13:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Apr 14 13:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -64,8 +64,8 @@
       "name": "Georg Krahn",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "STARNES",
+      "route": "KO2 → SHF",
       "time": "Tue Apr 14 13:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -222,14 +222,14 @@
       "time": "Tue Apr 14 09:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:05",
-        "eta_rueb": "14:16",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "14:15",
+        "delta_rueb_schleuse": "04:50",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "14:16",
+      "eta_rueb": "14:15",
       "eta_schleuse": "19:05",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:50",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -284,14 +284,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 06:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:48",
+        "eta_schleuse": "15:46",
         "eta_rueb": "12:16",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "12:16",
-      "eta_schleuse": "15:48",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "15:46",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:18"
     },
     {
@@ -301,8 +301,8 @@
       "name": "Sven Janson",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Apr 14 06:38:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -450,14 +450,14 @@
       "time": "Tue Apr 14 09:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:05",
-        "eta_rueb": "14:16",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "14:15",
+        "delta_rueb_schleuse": "04:50",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "14:16",
+      "eta_rueb": "14:15",
       "eta_schleuse": "19:05",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:50",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -512,14 +512,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 06:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:48",
+        "eta_schleuse": "15:46",
         "eta_rueb": "12:16",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "12:16",
-      "eta_schleuse": "15:48",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "15:46",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:18"
     },
     {
