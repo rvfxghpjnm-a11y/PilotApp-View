@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T19:52:38",
+  "generated_at": "2026-04-14T19:54:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -563,11 +563,25 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": "00:52",
+      "eta_rueb": "01:45",
+      "ship": "UNDEN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": null,
       "eta_rueb": "08:00",
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "22:45",
+      "ship": "GOTLAND",
+      "q_gruppe": "5",
+      "route": "KRH → HOS"
     },
     {
       "eta_rueb_kiel": null,
