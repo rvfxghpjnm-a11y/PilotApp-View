@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T21:44:37",
+  "generated_at": "2026-04-14T21:46:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,16 +40,11 @@
       "fahrzeug": "MONTROSE",
       "route": "HOS → KLT",
       "time": "Tue Apr 14 21:13:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:42",
-        "eta_rueb": "17:44",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "17:44",
-      "eta_schleuse": "21:42",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -337,16 +332,11 @@
       "fahrzeug": "MONTROSE",
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 09:18:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:42",
-        "eta_rueb": "17:44",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "17:44",
-      "eta_schleuse": "21:42",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -556,16 +546,11 @@
       "fahrzeug": "MONTROSE",
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 09:18:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:42",
-        "eta_rueb": "17:44",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:16"
-      },
-      "eta_rueb": "17:44",
-      "eta_schleuse": "21:42",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:16"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -606,7 +591,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:02",
+      "eta_rueb_kiel": "02:01",
       "eta_rueb": "01:56",
       "ship": "CARELIE",
       "q_gruppe": "4",
