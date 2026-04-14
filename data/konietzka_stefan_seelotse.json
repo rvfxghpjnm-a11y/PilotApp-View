@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T06:54:37",
+  "generated_at": "2026-04-14T06:56:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -152,9 +152,14 @@
       "fahrzeug": "TERN FORS",
       "route": "HOS → RÜB",
       "time": "Tue Apr 14 04:33:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -189,11 +194,16 @@
       "fahrzeug": "KAURI",
       "route": "HOS → RÜB",
       "time": "Tue Apr 14 04:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:49",
+        "eta_rueb": "10:22",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:26"
+      },
+      "eta_rueb": "10:22",
+      "eta_schleuse": "14:49",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -205,11 +215,16 @@
       "fahrzeug": "MARJATTA",
       "route": "HOR → RÜB",
       "time": "Tue Apr 14 04:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:53",
+        "eta_rueb": "10:26",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "10:26",
+      "eta_schleuse": "14:53",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -287,8 +302,8 @@
       "name": "Michael Arndt",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Tue Apr 14 03:27:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -340,8 +355,8 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 14 01:01:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -356,8 +371,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 14 00:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -372,8 +387,8 @@
       "name": "Jan Hilpert",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 14 00:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -446,19 +461,14 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 26,
-      "fahrzeug": "LUEHE",
-      "route": "GAK → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 21:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:27",
-        "eta_rueb": "06:59",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "01:07"
-      },
-      "eta_rueb": "06:59",
-      "eta_schleuse": "11:27",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "01:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -578,9 +588,14 @@
       "fahrzeug": "TERN FORS",
       "route": "HOS → RÜB",
       "time": "Tue Apr 14 04:33:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:53",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -615,11 +630,16 @@
       "fahrzeug": "KAURI",
       "route": "HOS → RÜB",
       "time": "Tue Apr 14 04:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:49",
+        "eta_rueb": "10:22",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:26"
+      },
+      "eta_rueb": "10:22",
+      "eta_schleuse": "14:49",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -631,11 +651,16 @@
       "fahrzeug": "MARJATTA",
       "route": "HOR → RÜB",
       "time": "Tue Apr 14 04:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:53",
+        "eta_rueb": "10:26",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "10:26",
+      "eta_schleuse": "14:53",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -686,8 +711,8 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 14 01:01:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -702,8 +727,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 14 00:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -718,8 +743,8 @@
       "name": "Jan Hilpert",
       "aufgabe": "Kanalbört",
       "nr": 22,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 14 00:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -776,19 +801,14 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 26,
-      "fahrzeug": "LUEHE",
-      "route": "GAK → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 21:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:27",
-        "eta_rueb": "06:59",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "01:07"
-      },
-      "eta_rueb": "06:59",
-      "eta_schleuse": "11:27",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "01:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -835,13 +855,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "07:00",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "07:30",
