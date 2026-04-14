@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T02:26:37",
+  "generated_at": "2026-04-14T02:28:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -44,9 +44,14 @@
       "fahrzeug": "NORDLAND",
       "route": "HOS → RÜB",
       "time": "Tue Apr 14 01:01:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -489,9 +494,14 @@
       "fahrzeug": "NORDLAND",
       "route": "HOS → RÜB",
       "time": "Tue Apr 14 01:01:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:29",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:29",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
