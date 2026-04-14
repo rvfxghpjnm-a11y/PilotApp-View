@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T05:14:45",
+  "generated_at": "2026-04-14T05:16:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -311,15 +311,15 @@
       "route": "HOR → RÜB",
       "time": "Tue Apr 14 00:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:57",
-        "eta_rueb": "05:30",
+        "eta_schleuse": "09:55",
+        "eta_rueb": "05:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:06"
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": "05:30",
-      "eta_schleuse": "09:57",
+      "eta_rueb": "05:28",
+      "eta_schleuse": "09:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:06"
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -376,8 +376,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LUEHE",
+      "route": "GAK → RÜB",
       "time": "Mon Apr 13 21:56:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -725,15 +725,15 @@
       "route": "HOR → RÜB",
       "time": "Tue Apr 14 00:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:57",
-        "eta_rueb": "05:30",
+        "eta_schleuse": "09:55",
+        "eta_rueb": "05:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:06"
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": "05:30",
-      "eta_schleuse": "09:57",
+      "eta_rueb": "05:28",
+      "eta_schleuse": "09:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:06"
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -758,8 +758,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LUEHE",
+      "route": "GAK → RÜB",
       "time": "Mon Apr 13 21:56:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -909,13 +909,6 @@
       "ship": "JOLIE",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "06:00",
-      "ship": "LUEHE",
-      "q_gruppe": "5",
-      "route": "GAK → RÜB"
     }
   ]
 }
