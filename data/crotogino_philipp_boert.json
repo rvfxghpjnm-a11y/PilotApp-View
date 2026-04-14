@@ -1,367 +1,19 @@
 {
-  "generated_at": "2026-04-14T03:16:38",
+  "generated_at": "2026-04-14T03:18:37",
   "status": "boert",
-  "person": null,
+  "person": {
+    "vorname": "philipp",
+    "nachname": "crotogino",
+    "pos": 65,
+    "times": {
+      "calc_div2": "Mi11:48",
+      "calc_div3": "Mi00:58",
+      "from_meldung": "Mi03:00",
+      "from_meldung_alt": null
+    }
+  },
   "times": null,
-  "tauschpartner": [],
-  "lotsen": [
-    {
-      "is_target": false,
-      "pos": 1,
-      "vorname": "Michael",
-      "nachname": "Arndt",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 03:04:59 CEST 2026",
-      "times": {
-        "calc_div2": "Di03:46",
-        "calc_div3": "Di03:36",
-        "from_meldung": "Di04:00",
-        "from_meldung_alt": "Di04:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 2,
-      "vorname": "Helge",
-      "nachname": "Buch",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 03:06:59 CEST 2026",
-      "times": {
-        "calc_div2": "Di04:16",
-        "calc_div3": "Di03:56",
-        "from_meldung": "Di04:00",
-        "from_meldung_alt": "Di04:00"
-      },
-      "bemerkung": "30 min"
-    },
-    {
-      "is_target": false,
-      "pos": 3,
-      "vorname": "Dolf",
-      "nachname": "Jenckel",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 03:00:59 CEST 2026",
-      "times": {
-        "calc_div2": "Di04:46",
-        "calc_div3": "Di04:16",
-        "from_meldung": "Di04:00",
-        "from_meldung_alt": "Di04:03"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 4,
-      "vorname": "Hüseyin",
-      "nachname": "Ünsal",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 23:35:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di05:16",
-        "calc_div3": "Di04:36",
-        "from_meldung": "Di04:00",
-        "from_meldung_alt": "Di04:10"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 5,
-      "vorname": "Martin",
-      "nachname": "Wachsmuth",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 00:04:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di05:46",
-        "calc_div3": "Di04:56",
-        "from_meldung": "Di04:03",
-        "from_meldung_alt": "Di04:15"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 6,
-      "vorname": "Hartmut",
-      "nachname": "Köller",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 00:45:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di06:16",
-        "calc_div3": "Di05:16",
-        "from_meldung": "Di04:10",
-        "from_meldung_alt": "Di04:45"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 7,
-      "vorname": "Hannes",
-      "nachname": "Rink",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 00:49:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di06:46",
-        "calc_div3": "Di05:36",
-        "from_meldung": "Di04:15",
-        "from_meldung_alt": "Di04:45"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 8,
-      "vorname": "Volker",
-      "nachname": "Kahler",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 01:01:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di07:16",
-        "calc_div3": "Di05:56",
-        "from_meldung": "Di04:45",
-        "from_meldung_alt": "Di05:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 9,
-      "vorname": "Tomas",
-      "nachname": "Witte",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 02:14:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di07:46",
-        "calc_div3": "Di06:16",
-        "from_meldung": "Di04:45",
-        "from_meldung_alt": "Di05:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 10,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Tue Apr 14 03:00:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di08:16",
-        "calc_div3": "Di06:36",
-        "from_meldung": "Di05:00",
-        "from_meldung_alt": "Di05:07"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 11,
-      "vorname": "Florian",
-      "nachname": "Koch",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 21:28:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di08:46",
-        "calc_div3": "Di06:56",
-        "from_meldung": "Di05:00",
-        "from_meldung_alt": "Di05:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 12,
-      "vorname": "Hark",
-      "nachname": "Borggräfe",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 21:39:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di09:16",
-        "calc_div3": "Di07:16",
-        "from_meldung": "Di05:00",
-        "from_meldung_alt": "Di06:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 13,
-      "vorname": "Christian",
-      "nachname": "Wille",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 21:43:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di09:46",
-        "calc_div3": "Di07:36",
-        "from_meldung": "Di05:07",
-        "from_meldung_alt": "Di06:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 14,
-      "vorname": "Sven",
-      "nachname": "Janson",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di10:16",
-        "calc_div3": "Di07:56",
-        "from_meldung": "Di05:30",
-        "from_meldung_alt": "Di06:30"
-      },
-      "bemerkung": "k. 10te"
-    },
-    {
-      "is_target": false,
-      "pos": 15,
-      "vorname": "Merten",
-      "nachname": "Wachs",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 21:53:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di10:46",
-        "calc_div3": "Di08:16",
-        "from_meldung": "Di06:00",
-        "from_meldung_alt": "Di06:50"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 16,
-      "vorname": "Jens Michael",
-      "nachname": "Rohn",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 22:18:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di11:16",
-        "calc_div3": "Di08:36",
-        "from_meldung": "Di06:30",
-        "from_meldung_alt": "Di07:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 17,
-      "vorname": "Torben",
-      "nachname": "Keyser",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 22:18:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di11:46",
-        "calc_div3": "Di08:56",
-        "from_meldung": "Di06:30",
-        "from_meldung_alt": "Di07:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 18,
-      "vorname": "Kai",
-      "nachname": "Heyenga",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 23:00:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di12:16",
-        "calc_div3": "Di09:16",
-        "from_meldung": "Di06:50",
-        "from_meldung_alt": "Di07:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 19,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Sun Apr 12 23:08:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di12:46",
-        "calc_div3": "Di09:36",
-        "from_meldung": "Di07:00",
-        "from_meldung_alt": "Di07:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 20,
-      "vorname": "Oliver",
-      "nachname": "Schran",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di13:16",
-        "calc_div3": "Di09:56",
-        "from_meldung": "Di07:00",
-        "from_meldung_alt": "Di07:15"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 21,
-      "vorname": "Sebastian",
-      "nachname": "Klein",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 00:51:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di13:46",
-        "calc_div3": "Di10:16",
-        "from_meldung": "Di07:00",
-        "from_meldung_alt": "Di07:20"
-      },
-      "bemerkung": ""
-    },
+  "tauschpartner": [
     {
       "is_target": false,
       "pos": 22,
@@ -372,95 +24,10 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 00:54:00 CEST 2026",
       "times": {
-        "calc_div2": "Di14:16",
-        "calc_div3": "Di10:36",
+        "calc_div2": "Di14:18",
+        "calc_div3": "Di10:38",
         "from_meldung": "Di07:00",
         "from_meldung_alt": "Di08:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 23,
-      "vorname": "Andreas",
-      "nachname": "Arlt",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 00:54:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di14:46",
-        "calc_div3": "Di10:56",
-        "from_meldung": "Di07:00",
-        "from_meldung_alt": "Di08:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 24,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 00:55:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di15:16",
-        "calc_div3": "Di11:16",
-        "from_meldung": "Di07:00",
-        "from_meldung_alt": "Di08:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 25,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 01:41:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di15:46",
-        "calc_div3": "Di11:36",
-        "from_meldung": "Di07:15",
-        "from_meldung_alt": "Di10:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 26,
-      "vorname": "Olaf",
-      "nachname": "Tontarra",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 01:43:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di16:16",
-        "calc_div3": "Di11:56",
-        "from_meldung": "Di07:20",
-        "from_meldung_alt": "Di10:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 27,
-      "vorname": "Oleif Johann",
-      "nachname": "Böttger",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 03:35:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di16:46",
-        "calc_div3": "Di12:16",
-        "from_meldung": "Di07:30",
-        "from_meldung_alt": "Di10:30"
       },
       "bemerkung": ""
     },
@@ -474,25 +41,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 03:53:00 CEST 2026",
       "times": {
-        "calc_div2": "Di17:16",
-        "calc_div3": "Di12:36",
-        "from_meldung": "Di08:00",
-        "from_meldung_alt": "Di11:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 29,
-      "vorname": "Lutz",
-      "nachname": "Jeske",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 04:30:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di17:46",
-        "calc_div3": "Di12:56",
+        "calc_div2": "Di17:18",
+        "calc_div3": "Di12:38",
         "from_meldung": "Di08:00",
         "from_meldung_alt": "Di11:00"
       },
@@ -508,44 +58,10 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 05:10:00 CEST 2026",
       "times": {
-        "calc_div2": "Di18:16",
-        "calc_div3": "Di13:16",
+        "calc_div2": "Di18:18",
+        "calc_div3": "Di13:18",
         "from_meldung": "Di08:30",
         "from_meldung_alt": "Di12:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 31,
-      "vorname": "Christian",
-      "nachname": "Lehwald",
-      "arrow": "↑$$",
-      "richtung": "↑",
-      "verguetung": true,
-      "zeit": "Mon Apr 13 06:28:09 CEST 2026",
-      "times": {
-        "calc_div2": "Di18:46",
-        "calc_div3": "Di13:36",
-        "from_meldung": "Di08:35",
-        "from_meldung_alt": "Di13:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 32,
-      "vorname": "Erskine",
-      "nachname": "Schuh",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di19:16",
-        "calc_div3": "Di13:56",
-        "from_meldung": "Di09:00",
-        "from_meldung_alt": "Di13:00"
       },
       "bemerkung": ""
     },
@@ -559,44 +75,10 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 06:37:00 CEST 2026",
       "times": {
-        "calc_div2": "Di19:46",
-        "calc_div3": "Di14:16",
+        "calc_div2": "Di19:48",
+        "calc_div3": "Di14:18",
         "from_meldung": "Di09:00",
         "from_meldung_alt": "Di13:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 34,
-      "vorname": "Denny",
-      "nachname": "Pankonin",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 06:53:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di20:16",
-        "calc_div3": "Di14:36",
-        "from_meldung": "Di09:30",
-        "from_meldung_alt": "Di14:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 35,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 07:20:29 CEST 2026",
-      "times": {
-        "calc_div2": "Di20:46",
-        "calc_div3": "Di14:56",
-        "from_meldung": "Di10:00",
-        "from_meldung_alt": "Di14:30"
       },
       "bemerkung": ""
     },
@@ -610,78 +92,10 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 09:00:00 CEST 2026",
       "times": {
-        "calc_div2": "Di21:16",
-        "calc_div3": "Di15:16",
+        "calc_div2": "Di21:18",
+        "calc_div3": "Di15:18",
         "from_meldung": "Di10:00",
         "from_meldung_alt": "Di15:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 37,
-      "vorname": "Alexander",
-      "nachname": "Migge",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 09:19:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di21:46",
-        "calc_div3": "Di15:36",
-        "from_meldung": "Di10:00",
-        "from_meldung_alt": "Di15:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 38,
-      "vorname": "Nickolaj",
-      "nachname": "Groen",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 09:46:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di22:16",
-        "calc_div3": "Di15:56",
-        "from_meldung": "Di10:30",
-        "from_meldung_alt": "Di15:30"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 39,
-      "vorname": "Marius",
-      "nachname": "Schüler",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 09:46:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di22:46",
-        "calc_div3": "Di16:16",
-        "from_meldung": "Di11:00",
-        "from_meldung_alt": "Di16:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 40,
-      "vorname": "Kevin",
-      "nachname": "Koslik",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 12:49:00 CEST 2026",
-      "times": {
-        "calc_div2": "Di23:16",
-        "calc_div3": "Di16:36",
-        "from_meldung": "Di11:00",
-        "from_meldung_alt": "Di19:00"
       },
       "bemerkung": ""
     },
@@ -695,27 +109,10 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 14:02:00 CEST 2026",
       "times": {
-        "calc_div2": "Di23:46",
-        "calc_div3": "Di16:56",
+        "calc_div2": "Di23:48",
+        "calc_div3": "Di16:58",
         "from_meldung": "Di11:00",
         "from_meldung_alt": "Di19:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 42,
-      "vorname": "Christoph",
-      "nachname": "Bodmann",
-      "arrow": null,
-      "richtung": null,
-      "verguetung": false,
-      "zeit": "Mon Apr 13 14:20:48 CEST 2026",
-      "times": {
-        "calc_div2": "Mi00:16",
-        "calc_div3": "Di17:16",
-        "from_meldung": "Di12:00",
-        "from_meldung_alt": "Di20:00"
       },
       "bemerkung": ""
     },
@@ -729,8 +126,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 14:45:38 CEST 2026",
       "times": {
-        "calc_div2": "Mi00:46",
-        "calc_div3": "Di17:36",
+        "calc_div2": "Mi00:48",
+        "calc_div3": "Di17:38",
         "from_meldung": "Di13:00",
         "from_meldung_alt": "Di21:00"
       },
@@ -746,8 +143,775 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 14:45:43 CEST 2026",
       "times": {
-        "calc_div2": "Mi01:16",
-        "calc_div3": "Di17:56",
+        "calc_div2": "Mi01:18",
+        "calc_div3": "Di17:58",
+        "from_meldung": "Di13:00",
+        "from_meldung_alt": "Mi01:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 63,
+      "vorname": "Sascha",
+      "nachname": "Külzer",
+      "arrow": "↓$$",
+      "richtung": "↓",
+      "verguetung": true,
+      "zeit": "Tue Apr 14 01:53:00 CEST 2026",
+      "times": {
+        "calc_div2": "Mi10:48",
+        "calc_div3": "Mi00:18",
+        "from_meldung": "Mi02:00",
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    }
+  ],
+  "lotsen": [
+    {
+      "is_target": false,
+      "pos": 1,
+      "vorname": "Michael",
+      "nachname": "Arndt",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 03:04:59 CEST 2026",
+      "times": {
+        "calc_div2": "Di03:48",
+        "calc_div3": "Di03:38",
+        "from_meldung": "Di04:00",
+        "from_meldung_alt": "Di04:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 2,
+      "vorname": "Helge",
+      "nachname": "Buch",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 03:06:59 CEST 2026",
+      "times": {
+        "calc_div2": "Di04:18",
+        "calc_div3": "Di03:58",
+        "from_meldung": "Di04:00",
+        "from_meldung_alt": "Di04:00"
+      },
+      "bemerkung": "30 min"
+    },
+    {
+      "is_target": false,
+      "pos": 3,
+      "vorname": "Dolf",
+      "nachname": "Jenckel",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 03:00:59 CEST 2026",
+      "times": {
+        "calc_div2": "Di04:48",
+        "calc_div3": "Di04:18",
+        "from_meldung": "Di04:00",
+        "from_meldung_alt": "Di04:03"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 4,
+      "vorname": "Hüseyin",
+      "nachname": "Ünsal",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 23:35:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di05:18",
+        "calc_div3": "Di04:38",
+        "from_meldung": "Di04:00",
+        "from_meldung_alt": "Di04:10"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 5,
+      "vorname": "Martin",
+      "nachname": "Wachsmuth",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 00:04:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di05:48",
+        "calc_div3": "Di04:58",
+        "from_meldung": "Di04:03",
+        "from_meldung_alt": "Di04:15"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 6,
+      "vorname": "Hartmut",
+      "nachname": "Köller",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 00:45:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di06:18",
+        "calc_div3": "Di05:18",
+        "from_meldung": "Di04:10",
+        "from_meldung_alt": "Di04:45"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 7,
+      "vorname": "Hannes",
+      "nachname": "Rink",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 00:49:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di06:48",
+        "calc_div3": "Di05:38",
+        "from_meldung": "Di04:15",
+        "from_meldung_alt": "Di04:45"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 8,
+      "vorname": "Volker",
+      "nachname": "Kahler",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 01:01:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di07:18",
+        "calc_div3": "Di05:58",
+        "from_meldung": "Di04:45",
+        "from_meldung_alt": "Di05:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 9,
+      "vorname": "Tomas",
+      "nachname": "Witte",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 02:14:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di07:48",
+        "calc_div3": "Di06:18",
+        "from_meldung": "Di04:45",
+        "from_meldung_alt": "Di05:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 10,
+      "vorname": "Stefan",
+      "nachname": "Bruhn",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 03:00:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di08:18",
+        "calc_div3": "Di06:38",
+        "from_meldung": "Di05:00",
+        "from_meldung_alt": "Di05:07"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 11,
+      "vorname": "Florian",
+      "nachname": "Koch",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 21:28:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di08:48",
+        "calc_div3": "Di06:58",
+        "from_meldung": "Di05:00",
+        "from_meldung_alt": "Di05:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 12,
+      "vorname": "Hark",
+      "nachname": "Borggräfe",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 21:39:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di09:18",
+        "calc_div3": "Di07:18",
+        "from_meldung": "Di05:00",
+        "from_meldung_alt": "Di06:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 13,
+      "vorname": "Christian",
+      "nachname": "Wille",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 21:43:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di09:48",
+        "calc_div3": "Di07:38",
+        "from_meldung": "Di05:07",
+        "from_meldung_alt": "Di06:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 14,
+      "vorname": "Sven",
+      "nachname": "Janson",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di10:18",
+        "calc_div3": "Di07:58",
+        "from_meldung": "Di05:30",
+        "from_meldung_alt": "Di06:30"
+      },
+      "bemerkung": "k. 10te"
+    },
+    {
+      "is_target": false,
+      "pos": 15,
+      "vorname": "Merten",
+      "nachname": "Wachs",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 21:53:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di10:48",
+        "calc_div3": "Di08:18",
+        "from_meldung": "Di06:00",
+        "from_meldung_alt": "Di06:50"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 16,
+      "vorname": "Jens Michael",
+      "nachname": "Rohn",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 22:18:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di11:18",
+        "calc_div3": "Di08:38",
+        "from_meldung": "Di06:30",
+        "from_meldung_alt": "Di07:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 17,
+      "vorname": "Torben",
+      "nachname": "Keyser",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 22:18:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di11:48",
+        "calc_div3": "Di08:58",
+        "from_meldung": "Di06:30",
+        "from_meldung_alt": "Di07:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 18,
+      "vorname": "Kai",
+      "nachname": "Heyenga",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 23:00:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di12:18",
+        "calc_div3": "Di09:18",
+        "from_meldung": "Di06:50",
+        "from_meldung_alt": "Di07:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 19,
+      "vorname": "Heiko",
+      "nachname": "Hoffmann",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Sun Apr 12 23:08:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di12:48",
+        "calc_div3": "Di09:38",
+        "from_meldung": "Di07:00",
+        "from_meldung_alt": "Di07:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 20,
+      "vorname": "Oliver",
+      "nachname": "Schran",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di13:18",
+        "calc_div3": "Di09:58",
+        "from_meldung": "Di07:00",
+        "from_meldung_alt": "Di07:15"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 21,
+      "vorname": "Sebastian",
+      "nachname": "Klein",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 00:51:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di13:48",
+        "calc_div3": "Di10:18",
+        "from_meldung": "Di07:00",
+        "from_meldung_alt": "Di07:20"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 22,
+      "vorname": "Peter",
+      "nachname": "Jakob",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 00:54:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di14:18",
+        "calc_div3": "Di10:38",
+        "from_meldung": "Di07:00",
+        "from_meldung_alt": "Di08:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 23,
+      "vorname": "Andreas",
+      "nachname": "Arlt",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 00:54:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di14:48",
+        "calc_div3": "Di10:58",
+        "from_meldung": "Di07:00",
+        "from_meldung_alt": "Di08:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 24,
+      "vorname": "Sören",
+      "nachname": "Engler",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 00:55:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di15:18",
+        "calc_div3": "Di11:18",
+        "from_meldung": "Di07:00",
+        "from_meldung_alt": "Di08:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 25,
+      "vorname": "Steffen",
+      "nachname": "Zimmermann",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 01:41:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di15:48",
+        "calc_div3": "Di11:38",
+        "from_meldung": "Di07:15",
+        "from_meldung_alt": "Di10:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 26,
+      "vorname": "Olaf",
+      "nachname": "Tontarra",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 01:43:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di16:18",
+        "calc_div3": "Di11:58",
+        "from_meldung": "Di07:20",
+        "from_meldung_alt": "Di10:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 27,
+      "vorname": "Oleif Johann",
+      "nachname": "Böttger",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 03:35:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di16:48",
+        "calc_div3": "Di12:18",
+        "from_meldung": "Di07:30",
+        "from_meldung_alt": "Di10:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 28,
+      "vorname": "Claas",
+      "nachname": "Cramer",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 03:53:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di17:18",
+        "calc_div3": "Di12:38",
+        "from_meldung": "Di08:00",
+        "from_meldung_alt": "Di11:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 29,
+      "vorname": "Lutz",
+      "nachname": "Jeske",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 04:30:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di17:48",
+        "calc_div3": "Di12:58",
+        "from_meldung": "Di08:00",
+        "from_meldung_alt": "Di11:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 30,
+      "vorname": "Maximilian",
+      "nachname": "Türk",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 05:10:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di18:18",
+        "calc_div3": "Di13:18",
+        "from_meldung": "Di08:30",
+        "from_meldung_alt": "Di12:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 31,
+      "vorname": "Christian",
+      "nachname": "Lehwald",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Mon Apr 13 06:28:09 CEST 2026",
+      "times": {
+        "calc_div2": "Di18:48",
+        "calc_div3": "Di13:38",
+        "from_meldung": "Di08:35",
+        "from_meldung_alt": "Di13:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 32,
+      "vorname": "Erskine",
+      "nachname": "Schuh",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di19:18",
+        "calc_div3": "Di13:58",
+        "from_meldung": "Di09:00",
+        "from_meldung_alt": "Di13:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 33,
+      "vorname": "Johannes",
+      "nachname": "Biedermann",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 06:37:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di19:48",
+        "calc_div3": "Di14:18",
+        "from_meldung": "Di09:00",
+        "from_meldung_alt": "Di13:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 34,
+      "vorname": "Denny",
+      "nachname": "Pankonin",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 06:53:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di20:18",
+        "calc_div3": "Di14:38",
+        "from_meldung": "Di09:30",
+        "from_meldung_alt": "Di14:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 35,
+      "vorname": "Thomas",
+      "nachname": "Skairies",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 07:20:29 CEST 2026",
+      "times": {
+        "calc_div2": "Di20:48",
+        "calc_div3": "Di14:58",
+        "from_meldung": "Di10:00",
+        "from_meldung_alt": "Di14:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 36,
+      "vorname": "Henning",
+      "nachname": "Blome",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:00:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di21:18",
+        "calc_div3": "Di15:18",
+        "from_meldung": "Di10:00",
+        "from_meldung_alt": "Di15:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 37,
+      "vorname": "Alexander",
+      "nachname": "Migge",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:19:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di21:48",
+        "calc_div3": "Di15:38",
+        "from_meldung": "Di10:00",
+        "from_meldung_alt": "Di15:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 38,
+      "vorname": "Nickolaj",
+      "nachname": "Groen",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:46:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di22:18",
+        "calc_div3": "Di15:58",
+        "from_meldung": "Di10:30",
+        "from_meldung_alt": "Di15:30"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 39,
+      "vorname": "Marius",
+      "nachname": "Schüler",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 09:46:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di22:48",
+        "calc_div3": "Di16:18",
+        "from_meldung": "Di11:00",
+        "from_meldung_alt": "Di16:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 40,
+      "vorname": "Kevin",
+      "nachname": "Koslik",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 12:49:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di23:18",
+        "calc_div3": "Di16:38",
+        "from_meldung": "Di11:00",
+        "from_meldung_alt": "Di19:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 41,
+      "vorname": "Gerhard",
+      "nachname": "Alt",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 14:02:00 CEST 2026",
+      "times": {
+        "calc_div2": "Di23:48",
+        "calc_div3": "Di16:58",
+        "from_meldung": "Di11:00",
+        "from_meldung_alt": "Di19:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 42,
+      "vorname": "Christoph",
+      "nachname": "Bodmann",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Mon Apr 13 14:20:48 CEST 2026",
+      "times": {
+        "calc_div2": "Mi00:18",
+        "calc_div3": "Di17:18",
+        "from_meldung": "Di12:00",
+        "from_meldung_alt": "Di20:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 43,
+      "vorname": "Nik",
+      "nachname": "Suermann",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 14:45:38 CEST 2026",
+      "times": {
+        "calc_div2": "Mi00:48",
+        "calc_div3": "Di17:38",
+        "from_meldung": "Di13:00",
+        "from_meldung_alt": "Di21:00"
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 44,
+      "vorname": "Justus",
+      "nachname": "Heyder",
+      "arrow": "↓",
+      "richtung": "↓",
+      "verguetung": false,
+      "zeit": "Mon Apr 13 14:45:43 CEST 2026",
+      "times": {
+        "calc_div2": "Mi01:18",
+        "calc_div3": "Di17:58",
         "from_meldung": "Di13:00",
         "from_meldung_alt": "Mi01:30"
       },
@@ -763,8 +927,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 14:46:03 CEST 2026",
       "times": {
-        "calc_div2": "Mi01:46",
-        "calc_div3": "Di18:16",
+        "calc_div2": "Mi01:48",
+        "calc_div3": "Di18:18",
         "from_meldung": "Di13:00",
         "from_meldung_alt": "Mi03:00"
       },
@@ -780,8 +944,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 14:53:35 CEST 2026",
       "times": {
-        "calc_div2": "Mi02:16",
-        "calc_div3": "Di18:36",
+        "calc_div2": "Mi02:18",
+        "calc_div3": "Di18:38",
         "from_meldung": "Di13:30",
         "from_meldung_alt": "Mi03:00"
       },
@@ -797,8 +961,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 16:04:08 CEST 2026",
       "times": {
-        "calc_div2": "Mi02:46",
-        "calc_div3": "Di18:56",
+        "calc_div2": "Mi02:48",
+        "calc_div3": "Di18:58",
         "from_meldung": "Di13:30",
         "from_meldung_alt": null
       },
@@ -814,8 +978,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 16:44:33 CEST 2026",
       "times": {
-        "calc_div2": "Mi03:16",
-        "calc_div3": "Di19:16",
+        "calc_div2": "Mi03:18",
+        "calc_div3": "Di19:18",
         "from_meldung": "Di14:00",
         "from_meldung_alt": null
       },
@@ -831,8 +995,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 17:05:49 CEST 2026",
       "times": {
-        "calc_div2": "Mi03:46",
-        "calc_div3": "Di19:36",
+        "calc_div2": "Mi03:48",
+        "calc_div3": "Di19:38",
         "from_meldung": "Di14:30",
         "from_meldung_alt": null
       },
@@ -848,8 +1012,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 18:37:44 CEST 2026",
       "times": {
-        "calc_div2": "Mi04:16",
-        "calc_div3": "Di19:56",
+        "calc_div2": "Mi04:18",
+        "calc_div3": "Di19:58",
         "from_meldung": "Di14:30",
         "from_meldung_alt": null
       },
@@ -865,8 +1029,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 18:42:06 CEST 2026",
       "times": {
-        "calc_div2": "Mi04:46",
-        "calc_div3": "Di20:16",
+        "calc_div2": "Mi04:48",
+        "calc_div3": "Di20:18",
         "from_meldung": "Di15:00",
         "from_meldung_alt": null
       },
@@ -882,8 +1046,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 20:30:52 CEST 2026",
       "times": {
-        "calc_div2": "Mi05:16",
-        "calc_div3": "Di20:36",
+        "calc_div2": "Mi05:18",
+        "calc_div3": "Di20:38",
         "from_meldung": "Di15:00",
         "from_meldung_alt": null
       },
@@ -899,8 +1063,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 20:34:55 CEST 2026",
       "times": {
-        "calc_div2": "Mi05:46",
-        "calc_div3": "Di20:56",
+        "calc_div2": "Mi05:48",
+        "calc_div3": "Di20:58",
         "from_meldung": "Di15:00",
         "from_meldung_alt": null
       },
@@ -916,8 +1080,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 21:25:30 CEST 2026",
       "times": {
-        "calc_div2": "Mi06:16",
-        "calc_div3": "Di21:16",
+        "calc_div2": "Mi06:18",
+        "calc_div3": "Di21:18",
         "from_meldung": "Di15:30",
         "from_meldung_alt": null
       },
@@ -933,8 +1097,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 21:50:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi06:46",
-        "calc_div3": "Di21:36",
+        "calc_div2": "Mi06:48",
+        "calc_div3": "Di21:38",
         "from_meldung": "Di16:00",
         "from_meldung_alt": null
       },
@@ -950,8 +1114,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 22:20:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi07:16",
-        "calc_div3": "Di21:56",
+        "calc_div2": "Mi07:18",
+        "calc_div3": "Di21:58",
         "from_meldung": "Di16:30",
         "from_meldung_alt": null
       },
@@ -967,8 +1131,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 22:24:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi07:46",
-        "calc_div3": "Di22:16",
+        "calc_div2": "Mi07:48",
+        "calc_div3": "Di22:18",
         "from_meldung": "Di19:00",
         "from_meldung_alt": null
       },
@@ -984,8 +1148,8 @@
       "verguetung": false,
       "zeit": "Mon Apr 13 22:34:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi08:16",
-        "calc_div3": "Di22:36",
+        "calc_div2": "Mi08:18",
+        "calc_div3": "Di22:38",
         "from_meldung": "Di19:00",
         "from_meldung_alt": null
       },
@@ -1001,8 +1165,8 @@
       "verguetung": false,
       "zeit": "Tue Apr 14 00:10:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi08:46",
-        "calc_div3": "Di22:56",
+        "calc_div2": "Mi08:48",
+        "calc_div3": "Di22:58",
         "from_meldung": "Di20:00",
         "from_meldung_alt": null
       },
@@ -1018,8 +1182,8 @@
       "verguetung": false,
       "zeit": "Tue Apr 14 00:13:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi09:16",
-        "calc_div3": "Di23:16",
+        "calc_div2": "Mi09:18",
+        "calc_div3": "Di23:18",
         "from_meldung": "Di20:00",
         "from_meldung_alt": null
       },
@@ -1035,8 +1199,8 @@
       "verguetung": false,
       "zeit": "Tue Apr 14 00:51:07 CEST 2026",
       "times": {
-        "calc_div2": "Mi09:46",
-        "calc_div3": "Di23:36",
+        "calc_div2": "Mi09:48",
+        "calc_div3": "Di23:38",
         "from_meldung": "Di21:00",
         "from_meldung_alt": null
       },
@@ -1052,8 +1216,8 @@
       "verguetung": true,
       "zeit": "Tue Apr 14 01:37:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi10:16",
-        "calc_div3": "Di23:56",
+        "calc_div2": "Mi10:18",
+        "calc_div3": "Di23:58",
         "from_meldung": "Mi01:30",
         "from_meldung_alt": null
       },
@@ -1069,8 +1233,8 @@
       "verguetung": true,
       "zeit": "Tue Apr 14 01:53:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi10:46",
-        "calc_div3": "Mi00:16",
+        "calc_div2": "Mi10:48",
+        "calc_div3": "Mi00:18",
         "from_meldung": "Mi02:00",
         "from_meldung_alt": null
       },
@@ -1086,9 +1250,26 @@
       "verguetung": false,
       "zeit": "Tue Apr 14 02:20:00 CEST 2026",
       "times": {
-        "calc_div2": "Mi11:16",
-        "calc_div3": "Mi00:36",
+        "calc_div2": "Mi11:18",
+        "calc_div3": "Mi00:38",
         "from_meldung": "Mi02:00",
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": true,
+      "pos": 65,
+      "vorname": "Philipp",
+      "nachname": "Crotogino",
+      "arrow": null,
+      "richtung": null,
+      "verguetung": false,
+      "zeit": "Tue Apr 14 03:16:00 CEST 2026",
+      "times": {
+        "calc_div2": "Mi11:48",
+        "calc_div3": "Mi00:58",
+        "from_meldung": "Mi03:00",
         "from_meldung_alt": null
       },
       "bemerkung": ""
