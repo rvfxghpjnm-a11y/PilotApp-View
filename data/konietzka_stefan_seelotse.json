@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T06:52:38",
+  "generated_at": "2026-04-14T06:54:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -168,11 +168,16 @@
       "fahrzeug": "HAV GROUPER",
       "route": "HOR → RÜB",
       "time": "Tue Apr 14 04:33:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:42",
+        "eta_rueb": "10:15",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:21"
+      },
+      "eta_rueb": "10:15",
+      "eta_schleuse": "14:42",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -335,19 +340,14 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "NORDLAND",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 14 01:01:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:24",
-        "eta_rueb": "06:56",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "06:56",
-      "eta_schleuse": "11:24",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -594,11 +594,16 @@
       "fahrzeug": "HAV GROUPER",
       "route": "HOR → RÜB",
       "time": "Tue Apr 14 04:33:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:42",
+        "eta_rueb": "10:15",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:21"
+      },
+      "eta_rueb": "10:15",
+      "eta_schleuse": "14:42",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -681,19 +686,14 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "NORDLAND",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 14 01:01:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:24",
-        "eta_rueb": "06:56",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:28"
-      },
-      "eta_rueb": "06:56",
-      "eta_schleuse": "11:24",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:28"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
