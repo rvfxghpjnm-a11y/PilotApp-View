@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T18:22:37",
+  "generated_at": "2026-04-14T18:24:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Tue Apr 14 16:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:01",
+        "eta_schleuse": "19:02",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:01",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:02",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:47"
     },
     {
@@ -326,14 +326,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 09:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:01",
+        "eta_schleuse": "19:02",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:01",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:02",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:47"
     },
     {
@@ -586,14 +586,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 09:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:01",
+        "eta_schleuse": "19:02",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:01",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:02",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:47"
     },
     {
@@ -620,6 +620,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:00",
+      "ship": "ASGARD",
+      "q_gruppe": "5",
+      "route": "WAU → WAU"
+    },
     {
       "eta_rueb_kiel": "19:57",
       "eta_rueb": "19:45",
