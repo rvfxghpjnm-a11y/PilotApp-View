@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T14:30:41",
+  "generated_at": "2026-04-14T14:32:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Tue Apr 14 13:17:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -269,14 +269,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 06:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:43",
+        "eta_schleuse": "15:42",
         "eta_rueb": "12:16",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "12:16",
-      "eta_schleuse": "15:43",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "15:42",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:18"
     },
     {
@@ -482,14 +482,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 06:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:43",
+        "eta_schleuse": "15:42",
         "eta_rueb": "12:16",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "12:16",
-      "eta_schleuse": "15:43",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "15:42",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:18"
     },
     {
@@ -538,7 +538,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:33",
+      "eta_rueb_kiel": "18:32",
       "eta_rueb": "18:50",
       "ship": "FINE SCHEPERS",
       "q_gruppe": "2",
