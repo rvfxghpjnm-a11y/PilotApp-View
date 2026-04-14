@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T03:34:38",
+  "generated_at": "2026-04-14T03:36:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -248,19 +248,14 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "ELBINSEL",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 13 21:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "08:07",
-        "eta_rueb": "03:41",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:59"
-      },
-      "eta_rueb": "03:41",
-      "eta_schleuse": "08:07",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:59"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -301,8 +296,8 @@
       "name": "René Winkler",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "KAURI",
+      "route": "KLT → HOS",
       "time": "Mon Apr 13 21:29:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -661,19 +656,14 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "ELBINSEL",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 13 21:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "08:07",
-        "eta_rueb": "03:41",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:59"
-      },
-      "eta_rueb": "03:41",
-      "eta_schleuse": "08:07",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:59"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
