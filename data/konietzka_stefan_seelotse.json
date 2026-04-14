@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T18:16:39",
+  "generated_at": "2026-04-14T18:18:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "ELBOCEAN",
-      "route": "KLT → HOS",
+      "fahrzeug": "CMA CGM TIVOLI",
+      "route": "HOS → KLT",
       "time": "Tue Apr 14 16:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "19:01",
+        "eta_rueb": "15:33",
+        "delta_rueb_schleuse": "03:28",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "15:33",
+      "eta_schleuse": "19:01",
+      "delta_rueb_schleuse": "03:28",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -190,14 +195,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HELGOLAND",
+      "route": "HOS → KLT",
       "time": "Tue Apr 14 13:17:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:51",
+        "eta_rueb": "15:27",
+        "delta_rueb_schleuse": "03:24",
+        "delta_start_rueb": "07:27"
+      },
+      "eta_rueb": "15:27",
+      "eta_schleuse": "18:51",
+      "delta_rueb_schleuse": "03:24",
+      "delta_start_rueb": "07:27"
     },
     {
       "is_target": false,
