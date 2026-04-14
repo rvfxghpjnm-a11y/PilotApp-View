@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T07:38:46",
+  "generated_at": "2026-04-14T07:40:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -217,14 +217,14 @@
       "time": "Tue Apr 14 04:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "14:53",
-        "eta_rueb": "10:26",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:30"
+        "eta_rueb": "10:24",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "10:26",
+      "eta_rueb": "10:24",
       "eta_schleuse": "14:53",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:30"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -424,8 +424,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 24,
-      "fahrzeug": "GOTLAND",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 22:13:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -632,14 +632,14 @@
       "time": "Tue Apr 14 04:28:00 CEST 2026",
       "times": {
         "eta_schleuse": "14:53",
-        "eta_rueb": "10:26",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:30"
+        "eta_rueb": "10:24",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "10:26",
+      "eta_rueb": "10:24",
       "eta_schleuse": "14:53",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:30"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -759,8 +759,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 24,
-      "fahrzeug": "GOTLAND",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 13 22:13:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -828,13 +828,5 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "07:30",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    }
-  ]
+  "ruesterbergen": []
 }
