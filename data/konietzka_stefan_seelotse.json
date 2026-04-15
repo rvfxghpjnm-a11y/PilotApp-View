@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T12:06:37",
+  "generated_at": "2026-04-15T12:08:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,14 +48,19 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SUNSET X",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 11:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:21",
+        "eta_rueb": "12:35",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "05:41"
+      },
+      "eta_rueb": "12:35",
+      "eta_schleuse": "17:21",
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "05:41"
     },
     {
       "is_target": false,
@@ -190,14 +195,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 08:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:24",
+        "eta_schleuse": "13:22",
         "eta_rueb": "09:53",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "09:53",
-      "eta_schleuse": "13:24",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "13:22",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:11"
     },
     {
@@ -400,14 +405,19 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SUNSET X",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 11:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:21",
+        "eta_rueb": "12:35",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "05:41"
+      },
+      "eta_rueb": "12:35",
+      "eta_schleuse": "17:21",
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "05:41"
     },
     {
       "is_target": false,
@@ -478,14 +488,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 08:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:24",
+        "eta_schleuse": "13:22",
         "eta_rueb": "09:53",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "09:53",
-      "eta_schleuse": "13:24",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "13:22",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:11"
     },
     {
@@ -586,13 +596,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "12:35",
-      "eta_rueb": "12:30",
-      "ship": "SUNSET X",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "14:50",
       "eta_rueb": "14:30",
