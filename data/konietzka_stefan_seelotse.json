@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T00:18:36",
+  "generated_at": "2026-04-16T00:20:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -241,9 +241,14 @@
       "fahrzeug": "HARBOUR FOUNTAIN",
       "route": "HOS → UTG",
       "time": "Wed Apr 15 17:05:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
