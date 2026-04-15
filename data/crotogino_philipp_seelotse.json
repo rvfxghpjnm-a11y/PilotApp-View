@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T03:36:45",
+  "generated_at": "2026-04-15T03:38:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 1,
-    "see": 4
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -235,10 +235,10 @@
       "vorname": "Fred",
       "nachname": "Spiekermann",
       "name": "Fred Spiekermann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 12,
       "fahrzeug": "RIX LAGOON",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Tue Apr 14 23:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:10",
@@ -590,27 +590,6 @@
       "eta_schleuse": "08:37",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:54"
-    },
-    {
-      "is_target": false,
-      "vorname": "Fred",
-      "nachname": "Spiekermann",
-      "name": "Fred Spiekermann",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "RIX LAGOON",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 14 23:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:10",
-        "eta_rueb": "00:45",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "08:25"
-      },
-      "eta_rueb": "00:45",
-      "eta_schleuse": "04:10",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "08:25"
     },
     {
       "is_target": false,
