@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T13:16:37",
+  "generated_at": "2026-04-15T13:18:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,9 +12,9 @@
     "nr": 9
   },
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
-    "see": 4
+    "see": 5
   },
   "times": {
     "eta_schleuse": "18:29",
@@ -33,9 +33,14 @@
       "fahrzeug": "BALTIC WHALE",
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 11:40:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -71,14 +76,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 11:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:34",
+        "eta_schleuse": "17:36",
         "eta_rueb": "12:34",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "05:40"
       },
       "eta_rueb": "12:34",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "17:36",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "05:40"
     },
     {
@@ -213,20 +218,20 @@
       "vorname": "Thomas",
       "nachname": "Skairies",
       "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 11,
       "fahrzeug": "NORDIC SAGA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Apr 15 08:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:23",
+        "eta_schleuse": "13:24",
         "eta_rueb": "09:53",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "09:53",
-      "eta_schleuse": "13:23",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "13:24",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:11"
     },
     {
@@ -277,14 +282,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 06:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:14",
+        "eta_schleuse": "16:17",
         "eta_rueb": "12:20",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "12:20",
-      "eta_schleuse": "16:14",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "16:17",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:14"
     },
     {
@@ -330,14 +335,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 03:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:19",
+        "eta_schleuse": "13:21",
         "eta_rueb": "09:50",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "09:50",
-      "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "13:21",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:12"
     }
   ],
@@ -352,9 +357,14 @@
       "fahrzeug": "BALTIC WHALE",
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 11:40:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -390,14 +400,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 11:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:34",
+        "eta_schleuse": "17:36",
         "eta_rueb": "12:34",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "05:40"
       },
       "eta_rueb": "12:34",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "17:36",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "05:40"
     },
     {
@@ -465,27 +475,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "NORDIC SAGA",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 08:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:23",
-        "eta_rueb": "09:53",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:11"
-      },
-      "eta_rueb": "09:53",
-      "eta_schleuse": "13:23",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:11"
-    },
-    {
-      "is_target": false,
       "vorname": "Sascha",
       "nachname": "Külzer",
       "name": "Sascha Külzer",
@@ -532,14 +521,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 06:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:14",
+        "eta_schleuse": "16:17",
         "eta_rueb": "12:20",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "12:20",
-      "eta_schleuse": "16:14",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "16:17",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:14"
     },
     {
@@ -569,14 +558,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 03:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:19",
+        "eta_schleuse": "13:21",
         "eta_rueb": "09:50",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "09:50",
-      "eta_schleuse": "13:19",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "13:21",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:12"
     }
   ],
