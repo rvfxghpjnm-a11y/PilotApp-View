@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T14:12:40",
+  "generated_at": "2026-04-15T14:14:39",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -237,14 +237,19 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KAIRIIN",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 08:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:15",
+        "eta_rueb": "14:41",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "14:41",
+      "eta_schleuse": "18:15",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -440,14 +445,19 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KAIRIIN",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 08:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:15",
+        "eta_rueb": "14:41",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "14:41",
+      "eta_schleuse": "18:15",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -505,13 +515,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "14:41",
-      "eta_rueb": "14:30",
-      "ship": "KAIRIIN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "14:46",
       "eta_rueb": "14:45",
