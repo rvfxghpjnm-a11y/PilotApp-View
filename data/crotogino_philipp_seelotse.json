@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T17:54:38",
+  "generated_at": "2026-04-15T17:56:41",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -273,14 +273,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CHRISTINA",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 11:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:11",
+        "eta_rueb": "18:18",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "18:18",
+      "eta_schleuse": "22:11",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -587,14 +592,19 @@
       "name": "Michael Krebs",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CHRISTINA",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 11:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:11",
+        "eta_rueb": "18:18",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "18:18",
+      "eta_schleuse": "22:11",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -699,13 +709,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "18:18",
-      "eta_rueb": "18:18",
-      "ship": "CHRISTINA",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "18:21",
       "eta_rueb": "18:20",
