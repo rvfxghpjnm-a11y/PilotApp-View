@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T13:40:40",
+  "generated_at": "2026-04-15T13:42:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 9
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 5
   },
@@ -203,14 +203,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 09:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:00",
+        "eta_schleuse": "17:59",
         "eta_rueb": "13:53",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "03:23"
       },
       "eta_rueb": "13:53",
-      "eta_schleuse": "18:00",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "17:59",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "03:23"
     },
     {
@@ -313,22 +313,6 @@
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Wed Apr 15 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan-Torben",
-      "nachname": "Lüdtke",
-      "name": "Jan-Torben Lüdtke",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "TIMBUS",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 03:52:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -453,14 +437,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 09:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:00",
+        "eta_schleuse": "17:59",
         "eta_rueb": "13:53",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "03:23"
       },
       "eta_rueb": "13:53",
-      "eta_schleuse": "18:00",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "17:59",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "03:23"
     },
     {
@@ -536,22 +520,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan-Torben",
-      "nachname": "Lüdtke",
-      "name": "Jan-Torben Lüdtke",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "TIMBUS",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 03:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -578,7 +546,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:46",
+      "eta_rueb_kiel": "16:44",
       "eta_rueb": "16:30",
       "ship": "SAAREMAA",
       "q_gruppe": "4",
