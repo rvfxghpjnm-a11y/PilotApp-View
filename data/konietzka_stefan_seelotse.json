@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T23:34:37",
+  "generated_at": "2026-04-15T23:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -57,15 +57,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 21:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:17",
-        "eta_rueb": "01:50",
+        "eta_schleuse": "06:15",
+        "eta_rueb": "01:48",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "01:50",
-      "eta_schleuse": "06:17",
+      "eta_rueb": "01:48",
+      "eta_schleuse": "06:15",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -163,14 +163,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:23",
+        "eta_schleuse": "00:22",
         "eta_rueb": "20:12",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "20:12",
-      "eta_schleuse": "00:23",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "00:22",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:18"
     },
     {
@@ -228,8 +228,8 @@
       "name": "Rainer Heeren",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Apr 15 17:47:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -265,8 +265,8 @@
       "name": "Christian Wille",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Apr 15 17:38:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -393,15 +393,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 21:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:17",
-        "eta_rueb": "01:50",
+        "eta_schleuse": "06:15",
+        "eta_rueb": "01:48",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "01:50",
-      "eta_schleuse": "06:17",
+      "eta_rueb": "01:48",
+      "eta_schleuse": "06:15",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -451,14 +451,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:23",
+        "eta_schleuse": "00:22",
         "eta_rueb": "20:12",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "20:12",
-      "eta_schleuse": "00:23",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "00:22",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:18"
     },
     {
@@ -534,7 +534,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:41",
+      "eta_rueb_kiel": "00:40",
       "eta_rueb": "00:33",
       "ship": "ECO GHIBLI",
       "q_gruppe": "0",
