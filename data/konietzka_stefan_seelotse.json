@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T21:44:38",
+  "generated_at": "2026-04-15T21:46:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -217,14 +217,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "UNITAR",
-      "route": "KLT → HOS",
+      "fahrzeug": "ZIJLBORG",
+      "route": "HOS → KLT",
       "time": "Wed Apr 15 17:47:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:09",
+        "eta_rueb": "18:19",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "18:19",
+      "eta_schleuse": "22:09",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -254,14 +259,19 @@
       "name": "Christian Wille",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "LADY HELENE",
-      "route": "KLT → HOS",
+      "fahrzeug": "CHRISTINA",
+      "route": "HOS → KLT",
       "time": "Wed Apr 15 17:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:03",
+        "eta_rueb": "18:16",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "18:16",
+      "eta_schleuse": "22:03",
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
