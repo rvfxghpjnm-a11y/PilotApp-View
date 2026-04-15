@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T03:04:46",
+  "generated_at": "2026-04-15T03:06:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "VERTOM LISA",
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 01:32:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -445,9 +450,14 @@
       "fahrzeug": "VERTOM LISA",
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 01:32:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
