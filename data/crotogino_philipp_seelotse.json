@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T11:46:37",
+  "generated_at": "2026-04-15T11:48:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -225,15 +225,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 08:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:26",
-        "eta_rueb": "13:59",
+        "eta_schleuse": "18:24",
+        "eta_rueb": "13:57",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:29"
+        "delta_start_rueb": "03:27"
       },
-      "eta_rueb": "13:59",
-      "eta_schleuse": "18:26",
+      "eta_rueb": "13:57",
+      "eta_schleuse": "18:24",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:29"
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -274,8 +274,8 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STOLLERGRUND-Y899",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 06:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -508,15 +508,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 08:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:26",
-        "eta_rueb": "13:59",
+        "eta_schleuse": "18:24",
+        "eta_rueb": "13:57",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:29"
+        "delta_start_rueb": "03:27"
       },
-      "eta_rueb": "13:59",
-      "eta_schleuse": "18:26",
+      "eta_rueb": "13:57",
+      "eta_schleuse": "18:24",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:29"
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -557,8 +557,8 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STOLLERGRUND-Y899",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 15 06:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -590,13 +590,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "12:15",
-      "ship": "STOLLERGRUND-Y899",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "12:21",
       "eta_rueb": "12:20",
