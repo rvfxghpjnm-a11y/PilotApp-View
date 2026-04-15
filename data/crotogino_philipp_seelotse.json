@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T08:30:52",
+  "generated_at": "2026-04-15T08:32:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 1,
-    "see": 10
+    "see": 11
   },
   "times": null,
   "lotsen": [
@@ -36,13 +36,13 @@
       "route": "WAU → WAU",
       "time": "Wed Apr 15 07:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:31",
+        "eta_schleuse": "08:32",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "08:31",
+      "eta_schleuse": "08:32",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -132,14 +132,14 @@
       "time": "Wed Apr 15 03:52:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:44",
-        "eta_rueb": "08:54",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "04:02"
+        "eta_rueb": "08:53",
+        "delta_rueb_schleuse": "04:51",
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": "08:54",
+      "eta_rueb": "08:53",
       "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "04:02"
+      "delta_rueb_schleuse": "04:51",
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -199,10 +199,10 @@
       "vorname": "Thomas",
       "nachname": "Thiel",
       "name": "Thomas Thiel",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ATLANTIS",
+      "route": "HER → NWK",
       "time": "Wed Apr 15 01:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -375,14 +375,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 20:51:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:16",
+        "eta_schleuse": "10:15",
         "eta_rueb": "05:54",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:52"
       },
       "eta_rueb": "05:54",
-      "eta_schleuse": "10:16",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "10:15",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:52"
     }
   ],
@@ -414,13 +414,13 @@
       "route": "WAU → WAU",
       "time": "Wed Apr 15 07:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:31",
+        "eta_schleuse": "08:32",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "08:31",
+      "eta_schleuse": "08:32",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -478,14 +478,14 @@
       "time": "Wed Apr 15 03:52:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:44",
-        "eta_rueb": "08:54",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "04:02"
+        "eta_rueb": "08:53",
+        "delta_rueb_schleuse": "04:51",
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": "08:54",
+      "eta_rueb": "08:53",
       "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "04:02"
+      "delta_rueb_schleuse": "04:51",
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -507,22 +507,6 @@
       "eta_schleuse": "13:11",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:52"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Thiel",
-      "name": "Thomas Thiel",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Apr 15 01:42:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -577,21 +561,21 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 14 20:51:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:16",
+        "eta_schleuse": "10:15",
         "eta_rueb": "05:54",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:52"
       },
       "eta_rueb": "05:54",
-      "eta_schleuse": "10:16",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "10:15",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:52"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:55",
+      "eta_rueb_kiel": "09:54",
       "eta_rueb": "09:50",
       "ship": "TIMBUS",
       "q_gruppe": "4",
