@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-15T22:24:37",
+  "generated_at": "2026-04-15T22:26:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 2,
     "see": 5
   },
@@ -21,14 +21,14 @@
       "time": "Wed Apr 15 21:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "06:28",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "02:01",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": null,
+      "eta_rueb": "02:01",
       "eta_schleuse": "06:28",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -173,14 +173,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 18:41:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:09",
+        "eta_schleuse": "04:08",
         "eta_rueb": "23:27",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "23:27",
-      "eta_schleuse": "04:09",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "04:08",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:25"
     },
     {
@@ -194,14 +194,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 18:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:06",
+        "eta_schleuse": "04:05",
         "eta_rueb": "23:24",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:22"
       },
       "eta_rueb": "23:24",
-      "eta_schleuse": "04:06",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "04:05",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:22"
     },
     {
@@ -252,14 +252,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Apr 15 17:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "18:46",
         "eta_rueb": "19:01",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "2284367:45",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "19:01",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2284367:45",
       "delta_start_rueb": "04:09"
     },
     {
@@ -362,22 +362,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Bachholz",
-      "name": "Carsten Bachholz",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "ZIJLBORG",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 11:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -393,14 +377,14 @@
       "time": "Wed Apr 15 21:10:00 CEST 2026",
       "times": {
         "eta_schleuse": "06:28",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "02:01",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": null,
+      "eta_rueb": "02:01",
       "eta_schleuse": "06:28",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -497,14 +481,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 18:41:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:09",
+        "eta_schleuse": "04:08",
         "eta_rueb": "23:27",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "23:27",
-      "eta_schleuse": "04:09",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "04:08",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:25"
     },
     {
@@ -518,14 +502,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 15 18:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:06",
+        "eta_schleuse": "04:05",
         "eta_rueb": "23:24",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:22"
       },
       "eta_rueb": "23:24",
-      "eta_schleuse": "04:06",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "04:05",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:22"
     },
     {
@@ -560,14 +544,14 @@
       "route": "RÜB → UTG",
       "time": "Wed Apr 15 17:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "18:46",
         "eta_rueb": "19:01",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "2284367:45",
         "delta_start_rueb": "04:09"
       },
       "eta_rueb": "19:01",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2284367:45",
       "delta_start_rueb": "04:09"
     },
     {
@@ -590,22 +574,6 @@
       "eta_schleuse": "02:43",
       "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:32"
-    },
-    {
-      "is_target": false,
-      "vorname": "Carsten",
-      "nachname": "Bachholz",
-      "name": "Carsten Bachholz",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "ZIJLBORG",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 11:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -618,7 +586,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:45",
+      "eta_rueb_kiel": "00:44",
       "eta_rueb": "00:33",
       "ship": "ECO GHIBLI",
       "q_gruppe": "0",
