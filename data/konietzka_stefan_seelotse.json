@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-15T18:34:37",
+  "generated_at": "2026-04-15T18:36:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 1,
     "see": 9
   },
@@ -386,32 +386,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sascha",
-      "nachname": "Külzer",
-      "name": "Sascha Külzer",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "KAIRIIN",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 08:15:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:12",
-        "eta_rueb": "14:40",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "14:40",
-      "eta_schleuse": "18:12",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "04:22"
-    },
-    {
-      "is_target": false,
       "vorname": "Marco",
       "nachname": "Feldes",
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "ASGARD",
       "route": "WAU → WAU",
       "time": "Wed Apr 15 07:00:00 CEST 2026",
@@ -427,7 +406,7 @@
       "nachname": "Czurda",
       "name": "Crischan Czurda",
       "aufgabe": "Wachgänger",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Wed Apr 15 04:00:00 CEST 2026",
@@ -625,32 +604,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sascha",
-      "nachname": "Külzer",
-      "name": "Sascha Külzer",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "KAIRIIN",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 08:15:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:12",
-        "eta_rueb": "14:40",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "14:40",
-      "eta_schleuse": "18:12",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "04:22"
-    },
-    {
-      "is_target": false,
       "vorname": "Marco",
       "nachname": "Feldes",
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "ASGARD",
       "route": "WAU → WAU",
       "time": "Wed Apr 15 07:00:00 CEST 2026",
@@ -664,7 +622,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:05",
+      "eta_rueb_kiel": "19:03",
       "eta_rueb": "19:15",
       "ship": "SYDBORG",
       "q_gruppe": "5",
