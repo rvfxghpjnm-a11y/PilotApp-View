@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T16:40:41",
+  "generated_at": "2026-04-16T16:42:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -254,13 +254,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Domeier",
-      "name": "Stefan Domeier",
-      "aufgabe": "Flensburgbört",
+      "vorname": "Erskine",
+      "nachname": "Schuh",
+      "name": "Erskine Schuh",
+      "aufgabe": "Wachgänger",
       "nr": 14,
-      "fahrzeug": "BNS LOBELIA",
-      "route": "FLA → FWU",
+      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
+      "route": "HOS → HOS",
       "time": "Thu Apr 16 12:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -270,13 +270,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Erskine",
-      "nachname": "Schuh",
-      "name": "Erskine Schuh",
-      "aufgabe": "Wachgänger",
+      "vorname": "Stefan",
+      "nachname": "Domeier",
+      "name": "Stefan Domeier",
+      "aufgabe": "Flensburgbört",
       "nr": 15,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
+      "fahrzeug": "BNS LOBELIA",
+      "route": "FLA → FWU",
       "time": "Thu Apr 16 12:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -323,8 +323,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -371,8 +371,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 09:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -428,14 +428,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:56",
+        "eta_schleuse": "17:57",
         "eta_rueb": "14:13",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "14:13",
-      "eta_schleuse": "17:56",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "17:57",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:07"
     },
     {
@@ -449,14 +449,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:00",
+        "eta_schleuse": "18:01",
         "eta_rueb": "13:38",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "13:38",
-      "eta_schleuse": "18:00",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "18:01",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:16"
     }
   ],
@@ -695,8 +695,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -727,8 +727,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 09:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -768,14 +768,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:56",
+        "eta_schleuse": "17:57",
         "eta_rueb": "14:13",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "14:13",
-      "eta_schleuse": "17:56",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "17:57",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:07"
     },
     {
@@ -789,14 +789,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:00",
+        "eta_schleuse": "18:01",
         "eta_rueb": "13:38",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "13:38",
-      "eta_schleuse": "18:00",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "18:01",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:16"
     }
   ],
@@ -804,7 +804,7 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "16:45",
+      "eta_rueb": "16:40",
       "ship": "Leerfahrt",
       "q_gruppe": "",
       "route": "RÜB → HOS"
