@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T19:58:40",
+  "generated_at": "2026-04-16T20:00:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -333,14 +333,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FAIRLANE",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 13:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:00",
+        "eta_rueb": "20:27",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:47"
+      },
+      "eta_rueb": "20:27",
+      "eta_schleuse": "00:00",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:47"
     },
     {
       "is_target": false,
@@ -663,14 +668,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FAIRLANE",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 13:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:00",
+        "eta_rueb": "20:27",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:47"
+      },
+      "eta_rueb": "20:27",
+      "eta_schleuse": "00:00",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:47"
     },
     {
       "is_target": false,
@@ -713,16 +723,16 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:26",
-      "eta_rueb": "20:30",
-      "ship": "FAIRLANE",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "20:30",
       "eta_rueb": "20:32",
       "ship": "WILHELMINE ESSBERGER",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:49",
+      "eta_rueb": "21:50",
+      "ship": "MV AGUIMES",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
@@ -738,13 +748,6 @@
       "eta_rueb": "21:57",
       "ship": "NEXUS",
       "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "21:50",
-      "eta_rueb": "21:59",
-      "ship": "MV AGUIMES",
-      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
