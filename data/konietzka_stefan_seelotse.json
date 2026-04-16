@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T13:54:38",
+  "generated_at": "2026-04-16T13:56:42",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -291,14 +291,19 @@
       "name": "Florian Koch",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SEABED EXPLORER",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:48",
+        "eta_rueb": "14:14",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "14:14",
+      "eta_schleuse": "17:48",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -520,14 +525,19 @@
       "name": "Florian Koch",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SEABED EXPLORER",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:48",
+        "eta_rueb": "14:14",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:08"
+      },
+      "eta_rueb": "14:14",
+      "eta_schleuse": "17:48",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -590,13 +600,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "14:14",
-      "eta_rueb": "14:10",
-      "ship": "SEABED EXPLORER",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:55",
       "eta_rueb": "15:50",
