@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T12:34:37",
+  "generated_at": "2026-04-16T12:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 12,
     "wach": 1,
-    "see": 3
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -191,34 +191,34 @@
     },
     {
       "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Klein",
-      "name": "Sebastian Klein",
+      "vorname": "Oleif Johann",
+      "nachname": "Böttger",
+      "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "KEY STREAM",
+      "fahrzeug": "SKY LBS",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:35",
-        "eta_rueb": "10:04",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:40"
+        "eta_schleuse": "13:26",
+        "eta_rueb": "09:52",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:36"
       },
-      "eta_rueb": "10:04",
-      "eta_schleuse": "13:35",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:40"
+      "eta_rueb": "09:52",
+      "eta_schleuse": "13:26",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
       "vorname": "Kevin",
       "nachname": "Koslik",
       "name": "Kevin Koslik",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 12,
       "fahrzeug": "CYGNI",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:31",
@@ -233,24 +233,24 @@
     },
     {
       "is_target": false,
-      "vorname": "Oleif Johann",
-      "nachname": "Böttger",
-      "name": "Oleif Johann Böttger",
-      "aufgabe": "Kanalbört",
+      "vorname": "Sebastian",
+      "nachname": "Klein",
+      "name": "Sebastian Klein",
+      "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "SKY LBS",
-      "route": "RÜB → HOS",
+      "fahrzeug": "KEY STREAM",
+      "route": "HOS → KLT",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:27",
-        "eta_rueb": "09:52",
-        "delta_rueb_schleuse": "03:35",
-        "delta_start_rueb": "04:36"
+        "eta_schleuse": "13:35",
+        "eta_rueb": "10:04",
+        "delta_rueb_schleuse": "03:31",
+        "delta_start_rueb": "04:40"
       },
-      "eta_rueb": "09:52",
-      "eta_schleuse": "13:27",
-      "delta_rueb_schleuse": "03:35",
-      "delta_start_rueb": "04:36"
+      "eta_rueb": "10:04",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "03:31",
+      "delta_start_rueb": "04:40"
     },
     {
       "is_target": false,
@@ -483,65 +483,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Sebastian",
-      "nachname": "Klein",
-      "name": "Sebastian Klein",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "KEY STREAM",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 08:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:35",
-        "eta_rueb": "10:04",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:40"
-      },
-      "eta_rueb": "10:04",
-      "eta_schleuse": "13:35",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:40"
-    },
-    {
-      "is_target": false,
-      "vorname": "Kevin",
-      "nachname": "Koslik",
-      "name": "Kevin Koslik",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "CYGNI",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 08:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:31",
-        "eta_rueb": "09:57",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "09:57",
-      "eta_schleuse": "13:31",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:37"
-    },
-    {
-      "is_target": false,
       "vorname": "Oleif Johann",
       "nachname": "Böttger",
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 11,
       "fahrzeug": "SKY LBS",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:27",
+        "eta_schleuse": "13:26",
         "eta_rueb": "09:52",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "09:52",
-      "eta_schleuse": "13:27",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "13:26",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:36"
     },
     {
@@ -664,14 +622,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:06",
+      "eta_rueb_kiel": "16:03",
       "eta_rueb": "15:53",
       "ship": "LISA LEHMANN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:03",
+      "eta_rueb_kiel": "16:06",
       "eta_rueb": "15:56",
       "ship": "ALDEBARAN",
       "q_gruppe": "5",
