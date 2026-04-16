@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T09:00:40",
+  "generated_at": "2026-04-16T09:02:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 0,
     "see": 5
   },
@@ -239,8 +239,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "KARION",
+      "route": "KLT → HOS",
       "time": "Thu Apr 16 04:16:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -300,27 +300,6 @@
       "eta_schleuse": "14:27",
       "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "06:09"
-    },
-    {
-      "is_target": false,
-      "vorname": "Nickolaj",
-      "nachname": "Groen",
-      "name": "Nickolaj Groen",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "BALTIC ANKA",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 21:01:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "08:41",
-        "eta_rueb": "05:05",
-        "delta_rueb_schleuse": "03:36",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "05:05",
-      "eta_schleuse": "08:41",
-      "delta_rueb_schleuse": "03:36",
-      "delta_start_rueb": "04:19"
     }
   ],
   "kanallotsen": [
@@ -530,27 +509,6 @@
       "eta_schleuse": "14:27",
       "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "06:09"
-    },
-    {
-      "is_target": false,
-      "vorname": "Nickolaj",
-      "nachname": "Groen",
-      "name": "Nickolaj Groen",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "BALTIC ANKA",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 15 21:01:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "08:41",
-        "eta_rueb": "05:05",
-        "delta_rueb_schleuse": "03:36",
-        "delta_start_rueb": "04:19"
-      },
-      "eta_rueb": "05:05",
-      "eta_schleuse": "08:41",
-      "delta_rueb_schleuse": "03:36",
-      "delta_start_rueb": "04:19"
     }
   ],
   "meldungen_kiel": [],
@@ -563,7 +521,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "09:48",
+      "eta_rueb_kiel": "09:49",
       "eta_rueb": "09:43",
       "ship": "SKY LBS",
       "q_gruppe": "5",
