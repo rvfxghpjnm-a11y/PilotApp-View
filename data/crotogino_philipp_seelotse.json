@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T17:14:50",
+  "generated_at": "2026-04-16T17:16:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 15,
     "wach": 1,
-    "see": 3
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -310,10 +310,10 @@
       "vorname": "Georg",
       "nachname": "Krahn",
       "name": "Georg Krahn",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -326,10 +326,10 @@
       "vorname": "Eike",
       "nachname": "Matysik",
       "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 18,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -401,14 +401,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:00",
+        "eta_schleuse": "17:59",
         "eta_rueb": "14:13",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "14:13",
-      "eta_schleuse": "18:00",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "17:59",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:07"
     },
     {
@@ -652,38 +652,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Georg",
-      "nachname": "Krahn",
-      "name": "Georg Krahn",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Thu Apr 16 10:24:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Thu Apr 16 10:24:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Peter",
       "nachname": "Jakob",
       "name": "Peter Jakob",
@@ -730,14 +698,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:00",
+        "eta_schleuse": "17:59",
         "eta_rueb": "14:13",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "14:13",
-      "eta_schleuse": "18:00",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "17:59",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:07"
     },
     {
