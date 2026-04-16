@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T22:28:36",
+  "generated_at": "2026-04-16T22:30:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -272,16 +272,11 @@
       "fahrzeug": "GISELA ESSBERGER",
       "route": "HOS → KLT",
       "time": "Thu Apr 16 16:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:27",
-        "eta_rueb": "17:53",
-        "delta_rueb_schleuse": "04:34",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "17:53",
-      "eta_schleuse": "22:27",
-      "delta_rueb_schleuse": "04:34",
-      "delta_start_rueb": "05:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -689,8 +684,8 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:22",
-      "eta_rueb": "01:00",
+      "eta_rueb_kiel": "01:24",
+      "eta_rueb": "01:10",
       "ship": "SERENADA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
@@ -700,6 +695,13 @@
       "eta_rueb": "01:20",
       "ship": "ECO PAMPERO",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "03:21",
+      "eta_rueb": "03:10",
+      "ship": "FLEXIMAR",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
