@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T00:22:36",
+  "generated_at": "2026-04-17T00:24:36",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "HUDSONGRACHT",
       "route": "HOS → RÜB",
       "time": "Thu Apr 16 23:36:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:06",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -370,9 +375,14 @@
       "fahrzeug": "HUDSONGRACHT",
       "route": "HOS → RÜB",
       "time": "Thu Apr 16 23:36:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:06",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -601,7 +611,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:15",
+      "eta_rueb_kiel": "01:14",
       "eta_rueb": "01:10",
       "ship": "SERENADA",
       "q_gruppe": "4",
@@ -630,7 +640,7 @@
     },
     {
       "eta_rueb_kiel": "04:30",
-      "eta_rueb": "04:40",
+      "eta_rueb": "04:15",
       "ship": "EAGLE 2",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
