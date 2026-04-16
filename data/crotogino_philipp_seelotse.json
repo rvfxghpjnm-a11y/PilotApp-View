@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T17:10:53",
+  "generated_at": "2026-04-16T17:12:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 16 16:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -32,8 +32,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 16 16:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 16 16:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -210,15 +210,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 16 13:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:37",
-        "eta_rueb": "19:10",
+        "eta_schleuse": "23:36",
+        "eta_rueb": "19:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "19:10",
-      "eta_schleuse": "23:37",
+      "eta_rueb": "19:09",
+      "eta_schleuse": "23:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -441,8 +441,8 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 16 16:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -457,8 +457,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 16 16:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -473,8 +473,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 16 16:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -619,15 +619,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 16 13:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:37",
-        "eta_rueb": "19:10",
+        "eta_schleuse": "23:36",
+        "eta_rueb": "19:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:26"
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "19:10",
-      "eta_schleuse": "23:37",
+      "eta_rueb": "19:09",
+      "eta_schleuse": "23:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:26"
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -786,28 +786,28 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:34",
+      "eta_rueb_kiel": "20:32",
       "eta_rueb": "20:30",
       "ship": "FAIRLANE",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:37",
+      "eta_rueb_kiel": "20:36",
       "eta_rueb": "20:32",
       "ship": "WILHELMINE ESSBERGER",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:20",
+      "eta_rueb_kiel": "22:19",
       "eta_rueb": "21:55",
       "ship": "LADY ELA",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:23",
+      "eta_rueb_kiel": "22:22",
       "eta_rueb": "21:57",
       "ship": "NEXUS",
       "q_gruppe": "0",
