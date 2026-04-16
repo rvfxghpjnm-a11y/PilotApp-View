@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T07:34:36",
+  "generated_at": "2026-04-16T07:36:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -170,8 +170,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PUMA +PN 263",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 03:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -269,14 +269,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 21:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:30",
+        "eta_schleuse": "08:31",
         "eta_rueb": "05:05",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "05:05",
-      "eta_schleuse": "08:30",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "08:31",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:19"
     }
   ],
@@ -378,8 +378,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PUMA +PN 263",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 03:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -461,26 +461,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 15 21:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:30",
+        "eta_schleuse": "08:31",
         "eta_rueb": "05:05",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "05:05",
-      "eta_schleuse": "08:30",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "08:31",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:19"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "08:00",
-      "ship": "PUMA +PN 263",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "09:40",
