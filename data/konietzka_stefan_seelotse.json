@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T10:46:36",
+  "generated_at": "2026-04-16T10:48:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -291,14 +291,19 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "OZDEN THERESA",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 04:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:48",
+        "eta_rueb": "11:16",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "11:16",
+      "eta_schleuse": "15:48",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -611,14 +616,19 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "OZDEN THERESA",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 04:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:48",
+        "eta_rueb": "11:16",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "11:16",
+      "eta_schleuse": "15:48",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -639,13 +649,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "11:16",
-      "eta_rueb": "11:10",
-      "ship": "OZDEN THERESA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "13:45",
       "eta_rueb": "13:30",
