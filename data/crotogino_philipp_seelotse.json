@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T09:22:48",
+  "generated_at": "2026-04-16T09:24:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -80,14 +80,19 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKY LBS",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:35",
+        "eta_rueb": "09:50",
+        "delta_rueb_schleuse": "03:45",
+        "delta_start_rueb": "04:34"
+      },
+      "eta_rueb": "09:50",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "03:45",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -384,14 +389,19 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKY LBS",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:35",
+        "eta_rueb": "09:50",
+        "delta_rueb_schleuse": "03:45",
+        "delta_start_rueb": "04:34"
+      },
+      "eta_rueb": "09:50",
+      "eta_schleuse": "13:35",
+      "delta_rueb_schleuse": "03:45",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -539,13 +549,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:50",
-      "eta_rueb": "09:43",
-      "ship": "SKY LBS",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "09:55",
       "eta_rueb": "09:46",
       "ship": "CYGNI",
@@ -570,6 +573,13 @@
       "eta_rueb_kiel": "11:16",
       "eta_rueb": "11:05",
       "ship": "OZDEN THERESA",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "13:45",
+      "eta_rueb": "14:50",
+      "ship": "CORAL IVORY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
