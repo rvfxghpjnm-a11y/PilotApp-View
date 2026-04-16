@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:34:46",
+  "generated_at": "2026-04-16T21:36:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 4
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -115,14 +115,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 16 18:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:32",
+        "eta_schleuse": "03:31",
         "eta_rueb": "23:04",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:38"
       },
       "eta_rueb": "23:04",
-      "eta_schleuse": "03:32",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "03:31",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:38"
     },
     {
@@ -185,32 +185,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Marius Paul",
-      "nachname": "Hewig",
-      "name": "Marius Paul Hewig",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "GISELA ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 16:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:25",
-        "eta_rueb": "17:53",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "17:53",
-      "eta_schleuse": "22:25",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "05:07"
-    },
-    {
-      "is_target": false,
       "vorname": "Daniel",
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "MARIE LEHMANN",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 16:25:00 CEST 2026",
@@ -224,6 +203,27 @@
       "eta_schleuse": "22:29",
       "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "05:09"
+    },
+    {
+      "is_target": false,
+      "vorname": "Marius Paul",
+      "nachname": "Hewig",
+      "name": "Marius Paul Hewig",
+      "aufgabe": "Seebört",
+      "nr": 11,
+      "fahrzeug": "GISELA ESSBERGER",
+      "route": "HOS → KLT",
+      "time": "Thu Apr 16 16:25:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "22:25",
+        "eta_rueb": "17:53",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "05:07"
+      },
+      "eta_rueb": "17:53",
+      "eta_schleuse": "22:25",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "05:07"
     },
     {
       "is_target": false,
@@ -455,14 +455,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 16 18:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:32",
+        "eta_schleuse": "03:31",
         "eta_rueb": "23:04",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:38"
       },
       "eta_rueb": "23:04",
-      "eta_schleuse": "03:32",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "03:31",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:38"
     },
     {
@@ -509,32 +509,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Marius Paul",
-      "nachname": "Hewig",
-      "name": "Marius Paul Hewig",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "GISELA ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 16:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "22:25",
-        "eta_rueb": "17:53",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "17:53",
-      "eta_schleuse": "22:25",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "05:07"
-    },
-    {
-      "is_target": false,
       "vorname": "Daniel",
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "MARIE LEHMANN",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 16:25:00 CEST 2026",
