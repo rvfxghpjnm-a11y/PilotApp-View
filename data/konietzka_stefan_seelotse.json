@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T15:32:39",
+  "generated_at": "2026-04-16T15:34:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LISA LEHMANN",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 14:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:12",
+        "eta_rueb": "15:54",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "05:46"
+      },
+      "eta_rueb": "15:54",
+      "eta_schleuse": "20:12",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "05:46"
     },
     {
       "is_target": false,
@@ -64,14 +69,19 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALDEBARAN",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 14:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:15",
+        "eta_rueb": "15:57",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:33"
+      },
+      "eta_rueb": "15:57",
+      "eta_schleuse": "20:15",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:33"
     },
     {
       "is_target": false,
@@ -442,14 +452,19 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LISA LEHMANN",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 14:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:12",
+        "eta_rueb": "15:54",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "05:46"
+      },
+      "eta_rueb": "15:54",
+      "eta_schleuse": "20:12",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "05:46"
     },
     {
       "is_target": false,
@@ -490,14 +505,19 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALDEBARAN",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 14:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:15",
+        "eta_rueb": "15:57",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:33"
+      },
+      "eta_rueb": "15:57",
+      "eta_schleuse": "20:15",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:33"
     },
     {
       "is_target": false,
@@ -718,20 +738,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "15:54",
-      "eta_rueb": "15:53",
-      "ship": "LISA LEHMANN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "15:57",
-      "eta_rueb": "15:56",
-      "ship": "ALDEBARAN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "16:04",
       "eta_rueb": "15:59",
