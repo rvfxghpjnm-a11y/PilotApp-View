@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-16T14:06:49",
+  "generated_at": "2026-04-16T14:08:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
     "see": 7
   },
@@ -32,8 +32,8 @@
       "name": "Gregor Kubica",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 13:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -116,14 +116,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:08",
+        "eta_schleuse": "21:07",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "21:08",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:07",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:28"
     },
     {
@@ -137,14 +137,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:05",
+        "eta_schleuse": "21:04",
         "eta_rueb": "16:37",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "16:37",
-      "eta_schleuse": "21:05",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:04",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:27"
     },
     {
@@ -195,15 +195,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 16 09:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:01",
-        "eta_rueb": "16:34",
+        "eta_schleuse": "21:00",
+        "eta_rueb": "16:33",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:24"
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "16:34",
-      "eta_schleuse": "21:01",
+      "eta_rueb": "16:33",
+      "eta_schleuse": "21:00",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:24"
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -223,27 +223,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Oleif Johann",
-      "nachname": "Böttger",
-      "name": "Oleif Johann Böttger",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SKY LBS",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 08:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Kevin",
       "nachname": "Koslik",
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "CYGNI",
       "route": "HOS → KLT",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
@@ -259,7 +243,7 @@
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Seebört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "EN AVANT 10 + ANHANG",
       "route": "HOS → KLT",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
@@ -275,7 +259,7 @@
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "KEY STREAM",
       "route": "HOS → KLT",
       "time": "Thu Apr 16 08:25:00 CEST 2026",
@@ -296,7 +280,7 @@
       "nachname": "Nagel",
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Apr 16 07:29:00 CEST 2026",
@@ -312,7 +296,7 @@
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SEABED EXPLORER",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
@@ -333,7 +317,7 @@
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:04:00 CEST 2026",
@@ -354,7 +338,7 @@
       "nachname": "Pankonin",
       "name": "Denny Pankonin",
       "aufgabe": "Seebört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "FORTUNA B",
       "route": "HOR → KLT",
       "time": "Thu Apr 16 07:00:00 CEST 2026",
@@ -370,7 +354,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "OZDEN THERESA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 04:44:00 CEST 2026",
@@ -410,8 +394,8 @@
       "name": "Gregor Kubica",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 16 13:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -430,14 +414,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:08",
+        "eta_schleuse": "21:07",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:28"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "21:08",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:07",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:28"
     },
     {
@@ -451,14 +435,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 16 10:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:05",
+        "eta_schleuse": "21:04",
         "eta_rueb": "16:37",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "16:37",
-      "eta_schleuse": "21:05",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:04",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:27"
     },
     {
@@ -493,15 +477,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 16 09:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:01",
-        "eta_rueb": "16:34",
+        "eta_schleuse": "21:00",
+        "eta_rueb": "16:33",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:24"
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "16:34",
-      "eta_schleuse": "21:01",
+      "eta_rueb": "16:33",
+      "eta_schleuse": "21:00",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:24"
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -521,27 +505,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Oleif Johann",
-      "nachname": "Böttger",
-      "name": "Oleif Johann Böttger",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SKY LBS",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 08:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Volker",
       "nachname": "Nagel",
       "name": "Volker Nagel",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Apr 16 07:29:00 CEST 2026",
@@ -557,7 +525,7 @@
       "nachname": "Koch",
       "name": "Florian Koch",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SEABED EXPLORER",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:26:00 CEST 2026",
@@ -578,7 +546,7 @@
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 07:04:00 CEST 2026",
@@ -599,7 +567,7 @@
       "nachname": "Richter",
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "OZDEN THERESA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 04:44:00 CEST 2026",
@@ -618,35 +586,28 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "14:06",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "15:54",
+      "eta_rueb_kiel": "15:55",
       "eta_rueb": "15:50",
       "ship": "JEKERBORG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:57",
+      "eta_rueb_kiel": "15:59",
       "eta_rueb": "15:53",
       "ship": "LISA LEHMANN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:00",
+      "eta_rueb_kiel": "16:02",
       "eta_rueb": "15:56",
       "ship": "ALDEBARAN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:03",
+      "eta_rueb_kiel": "16:05",
       "eta_rueb": "15:59",
       "ship": "ELBSUMMER",
       "q_gruppe": "0",
