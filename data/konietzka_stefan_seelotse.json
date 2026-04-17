@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-17T02:38:36",
+  "generated_at": "2026-04-17T02:40:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 0,
     "see": 5
   },
@@ -278,22 +278,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "NEXUS",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 15:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -486,22 +470,6 @@
       "eta_schleuse": "05:03",
       "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:53"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "NEXUS",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 16 15:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -514,7 +482,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:31",
+      "eta_rueb_kiel": "03:30",
       "eta_rueb": "03:33",
       "ship": "GT PIKE",
       "q_gruppe": "5",
@@ -542,7 +510,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:31",
+      "eta_rueb_kiel": "06:33",
       "eta_rueb": "06:15",
       "ship": "PASILA",
       "q_gruppe": "2",
