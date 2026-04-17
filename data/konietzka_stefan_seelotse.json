@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T23:32:37",
+  "generated_at": "2026-04-17T23:34:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,14 +153,14 @@
       "route": "HOS → KLT",
       "time": "Fri Apr 17 20:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:35",
+        "eta_schleuse": "23:37",
         "eta_rueb": "19:42",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "19:42",
-      "eta_schleuse": "23:35",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "23:37",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:04"
     },
     {
@@ -234,14 +234,19 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BRAHMS",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 17:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:15",
+        "eta_rueb": "23:59",
+        "delta_rueb_schleuse": "04:16",
+        "delta_start_rueb": "05:39"
+      },
+      "eta_rueb": "23:59",
+      "eta_schleuse": "04:15",
+      "delta_rueb_schleuse": "04:16",
+      "delta_start_rueb": "05:39"
     },
     {
       "is_target": false,
@@ -365,14 +370,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 13:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:35",
+        "eta_schleuse": "23:37",
         "eta_rueb": "19:42",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "19:42",
-      "eta_schleuse": "23:35",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "23:37",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:04"
     },
     {
@@ -522,14 +527,19 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BRAHMS",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 17:20:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "04:15",
+        "eta_rueb": "23:59",
+        "delta_rueb_schleuse": "04:16",
+        "delta_start_rueb": "05:39"
+      },
+      "eta_rueb": "23:59",
+      "eta_schleuse": "04:15",
+      "delta_rueb_schleuse": "04:16",
+      "delta_start_rueb": "05:39"
     },
     {
       "is_target": false,
@@ -605,14 +615,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 13:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:35",
+        "eta_schleuse": "23:37",
         "eta_rueb": "19:42",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "19:42",
-      "eta_schleuse": "23:35",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "23:37",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:04"
     },
     {
@@ -672,13 +682,6 @@
       "eta_rueb": "02:32",
       "ship": "NORMA",
       "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:59",
-      "eta_rueb": "23:45",
-      "ship": "BRAHMS",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
