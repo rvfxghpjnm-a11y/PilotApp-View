@@ -1,20 +1,11 @@
 {
-  "generated_at": "2026-04-17T12:32:37",
-  "status": "seelotse",
-  "person": {
-    "vorname": "Philipp",
-    "nachname": "Crotogino",
-    "aufgabe": "Seebört",
-    "fahrzeug": "NORDICA",
-    "from": "KLT",
-    "to": "HOS",
-    "time": "Fri Apr 17 03:35:00 CEST 2026",
-    "nr": 19
-  },
+  "generated_at": "2026-04-17T12:34:46",
+  "status": "not_in_seelotse",
+  "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 1,
-    "see": 9
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -76,16 +67,11 @@
       "fahrzeug": "KENDRA",
       "route": "HOS → KLT",
       "time": "Fri Apr 17 11:58:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:29",
-        "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "04:26"
-      },
-      "eta_rueb": "08:52",
-      "eta_schleuse": "12:29",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "04:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -327,57 +313,20 @@
       "delta_start_rueb": null
     },
     {
-      "is_target": true,
-      "vorname": "Philipp",
-      "nachname": "Crotogino",
-      "name": "Philipp Crotogino",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "NORDICA",
-      "route": "KLT → HOS",
-      "time": "Fri Apr 17 03:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Schmidt",
-      "name": "Thomas Schmidt",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Fri Apr 17 03:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
       "is_target": false,
       "vorname": "Hinnerk",
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 19,
       "fahrzeug": "KENDRA",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 02:37:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:29",
-        "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "04:26"
-      },
-      "eta_rueb": "08:52",
-      "eta_schleuse": "12:29",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "04:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -385,7 +334,7 @@
       "nachname": "Winkler",
       "name": "René Winkler",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 20,
       "fahrzeug": "AGNES ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 02:08:00 CEST 2026",
@@ -562,20 +511,15 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 19,
       "fahrzeug": "KENDRA",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 02:37:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:29",
-        "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "04:26"
-      },
-      "eta_rueb": "08:52",
-      "eta_schleuse": "12:29",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "04:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -583,7 +527,7 @@
       "nachname": "Winkler",
       "name": "René Winkler",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 20,
       "fahrzeug": "AGNES ESSBERGER",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 02:08:00 CEST 2026",
