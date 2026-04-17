@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-18T00:00:39",
+  "generated_at": "2026-04-18T00:02:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
     "see": 5
   },
@@ -56,9 +56,14 @@
       "fahrzeug": "AUCANADA TMA",
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 22:48:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:54",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -74,14 +79,14 @@
       "time": "Fri Apr 17 22:44:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:57",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "04:29",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:31"
       },
-      "eta_rueb": null,
+      "eta_rueb": "04:29",
       "eta_schleuse": "08:57",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -243,14 +248,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 17:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:19",
+        "eta_schleuse": "04:20",
         "eta_rueb": "23:58",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:38"
       },
       "eta_rueb": "23:58",
-      "eta_schleuse": "04:19",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "04:20",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:38"
     },
     {
@@ -315,22 +320,6 @@
       "eta_schleuse": "02:09",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Wille",
-      "name": "Christian Wille",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "BALTIC SEA",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 13:48:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -381,9 +370,14 @@
       "fahrzeug": "AUCANADA TMA",
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 22:48:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:54",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -399,14 +393,14 @@
       "time": "Fri Apr 17 22:44:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:57",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "04:29",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:31"
       },
-      "eta_rueb": null,
+      "eta_rueb": "04:29",
       "eta_schleuse": "08:57",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -472,14 +466,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 17:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:19",
+        "eta_schleuse": "04:20",
         "eta_rueb": "23:58",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:38"
       },
       "eta_rueb": "23:58",
-      "eta_schleuse": "04:19",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "04:20",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:38"
     },
     {
@@ -544,22 +538,6 @@
       "eta_schleuse": "02:09",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:31"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Wille",
-      "name": "Christian Wille",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "BALTIC SEA",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 13:48:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
