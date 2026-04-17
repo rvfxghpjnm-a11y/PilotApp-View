@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T03:38:37",
+  "generated_at": "2026-04-17T03:40:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,15 +68,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Apr 17 02:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:04",
-        "eta_rueb": "07:37",
+        "eta_schleuse": "12:05",
+        "eta_rueb": "07:38",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:11"
+        "delta_start_rueb": "04:12"
       },
-      "eta_rueb": "07:37",
-      "eta_schleuse": "12:04",
+      "eta_rueb": "07:38",
+      "eta_schleuse": "12:05",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:11"
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -85,8 +85,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "NEXUS",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 17 01:44:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -232,14 +232,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 19:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:04",
+        "eta_schleuse": "07:05",
         "eta_rueb": "03:26",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "03:26",
-      "eta_schleuse": "07:04",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "07:05",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:00"
     },
     {
@@ -345,15 +345,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Apr 17 02:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:04",
-        "eta_rueb": "07:37",
+        "eta_schleuse": "12:05",
+        "eta_rueb": "07:38",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:11"
+        "delta_start_rueb": "04:12"
       },
-      "eta_rueb": "07:37",
-      "eta_schleuse": "12:04",
+      "eta_rueb": "07:38",
+      "eta_schleuse": "12:05",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:11"
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -461,14 +461,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 19:24:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:04",
+        "eta_schleuse": "07:05",
         "eta_rueb": "03:26",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "03:26",
-      "eta_schleuse": "07:04",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "07:05",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "05:00"
     },
     {
@@ -538,7 +538,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:32",
+      "eta_rueb_kiel": "06:31",
       "eta_rueb": "06:20",
       "ship": "PASILA",
       "q_gruppe": "2",
