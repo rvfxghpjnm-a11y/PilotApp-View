@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T15:12:39",
+  "generated_at": "2026-04-17T15:14:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 13:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:57",
+        "eta_schleuse": "22:56",
         "eta_rueb": "18:29",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "18:29",
-      "eta_schleuse": "22:57",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "22:56",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:37"
     },
     {
@@ -275,8 +275,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 17 11:14:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -323,8 +323,8 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Seebört",
       "nr": 18,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "ZETAGAS",
+      "route": "KLT → HOS",
       "time": "Fri Apr 17 10:41:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -487,14 +487,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 13:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:57",
+        "eta_schleuse": "22:56",
         "eta_rueb": "18:29",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "18:29",
-      "eta_schleuse": "22:57",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "22:56",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:37"
     },
     {
@@ -779,6 +779,13 @@
       "ship": "TITAN VISION",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:38",
+      "eta_rueb": "19:15",
+      "ship": "NILS DEYMANN",
+      "q_gruppe": "5",
+      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "19:56",
