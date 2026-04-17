@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T16:48:55",
+  "generated_at": "2026-04-17T16:50:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Fri Apr 17 16:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:56",
+        "eta_schleuse": "16:58",
         "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "13:16",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "16:58",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:10"
     },
     {
@@ -53,8 +53,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 17 15:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -69,8 +69,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 17 15:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -480,14 +480,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 05:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:56",
+        "eta_schleuse": "16:58",
         "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "13:16",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "16:58",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:10"
     },
     {
@@ -501,14 +501,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 04:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:53",
+        "eta_schleuse": "16:55",
         "eta_rueb": "13:11",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "13:11",
-      "eta_schleuse": "16:53",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "16:55",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:05"
     }
   ],
@@ -536,8 +536,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 17 15:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -552,8 +552,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 17 15:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -814,14 +814,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 05:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:56",
+        "eta_schleuse": "16:58",
         "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "13:16",
-      "eta_schleuse": "16:56",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "16:58",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:10"
     },
     {
@@ -835,14 +835,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 04:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:53",
+        "eta_schleuse": "16:55",
         "eta_rueb": "13:11",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "13:11",
-      "eta_schleuse": "16:53",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "16:55",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:05"
     }
   ],
