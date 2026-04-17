@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T21:40:37",
+  "generated_at": "2026-04-17T21:42:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Fri Apr 17 21:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:43",
+        "eta_schleuse": "21:44",
         "eta_rueb": "17:48",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "17:48",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "21:44",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:32"
     },
     {
@@ -138,14 +138,14 @@
       "time": "Fri Apr 17 18:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:26",
-        "eta_rueb": "22:51",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "06:07"
+        "eta_rueb": "22:50",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "06:06"
       },
-      "eta_rueb": "22:51",
+      "eta_rueb": "22:50",
       "eta_schleuse": "03:26",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "06:07"
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "06:06"
     },
     {
       "is_target": false,
@@ -191,14 +191,19 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LURO",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 16:16:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:59",
+        "eta_rueb": "22:07",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "22:07",
+      "eta_schleuse": "01:59",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": false,
@@ -359,14 +364,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 12:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:43",
+        "eta_schleuse": "21:44",
         "eta_rueb": "17:48",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "17:48",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "21:44",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:32"
     },
     {
@@ -415,14 +420,14 @@
       "time": "Fri Apr 17 18:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:26",
-        "eta_rueb": "22:51",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "06:07"
+        "eta_rueb": "22:50",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "06:06"
       },
-      "eta_rueb": "22:51",
+      "eta_rueb": "22:50",
       "eta_schleuse": "03:26",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "06:07"
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "06:06"
     },
     {
       "is_target": false,
@@ -452,14 +457,19 @@
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LURO",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 16:16:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:59",
+        "eta_rueb": "22:07",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "05:13"
+      },
+      "eta_rueb": "22:07",
+      "eta_schleuse": "01:59",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "05:13"
     },
     {
       "is_target": false,
@@ -556,14 +566,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 12:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:43",
+        "eta_schleuse": "21:44",
         "eta_rueb": "17:48",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "17:48",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "21:44",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:32"
     },
     {
@@ -586,7 +596,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:10",
+      "eta_rueb_kiel": "02:08",
       "eta_rueb": "02:00",
       "ship": "LANGELAND",
       "q_gruppe": "4",
@@ -597,13 +607,6 @@
       "eta_rueb": "02:03",
       "ship": "ALDEBARAN J",
       "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "22:07",
-      "eta_rueb": "21:59",
-      "ship": "LURO",
-      "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
