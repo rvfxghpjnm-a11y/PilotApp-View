@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T17:08:40",
+  "generated_at": "2026-04-17T17:10:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,16 +19,11 @@
       "fahrzeug": "VANQUISH",
       "route": "HOS → KLT",
       "time": "Fri Apr 17 16:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:05",
-        "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "13:16",
-      "eta_schleuse": "17:05",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -40,9 +35,14 @@
       "fahrzeug": "ZETAGAS",
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 16:16:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:27",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:27",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -88,9 +88,14 @@
       "fahrzeug": "OSTERBOTTEN",
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 15:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -443,14 +448,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 05:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:56",
+        "eta_schleuse": "18:55",
         "eta_rueb": "15:24",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "05:18"
       },
       "eta_rueb": "15:24",
-      "eta_schleuse": "18:56",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:55",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:18"
     },
     {
@@ -463,16 +468,11 @@
       "fahrzeug": "VANQUISH",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 05:23:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:05",
-        "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "13:16",
-      "eta_schleuse": "17:05",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -484,16 +484,11 @@
       "fahrzeug": "LADY HANNAH",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 04:38:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:59",
-        "eta_rueb": "13:11",
-        "delta_rueb_schleuse": "03:48",
-        "delta_start_rueb": "04:05"
-      },
-      "eta_rueb": "13:11",
-      "eta_schleuse": "16:59",
-      "delta_rueb_schleuse": "03:48",
-      "delta_start_rueb": "04:05"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -507,9 +502,14 @@
       "fahrzeug": "ZETAGAS",
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 16:16:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:27",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:27",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -555,9 +555,14 @@
       "fahrzeug": "OSTERBOTTEN",
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 15:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:24",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -777,14 +782,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 05:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:56",
+        "eta_schleuse": "18:55",
         "eta_rueb": "15:24",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "05:18"
       },
       "eta_rueb": "15:24",
-      "eta_schleuse": "18:56",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:55",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:18"
     },
     {
@@ -797,16 +802,11 @@
       "fahrzeug": "VANQUISH",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 05:23:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:05",
-        "eta_rueb": "13:16",
-        "delta_rueb_schleuse": "03:49",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "13:16",
-      "eta_schleuse": "17:05",
-      "delta_rueb_schleuse": "03:49",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -818,16 +818,11 @@
       "fahrzeug": "LADY HANNAH",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 04:38:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:59",
-        "eta_rueb": "13:11",
-        "delta_rueb_schleuse": "03:48",
-        "delta_start_rueb": "04:05"
-      },
-      "eta_rueb": "13:11",
-      "eta_schleuse": "16:59",
-      "delta_rueb_schleuse": "03:48",
-      "delta_start_rueb": "04:05"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
