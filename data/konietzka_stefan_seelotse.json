@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T15:46:41",
+  "generated_at": "2026-04-17T15:48:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -355,19 +355,14 @@
       "name": "Crischan Czurda",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "OSTERGOTLAND",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 09:41:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:09",
-        "eta_rueb": "15:52",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "04:50"
-      },
-      "eta_rueb": "15:52",
-      "eta_schleuse": "21:09",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "04:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -662,19 +657,14 @@
       "name": "Crischan Czurda",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "OSTERGOTLAND",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 09:41:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:09",
-        "eta_rueb": "15:52",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "04:50"
-      },
-      "eta_rueb": "15:52",
-      "eta_schleuse": "21:09",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "04:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -785,13 +775,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "15:45",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:46",
       "eta_rueb": "17:30",
       "ship": "MAASBORG",
@@ -820,7 +803,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:37",
+      "eta_rueb_kiel": "19:38",
       "eta_rueb": "19:20",
       "ship": "NILS DEYMANN",
       "q_gruppe": "5",
