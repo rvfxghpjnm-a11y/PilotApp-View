@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-17T04:28:36",
+  "generated_at": "2026-04-17T04:30:38",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "RÜB",
-    "from": null,
-    "to": null,
+    "fahrzeug": "JULIA B",
+    "from": "RÜB",
+    "to": "HOS",
     "time": "Fri Apr 17 03:35:00 CEST 2026",
     "nr": 1
   },
@@ -16,7 +16,12 @@
     "wach": 0,
     "see": 4
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "08:44",
+    "eta_rueb": "04:56",
+    "delta_rueb_schleuse": "03:48",
+    "delta_start_rueb": "04:16"
+  },
   "lotsen": [
     {
       "is_target": true,
@@ -25,14 +30,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JULIA B",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 03:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:44",
+        "eta_rueb": "04:56",
+        "delta_rueb_schleuse": "03:48",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "04:56",
+      "eta_schleuse": "08:44",
+      "delta_rueb_schleuse": "03:48",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -194,14 +204,14 @@
       "time": "Thu Apr 16 22:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:40",
-        "eta_rueb": "04:44",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "04:10"
+        "eta_rueb": "04:43",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "04:44",
+      "eta_rueb": "04:43",
       "eta_schleuse": "08:40",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "04:10"
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -317,14 +327,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JULIA B",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 03:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:44",
+        "eta_rueb": "04:56",
+        "delta_rueb_schleuse": "03:48",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "04:56",
+      "eta_schleuse": "08:44",
+      "delta_rueb_schleuse": "03:48",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -422,14 +437,14 @@
       "time": "Thu Apr 16 22:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:40",
-        "eta_rueb": "04:44",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "04:10"
+        "eta_rueb": "04:43",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "04:44",
+      "eta_rueb": "04:43",
       "eta_schleuse": "08:40",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "04:10"
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -539,13 +554,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "04:56",
-      "eta_rueb": "04:53",
-      "ship": "JULIA B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:30",
       "eta_rueb": "06:25",
