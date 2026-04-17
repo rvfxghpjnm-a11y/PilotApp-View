@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T09:10:37",
+  "generated_at": "2026-04-17T09:12:37",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -14,14 +14,9 @@
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 6
+    "see": 5
   },
-  "times": {
-    "eta_schleuse": "09:05",
-    "eta_rueb": "04:21",
-    "delta_rueb_schleuse": "04:44",
-    "delta_start_rueb": "05:05"
-  },
+  "times": null,
   "lotsen": [
     {
       "is_target": false,
@@ -160,16 +155,11 @@
       "fahrzeug": "EAGLE 2",
       "route": "HOS → KLT",
       "time": "Fri Apr 17 03:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:05",
-        "eta_rueb": "04:21",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "05:05"
-      },
-      "eta_rueb": "04:21",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "05:05"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -263,27 +253,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sven",
-      "nachname": "Janson",
-      "name": "Sven Janson",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "VISSERSBANK",
-      "route": "KLT → HOS",
-      "time": "Fri Apr 17 01:24:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hannes",
       "nachname": "Rink",
       "name": "Hannes Rink",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "NORDIC",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 00:53:00 CEST 2026",
@@ -304,7 +278,7 @@
       "nachname": "Blome",
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "PASILA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 23:36:00 CEST 2026",
@@ -325,20 +299,15 @@
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "EAGLE 2",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 21:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:05",
-        "eta_rueb": "04:21",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "05:05"
-      },
-      "eta_rueb": "04:21",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "05:05"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -485,7 +454,7 @@
       "nachname": "Rink",
       "name": "Hannes Rink",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "NORDIC",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 00:53:00 CEST 2026",
@@ -506,7 +475,7 @@
       "nachname": "Blome",
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "PASILA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 23:36:00 CEST 2026",
@@ -527,20 +496,15 @@
       "nachname": "Thiel",
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "EAGLE 2",
       "route": "RÜB → HOS",
       "time": "Thu Apr 16 21:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:05",
-        "eta_rueb": "04:21",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "05:05"
-      },
-      "eta_rueb": "04:21",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "05:05"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
