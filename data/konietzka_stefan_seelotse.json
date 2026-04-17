@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T09:14:38",
+  "generated_at": "2026-04-17T09:16:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "FLEXIMAR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 17 07:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -68,14 +68,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Apr 17 05:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:46",
+        "eta_schleuse": "16:22",
         "eta_rueb": "11:41",
-        "delta_rueb_schleuse": "05:05",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "11:41",
-      "eta_schleuse": "16:46",
-      "delta_rueb_schleuse": "05:05",
+      "eta_schleuse": "16:22",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:43"
     },
     {
@@ -89,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 05:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:25",
+        "eta_schleuse": "15:36",
         "eta_rueb": "10:46",
-        "delta_rueb_schleuse": "05:39",
+        "delta_rueb_schleuse": "04:50",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "10:46",
-      "eta_schleuse": "16:25",
-      "delta_rueb_schleuse": "05:39",
+      "eta_schleuse": "15:36",
+      "delta_rueb_schleuse": "04:50",
       "delta_start_rueb": "03:50"
     },
     {
@@ -110,14 +110,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 04:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:29",
+        "eta_schleuse": "13:46",
         "eta_rueb": "09:19",
-        "delta_rueb_schleuse": "05:10",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:45"
       },
       "eta_rueb": "09:19",
-      "eta_schleuse": "14:29",
-      "delta_rueb_schleuse": "05:10",
+      "eta_schleuse": "13:46",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:45"
     },
     {
@@ -345,14 +345,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Apr 17 05:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:46",
+        "eta_schleuse": "16:22",
         "eta_rueb": "11:41",
-        "delta_rueb_schleuse": "05:05",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "11:41",
-      "eta_schleuse": "16:46",
-      "delta_rueb_schleuse": "05:05",
+      "eta_schleuse": "16:22",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:43"
     },
     {
@@ -366,14 +366,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 05:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:25",
+        "eta_schleuse": "15:36",
         "eta_rueb": "10:46",
-        "delta_rueb_schleuse": "05:39",
+        "delta_rueb_schleuse": "04:50",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "10:46",
-      "eta_schleuse": "16:25",
-      "delta_rueb_schleuse": "05:39",
+      "eta_schleuse": "15:36",
+      "delta_rueb_schleuse": "04:50",
       "delta_start_rueb": "03:50"
     },
     {
@@ -387,14 +387,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 04:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:29",
+        "eta_schleuse": "13:46",
         "eta_rueb": "09:19",
-        "delta_rueb_schleuse": "05:10",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:45"
       },
       "eta_rueb": "09:19",
-      "eta_schleuse": "14:29",
-      "delta_rueb_schleuse": "05:10",
+      "eta_schleuse": "13:46",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:45"
     },
     {
@@ -501,14 +501,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:28",
+      "eta_rueb_kiel": "14:04",
       "eta_rueb": "13:10",
       "ship": "LADY HANNAH",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:31",
+      "eta_rueb_kiel": "14:08",
       "eta_rueb": "13:15",
       "ship": "VANQUISH",
       "q_gruppe": "4",
