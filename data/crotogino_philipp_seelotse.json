@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T19:18:46",
+  "generated_at": "2026-04-17T19:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -436,16 +436,11 @@
       "fahrzeug": "ANOUK",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 08:03:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:17",
-        "eta_rueb": "15:27",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "05:21"
-      },
-      "eta_rueb": "15:27",
-      "eta_schleuse": "19:17",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "05:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -738,16 +733,11 @@
       "fahrzeug": "ANOUK",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 08:03:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:17",
-        "eta_rueb": "15:27",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "05:21"
-      },
-      "eta_rueb": "15:27",
-      "eta_schleuse": "19:17",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "05:21"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -769,13 +759,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "22:08",
-      "eta_rueb": "21:42",
-      "ship": "LURO",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "22:01",
       "eta_rueb": "21:45",
       "ship": "TARNBRIS",
@@ -788,6 +771,13 @@
       "ship": "THUN RESOURCE",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "22:08",
+      "eta_rueb": "21:51",
+      "ship": "LURO",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "00:10",
