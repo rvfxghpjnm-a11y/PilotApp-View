@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T08:12:37",
+  "generated_at": "2026-04-17T08:14:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -212,8 +212,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 17 01:44:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -600,6 +600,13 @@
       "eta_rueb": "13:00",
       "ship": "LADY HANNAH",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:00",
+      "ship": "VANQUISH",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
