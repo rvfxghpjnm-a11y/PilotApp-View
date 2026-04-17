@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T20:24:44",
+  "generated_at": "2026-04-17T20:26:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,14 +69,14 @@
       "time": "Fri Apr 17 18:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:20",
-        "eta_rueb": "22:53",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:09"
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
       },
-      "eta_rueb": "22:53",
+      "eta_rueb": null,
       "eta_schleuse": "03:20",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:09"
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 17:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:18",
-        "eta_rueb": "21:51",
+        "eta_schleuse": "02:16",
+        "eta_rueb": "21:49",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "21:51",
-      "eta_schleuse": "02:18",
+      "eta_rueb": "21:49",
+      "eta_schleuse": "02:16",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -206,8 +206,8 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RADUGA ALTAIR + BARGE VISTA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 17 14:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -393,14 +393,14 @@
       "time": "Fri Apr 17 18:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "03:20",
-        "eta_rueb": "22:53",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:09"
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
       },
-      "eta_rueb": "22:53",
+      "eta_rueb": null,
       "eta_schleuse": "03:20",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:09"
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -413,15 +413,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 17:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:18",
-        "eta_rueb": "21:51",
+        "eta_schleuse": "02:16",
+        "eta_rueb": "21:49",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "21:51",
-      "eta_schleuse": "02:18",
+      "eta_rueb": "21:49",
+      "eta_schleuse": "02:16",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -514,8 +514,8 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RADUGA ALTAIR + BARGE VISTA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 17 14:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
