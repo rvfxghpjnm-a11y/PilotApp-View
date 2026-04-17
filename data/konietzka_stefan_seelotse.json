@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T01:16:37",
+  "generated_at": "2026-04-18T01:18:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -131,14 +131,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 22:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:07",
+        "eta_schleuse": "08:57",
         "eta_rueb": "04:23",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "04:23",
-      "eta_schleuse": "09:07",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "08:57",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "04:25"
     },
     {
@@ -498,14 +498,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 22:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:07",
+        "eta_schleuse": "08:57",
         "eta_rueb": "04:23",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "04:23",
-      "eta_schleuse": "09:07",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "08:57",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "04:25"
     },
     {
@@ -649,7 +649,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:02",
+      "eta_rueb_kiel": "02:00",
       "eta_rueb": "02:00",
       "ship": "LANGELAND",
       "q_gruppe": "4",
@@ -696,6 +696,13 @@
       "ship": "HAV SARDIS",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "05:39",
+      "eta_rueb": "05:40",
+      "ship": "SCHELDEBANK",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
