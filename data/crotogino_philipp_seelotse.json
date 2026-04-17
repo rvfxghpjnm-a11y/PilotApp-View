@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T21:30:50",
+  "generated_at": "2026-04-17T21:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -210,16 +210,11 @@
       "fahrzeug": "MAASBORG",
       "route": "HOS → KLT",
       "time": "Fri Apr 17 15:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:28",
-        "eta_rueb": "17:36",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "05:12"
-      },
-      "eta_rueb": "17:36",
-      "eta_schleuse": "21:28",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "05:12"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -231,16 +226,11 @@
       "fahrzeug": "VESTVIND",
       "route": "HOS → KLT",
       "time": "Fri Apr 17 15:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:32",
-        "eta_rueb": "17:45",
-        "delta_rueb_schleuse": "03:47",
-        "delta_start_rueb": "04:31"
-      },
-      "eta_rueb": "17:45",
-      "eta_schleuse": "21:32",
-      "delta_rueb_schleuse": "03:47",
-      "delta_start_rueb": "04:31"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -265,14 +255,19 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TARNBRIS",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 14:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:02",
+        "eta_rueb": "21:57",
+        "delta_rueb_schleuse": "04:05",
+        "delta_start_rueb": "05:31"
+      },
+      "eta_rueb": "21:57",
+      "eta_schleuse": "02:02",
+      "delta_rueb_schleuse": "04:05",
+      "delta_start_rueb": "05:31"
     },
     {
       "is_target": false,
@@ -379,16 +374,11 @@
       "fahrzeug": "VESTVIND",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 11:39:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:32",
-        "eta_rueb": "17:45",
-        "delta_rueb_schleuse": "03:47",
-        "delta_start_rueb": "04:31"
-      },
-      "eta_rueb": "17:45",
-      "eta_schleuse": "21:32",
-      "delta_rueb_schleuse": "03:47",
-      "delta_start_rueb": "04:31"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -489,14 +479,19 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TARNBRIS",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 14:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:02",
+        "eta_rueb": "21:57",
+        "delta_rueb_schleuse": "04:05",
+        "delta_start_rueb": "05:31"
+      },
+      "eta_rueb": "21:57",
+      "eta_schleuse": "02:02",
+      "delta_rueb_schleuse": "04:05",
+      "delta_start_rueb": "05:31"
     },
     {
       "is_target": false,
@@ -571,16 +566,11 @@
       "fahrzeug": "VESTVIND",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 11:39:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:32",
-        "eta_rueb": "17:45",
-        "delta_rueb_schleuse": "03:47",
-        "delta_start_rueb": "04:31"
-      },
-      "eta_rueb": "17:45",
-      "eta_schleuse": "21:32",
-      "delta_rueb_schleuse": "03:47",
-      "delta_start_rueb": "04:31"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
