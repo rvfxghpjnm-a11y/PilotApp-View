@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-17T12:42:46",
+  "generated_at": "2026-04-17T12:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 9,
     "wach": 1,
     "see": 7
   },
@@ -80,8 +80,8 @@
       "name": "Sören Ehlers",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 17 11:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -196,14 +196,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 09:41:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:06",
+        "eta_schleuse": "21:11",
         "eta_rueb": "15:39",
-        "delta_rueb_schleuse": "05:27",
+        "delta_rueb_schleuse": "05:32",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "15:39",
-      "eta_schleuse": "21:06",
-      "delta_rueb_schleuse": "05:27",
+      "eta_schleuse": "21:11",
+      "delta_rueb_schleuse": "05:32",
       "delta_start_rueb": "04:37"
     },
     {
@@ -217,14 +217,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 08:11:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:55",
+        "eta_schleuse": "19:02",
         "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:15",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "13:47",
-      "eta_schleuse": "18:55",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "19:02",
+      "delta_rueb_schleuse": "05:15",
       "delta_start_rueb": "04:05"
     },
     {
@@ -238,14 +238,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 08:03:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:52",
+        "eta_schleuse": "18:59",
         "eta_rueb": "13:39",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:20",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "13:39",
-      "eta_schleuse": "18:52",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "18:59",
+      "delta_rueb_schleuse": "05:20",
       "delta_start_rueb": "04:03"
     },
     {
@@ -306,38 +306,6 @@
       "fahrzeug": "RÜB",
       "route": null,
       "time": "Fri Apr 17 04:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Hinnerk",
-      "nachname": "Hansen",
-      "name": "Hinnerk Hansen",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "KENDRA",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 02:37:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "René",
-      "nachname": "Winkler",
-      "name": "René Winkler",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "AGNES ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 02:08:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -405,14 +373,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 09:41:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:06",
+        "eta_schleuse": "21:11",
         "eta_rueb": "15:39",
-        "delta_rueb_schleuse": "05:27",
+        "delta_rueb_schleuse": "05:32",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "15:39",
-      "eta_schleuse": "21:06",
-      "delta_rueb_schleuse": "05:27",
+      "eta_schleuse": "21:11",
+      "delta_rueb_schleuse": "05:32",
       "delta_start_rueb": "04:37"
     },
     {
@@ -426,14 +394,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 08:11:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:55",
+        "eta_schleuse": "19:02",
         "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "05:08",
+        "delta_rueb_schleuse": "05:15",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "13:47",
-      "eta_schleuse": "18:55",
-      "delta_rueb_schleuse": "05:08",
+      "eta_schleuse": "19:02",
+      "delta_rueb_schleuse": "05:15",
       "delta_start_rueb": "04:05"
     },
     {
@@ -447,14 +415,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 17 08:03:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:52",
+        "eta_schleuse": "18:59",
         "eta_rueb": "13:39",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:20",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "13:39",
-      "eta_schleuse": "18:52",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "18:59",
+      "delta_rueb_schleuse": "05:20",
       "delta_start_rueb": "04:03"
     },
     {
@@ -504,38 +472,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Hinnerk",
-      "nachname": "Hansen",
-      "name": "Hinnerk Hansen",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "KENDRA",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 02:37:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "René",
-      "nachname": "Winkler",
-      "name": "René Winkler",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "AGNES ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 02:08:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -576,21 +512,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:35",
+      "eta_rueb_kiel": "15:37",
       "eta_rueb": "15:28",
       "ship": "MAXIMAR",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:38",
+      "eta_rueb_kiel": "15:45",
       "eta_rueb": "15:30",
       "ship": "X-PRESS ELBE",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:49",
+      "eta_rueb_kiel": "17:54",
       "eta_rueb": "17:30",
       "ship": "MAASBORG",
       "q_gruppe": "4",
