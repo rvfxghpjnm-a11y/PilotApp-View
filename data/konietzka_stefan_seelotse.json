@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T20:18:37",
+  "generated_at": "2026-04-17T20:20:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 12,
     "wach": 2,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -226,14 +226,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 13:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:40",
+        "eta_schleuse": "23:42",
         "eta_rueb": "19:42",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "19:42",
-      "eta_schleuse": "23:40",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "23:42",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:04"
     },
     {
@@ -328,27 +328,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Jakob",
-      "name": "Peter Jakob",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri Apr 17 11:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "VESTVIND",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 11:39:00 CEST 2026",
@@ -369,7 +353,7 @@
       "nachname": "Spiller",
       "name": "Roman Spiller",
       "aufgabe": "Seebört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Fri Apr 17 11:00:00 CEST 2026",
@@ -550,14 +534,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 13:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:40",
+        "eta_schleuse": "23:42",
         "eta_rueb": "19:42",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:04"
       },
       "eta_rueb": "19:42",
-      "eta_schleuse": "23:40",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "23:42",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:04"
     },
     {
@@ -608,7 +592,7 @@
       "nachname": "Bachholz",
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "VESTVIND",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 11:39:00 CEST 2026",
@@ -648,7 +632,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:12",
+      "eta_rueb_kiel": "00:11",
       "eta_rueb": "23:45",
       "ship": "BRAHMS",
       "q_gruppe": "5",
