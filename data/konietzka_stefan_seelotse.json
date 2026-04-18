@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T18:32:37",
+  "generated_at": "2026-04-18T18:34:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 18,
     "wach": 0,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -447,31 +447,15 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:10",
+        "eta_schleuse": "21:09",
         "eta_rueb": "16:51",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "16:51",
-      "eta_schleuse": "21:10",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "21:09",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "04:57"
-    },
-    {
-      "is_target": false,
-      "vorname": "Ulrich",
-      "nachname": "Diekmann",
-      "name": "Ulrich Diekmann",
-      "aufgabe": "Seebört",
-      "nr": 25,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Sat Apr 18 04:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -808,21 +792,21 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:10",
+        "eta_schleuse": "21:09",
         "eta_rueb": "16:51",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "16:51",
-      "eta_schleuse": "21:10",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "21:09",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "04:57"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:10",
+      "eta_rueb_kiel": "19:09",
       "eta_rueb": "19:00",
       "ship": "KAPPAGAS",
       "q_gruppe": "4",
