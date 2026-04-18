@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-18T09:06:59",
+  "generated_at": "2026-04-18T09:08:58",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 2,
     "see": 9
   },
@@ -90,14 +90,14 @@
       "time": "Sat Apr 18 06:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:50",
-        "eta_rueb": "11:23",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "11:22",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "11:23",
+      "eta_rueb": "11:22",
       "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -143,19 +143,14 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "GERMANICA HAV",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 04:17:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:41",
-        "eta_rueb": "09:09",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:23"
-      },
-      "eta_rueb": "09:09",
-      "eta_schleuse": "13:41",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -351,27 +346,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Schie",
-      "name": "Christian Schie",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "NECKARBORG",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 22:59:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Michael",
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "SCHELDEBANK",
       "route": "RÜB → UTG",
       "time": "Fri Apr 17 22:48:00 CEST 2026",
@@ -464,14 +443,14 @@
       "time": "Sat Apr 18 06:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:50",
-        "eta_rueb": "11:23",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "11:22",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "11:23",
+      "eta_rueb": "11:22",
       "eta_schleuse": "15:50",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -501,19 +480,14 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "GERMANICA HAV",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 04:17:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:41",
-        "eta_rueb": "09:09",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:23"
-      },
-      "eta_rueb": "09:09",
-      "eta_schleuse": "13:41",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -533,27 +507,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Schie",
-      "name": "Christian Schie",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "NECKARBORG",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 17 22:59:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Michael",
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "SCHELDEBANK",
       "route": "RÜB → UTG",
       "time": "Fri Apr 17 22:48:00 CEST 2026",
