@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T05:06:50",
+  "generated_at": "2026-04-18T05:08:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -202,14 +202,14 @@
       "time": "Sat Apr 18 02:37:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:46",
-        "eta_rueb": "07:19",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "07:18",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "07:19",
+      "eta_rueb": "07:18",
       "eta_schleuse": "11:46",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -318,14 +318,19 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PRINCE MADOG",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 23:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:10",
+        "eta_rueb": "05:36",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "05:36",
+      "eta_schleuse": "09:10",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -339,14 +344,14 @@
       "time": "Fri Apr 17 22:59:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:19",
-        "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:13"
+        "eta_rueb": "05:28",
+        "delta_rueb_schleuse": "03:51",
+        "delta_start_rueb": "04:12"
       },
-      "eta_rueb": "05:29",
+      "eta_rueb": "05:28",
       "eta_schleuse": "09:19",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:13"
+      "delta_rueb_schleuse": "03:51",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -510,14 +515,14 @@
       "time": "Sat Apr 18 02:37:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:46",
-        "eta_rueb": "07:19",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "07:18",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "07:19",
+      "eta_rueb": "07:18",
       "eta_schleuse": "11:46",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -626,14 +631,19 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PRINCE MADOG",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 17 23:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:10",
+        "eta_rueb": "05:36",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "05:36",
+      "eta_schleuse": "09:10",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -647,14 +657,14 @@
       "time": "Fri Apr 17 22:59:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:19",
-        "eta_rueb": "05:29",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:13"
+        "eta_rueb": "05:28",
+        "delta_rueb_schleuse": "03:51",
+        "delta_start_rueb": "04:12"
       },
-      "eta_rueb": "05:29",
+      "eta_rueb": "05:28",
       "eta_schleuse": "09:19",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:13"
+      "delta_rueb_schleuse": "03:51",
+      "delta_start_rueb": "04:12"
     },
     {
       "is_target": false,
@@ -722,13 +732,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:36",
-      "eta_rueb": "05:57",
-      "ship": "PRINCE MADOG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:31",
       "eta_rueb": "10:30",
