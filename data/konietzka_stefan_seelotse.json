@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T20:30:37",
+  "generated_at": "2026-04-18T20:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -243,14 +243,19 @@
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PATRICIA ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:58",
+        "eta_rueb": "20:59",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "20:59",
+      "eta_schleuse": "00:58",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -295,14 +300,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 13:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:42",
+        "eta_schleuse": "23:41",
         "eta_rueb": "19:19",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:13"
       },
       "eta_rueb": "19:19",
-      "eta_schleuse": "23:42",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "23:41",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:13"
     },
     {
@@ -379,14 +384,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:08",
+        "eta_schleuse": "21:07",
         "eta_rueb": "16:54",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "16:54",
-      "eta_schleuse": "21:08",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "21:07",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:42"
     },
     {
@@ -421,14 +426,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:03",
+        "eta_schleuse": "21:02",
         "eta_rueb": "16:51",
-        "delta_rueb_schleuse": "04:12",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "16:51",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "04:12",
+      "eta_schleuse": "21:02",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:57"
     }
   ],
@@ -619,14 +624,19 @@
       "name": "Thomas Thiel",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PATRICIA ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:58",
+        "eta_rueb": "20:59",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "20:59",
+      "eta_schleuse": "00:58",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -639,14 +649,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 13:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:42",
+        "eta_schleuse": "23:41",
         "eta_rueb": "19:19",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "05:13"
       },
       "eta_rueb": "19:19",
-      "eta_schleuse": "23:42",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "23:41",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "05:13"
     },
     {
@@ -723,14 +733,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:08",
+        "eta_schleuse": "21:07",
         "eta_rueb": "16:54",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "16:54",
-      "eta_schleuse": "21:08",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "21:07",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:42"
     },
     {
@@ -765,26 +775,19 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:03",
+        "eta_schleuse": "21:02",
         "eta_rueb": "16:51",
-        "delta_rueb_schleuse": "04:12",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "16:51",
-      "eta_schleuse": "21:03",
-      "delta_rueb_schleuse": "04:12",
+      "eta_schleuse": "21:02",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:57"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "20:59",
-      "eta_rueb": "21:00",
-      "ship": "PATRICIA ESSBERGER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "21:03",
       "eta_rueb": "21:03",
