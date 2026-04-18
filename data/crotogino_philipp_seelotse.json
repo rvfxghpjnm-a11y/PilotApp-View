@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T09:30:55",
+  "generated_at": "2026-04-18T09:32:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -72,9 +72,14 @@
       "fahrzeug": "MAUREEN S",
       "route": "HOR → RÜB",
       "time": "Sat Apr 18 07:42:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:10",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:10",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -175,8 +180,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SCHELDEBANK",
+      "route": "UTG → UTG",
       "time": "Sat Apr 18 04:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -223,8 +228,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HAV SARDIS",
+      "route": "UTG → HOS",
       "time": "Sat Apr 18 04:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -393,9 +398,14 @@
       "fahrzeug": "MAUREEN S",
       "route": "HOR → RÜB",
       "time": "Sat Apr 18 07:42:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:10",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:10",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
