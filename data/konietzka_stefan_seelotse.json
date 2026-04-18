@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T18:02:37",
+  "generated_at": "2026-04-18T18:04:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -182,15 +182,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 18 15:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:52",
-        "eta_rueb": "20:24",
+        "eta_schleuse": "00:51",
+        "eta_rueb": "20:23",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:54"
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "20:24",
-      "eta_schleuse": "00:52",
+      "eta_rueb": "20:23",
+      "eta_schleuse": "00:51",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:54"
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -236,14 +236,19 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "LADY HANNEKE",
+      "route": "HOS → KLT",
       "time": "Sat Apr 18 14:34:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:07",
+        "eta_rueb": "14:47",
+        "delta_rueb_schleuse": "03:20",
+        "delta_start_rueb": "05:35"
+      },
+      "eta_rueb": "14:47",
+      "eta_schleuse": "18:07",
+      "delta_rueb_schleuse": "03:20",
+      "delta_start_rueb": "05:35"
     },
     {
       "is_target": false,
@@ -633,15 +638,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 18 15:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:52",
-        "eta_rueb": "20:24",
+        "eta_schleuse": "00:51",
+        "eta_rueb": "20:23",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:54"
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "20:24",
-      "eta_schleuse": "00:52",
+      "eta_rueb": "20:23",
+      "eta_schleuse": "00:51",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:54"
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -886,7 +891,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:28",
+      "eta_rueb_kiel": "19:27",
       "eta_rueb": "19:12",
       "ship": "NORDSTRAUM",
       "q_gruppe": "4",
