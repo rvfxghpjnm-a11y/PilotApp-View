@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:26:37",
+  "generated_at": "2026-04-18T16:28:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -73,8 +73,8 @@
       "name": "Oliver Schran",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 15:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -89,8 +89,8 @@
       "name": "Justus Heyder",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 15:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -316,14 +316,19 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MONA SWAN",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:18:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:24",
+        "eta_rueb": "16:56",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:44"
+      },
+      "eta_rueb": "16:56",
+      "eta_schleuse": "21:24",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": true,
@@ -493,8 +498,8 @@
       "name": "Oliver Schran",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 15:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -509,8 +514,8 @@
       "name": "Justus Heyder",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 15:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -683,14 +688,19 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MONA SWAN",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:18:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:24",
+        "eta_rueb": "16:56",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:44"
+      },
+      "eta_rueb": "16:56",
+      "eta_schleuse": "21:24",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -791,13 +801,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:56",
-      "eta_rueb": "16:58",
-      "ship": "MONA SWAN",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:00",
       "eta_rueb": "17:01",
       "ship": "NIMBUS",
@@ -840,28 +843,28 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:21",
+      "eta_rueb_kiel": "19:27",
       "eta_rueb": "19:06",
       "ship": "BALTIC SKIPPER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:25",
+      "eta_rueb_kiel": "19:20",
       "eta_rueb": "19:09",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:28",
+      "eta_rueb_kiel": "19:24",
       "eta_rueb": "19:12",
       "ship": "NORDSTRAUM",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:31",
+      "eta_rueb_kiel": "19:30",
       "eta_rueb": "19:15",
       "ship": "ECO KHAMSIN",
       "q_gruppe": "0",
