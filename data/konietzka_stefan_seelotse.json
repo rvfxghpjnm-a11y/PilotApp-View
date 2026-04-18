@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T10:06:46",
+  "generated_at": "2026-04-18T10:08:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -225,11 +225,16 @@
       "fahrzeug": "HAV SARDIS",
       "route": "UTG → HOS",
       "time": "Sat Apr 18 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "04:03",
+        "delta_rueb_schleuse": "2284310:43",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "04:03",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2284310:43",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
