@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:10:54",
+  "generated_at": "2026-04-18T11:12:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -174,19 +174,14 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "SALAR",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 06:13:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:49",
-        "eta_rueb": "11:12",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "11:12",
-      "eta_schleuse": "15:49",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -472,19 +467,14 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "SALAR",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 06:13:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:49",
-        "eta_rueb": "11:12",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:46"
-      },
-      "eta_rueb": "11:12",
-      "eta_schleuse": "15:49",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:46"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -526,13 +516,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "11:30",
-      "ship": "ANTJE K",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "12:48",
       "eta_rueb": "12:40",
