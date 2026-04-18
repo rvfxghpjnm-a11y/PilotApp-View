@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T21:49:00",
+  "generated_at": "2026-04-18T21:50:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,9 +99,14 @@
       "fahrzeug": "FAIRLANE",
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 20:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -259,14 +264,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:51",
+        "eta_schleuse": "21:55",
         "eta_rueb": "17:11",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:44",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "17:11",
-      "eta_schleuse": "21:51",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "21:55",
+      "delta_rueb_schleuse": "04:44",
       "delta_start_rueb": "04:59"
     },
     {
@@ -455,9 +460,14 @@
       "fahrzeug": "FAIRLANE",
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 20:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -567,14 +577,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:51",
+        "eta_schleuse": "21:55",
         "eta_rueb": "17:11",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:44",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "17:11",
-      "eta_schleuse": "21:51",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "21:55",
+      "delta_rueb_schleuse": "04:44",
       "delta_start_rueb": "04:59"
     },
     {
@@ -714,7 +724,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:51",
+      "eta_rueb_kiel": "01:50",
       "eta_rueb": "01:40",
       "ship": "TUNDRALAND",
       "q_gruppe": "0",
