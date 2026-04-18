@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T08:10:55",
+  "generated_at": "2026-04-18T08:12:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -290,16 +290,11 @@
       "fahrzeug": "HAV SARDIS",
       "route": "RÜB → UTG",
       "time": "Sat Apr 18 02:10:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "08:10",
-        "eta_rueb": "04:03",
-        "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "04:03",
-      "eta_schleuse": "08:10",
-      "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -583,16 +578,11 @@
       "fahrzeug": "HAV SARDIS",
       "route": "RÜB → UTG",
       "time": "Sat Apr 18 02:10:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "08:10",
-        "eta_rueb": "04:03",
-        "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "04:03",
-      "eta_schleuse": "08:10",
-      "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -672,6 +662,20 @@
       "eta_rueb": "11:30",
       "ship": "ANTJE K",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "12:30",
+      "ship": "HEIKE LEHMANN",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "12:35",
+      "ship": "LADY HANNEKE",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
