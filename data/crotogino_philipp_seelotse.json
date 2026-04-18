@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T08:56:54",
+  "generated_at": "2026-04-18T08:58:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 2,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -89,14 +89,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 18 06:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:51",
+        "eta_schleuse": "15:50",
         "eta_rueb": "11:23",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:57"
       },
       "eta_rueb": "11:23",
-      "eta_schleuse": "15:51",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "15:50",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:57"
     },
     {
@@ -335,27 +335,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Denny",
-      "nachname": "Pankonin",
-      "name": "Denny Pankonin",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "Sat Apr 18 00:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sebastian",
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "PRINCE MADOG",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 23:05:00 CEST 2026",
@@ -376,7 +360,7 @@
       "nachname": "Schie",
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "NECKARBORG",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 22:59:00 CEST 2026",
@@ -397,19 +381,19 @@
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "SCHELDEBANK",
       "route": "RÜB → UTG",
       "time": "Fri Apr 17 22:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:56",
+        "eta_schleuse": "08:57",
         "eta_rueb": "05:25",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "05:25",
-      "eta_schleuse": "08:56",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "08:57",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:11"
     }
   ],
@@ -494,14 +478,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 18 06:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:51",
+        "eta_schleuse": "15:50",
         "eta_rueb": "11:23",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:57"
       },
       "eta_rueb": "11:23",
-      "eta_schleuse": "15:51",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "15:50",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:57"
     },
     {
@@ -568,7 +552,7 @@
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "PRINCE MADOG",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 23:05:00 CEST 2026",
@@ -589,7 +573,7 @@
       "nachname": "Schie",
       "name": "Christian Schie",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "NECKARBORG",
       "route": "RÜB → HOS",
       "time": "Fri Apr 17 22:59:00 CEST 2026",
@@ -610,19 +594,19 @@
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "SCHELDEBANK",
       "route": "RÜB → UTG",
       "time": "Fri Apr 17 22:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:56",
+        "eta_schleuse": "08:57",
         "eta_rueb": "05:25",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "05:25",
-      "eta_schleuse": "08:56",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "08:57",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:11"
     }
   ],
