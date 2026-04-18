@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:32:38",
+  "generated_at": "2026-04-18T16:34:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -89,14 +89,19 @@
       "name": "Justus Heyder",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MAINTAL",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:35",
+        "eta_rueb": "17:02",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "17:02",
+      "eta_schleuse": "21:35",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -131,14 +136,14 @@
       "time": "Sat Apr 18 15:23:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "20:19",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": null,
+      "eta_rueb": "20:19",
       "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -151,15 +156,15 @@
       "route": "UTG → RÜB",
       "time": "Sat Apr 18 15:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:05",
-        "eta_rueb": "19:38",
+        "eta_schleuse": "00:04",
+        "eta_rueb": "19:37",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:02"
+        "delta_start_rueb": "06:01"
       },
-      "eta_rueb": "19:38",
-      "eta_schleuse": "00:05",
+      "eta_rueb": "19:37",
+      "eta_schleuse": "00:04",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:02"
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -246,14 +251,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 13:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:48",
+        "eta_schleuse": "22:50",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:36",
         "delta_start_rueb": "03:24"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:48",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "22:50",
+      "delta_rueb_schleuse": "04:36",
       "delta_start_rueb": "03:24"
     },
     {
@@ -363,14 +368,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NIMBUS",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 09:51:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:32",
+        "eta_rueb": "17:00",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:48"
+      },
+      "eta_rueb": "17:00",
+      "eta_schleuse": "21:32",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:48"
     },
     {
       "is_target": false,
@@ -524,14 +534,19 @@
       "name": "Justus Heyder",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MAINTAL",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:35",
+        "eta_rueb": "17:02",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "17:02",
+      "eta_schleuse": "21:35",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
@@ -566,14 +581,14 @@
       "time": "Sat Apr 18 15:23:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "20:19",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": null,
+      "eta_rueb": "20:19",
       "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -586,15 +601,15 @@
       "route": "UTG → RÜB",
       "time": "Sat Apr 18 15:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:05",
-        "eta_rueb": "19:38",
+        "eta_schleuse": "00:04",
+        "eta_rueb": "19:37",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "06:02"
+        "delta_start_rueb": "06:01"
       },
-      "eta_rueb": "19:38",
-      "eta_schleuse": "00:05",
+      "eta_rueb": "19:37",
+      "eta_schleuse": "00:04",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "06:02"
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -649,14 +664,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 13:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:48",
+        "eta_schleuse": "22:50",
         "eta_rueb": "18:14",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:36",
         "delta_start_rueb": "03:24"
       },
       "eta_rueb": "18:14",
-      "eta_schleuse": "22:48",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "22:50",
+      "delta_rueb_schleuse": "04:36",
       "delta_start_rueb": "03:24"
     },
     {
@@ -729,14 +744,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NIMBUS",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 09:51:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:32",
+        "eta_rueb": "17:00",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:48"
+      },
+      "eta_rueb": "17:00",
+      "eta_schleuse": "21:32",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:48"
     },
     {
       "is_target": false,
@@ -821,13 +841,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "17:02",
-      "eta_rueb": "17:04",
-      "ship": "MAINTAL",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:15",
       "eta_rueb": "17:15",
       "ship": "SVENDBORG",
@@ -842,56 +855,56 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "19:15",
+      "eta_rueb_kiel": "19:16",
       "eta_rueb": "19:00",
       "ship": "KAPPAGAS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:17",
+      "eta_rueb_kiel": "19:19",
       "eta_rueb": "19:03",
       "ship": "ANNIKA BRAREN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:22",
+      "eta_rueb_kiel": "19:23",
       "eta_rueb": "19:06",
       "ship": "BALTIC SKIPPER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:25",
+      "eta_rueb_kiel": "19:26",
       "eta_rueb": "19:09",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:28",
+      "eta_rueb_kiel": "19:29",
       "eta_rueb": "19:12",
       "ship": "NORDSTRAUM",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:31",
+      "eta_rueb_kiel": "19:34",
       "eta_rueb": "19:15",
       "ship": "ECO KHAMSIN",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:21",
+      "eta_rueb_kiel": "21:22",
       "eta_rueb": "21:00",
       "ship": "SOFIA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:18",
+      "eta_rueb_kiel": "21:19",
       "eta_rueb": "21:03",
       "ship": "PATRICIA ESSBERGER",
       "q_gruppe": "4",
