@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T14:02:38",
+  "generated_at": "2026-04-18T14:04:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -13,7 +13,7 @@
   },
   "gruppen": {
     "kanal": 12,
-    "wach": 2,
+    "wach": 1,
     "see": 6
   },
   "times": null,
@@ -189,19 +189,14 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "BAYMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 09:51:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:33",
-        "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "06:26",
-        "delta_start_rueb": "03:23"
-      },
-      "eta_rueb": "14:07",
-      "eta_schleuse": "20:33",
-      "delta_rueb_schleuse": "06:26",
-      "delta_start_rueb": "03:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -338,29 +333,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Rainer",
-      "nachname": "Heeren",
-      "name": "Rainer Heeren",
-      "aufgabe": "Wachgänger",
-      "nr": 19,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Sat Apr 18 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hannes",
       "nachname": "Rink",
       "name": "Hannes Rink",
       "aufgabe": "Wachgänger",
-      "nr": 20,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
+      "nr": 19,
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 18 04:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -472,19 +451,14 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "BAYMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 09:51:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:33",
-        "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "06:26",
-        "delta_start_rueb": "03:23"
-      },
-      "eta_rueb": "14:07",
-      "eta_schleuse": "20:33",
-      "delta_rueb_schleuse": "06:26",
-      "delta_start_rueb": "03:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -605,13 +579,6 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:13",
-      "eta_rueb": "16:53",
-      "ship": "MONA SWAN",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:04",
       "eta_rueb": "16:55",
       "ship": "INA LEHMANN",
@@ -619,22 +586,29 @@
       "route": "RÜB → HOS"
     },
     {
+      "eta_rueb_kiel": "17:13",
+      "eta_rueb": "16:58",
+      "ship": "MONA SWAN",
+      "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "17:07",
-      "eta_rueb": "16:56",
+      "eta_rueb": "17:01",
       "ship": "NIMBUS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "17:10",
-      "eta_rueb": "16:57",
+      "eta_rueb": "17:04",
       "ship": "MAINTAL",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "17:16",
-      "eta_rueb": "16:59",
+      "eta_rueb": "17:15",
       "ship": "SVENDBORG",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
