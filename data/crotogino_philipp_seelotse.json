@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T18:04:53",
+  "generated_at": "2026-04-18T18:06:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -211,8 +211,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Sat Apr 18 15:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -231,14 +231,14 @@
       "route": "HOS → KLT",
       "time": "Sat Apr 18 14:34:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:07",
+        "eta_schleuse": "18:09",
         "eta_rueb": "14:47",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "05:35"
       },
       "eta_rueb": "14:47",
-      "eta_schleuse": "18:07",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "18:09",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "05:35"
     },
     {
@@ -274,14 +274,14 @@
       "time": "Sat Apr 18 13:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "22:52",
-        "eta_rueb": "18:12",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:20"
+        "eta_rueb": "18:11",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:19"
       },
-      "eta_rueb": "18:12",
+      "eta_rueb": "18:11",
       "eta_schleuse": "22:52",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:20"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:19"
     },
     {
       "is_target": false,
@@ -453,14 +453,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 07:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:07",
+        "eta_schleuse": "18:09",
         "eta_rueb": "14:47",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "05:35"
       },
       "eta_rueb": "14:47",
-      "eta_schleuse": "18:07",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "18:09",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "05:35"
     },
     {
@@ -693,14 +693,14 @@
       "time": "Sat Apr 18 13:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "22:52",
-        "eta_rueb": "18:12",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:20"
+        "eta_rueb": "18:11",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:19"
       },
-      "eta_rueb": "18:12",
+      "eta_rueb": "18:11",
       "eta_schleuse": "22:52",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:20"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:19"
     },
     {
       "is_target": false,
@@ -840,14 +840,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 07:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:07",
+        "eta_schleuse": "18:09",
         "eta_rueb": "14:47",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "05:35"
       },
       "eta_rueb": "14:47",
-      "eta_schleuse": "18:07",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "18:09",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "05:35"
     }
   ],
@@ -868,7 +868,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:19",
+      "eta_rueb_kiel": "19:18",
       "eta_rueb": "19:06",
       "ship": "BALTIC SKIPPER",
       "q_gruppe": "5",
@@ -889,7 +889,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:31",
+      "eta_rueb_kiel": "19:30",
       "eta_rueb": "19:15",
       "ship": "ECO KHAMSIN",
       "q_gruppe": "0",
