@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:20:40",
+  "generated_at": "2026-04-18T16:22:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -174,8 +174,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Apr 18 14:34:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -257,14 +257,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Apr 18 13:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:41",
+        "eta_schleuse": "21:40",
         "eta_rueb": "17:13",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:49"
       },
       "eta_rueb": "17:13",
-      "eta_schleuse": "21:41",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:40",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:49"
     },
     {
@@ -295,14 +295,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HEIKE LEHMANN",
+      "route": "HOS → KLT",
       "time": "Sat Apr 18 11:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:47",
+        "eta_rueb": "12:51",
+        "delta_rueb_schleuse": "03:56",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "12:51",
+      "eta_schleuse": "16:47",
+      "delta_rueb_schleuse": "03:56",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -635,14 +640,14 @@
       "route": "UTG → RÜB",
       "time": "Sat Apr 18 13:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:41",
+        "eta_schleuse": "21:40",
         "eta_rueb": "17:13",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:49"
       },
       "eta_rueb": "17:13",
-      "eta_schleuse": "21:41",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:40",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:49"
     },
     {
@@ -797,7 +802,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:04",
+      "eta_rueb_kiel": "17:02",
       "eta_rueb": "17:04",
       "ship": "MAINTAL",
       "q_gruppe": "5",
@@ -863,6 +868,13 @@
       "eta_rueb_kiel": "21:21",
       "eta_rueb": "21:00",
       "ship": "SOFIA",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "21:18",
+      "eta_rueb": "21:03",
+      "ship": "PATRICIA ESSBERGER",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
