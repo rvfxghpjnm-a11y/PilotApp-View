@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T14:48:53",
+  "generated_at": "2026-04-18T14:50:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,11 +67,16 @@
       "fahrzeug": "KARESSA",
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 13:37:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:54",
+        "eta_rueb": "18:20",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "18:20",
+      "eta_schleuse": "22:54",
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -159,14 +164,14 @@
       "time": "Sat Apr 18 11:18:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:39",
-        "eta_rueb": "15:54",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "03:30"
+        "eta_rueb": "15:53",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "15:54",
+      "eta_rueb": "15:53",
       "eta_schleuse": "20:39",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "03:30"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -382,11 +387,16 @@
       "fahrzeug": "KARESSA",
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 13:37:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:54",
+        "eta_rueb": "18:20",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "18:20",
+      "eta_schleuse": "22:54",
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -442,14 +452,14 @@
       "time": "Sat Apr 18 11:18:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:39",
-        "eta_rueb": "15:54",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "03:30"
+        "eta_rueb": "15:53",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "15:54",
+      "eta_rueb": "15:53",
       "eta_schleuse": "20:39",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "03:30"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -603,35 +613,35 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "19:15",
+      "eta_rueb_kiel": "19:17",
       "eta_rueb": "19:00",
       "ship": "KAPPAGAS",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:27",
+      "eta_rueb_kiel": "19:29",
       "eta_rueb": "19:02",
       "ship": "NORDSTRAUM",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:18",
+      "eta_rueb_kiel": "19:20",
       "eta_rueb": "19:03",
       "ship": "ANNIKA BRAREN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:21",
+      "eta_rueb_kiel": "19:23",
       "eta_rueb": "19:06",
       "ship": "BALTIC SKIPPER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:24",
+      "eta_rueb_kiel": "19:26",
       "eta_rueb": "19:09",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
