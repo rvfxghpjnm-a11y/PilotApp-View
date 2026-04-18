@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T04:14:48",
+  "generated_at": "2026-04-18T04:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,11 +51,16 @@
       "fahrzeug": "THUN RESOURCE",
       "route": "UTG → HOS",
       "time": "Sat Apr 18 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "22:03",
+        "delta_rueb_schleuse": "2284316:43",
+        "delta_start_rueb": "05:31"
+      },
+      "eta_rueb": "22:03",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2284316:43",
+      "delta_start_rueb": "05:31"
     },
     {
       "is_target": false,
@@ -133,14 +138,14 @@
       "time": "Sat Apr 18 02:37:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:50",
-        "eta_rueb": "07:24",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "07:23",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "07:24",
+      "eta_rueb": "07:23",
       "eta_schleuse": "11:50",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -463,14 +468,14 @@
       "time": "Sat Apr 18 02:37:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:50",
-        "eta_rueb": "07:24",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "07:23",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:55"
       },
-      "eta_rueb": "07:24",
+      "eta_rueb": "07:23",
       "eta_schleuse": "11:50",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:55"
     },
     {
       "is_target": false,
@@ -717,7 +722,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "05:33",
+      "eta_rueb_kiel": "05:32",
       "eta_rueb": "05:55",
       "ship": "NECKARBORG",
       "q_gruppe": "4",
