@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T05:14:45",
+  "generated_at": "2026-04-18T05:16:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 12,
     "wach": 3,
-    "see": 6
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -181,14 +181,19 @@
       "name": "Johannes Biedermann",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "LANGELAND",
+      "route": "HOS → KLT",
       "time": "Sat Apr 18 02:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "05:23",
+        "eta_rueb": "01:59",
+        "delta_rueb_schleuse": "03:24",
+        "delta_start_rueb": "05:23"
+      },
+      "eta_rueb": "01:59",
+      "eta_schleuse": "05:23",
+      "delta_rueb_schleuse": "03:24",
+      "delta_start_rueb": "05:23"
     },
     {
       "is_target": false,
@@ -276,40 +281,40 @@
     },
     {
       "is_target": false,
+      "vorname": "Caspar-Maria",
+      "nachname": "Krüger",
+      "name": "Caspar-Maria Krüger",
+      "aufgabe": "Seebört",
+      "nr": 16,
+      "fahrzeug": "NORMA",
+      "route": "HOS → KLT",
+      "time": "Sat Apr 18 00:35:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "05:41",
+        "eta_rueb": "02:15",
+        "delta_rueb_schleuse": "03:26",
+        "delta_start_rueb": "04:29"
+      },
+      "eta_rueb": "02:15",
+      "eta_schleuse": "05:41",
+      "delta_rueb_schleuse": "03:26",
+      "delta_start_rueb": "04:29"
+    },
+    {
+      "is_target": false,
       "vorname": "Denny",
       "nachname": "Pankonin",
       "name": "Denny Pankonin",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
+      "aufgabe": "Seebört",
+      "nr": 17,
       "fahrzeug": "ALDEBARAN J",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Apr 18 00:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Caspar-Maria",
-      "nachname": "Krüger",
-      "name": "Caspar-Maria Krüger",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "NORMA",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 00:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:42",
-        "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:29"
-      },
-      "eta_rueb": "02:15",
-      "eta_schleuse": "05:42",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -586,43 +591,6 @@
       "eta_schleuse": "05:38",
       "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:27"
-    },
-    {
-      "is_target": false,
-      "vorname": "Denny",
-      "nachname": "Pankonin",
-      "name": "Denny Pankonin",
-      "aufgabe": "Kanalbört",
-      "nr": 16,
-      "fahrzeug": "ALDEBARAN J",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 00:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Caspar-Maria",
-      "nachname": "Krüger",
-      "name": "Caspar-Maria Krüger",
-      "aufgabe": "Kanalbört",
-      "nr": 17,
-      "fahrzeug": "NORMA",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 00:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:42",
-        "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:29"
-      },
-      "eta_rueb": "02:15",
-      "eta_schleuse": "05:42",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
