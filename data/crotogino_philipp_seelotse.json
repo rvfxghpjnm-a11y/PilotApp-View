@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T18:40:53",
+  "generated_at": "2026-04-18T18:42:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -328,14 +328,19 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KAPPAGAS",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:53:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:42",
+        "eta_rueb": "19:09",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:51"
+      },
+      "eta_rueb": "19:09",
+      "eta_schleuse": "22:42",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:51"
     },
     {
       "is_target": false,
@@ -364,14 +369,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:16",
+        "eta_schleuse": "21:15",
         "eta_rueb": "16:54",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "16:54",
-      "eta_schleuse": "21:16",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "21:15",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:42"
     },
     {
@@ -401,14 +406,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 09:51:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:19",
+        "eta_schleuse": "21:18",
         "eta_rueb": "16:59",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "16:59",
-      "eta_schleuse": "21:19",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "21:18",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "04:47"
     },
     {
@@ -705,14 +710,19 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KAPPAGAS",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:53:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:42",
+        "eta_rueb": "19:09",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:51"
+      },
+      "eta_rueb": "19:09",
+      "eta_schleuse": "22:42",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:51"
     },
     {
       "is_target": false,
@@ -725,14 +735,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 11:18:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:16",
+        "eta_schleuse": "21:15",
         "eta_rueb": "16:54",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "16:54",
-      "eta_schleuse": "21:16",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "21:15",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:42"
     },
     {
@@ -746,14 +756,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 09:51:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:19",
+        "eta_schleuse": "21:18",
         "eta_rueb": "16:59",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "16:59",
-      "eta_schleuse": "21:19",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "21:18",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "04:47"
     },
     {
@@ -797,13 +807,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:09",
-      "eta_rueb": "19:00",
-      "ship": "KAPPAGAS",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "19:14",
       "eta_rueb": "19:03",
       "ship": "ANNIKA BRAREN",
@@ -811,7 +814,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:16",
+      "eta_rueb_kiel": "19:15",
       "eta_rueb": "19:06",
       "ship": "BALTIC SKIPPER",
       "q_gruppe": "5",
@@ -825,7 +828,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:25",
+      "eta_rueb_kiel": "19:23",
       "eta_rueb": "19:12",
       "ship": "NORDSTRAUM",
       "q_gruppe": "4",
