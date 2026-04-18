@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-18T23:22:45",
+  "generated_at": "2026-04-18T23:24:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
     "see": 9
   },
@@ -165,8 +165,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BALTICBORG",
+      "route": "KLT → HOS",
       "time": "Sat Apr 18 20:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -202,14 +202,14 @@
       "time": "Sat Apr 18 20:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:09",
-        "eta_rueb": "02:14",
-        "delta_rueb_schleuse": "04:55",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "02:13",
+        "delta_rueb_schleuse": "04:56",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "02:14",
+      "eta_rueb": "02:13",
       "eta_schleuse": "07:09",
-      "delta_rueb_schleuse": "04:55",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "04:56",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -275,13 +275,13 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 17:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:48",
+        "eta_schleuse": "23:54",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "23:48",
+      "eta_schleuse": "23:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -412,14 +412,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 13:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:29",
+        "eta_schleuse": "23:31",
         "eta_rueb": "19:19",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:13"
       },
       "eta_rueb": "19:19",
-      "eta_schleuse": "23:29",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "23:31",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:13"
     },
     {
@@ -432,22 +432,6 @@
       "fahrzeug": "BALTIC SKIPPER",
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 13:37:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Wille",
-      "name": "Christian Wille",
-      "aufgabe": "Kanalbört",
-      "nr": 25,
-      "fahrzeug": "ANNIKA BRAREN",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 13:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -553,14 +537,14 @@
       "time": "Sat Apr 18 20:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:09",
-        "eta_rueb": "02:14",
-        "delta_rueb_schleuse": "04:55",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "02:13",
+        "delta_rueb_schleuse": "04:56",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "02:14",
+      "eta_rueb": "02:13",
       "eta_schleuse": "07:09",
-      "delta_rueb_schleuse": "04:55",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "04:56",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -594,13 +578,13 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 17:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:48",
+        "eta_schleuse": "23:54",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "23:48",
+      "eta_schleuse": "23:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -715,14 +699,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 13:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:29",
+        "eta_schleuse": "23:31",
         "eta_rueb": "19:19",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:13"
       },
       "eta_rueb": "19:19",
-      "eta_schleuse": "23:29",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "23:31",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:13"
     },
     {
@@ -735,22 +719,6 @@
       "fahrzeug": "BALTIC SKIPPER",
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 13:37:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Wille",
-      "name": "Christian Wille",
-      "aufgabe": "Kanalbört",
-      "nr": 25,
-      "fahrzeug": "ANNIKA BRAREN",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 13:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
