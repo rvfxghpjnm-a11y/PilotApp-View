@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-04-19T15:06:46",
+  "generated_at": "2026-04-19T15:08:48",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
-    "aufgabe": "Kanalbört",
+    "aufgabe": "Seebört",
     "fahrzeug": "ELBINSEL",
-    "from": "RÜB",
-    "to": "HOS",
+    "from": "HOS",
+    "to": "KLT",
     "time": "Sun Apr 19 10:25:00 CEST 2026",
     "nr": 8
   },
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
-    "see": 3
+    "see": 4
   },
   "times": {
     "eta_schleuse": "15:57",
@@ -165,10 +165,10 @@
       "vorname": "Philipp",
       "nachname": "Crotogino",
       "name": "Philipp Crotogino",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "ELBINSEL",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:57",
@@ -393,27 +393,6 @@
       "eta_schleuse": "15:46",
       "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:53"
-    },
-    {
-      "is_target": true,
-      "vorname": "Philipp",
-      "nachname": "Crotogino",
-      "name": "Philipp Crotogino",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "ELBINSEL",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 19 10:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "15:57",
-        "eta_rueb": "12:01",
-        "delta_rueb_schleuse": "03:56",
-        "delta_start_rueb": "04:49"
-      },
-      "eta_rueb": "12:01",
-      "eta_schleuse": "15:57",
-      "delta_rueb_schleuse": "03:56",
-      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
