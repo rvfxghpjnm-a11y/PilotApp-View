@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-19T17:46:47",
+  "generated_at": "2026-04-19T17:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
     "see": 11
   },
@@ -105,14 +105,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 16:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:00",
+        "eta_schleuse": "02:01",
         "eta_rueb": "21:28",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:52"
       },
       "eta_rueb": "21:28",
-      "eta_schleuse": "02:00",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "02:01",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:52"
     },
     {
@@ -138,8 +138,8 @@
       "name": "Michael Arndt",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "PLYCA",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 15:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -159,14 +159,14 @@
       "time": "Sun Apr 19 15:29:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:57",
-        "eta_rueb": "20:21",
-        "delta_rueb_schleuse": "05:36",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "20:20",
+        "delta_rueb_schleuse": "05:37",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "20:21",
+      "eta_rueb": "20:20",
       "eta_schleuse": "01:57",
-      "delta_rueb_schleuse": "05:36",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "05:37",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -195,14 +195,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:49",
+        "eta_schleuse": "23:50",
         "eta_rueb": "18:50",
-        "delta_rueb_schleuse": "04:59",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "18:50",
-      "eta_schleuse": "23:49",
-      "delta_rueb_schleuse": "04:59",
+      "eta_schleuse": "23:50",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:18"
     },
     {
@@ -355,27 +355,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Berkenheger",
-      "name": "Michael Berkenheger",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "ELBRUNNER",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 19 08:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Christian",
       "nachname": "Wille",
       "name": "Christian Wille",
       "aufgabe": "Seebört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "SOUTH ENABLER",
       "route": "KLT → HOS",
       "time": "Sun Apr 19 08:20:00 CEST 2026",
@@ -414,14 +398,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 16:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:00",
+        "eta_schleuse": "02:01",
         "eta_rueb": "21:28",
-        "delta_rueb_schleuse": "04:32",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:52"
       },
       "eta_rueb": "21:28",
-      "eta_schleuse": "02:00",
-      "delta_rueb_schleuse": "04:32",
+      "eta_schleuse": "02:01",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:52"
     },
     {
@@ -436,14 +420,14 @@
       "time": "Sun Apr 19 15:29:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:57",
-        "eta_rueb": "20:21",
-        "delta_rueb_schleuse": "05:36",
-        "delta_start_rueb": "03:47"
+        "eta_rueb": "20:20",
+        "delta_rueb_schleuse": "05:37",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "20:21",
+      "eta_rueb": "20:20",
       "eta_schleuse": "01:57",
-      "delta_rueb_schleuse": "05:36",
-      "delta_start_rueb": "03:47"
+      "delta_rueb_schleuse": "05:37",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -472,14 +456,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:49",
+        "eta_schleuse": "23:50",
         "eta_rueb": "18:50",
-        "delta_rueb_schleuse": "04:59",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "18:50",
-      "eta_schleuse": "23:49",
-      "delta_rueb_schleuse": "04:59",
+      "eta_schleuse": "23:50",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:18"
     },
     {
@@ -560,22 +544,6 @@
       "eta_schleuse": "18:12",
       "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:08"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Berkenheger",
-      "name": "Michael Berkenheger",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "ELBRUNNER",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 19 08:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -595,14 +563,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:32",
+      "eta_rueb_kiel": "20:33",
       "eta_rueb": "20:25",
       "ship": "FRISIAN SPRING",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:35",
+      "eta_rueb_kiel": "20:36",
       "eta_rueb": "20:30",
       "ship": "MANAS",
       "q_gruppe": "3",
