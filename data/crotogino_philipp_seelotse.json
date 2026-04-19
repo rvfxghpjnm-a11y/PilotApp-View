@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-19T11:38:46",
+  "generated_at": "2026-04-19T11:40:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "RÜB",
-    "from": null,
-    "to": null,
+    "fahrzeug": "ELBINSEL",
+    "from": "RÜB",
+    "to": "HOS",
     "time": "Sun Apr 19 10:25:00 CEST 2026",
     "nr": 4
   },
@@ -16,7 +16,12 @@
     "wach": 1,
     "see": 7
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "16:15",
+    "eta_rueb": "12:01",
+    "delta_rueb_schleuse": "04:14",
+    "delta_start_rueb": "04:49"
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -46,14 +51,14 @@
       "time": "Sun Apr 19 10:56:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:05",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "16:37",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "05:01"
       },
-      "eta_rueb": null,
+      "eta_rueb": "16:37",
       "eta_schleuse": "21:05",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "05:01"
     },
     {
       "is_target": false,
@@ -62,14 +67,19 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EKNOE",
+      "route": "RÜB → UTG",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:16",
+        "eta_rueb": "12:05",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "04:53"
+      },
+      "eta_rueb": "12:05",
+      "eta_schleuse": "16:16",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "04:53"
     },
     {
       "is_target": true,
@@ -78,14 +88,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:15",
+        "eta_rueb": "12:01",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "12:01",
+      "eta_schleuse": "16:15",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -182,14 +197,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:32",
+        "eta_schleuse": "13:31",
         "eta_rueb": "09:52",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "09:52",
-      "eta_schleuse": "13:32",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "13:31",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:24"
     },
     {
@@ -309,14 +324,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 19 06:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:43",
+        "eta_schleuse": "11:44",
         "eta_rueb": "07:48",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "07:48",
-      "eta_schleuse": "11:43",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "11:44",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "04:24"
     },
     {
@@ -381,14 +396,14 @@
       "time": "Sun Apr 19 10:56:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:05",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "16:37",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "05:01"
       },
-      "eta_rueb": null,
+      "eta_rueb": "16:37",
       "eta_schleuse": "21:05",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "05:01"
     },
     {
       "is_target": false,
@@ -397,14 +412,19 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EKNOE",
+      "route": "RÜB → UTG",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:16",
+        "eta_rueb": "12:05",
+        "delta_rueb_schleuse": "04:11",
+        "delta_start_rueb": "04:53"
+      },
+      "eta_rueb": "12:05",
+      "eta_schleuse": "16:16",
+      "delta_rueb_schleuse": "04:11",
+      "delta_start_rueb": "04:53"
     },
     {
       "is_target": true,
@@ -413,14 +433,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:15",
+        "eta_rueb": "12:01",
+        "delta_rueb_schleuse": "04:14",
+        "delta_start_rueb": "04:49"
+      },
+      "eta_rueb": "12:01",
+      "eta_schleuse": "16:15",
+      "delta_rueb_schleuse": "04:14",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -517,14 +542,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:32",
+        "eta_schleuse": "13:31",
         "eta_rueb": "09:52",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "09:52",
-      "eta_schleuse": "13:32",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "13:31",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:24"
     },
     {
@@ -594,20 +619,6 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
-    },
-    {
-      "eta_rueb_kiel": "12:01",
-      "eta_rueb": "12:00",
-      "ship": "ELBINSEL",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "12:05",
-      "eta_rueb": "12:03",
-      "ship": "EKNOE",
-      "q_gruppe": "4",
-      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "14:05",
