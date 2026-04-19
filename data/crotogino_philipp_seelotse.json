@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-19T19:38:47",
+  "generated_at": "2026-04-19T19:40:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Seebört",
-    "fahrzeug": "ALEXIA",
-    "from": "KLT",
-    "to": "HOS",
+    "fahrzeug": "HOS",
+    "from": null,
+    "to": null,
     "time": "Sun Apr 19 10:25:00 CEST 2026",
     "nr": 20
   },
@@ -89,8 +89,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 17:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -110,14 +110,14 @@
       "time": "Sun Apr 19 17:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:09",
-        "eta_rueb": "22:57",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "04:07"
+        "eta_rueb": "22:54",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": "22:57",
+      "eta_rueb": "22:54",
       "eta_schleuse": "04:09",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "04:07"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -126,8 +126,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 17:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -231,14 +231,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 19 15:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:54",
+        "eta_schleuse": "01:57",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "05:38",
+        "delta_rueb_schleuse": "05:41",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "01:54",
-      "delta_rueb_schleuse": "05:38",
+      "eta_schleuse": "01:57",
+      "delta_rueb_schleuse": "05:41",
       "delta_start_rueb": "03:42"
     },
     {
@@ -280,8 +280,8 @@
       "name": "Denny Pankonin",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 12:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -354,8 +354,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Seebört",
       "nr": 20,
-      "fahrzeug": "ALEXIA",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -462,14 +462,14 @@
       "time": "Sun Apr 19 17:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:09",
-        "eta_rueb": "22:57",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "04:07"
+        "eta_rueb": "22:54",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "04:04"
       },
-      "eta_rueb": "22:57",
+      "eta_rueb": "22:54",
       "eta_schleuse": "04:09",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "04:07"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "04:04"
     },
     {
       "is_target": false,
@@ -503,14 +503,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 19 15:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:54",
+        "eta_schleuse": "01:57",
         "eta_rueb": "20:16",
-        "delta_rueb_schleuse": "05:38",
+        "delta_rueb_schleuse": "05:41",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "20:16",
-      "eta_schleuse": "01:54",
-      "delta_rueb_schleuse": "05:38",
+      "eta_schleuse": "01:57",
+      "delta_rueb_schleuse": "05:41",
       "delta_start_rueb": "03:42"
     },
     {
@@ -640,14 +640,14 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "22:47",
+      "eta_rueb_kiel": "22:43",
       "eta_rueb": "22:25",
       "ship": "INDUSTRIAL COLOR",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:43",
+      "eta_rueb_kiel": "22:40",
       "eta_rueb": "22:28",
       "ship": "NORTH",
       "q_gruppe": "1",
