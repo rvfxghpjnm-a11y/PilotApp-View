@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-19T17:20:45",
+  "generated_at": "2026-04-19T17:22:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Seebört",
-    "fahrzeug": "KLT",
-    "from": null,
-    "to": null,
+    "fahrzeug": "ALEXIA",
+    "from": "KLT",
+    "to": "HOS",
     "time": "Sun Apr 19 10:25:00 CEST 2026",
     "nr": 14
   },
@@ -66,14 +66,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 19 16:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:22",
+        "eta_schleuse": "17:23",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "05:30"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "17:23",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "05:30"
     },
     {
@@ -263,8 +263,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ALEXIA",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -341,14 +341,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:22",
+        "eta_schleuse": "17:23",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "05:30"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "17:23",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "05:30"
     },
     {
@@ -549,14 +549,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:22",
+        "eta_schleuse": "17:23",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:25",
         "delta_start_rueb": "05:30"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "17:22",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "17:23",
+      "delta_rueb_schleuse": "03:25",
       "delta_start_rueb": "05:30"
     }
   ],
@@ -577,7 +577,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:33",
+      "eta_rueb_kiel": "20:31",
       "eta_rueb": "20:25",
       "ship": "FRISIAN SPRING",
       "q_gruppe": "4",
@@ -591,7 +591,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "22:46",
+      "eta_rueb_kiel": "22:45",
       "eta_rueb": "22:15",
       "ship": "NORTH",
       "q_gruppe": "1",
