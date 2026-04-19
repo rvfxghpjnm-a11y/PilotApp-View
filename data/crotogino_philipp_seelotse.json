@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T20:08:55",
+  "generated_at": "2026-04-19T20:10:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 0,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -20,14 +20,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 19:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:18",
+        "eta_schleuse": "04:20",
         "eta_rueb": "23:41",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "23:41",
-      "eta_schleuse": "04:18",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "04:20",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:37"
     },
     {
@@ -57,14 +57,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:00",
+        "eta_schleuse": "04:02",
         "eta_rueb": "23:30",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:34"
       },
       "eta_rueb": "23:30",
-      "eta_schleuse": "04:00",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "04:02",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:34"
     },
     {
@@ -78,14 +78,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:15",
+        "eta_schleuse": "04:16",
         "eta_rueb": "23:33",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "23:33",
-      "eta_schleuse": "04:15",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "04:16",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "03:37"
     },
     {
@@ -115,14 +115,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 17:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:08",
+        "eta_schleuse": "04:09",
         "eta_rueb": "22:55",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:14",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "22:55",
-      "eta_schleuse": "04:08",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "04:09",
+      "delta_rueb_schleuse": "05:14",
       "delta_start_rueb": "04:05"
     },
     {
@@ -221,14 +221,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 19 15:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:51",
+        "eta_schleuse": "01:54",
         "eta_rueb": "20:15",
-        "delta_rueb_schleuse": "05:36",
+        "delta_rueb_schleuse": "05:39",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "20:15",
-      "eta_schleuse": "01:51",
-      "delta_rueb_schleuse": "05:36",
+      "eta_schleuse": "01:54",
+      "delta_rueb_schleuse": "05:39",
       "delta_start_rueb": "03:41"
     },
     {
@@ -312,39 +312,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Hüseyin",
-      "nachname": "Ünsal",
-      "name": "Hüseyin Ünsal",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Sun Apr 19 11:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Nickolaj",
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "TRUFFALDINO",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 10:56:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:12",
+        "eta_schleuse": "20:13",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:12",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "20:13",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:08"
     },
     {
@@ -353,7 +337,7 @@
       "nachname": "Schmidt",
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "ELBOCEAN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:43:00 CEST 2026",
@@ -381,14 +365,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 19:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:18",
+        "eta_schleuse": "04:20",
         "eta_rueb": "23:41",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "23:41",
-      "eta_schleuse": "04:18",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "04:20",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:37"
     },
     {
@@ -402,14 +386,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:00",
+        "eta_schleuse": "04:02",
         "eta_rueb": "23:30",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "03:34"
       },
       "eta_rueb": "23:30",
-      "eta_schleuse": "04:00",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "04:02",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "03:34"
     },
     {
@@ -423,14 +407,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:15",
+        "eta_schleuse": "04:16",
         "eta_rueb": "23:33",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "23:33",
-      "eta_schleuse": "04:15",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "04:16",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "03:37"
     },
     {
@@ -444,14 +428,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 17:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:08",
+        "eta_schleuse": "04:09",
         "eta_rueb": "22:55",
-        "delta_rueb_schleuse": "05:13",
+        "delta_rueb_schleuse": "05:14",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "22:55",
-      "eta_schleuse": "04:08",
-      "delta_rueb_schleuse": "05:13",
+      "eta_schleuse": "04:09",
+      "delta_rueb_schleuse": "05:14",
       "delta_start_rueb": "04:05"
     },
     {
@@ -486,14 +470,14 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 19 15:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:51",
+        "eta_schleuse": "01:54",
         "eta_rueb": "20:15",
-        "delta_rueb_schleuse": "05:36",
+        "delta_rueb_schleuse": "05:39",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "20:15",
-      "eta_schleuse": "01:51",
-      "delta_rueb_schleuse": "05:36",
+      "eta_schleuse": "01:54",
+      "delta_rueb_schleuse": "05:39",
       "delta_start_rueb": "03:41"
     },
     {
@@ -565,19 +549,19 @@
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "TRUFFALDINO",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 10:56:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:12",
+        "eta_schleuse": "20:13",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:12",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "20:13",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:08"
     },
     {
@@ -586,7 +570,7 @@
       "nachname": "Schmidt",
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "ELBOCEAN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:43:00 CEST 2026",
@@ -633,7 +617,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:15",
+      "eta_rueb_kiel": "23:14",
       "eta_rueb": "23:00",
       "ship": "LINA",
       "q_gruppe": "5",
