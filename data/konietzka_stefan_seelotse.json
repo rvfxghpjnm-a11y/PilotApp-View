@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-19T02:00:50",
+  "generated_at": "2026-04-19T02:02:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
     "see": 6
   },
@@ -201,8 +201,8 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "-",
-      "route": null,
+      "fahrzeug": "SOFIA",
+      "route": "HOS → KLT",
       "time": "Sat Apr 18 21:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -389,22 +389,6 @@
       "fahrzeug": "SOFIA",
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 15:31:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Thiel",
-      "name": "Thomas Thiel",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "PATRICIA ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 15:23:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -702,22 +686,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Thiel",
-      "name": "Thomas Thiel",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "PATRICIA ESSBERGER",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 15:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -737,7 +705,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:45",
+      "eta_rueb_kiel": "03:46",
       "eta_rueb": "04:00",
       "ship": "PULPCA",
       "q_gruppe": "0",
