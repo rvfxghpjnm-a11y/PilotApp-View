@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T09:08:55",
+  "generated_at": "2026-04-19T09:10:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -138,8 +138,8 @@
       "name": "Michell Fricke",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 07:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -154,8 +154,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 07:10:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -292,8 +292,8 @@
       "name": "Volker Kahler",
       "aufgabe": "Seebört",
       "nr": 17,
-      "fahrzeug": "LADY AMI",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 19 02:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -308,8 +308,8 @@
       "name": "Janning Otten",
       "aufgabe": "Seebört",
       "nr": 18,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sun Apr 19 02:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -407,14 +407,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 22:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:16",
+        "eta_schleuse": "09:18",
         "eta_rueb": "05:19",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "05:19",
-      "eta_schleuse": "09:16",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:17"
     },
     {
@@ -428,14 +428,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 22:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:12",
+        "eta_schleuse": "09:14",
         "eta_rueb": "05:14",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "05:14",
-      "eta_schleuse": "09:12",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "09:14",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:16"
     }
   ],
@@ -495,8 +495,8 @@
       "name": "Christian Wille",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -511,8 +511,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -694,14 +694,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 22:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:16",
+        "eta_schleuse": "09:18",
         "eta_rueb": "05:19",
-        "delta_rueb_schleuse": "03:57",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "05:19",
-      "eta_schleuse": "09:16",
-      "delta_rueb_schleuse": "03:57",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:17"
     },
     {
@@ -715,14 +715,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 22:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:12",
+        "eta_schleuse": "09:14",
         "eta_rueb": "05:14",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "05:14",
-      "eta_schleuse": "09:12",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "09:14",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:16"
     }
   ],
@@ -750,17 +750,24 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:03",
+      "eta_rueb_kiel": "12:05",
       "eta_rueb": "11:53",
       "ship": "EKNOE",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "14:16",
+      "eta_rueb_kiel": "14:10",
       "eta_rueb": "14:00",
       "ship": "ELBRUNNER",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:13",
+      "eta_rueb": "14:03",
+      "ship": "JUDITH",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
