@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T14:30:48",
+  "generated_at": "2026-04-19T14:32:48",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -49,11 +49,16 @@
       "fahrzeug": "STEN FRIGG",
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 13:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:55",
+        "eta_rueb": "18:56",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "18:56",
+      "eta_schleuse": "23:55",
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -87,14 +92,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 11:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:48",
+        "eta_schleuse": "21:47",
         "eta_rueb": "17:05",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:42",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "17:05",
-      "eta_schleuse": "21:48",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "21:47",
+      "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "04:15"
     },
     {
@@ -124,15 +129,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 19 10:56:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:26",
-        "eta_rueb": "16:33",
+        "eta_schleuse": "21:25",
+        "eta_rueb": "16:32",
         "delta_rueb_schleuse": "04:53",
-        "delta_start_rueb": "04:57"
+        "delta_start_rueb": "04:56"
       },
-      "eta_rueb": "16:33",
-      "eta_schleuse": "21:26",
+      "eta_rueb": "16:32",
+      "eta_schleuse": "21:25",
       "delta_rueb_schleuse": "04:53",
-      "delta_start_rueb": "04:57"
+      "delta_start_rueb": "04:56"
     },
     {
       "is_target": false,
@@ -294,11 +299,16 @@
       "fahrzeug": "STEN FRIGG",
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 13:40:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:55",
+        "eta_rueb": "18:56",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "18:56",
+      "eta_schleuse": "23:55",
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -332,14 +342,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 11:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:48",
+        "eta_schleuse": "21:47",
         "eta_rueb": "17:05",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:42",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "17:05",
-      "eta_schleuse": "21:48",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "21:47",
+      "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "04:15"
     },
     {
@@ -353,15 +363,15 @@
       "route": "HOR → RÜB",
       "time": "Sun Apr 19 10:56:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:26",
-        "eta_rueb": "16:33",
+        "eta_schleuse": "21:25",
+        "eta_rueb": "16:32",
         "delta_rueb_schleuse": "04:53",
-        "delta_start_rueb": "04:57"
+        "delta_start_rueb": "04:56"
       },
-      "eta_rueb": "16:33",
-      "eta_schleuse": "21:26",
+      "eta_rueb": "16:32",
+      "eta_schleuse": "21:25",
       "delta_rueb_schleuse": "04:53",
-      "delta_start_rueb": "04:57"
+      "delta_start_rueb": "04:56"
     },
     {
       "is_target": false,
@@ -474,7 +484,7 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "16:19",
+      "eta_rueb_kiel": "16:18",
       "eta_rueb": "16:20",
       "ship": "ELBOCEAN",
       "q_gruppe": "1",
@@ -488,7 +498,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:33",
+      "eta_rueb_kiel": "18:32",
       "eta_rueb": "18:00",
       "ship": "EN AVANT 30",
       "q_gruppe": "4",
