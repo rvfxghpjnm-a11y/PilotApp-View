@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T04:30:49",
+  "generated_at": "2026-04-19T04:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 16,
     "wach": 1,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -381,27 +381,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "name": "Steffen Zimmermann",
-      "aufgabe": "Seebört",
-      "nr": 21,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Sat Apr 18 19:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Nils",
       "nachname": "Föhring",
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "KERTU",
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 16:16:00 CEST 2026",
@@ -714,7 +698,7 @@
       "nachname": "Föhring",
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "KERTU",
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 16:16:00 CEST 2026",
@@ -768,7 +752,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:01",
+      "eta_rueb_kiel": "08:00",
       "eta_rueb": "08:02",
       "ship": "ELBWIND",
       "q_gruppe": "1",
