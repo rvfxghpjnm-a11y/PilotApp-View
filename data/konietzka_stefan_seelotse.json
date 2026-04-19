@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T14:20:48",
+  "generated_at": "2026-04-19T14:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,19 +169,14 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "ARKLOW GLEN",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 19 08:43:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:37",
-        "eta_rueb": "14:23",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "04:33"
-      },
-      "eta_rueb": "14:23",
-      "eta_schleuse": "19:37",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "04:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -190,14 +185,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELEONORA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:23",
+        "eta_rueb": "14:49",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:09"
+      },
+      "eta_rueb": "14:49",
+      "eta_schleuse": "18:23",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -398,19 +398,14 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "ARKLOW GLEN",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Apr 19 08:43:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:37",
-        "eta_rueb": "14:23",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "04:33"
-      },
-      "eta_rueb": "14:23",
-      "eta_schleuse": "19:37",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "04:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -419,14 +414,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELEONORA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 08:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:23",
+        "eta_rueb": "14:49",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:09"
+      },
+      "eta_rueb": "14:49",
+      "eta_schleuse": "18:23",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -458,13 +458,6 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
-    },
-    {
-      "eta_rueb_kiel": "14:50",
-      "eta_rueb": "14:50",
-      "ship": "ELEONORA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "16:19",
