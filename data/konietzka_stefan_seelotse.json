@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-19T07:18:47",
+  "generated_at": "2026-04-19T07:20:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
     "see": 10
   },
@@ -238,14 +238,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 19 02:20:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:17",
+        "eta_schleuse": "07:19",
         "eta_rueb": "03:42",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "06:02"
       },
       "eta_rueb": "03:42",
-      "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "07:19",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "06:02"
     },
     {
@@ -276,14 +276,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "OLIVIA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 01:33:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:34",
+        "eta_rueb": "07:42",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "07:42",
+      "eta_schleuse": "11:34",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -317,14 +322,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 22:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:58",
+        "eta_schleuse": "10:57",
         "eta_rueb": "07:24",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "07:24",
-      "eta_schleuse": "10:58",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "10:57",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:14"
     },
     {
@@ -395,22 +400,6 @@
       "fahrzeug": "CHARLOTTA",
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 20:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "name": "Heiko Hoffmann",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "CORA JO",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 20:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -516,14 +505,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "OLIVIA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 01:33:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:34",
+        "eta_rueb": "07:42",
+        "delta_rueb_schleuse": "03:52",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "07:42",
+      "eta_schleuse": "11:34",
+      "delta_rueb_schleuse": "03:52",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -557,14 +551,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 18 22:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:58",
+        "eta_schleuse": "10:57",
         "eta_rueb": "07:24",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "07:24",
-      "eta_schleuse": "10:58",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "10:57",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:14"
     },
     {
@@ -624,33 +618,10 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "name": "Heiko Hoffmann",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "CORA JO",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 18 20:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "07:42",
-      "eta_rueb": "07:35",
-      "ship": "OLIVIA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "07:49",
       "eta_rueb": "07:45",
