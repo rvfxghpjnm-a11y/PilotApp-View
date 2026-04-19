@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T12:22:46",
+  "generated_at": "2026-04-19T12:24:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -193,10 +193,10 @@
       "vorname": "Ingmar",
       "nachname": "Richter",
       "name": "Ingmar Richter",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "CAPELLA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun Apr 19 08:20:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:34",
@@ -514,27 +514,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Ingmar",
-      "nachname": "Richter",
-      "name": "Ingmar Richter",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "CAPELLA",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 19 08:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "13:34",
-        "eta_rueb": "09:52",
-        "delta_rueb_schleuse": "03:42",
-        "delta_start_rueb": "04:24"
-      },
-      "eta_rueb": "09:52",
-      "eta_schleuse": "13:34",
-      "delta_rueb_schleuse": "03:42",
-      "delta_start_rueb": "04:24"
-    },
-    {
-      "is_target": false,
       "vorname": "Jan",
       "nachname": "Kurfeld",
       "name": "Jan Kurfeld",
@@ -616,7 +595,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:59",
+      "eta_rueb_kiel": "14:58",
       "eta_rueb": "14:45",
       "ship": "ELEONORA",
       "q_gruppe": "4",
