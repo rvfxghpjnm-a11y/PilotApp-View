@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T19:16:50",
+  "generated_at": "2026-04-19T19:18:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -110,14 +110,14 @@
       "time": "Sun Apr 19 17:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:06",
-        "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "05:08",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "22:55",
+        "delta_rueb_schleuse": "05:11",
+        "delta_start_rueb": "04:05"
       },
-      "eta_rueb": "22:58",
+      "eta_rueb": "22:55",
       "eta_schleuse": "04:06",
-      "delta_rueb_schleuse": "05:08",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "05:11",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -178,14 +178,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 16:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:02",
+        "eta_schleuse": "01:58",
         "eta_rueb": "21:23",
-        "delta_rueb_schleuse": "04:39",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "03:47"
       },
       "eta_rueb": "21:23",
-      "eta_schleuse": "02:02",
-      "delta_rueb_schleuse": "04:39",
+      "eta_schleuse": "01:58",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "03:47"
     },
     {
@@ -462,14 +462,14 @@
       "time": "Sun Apr 19 17:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:06",
-        "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "05:08",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "22:55",
+        "delta_rueb_schleuse": "05:11",
+        "delta_start_rueb": "04:05"
       },
-      "eta_rueb": "22:58",
+      "eta_rueb": "22:55",
       "eta_schleuse": "04:06",
-      "delta_rueb_schleuse": "05:08",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "05:11",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -482,14 +482,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 16:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:02",
+        "eta_schleuse": "01:58",
         "eta_rueb": "21:23",
-        "delta_rueb_schleuse": "04:39",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "03:47"
       },
       "eta_rueb": "21:23",
-      "eta_schleuse": "02:02",
-      "delta_rueb_schleuse": "04:39",
+      "eta_schleuse": "01:58",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "03:47"
     },
     {
@@ -613,6 +613,13 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": null,
+      "eta_rueb": "00:25",
+      "ship": "ELBE   A511",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
       "eta_rueb": "11:00",
       "ship": "ASGARD",
       "q_gruppe": "5",
@@ -633,14 +640,14 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "22:48",
+      "eta_rueb_kiel": "22:44",
       "eta_rueb": "22:25",
       "ship": "INDUSTRIAL COLOR",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:44",
+      "eta_rueb_kiel": "22:41",
       "eta_rueb": "22:28",
       "ship": "NORTH",
       "q_gruppe": "1",
