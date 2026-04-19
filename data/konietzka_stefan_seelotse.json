@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-19T14:00:53",
+  "generated_at": "2026-04-19T14:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
-    "wach": 1,
+    "wach": 0,
     "see": 4
   },
   "times": null,
@@ -57,14 +57,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 11:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:45",
+        "eta_schleuse": "21:47",
         "eta_rueb": "17:08",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "17:08",
-      "eta_schleuse": "21:45",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "21:47",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "04:18"
     },
     {
@@ -179,14 +179,14 @@
       "time": "Sun Apr 19 08:36:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:35",
-        "eta_rueb": "14:17",
-        "delta_rueb_schleuse": "05:18",
-        "delta_start_rueb": "04:35"
+        "eta_rueb": "14:18",
+        "delta_rueb_schleuse": "05:17",
+        "delta_start_rueb": "04:36"
       },
-      "eta_rueb": "14:17",
+      "eta_rueb": "14:18",
       "eta_schleuse": "19:35",
-      "delta_rueb_schleuse": "05:18",
-      "delta_start_rueb": "04:35"
+      "delta_rueb_schleuse": "05:17",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -256,22 +256,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Maximilian",
-      "nachname": "Türk",
-      "name": "Maximilian Türk",
-      "aufgabe": "Wachgänger",
-      "nr": 14,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Sun Apr 19 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -323,14 +307,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 11:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:45",
+        "eta_schleuse": "21:47",
         "eta_rueb": "17:08",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "17:08",
-      "eta_schleuse": "21:45",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "21:47",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "04:18"
     },
     {
@@ -429,14 +413,14 @@
       "time": "Sun Apr 19 08:36:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:35",
-        "eta_rueb": "14:17",
-        "delta_rueb_schleuse": "05:18",
-        "delta_start_rueb": "04:35"
+        "eta_rueb": "14:18",
+        "delta_rueb_schleuse": "05:17",
+        "delta_start_rueb": "04:36"
       },
-      "eta_rueb": "14:17",
+      "eta_rueb": "14:18",
       "eta_schleuse": "19:35",
-      "delta_rueb_schleuse": "05:18",
-      "delta_start_rueb": "04:35"
+      "delta_rueb_schleuse": "05:17",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -491,7 +475,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:31",
+      "eta_rueb_kiel": "18:32",
       "eta_rueb": "18:00",
       "ship": "EN AVANT 30",
       "q_gruppe": "4",
