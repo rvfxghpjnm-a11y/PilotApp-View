@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T12:48:45",
+  "generated_at": "2026-04-19T12:50:50",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -17,9 +17,9 @@
     "see": 5
   },
   "times": {
-    "eta_schleuse": "16:02",
+    "eta_schleuse": "16:01",
     "eta_rueb": "12:01",
-    "delta_rueb_schleuse": "04:01",
+    "delta_rueb_schleuse": "04:00",
     "delta_start_rueb": "04:49"
   },
   "lotsen": [
@@ -49,9 +49,14 @@
       "fahrzeug": "ELBSUMMER",
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 11:57:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -103,14 +108,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:53",
+        "eta_schleuse": "15:52",
         "eta_rueb": "12:05",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "04:53"
       },
       "eta_rueb": "12:05",
-      "eta_schleuse": "15:53",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "15:52",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "04:53"
     },
     {
@@ -124,14 +129,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:02",
+        "eta_schleuse": "16:01",
         "eta_rueb": "12:01",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:49"
       },
       "eta_rueb": "12:01",
-      "eta_schleuse": "16:02",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "16:01",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:49"
     },
     {
@@ -374,9 +379,14 @@
       "fahrzeug": "ELBSUMMER",
       "route": "HOS → RÜB",
       "time": "Sun Apr 19 11:57:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -412,14 +422,14 @@
       "route": "RÜB → UTG",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:53",
+        "eta_schleuse": "15:52",
         "eta_rueb": "12:05",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "04:53"
       },
       "eta_rueb": "12:05",
-      "eta_schleuse": "15:53",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "15:52",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "04:53"
     },
     {
@@ -433,14 +443,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 10:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:02",
+        "eta_schleuse": "16:01",
         "eta_rueb": "12:01",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:49"
       },
       "eta_rueb": "12:01",
-      "eta_schleuse": "16:02",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "16:01",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:49"
     },
     {
@@ -602,7 +612,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:56",
+      "eta_rueb_kiel": "14:55",
       "eta_rueb": "14:45",
       "ship": "ELEONORA",
       "q_gruppe": "4",
