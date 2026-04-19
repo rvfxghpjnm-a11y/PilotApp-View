@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T02:12:46",
+  "generated_at": "2026-04-19T02:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -126,14 +126,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 22:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:09",
+        "eta_schleuse": "09:08",
         "eta_rueb": "04:08",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "04:08",
-      "eta_schleuse": "09:09",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "09:08",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:14"
     },
     {
@@ -147,14 +147,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 22:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:12",
+        "eta_schleuse": "09:11",
         "eta_rueb": "04:11",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "04:11",
-      "eta_schleuse": "09:12",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "09:11",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:21"
     },
     {
@@ -265,19 +265,14 @@
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "LUNAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 20:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:05",
-        "eta_rueb": "02:13",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "02:13",
-      "eta_schleuse": "07:05",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -286,19 +281,19 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "FAIRLANE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "CORA JO",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 20:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:01",
-        "eta_rueb": "02:09",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:19"
+        "eta_schleuse": "07:09",
+        "eta_rueb": "02:39",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:13"
       },
-      "eta_rueb": "02:09",
-      "eta_schleuse": "07:01",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:19"
+      "eta_rueb": "02:39",
+      "eta_schleuse": "07:09",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -514,14 +509,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 22:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:09",
+        "eta_schleuse": "09:08",
         "eta_rueb": "04:08",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "04:08",
-      "eta_schleuse": "09:09",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "09:08",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:14"
     },
     {
@@ -535,14 +530,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 18 22:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:12",
+        "eta_schleuse": "09:11",
         "eta_rueb": "04:11",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "04:11",
-      "eta_schleuse": "09:12",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "09:11",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:21"
     },
     {
@@ -589,19 +584,14 @@
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "LUNAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Apr 18 20:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:05",
-        "eta_rueb": "02:13",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "02:13",
-      "eta_schleuse": "07:05",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -610,19 +600,19 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "FAIRLANE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "CORA JO",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 18 20:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:01",
-        "eta_rueb": "02:09",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:19"
+        "eta_schleuse": "07:09",
+        "eta_rueb": "02:39",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:13"
       },
-      "eta_rueb": "02:09",
-      "eta_schleuse": "07:01",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:19"
+      "eta_rueb": "02:39",
+      "eta_schleuse": "07:09",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -690,13 +680,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "02:39",
-      "eta_rueb": "03:30",
-      "ship": "CORA JO",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "03:13",
       "eta_rueb": "03:35",
