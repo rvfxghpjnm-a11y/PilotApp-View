@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T13:14:56",
+  "generated_at": "2026-04-20T13:17:00",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,15 +153,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 09:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:30",
-        "eta_rueb": "14:03",
+        "eta_schleuse": "18:29",
+        "eta_rueb": "14:02",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "14:03",
-      "eta_schleuse": "18:30",
+      "eta_rueb": "14:02",
+      "eta_schleuse": "18:29",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -244,8 +244,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HYDRA",
+      "route": "KRH → KRH",
       "time": "Mon Apr 20 05:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -292,14 +292,19 @@
       "name": "Justus Heyder",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TRAVIATA",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 05:29:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:16",
+        "eta_rueb": "13:42",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "13:42",
+      "eta_schleuse": "17:16",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:52"
     }
   ],
   "kanallotsen": [
@@ -399,15 +404,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 09:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:30",
-        "eta_rueb": "14:03",
+        "eta_schleuse": "18:29",
+        "eta_rueb": "14:02",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "14:03",
-      "eta_schleuse": "18:30",
+      "eta_rueb": "14:02",
+      "eta_schleuse": "18:29",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -474,8 +479,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HYDRA",
+      "route": "KRH → KRH",
       "time": "Mon Apr 20 05:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -490,32 +495,23 @@
       "name": "Justus Heyder",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TRAVIATA",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 05:29:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:16",
+        "eta_rueb": "13:42",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:52"
+      },
+      "eta_rueb": "13:42",
+      "eta_schleuse": "17:16",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:52"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "13:42",
-      "eta_rueb": "13:30",
-      "ship": "TRAVIATA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "14:00",
-      "ship": "HYDRA",
-      "q_gruppe": "5",
-      "route": "KRH → KRH"
-    },
     {
       "eta_rueb_kiel": "15:55",
       "eta_rueb": "15:30",
