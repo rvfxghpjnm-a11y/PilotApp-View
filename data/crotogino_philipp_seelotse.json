@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T04:38:54",
+  "generated_at": "2026-04-20T04:40:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 20 03:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -48,8 +48,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 20 03:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -133,8 +133,8 @@
       "name": "Mark Wald",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "INDUSTRIAL COLOR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Apr 20 02:08:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -169,14 +169,14 @@
       "route": "HOS → KLT",
       "time": "Mon Apr 20 01:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:42",
+        "eta_schleuse": "04:43",
         "eta_rueb": "00:44",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "00:44",
-      "eta_schleuse": "04:42",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "04:43",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:36"
     },
     {
@@ -280,14 +280,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:42",
+        "eta_schleuse": "04:43",
         "eta_rueb": "00:44",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "00:44",
-      "eta_schleuse": "04:42",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "04:43",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:36"
     }
   ],
@@ -299,8 +299,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 20 03:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -315,8 +315,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 20 03:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -446,14 +446,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:42",
+        "eta_schleuse": "04:43",
         "eta_rueb": "00:44",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "00:44",
-      "eta_schleuse": "04:42",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "04:43",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:36"
     }
   ],
