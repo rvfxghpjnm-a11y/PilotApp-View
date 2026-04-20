@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T20:44:46",
+  "generated_at": "2026-04-20T20:46:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,15 +137,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 16:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:23",
-        "eta_rueb": "21:55",
+        "eta_schleuse": "02:22",
+        "eta_rueb": "21:54",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:49"
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "21:55",
-      "eta_schleuse": "02:23",
+      "eta_rueb": "21:54",
+      "eta_schleuse": "02:22",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:49"
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -271,8 +271,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JAN V",
+      "route": "KRH → HOS",
       "time": "Mon Apr 20 12:53:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -291,14 +291,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 12:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:52",
+        "eta_schleuse": "00:51",
         "eta_rueb": "21:06",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "21:06",
-      "eta_schleuse": "00:52",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "00:51",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "04:08"
     },
     {
@@ -489,15 +489,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 16:32:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:23",
-        "eta_rueb": "21:55",
+        "eta_schleuse": "02:22",
+        "eta_rueb": "21:54",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:49"
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "21:55",
-      "eta_schleuse": "02:23",
+      "eta_rueb": "21:54",
+      "eta_schleuse": "02:22",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:49"
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -559,8 +559,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "JAN V",
+      "route": "KRH → HOS",
       "time": "Mon Apr 20 12:53:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -579,14 +579,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 12:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:52",
+        "eta_schleuse": "00:51",
         "eta_rueb": "21:06",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:45",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "21:06",
-      "eta_schleuse": "00:52",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "00:51",
+      "delta_rueb_schleuse": "03:45",
       "delta_start_rueb": "04:08"
     },
     {
@@ -646,14 +646,7 @@
       "eta_rueb": "01:55",
       "ship": "WILSON GRIMSBY",
       "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "21:30",
-      "ship": "JAN V",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
+      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "21:57",
@@ -677,7 +670,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:09",
+      "eta_rueb_kiel": "22:10",
       "eta_rueb": "21:58",
       "ship": "BALTIC ARROW",
       "q_gruppe": "5",
