@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T17:54:55",
+  "generated_at": "2026-04-20T17:56:59",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -261,8 +261,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HYDRA",
+      "route": "KRH → HOS",
       "time": "Mon Apr 20 11:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -449,8 +449,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HYDRA",
+      "route": "KRH → HOS",
       "time": "Mon Apr 20 11:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -483,13 +483,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "18:30",
-      "ship": "HYDRA",
-      "q_gruppe": "5",
-      "route": "KRH → HOS"
-    },
-    {
       "eta_rueb_kiel": "19:57",
       "eta_rueb": "19:45",
       "ship": "LADY DIANA",
@@ -497,7 +490,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "21:20",
+      "eta_rueb_kiel": "21:19",
       "eta_rueb": "21:15",
       "ship": "ANTONIA B",
       "q_gruppe": "5",
