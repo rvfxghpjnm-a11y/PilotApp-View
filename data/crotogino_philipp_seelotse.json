@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T21:44:54",
+  "generated_at": "2026-04-20T21:46:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,14 +41,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 20:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:44",
+        "eta_schleuse": "01:43",
         "eta_rueb": "22:09",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "22:09",
-      "eta_schleuse": "01:44",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "01:43",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:45"
     },
     {
@@ -141,15 +141,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 17:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:28",
-        "eta_rueb": "22:00",
+        "eta_schleuse": "02:25",
+        "eta_rueb": "21:57",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "22:00",
-      "eta_schleuse": "02:28",
+      "eta_rueb": "21:57",
+      "eta_schleuse": "02:25",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -423,14 +423,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 20:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:44",
+        "eta_schleuse": "01:43",
         "eta_rueb": "22:09",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "22:09",
-      "eta_schleuse": "01:44",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "01:43",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:45"
     },
     {
@@ -507,15 +507,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 17:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:28",
-        "eta_rueb": "22:00",
+        "eta_schleuse": "02:25",
+        "eta_rueb": "21:57",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:38"
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "22:00",
-      "eta_schleuse": "02:28",
+      "eta_rueb": "21:57",
+      "eta_schleuse": "02:25",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:38"
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -663,18 +663,18 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:01",
-      "eta_rueb": "00:00",
-      "ship": "AZURYTH",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "02:05",
       "eta_rueb": "01:55",
       "ship": "WILSON GRIMSBY",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "00:01",
+      "eta_rueb": "23:50",
+      "ship": "AZURYTH",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
     }
   ]
 }
