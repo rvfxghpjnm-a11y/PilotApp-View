@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T12:46:37",
+  "generated_at": "2026-04-20T12:48:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -124,14 +124,9 @@
       "fahrzeug": "ASGARD",
       "route": "WAU → WAU",
       "time": "Mon Apr 20 10:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "18:46",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -349,8 +344,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 02:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -418,14 +413,9 @@
       "fahrzeug": "ASGARD",
       "route": "WAU → WAU",
       "time": "Mon Apr 20 10:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "18:46",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -547,8 +537,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 02:43:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -559,13 +549,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "12:40",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "13:44",
       "eta_rueb": "13:30",
