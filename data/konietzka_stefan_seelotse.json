@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:38:38",
+  "generated_at": "2026-04-20T09:40:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 10,
     "wach": 1,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -109,14 +109,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 06:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:35",
+        "eta_schleuse": "11:31",
         "eta_rueb": "07:34",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "06:58"
       },
       "eta_rueb": "07:34",
-      "eta_schleuse": "11:35",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "11:31",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "06:58"
     },
     {
@@ -146,14 +146,14 @@
       "route": "RÜB → UTG",
       "time": "Mon Apr 20 05:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:34",
+        "eta_schleuse": "11:35",
         "eta_rueb": "07:12",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "05:10"
       },
       "eta_rueb": "07:12",
-      "eta_schleuse": "11:34",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "11:35",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "05:10"
     },
     {
@@ -309,22 +309,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Martin",
-      "nachname": "Zimmermann",
-      "name": "Martin Zimmermann",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "CONTAINERSHIPS 8",
-      "route": "KLT → HOS",
-      "time": "Mon Apr 20 01:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -403,14 +387,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 06:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:35",
+        "eta_schleuse": "11:31",
         "eta_rueb": "07:34",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "06:58"
       },
       "eta_rueb": "07:34",
-      "eta_schleuse": "11:35",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "11:31",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "06:58"
     },
     {
@@ -440,14 +424,14 @@
       "route": "RÜB → UTG",
       "time": "Mon Apr 20 05:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:34",
+        "eta_schleuse": "11:35",
         "eta_rueb": "07:12",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "05:10"
       },
       "eta_rueb": "07:12",
-      "eta_schleuse": "11:34",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "11:35",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "05:10"
     },
     {
@@ -519,7 +503,7 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "11:37",
+      "eta_rueb_kiel": "11:36",
       "eta_rueb": "11:30",
       "ship": "JAN V",
       "q_gruppe": "5",
