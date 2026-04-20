@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T15:42:48",
+  "generated_at": "2026-04-20T15:44:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,11 +67,16 @@
       "fahrzeug": "YARA KARA",
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 14:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:22",
+        "eta_rueb": "19:49",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:05"
+      },
+      "eta_rueb": "19:49",
+      "eta_schleuse": "00:22",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -84,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 12:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:17",
+        "eta_schleuse": "22:18",
         "eta_rueb": "17:51",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "17:51",
-      "eta_schleuse": "22:17",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "22:18",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:41"
     },
     {
@@ -105,15 +110,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 12:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:10",
-        "eta_rueb": "17:43",
+        "eta_schleuse": "22:11",
+        "eta_rueb": "17:44",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:39"
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "17:43",
-      "eta_schleuse": "22:10",
+      "eta_rueb": "17:44",
+      "eta_schleuse": "22:11",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:39"
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -126,13 +131,13 @@
       "route": "HOS → KRH",
       "time": "Mon Apr 20 12:11:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:04",
+        "eta_schleuse": "16:02",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "16:04",
+      "eta_schleuse": "16:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -291,11 +296,16 @@
       "fahrzeug": "YARA KARA",
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 14:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:22",
+        "eta_rueb": "19:49",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:05"
+      },
+      "eta_rueb": "19:49",
+      "eta_schleuse": "00:22",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -308,14 +318,14 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 12:53:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:17",
+        "eta_schleuse": "22:18",
         "eta_rueb": "17:51",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "17:51",
-      "eta_schleuse": "22:17",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "22:18",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:41"
     },
     {
@@ -329,15 +339,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 12:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:10",
-        "eta_rueb": "17:43",
+        "eta_schleuse": "22:11",
+        "eta_rueb": "17:44",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:39"
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "17:43",
-      "eta_schleuse": "22:10",
+      "eta_rueb": "17:44",
+      "eta_schleuse": "22:11",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:39"
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -350,13 +360,13 @@
       "route": "HOS → KRH",
       "time": "Mon Apr 20 12:11:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:04",
+        "eta_schleuse": "16:02",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "16:04",
+      "eta_schleuse": "16:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
