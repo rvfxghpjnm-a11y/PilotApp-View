@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T03:58:37",
+  "generated_at": "2026-04-20T04:00:46",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -142,8 +142,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "NORTH",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Apr 20 01:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -449,7 +449,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:07",
+      "eta_rueb_kiel": "05:06",
       "eta_rueb": "05:00",
       "ship": "ODIN",
       "q_gruppe": "4",
@@ -499,7 +499,7 @@
     },
     {
       "eta_rueb_kiel": "08:52",
-      "eta_rueb": "07:45",
+      "eta_rueb": "07:40",
       "ship": "CAROLIN G.",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
