@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T06:10:41",
+  "generated_at": "2026-04-20T06:12:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -168,8 +168,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "MANAS",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Apr 20 03:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -347,14 +347,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 19:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:21",
+        "eta_schleuse": "07:20",
         "eta_rueb": "03:01",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "06:33"
       },
       "eta_rueb": "03:01",
-      "eta_schleuse": "07:21",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "07:20",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "06:33"
     }
   ],
@@ -571,21 +571,21 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 19:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:21",
+        "eta_schleuse": "07:20",
         "eta_rueb": "03:01",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "06:33"
       },
       "eta_rueb": "03:01",
-      "eta_schleuse": "07:21",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "07:20",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "06:33"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "07:12",
+      "eta_rueb_kiel": "07:11",
       "eta_rueb": "07:05",
       "ship": "LONGVIK",
       "q_gruppe": "4",
