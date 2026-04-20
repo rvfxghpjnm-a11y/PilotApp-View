@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T17:36:46",
+  "generated_at": "2026-04-20T17:38:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -144,8 +144,8 @@
       "name": "Helge Rambadt",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "SARDIUS",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Mon Apr 20 14:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -332,16 +332,11 @@
       "fahrzeug": "TRAVIATA",
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 05:42:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:34",
-        "eta_rueb": "13:42",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "04:52"
-      },
-      "eta_rueb": "13:42",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "04:52"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -540,16 +535,11 @@
       "fahrzeug": "TRAVIATA",
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 05:42:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "17:34",
-        "eta_rueb": "13:42",
-        "delta_rueb_schleuse": "03:52",
-        "delta_start_rueb": "04:52"
-      },
-      "eta_rueb": "13:42",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "03:52",
-      "delta_start_rueb": "04:52"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
