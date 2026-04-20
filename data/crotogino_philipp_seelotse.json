@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T22:20:55",
+  "generated_at": "2026-04-20T22:23:00",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,14 +41,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 20:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:42",
+        "eta_schleuse": "01:41",
         "eta_rueb": "22:08",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:44"
       },
       "eta_rueb": "22:08",
-      "eta_schleuse": "01:42",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "01:41",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:44"
     },
     {
@@ -84,14 +84,14 @@
       "time": "Mon Apr 20 19:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "05:03",
-        "eta_rueb": "00:36",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "00:35",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "00:36",
+      "eta_rueb": "00:35",
       "eta_schleuse": "05:03",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -153,8 +153,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 16:32:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -169,19 +169,14 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "ANNALISA P",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 16:23:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "03:24",
-        "eta_rueb": "22:26",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:26"
-      },
-      "eta_rueb": "22:26",
-      "eta_schleuse": "03:24",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -190,12 +185,17 @@
       "name": "Merten Wachs",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "AQUANAUT",
+      "route": "UTG → HOS",
       "time": "Mon Apr 20 16:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -206,8 +206,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 16:04:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -381,14 +381,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 20:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:42",
+        "eta_schleuse": "01:41",
         "eta_rueb": "22:08",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:44"
       },
       "eta_rueb": "22:08",
-      "eta_schleuse": "01:42",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "01:41",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:44"
     },
     {
@@ -424,14 +424,14 @@
       "time": "Mon Apr 20 19:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "05:03",
-        "eta_rueb": "00:36",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "00:35",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "00:36",
+      "eta_rueb": "00:35",
       "eta_schleuse": "05:03",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -477,8 +477,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 16:32:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -493,19 +493,14 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "ANNALISA P",
-      "route": "HOS → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 16:23:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "03:24",
-        "eta_rueb": "22:26",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:26"
-      },
-      "eta_rueb": "22:26",
-      "eta_schleuse": "03:24",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -514,8 +509,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 20 16:04:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -618,14 +613,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "22:20",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:59",
+      "eta_rueb_kiel": "23:58",
       "eta_rueb": "23:50",
       "ship": "AZURYTH",
       "q_gruppe": "4",
