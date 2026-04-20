@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T10:30:38",
+  "generated_at": "2026-04-20T10:32:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -44,9 +44,14 @@
       "fahrzeug": "MAI LEHMANN",
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 09:17:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -147,8 +152,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EN AVANT + BARGE 6615-1 + HOLTENAU",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 20 05:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -322,9 +327,14 @@
       "fahrzeug": "MAI LEHMANN",
       "route": "HOS → RÜB",
       "time": "Mon Apr 20 09:17:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -409,8 +419,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EN AVANT + BARGE 6615-1 + HOLTENAU",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Mon Apr 20 05:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
