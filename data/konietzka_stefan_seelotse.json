@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-20T10:20:38",
+  "generated_at": "2026-04-20T10:22:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Seebört",
-    "fahrzeug": "Leerfahrt",
-    "from": "HOS",
-    "to": "KLT",
+    "fahrzeug": "KLT",
+    "from": null,
+    "to": null,
     "time": "Mon Apr 20 03:45:00 CEST 2026",
     "nr": 14
   },
@@ -253,8 +253,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Mon Apr 20 03:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -496,7 +496,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:36",
+      "eta_rueb_kiel": "11:34",
       "eta_rueb": "11:30",
       "ship": "JAN V",
       "q_gruppe": "5",
