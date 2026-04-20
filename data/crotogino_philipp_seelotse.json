@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T17:32:58",
+  "generated_at": "2026-04-20T17:34:59",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -115,14 +115,9 @@
       "fahrzeug": "AQUANAUT",
       "route": "HOR → UTG",
       "time": "Mon Apr 20 15:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "18:46",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -133,8 +128,8 @@
       "name": "Joachim Munz",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KAISA",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Mon Apr 20 14:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -212,14 +207,14 @@
       "time": "Mon Apr 20 12:30:00 CEST 2026",
       "times": {
         "eta_schleuse": "23:14",
-        "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "05:32",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "17:41",
+        "delta_rueb_schleuse": "05:33",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "17:42",
+      "eta_rueb": "17:41",
       "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": "05:32",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "05:33",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -338,14 +333,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 05:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:33",
+        "eta_schleuse": "17:34",
         "eta_rueb": "13:42",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:52"
       },
       "eta_rueb": "13:42",
-      "eta_schleuse": "17:33",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "17:34",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:52"
     }
   ],
@@ -468,14 +463,14 @@
       "time": "Mon Apr 20 12:30:00 CEST 2026",
       "times": {
         "eta_schleuse": "23:14",
-        "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "05:32",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "17:41",
+        "delta_rueb_schleuse": "05:33",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "17:42",
+      "eta_rueb": "17:41",
       "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": "05:32",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "05:33",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -546,14 +541,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 20 05:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:33",
+        "eta_schleuse": "17:34",
         "eta_rueb": "13:42",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:52"
       },
       "eta_rueb": "13:42",
-      "eta_schleuse": "17:33",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "17:34",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:52"
     }
   ],
@@ -574,7 +569,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "22:09",
+      "eta_rueb_kiel": "22:12",
       "eta_rueb": "20:50",
       "ship": "ARCTIC TRADER",
       "q_gruppe": "3",
@@ -595,21 +590,21 @@
       "route": "KRH → HOS"
     },
     {
-      "eta_rueb_kiel": "22:03",
+      "eta_rueb_kiel": "22:06",
       "eta_rueb": "21:50",
       "ship": "VB CARLO MAGNO",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "22:05",
+      "eta_rueb_kiel": "22:09",
       "eta_rueb": "21:53",
       "ship": "AURA",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "22:12",
+      "eta_rueb_kiel": "22:15",
       "eta_rueb": "21:55",
       "ship": "BALTIC ARROW",
       "q_gruppe": "5",
