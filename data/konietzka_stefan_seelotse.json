@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T06:16:38",
+  "generated_at": "2026-04-20T06:18:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 12,
     "wach": 1,
-    "see": 6
+    "see": 5
   },
   "times": {
     "eta_schleuse": "09:05",
@@ -205,14 +205,14 @@
       "time": "Mon Apr 20 02:43:00 CEST 2026",
       "times": {
         "eta_schleuse": "12:25",
-        "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:48"
+        "eta_rueb": "07:57",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "07:58",
+      "eta_rueb": "07:57",
       "eta_schleuse": "12:25",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:48"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -248,27 +248,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Arne",
-      "nachname": "Schulz",
-      "name": "Arne Schulz",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "EN AVANT + BARGE 6615-1 + HOLTENAU",
-      "route": "KLT → HOS",
-      "time": "Mon Apr 20 01:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Martin",
       "nachname": "Zimmermann",
       "name": "Martin Zimmermann",
       "aufgabe": "Seebört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "DP WORLD LIMASSOL",
       "route": "HOS → KLT",
       "time": "Mon Apr 20 01:05:00 CEST 2026",
@@ -284,7 +268,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "HYDRA",
       "route": "RÜB → KRH",
       "time": "Sun Apr 19 22:40:00 CEST 2026",
@@ -300,7 +284,7 @@
       "nachname": "Sattler",
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "PRIMA QUEEN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 21:01:00 CEST 2026",
@@ -321,7 +305,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ODIN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 20:33:00 CEST 2026",
@@ -342,7 +326,7 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CONTAINERSHIPS AURORA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 19:01:00 CEST 2026",
@@ -493,14 +477,14 @@
       "time": "Mon Apr 20 02:43:00 CEST 2026",
       "times": {
         "eta_schleuse": "12:25",
-        "eta_rueb": "07:58",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:48"
+        "eta_rueb": "07:57",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "07:58",
+      "eta_rueb": "07:57",
       "eta_schleuse": "12:25",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:48"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -508,7 +492,7 @@
       "nachname": "Janson",
       "name": "Sven Janson",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "HYDRA",
       "route": "RÜB → KRH",
       "time": "Sun Apr 19 22:40:00 CEST 2026",
@@ -524,7 +508,7 @@
       "nachname": "Sattler",
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "PRIMA QUEEN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 21:01:00 CEST 2026",
@@ -545,7 +529,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ODIN",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 20:33:00 CEST 2026",
@@ -566,7 +550,7 @@
       "nachname": "Hansen",
       "name": "Hinnerk Hansen",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CONTAINERSHIPS AURORA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 19 19:01:00 CEST 2026",
