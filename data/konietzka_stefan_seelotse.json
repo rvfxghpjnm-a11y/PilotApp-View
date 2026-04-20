@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T04:40:37",
+  "generated_at": "2026-04-20T04:42:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -211,14 +211,19 @@
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PRIMA QUEEN",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 21:01:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:41",
+        "eta_rueb": "05:08",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "06:24"
+      },
+      "eta_rueb": "05:08",
+      "eta_schleuse": "08:41",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "06:24"
     },
     {
       "is_target": false,
@@ -377,14 +382,19 @@
       "name": "Olaf Sattler",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PRIMA QUEEN",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 19 21:01:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:41",
+        "eta_rueb": "05:08",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "06:24"
+      },
+      "eta_rueb": "05:08",
+      "eta_schleuse": "08:41",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "06:24"
     },
     {
       "is_target": false,
@@ -469,13 +479,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:08",
-      "eta_rueb": "05:03",
-      "ship": "PRIMA QUEEN",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "05:11",
       "eta_rueb": "05:06",
       "ship": "HYDRA",
@@ -504,7 +507,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:22",
+      "eta_rueb_kiel": "07:21",
       "eta_rueb": "07:08",
       "ship": "UKPIK",
       "q_gruppe": "2",
