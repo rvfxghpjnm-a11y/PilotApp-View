@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T12:12:38",
+  "generated_at": "2026-04-20T12:14:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -248,8 +248,8 @@
       "name": "Claas Cramer",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ARABELLA",
+      "route": "KLT → HOS",
       "time": "Mon Apr 20 05:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -331,16 +331,11 @@
       "fahrzeug": "JAN V",
       "route": "RÜB → KRH",
       "time": "Mon Apr 20 02:43:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:05",
-        "eta_rueb": "11:33",
-        "delta_rueb_schleuse": "00:32",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "11:33",
-      "eta_schleuse": "12:05",
-      "delta_rueb_schleuse": "00:32",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -513,16 +508,11 @@
       "fahrzeug": "JAN V",
       "route": "RÜB → KRH",
       "time": "Mon Apr 20 02:43:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "12:05",
-        "eta_rueb": "11:33",
-        "delta_rueb_schleuse": "00:32",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "11:33",
-      "eta_schleuse": "12:05",
-      "delta_rueb_schleuse": "00:32",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
