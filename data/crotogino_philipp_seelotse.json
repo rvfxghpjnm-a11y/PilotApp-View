@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T19:01:00",
+  "generated_at": "2026-04-21T19:02:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,14 +16,19 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBWATER",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 21 17:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:36",
+        "eta_rueb": "19:24",
+        "delta_rueb_schleuse": "04:12",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "19:24",
+      "eta_schleuse": "23:36",
+      "delta_rueb_schleuse": "04:12",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -36,15 +41,15 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 21 17:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:33",
-        "eta_rueb": "19:12",
+        "eta_schleuse": "23:32",
+        "eta_rueb": "19:11",
         "delta_rueb_schleuse": "04:21",
-        "delta_start_rueb": "04:12"
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "19:12",
-      "eta_schleuse": "23:33",
+      "eta_rueb": "19:11",
+      "eta_schleuse": "23:32",
       "delta_rueb_schleuse": "04:21",
-      "delta_start_rueb": "04:12"
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -95,14 +100,14 @@
       "time": "Tue Apr 21 15:06:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:09",
-        "eta_rueb": "20:30",
-        "delta_rueb_schleuse": "04:39",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "20:29",
+        "delta_rueb_schleuse": "04:40",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "20:30",
+      "eta_rueb": "20:29",
       "eta_schleuse": "01:09",
-      "delta_rueb_schleuse": "04:39",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:40",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
@@ -314,14 +319,19 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBWATER",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 21 17:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:36",
+        "eta_rueb": "19:24",
+        "delta_rueb_schleuse": "04:12",
+        "delta_start_rueb": "04:26"
+      },
+      "eta_rueb": "19:24",
+      "eta_schleuse": "23:36",
+      "delta_rueb_schleuse": "04:12",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -334,15 +344,15 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 21 17:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:33",
-        "eta_rueb": "19:12",
+        "eta_schleuse": "23:32",
+        "eta_rueb": "19:11",
         "delta_rueb_schleuse": "04:21",
-        "delta_start_rueb": "04:12"
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "19:12",
-      "eta_schleuse": "23:33",
+      "eta_rueb": "19:11",
+      "eta_schleuse": "23:32",
       "delta_rueb_schleuse": "04:21",
-      "delta_start_rueb": "04:12"
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -393,14 +403,14 @@
       "time": "Tue Apr 21 15:06:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:09",
-        "eta_rueb": "20:30",
-        "delta_rueb_schleuse": "04:39",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "20:29",
+        "delta_rueb_schleuse": "04:40",
+        "delta_start_rueb": "03:49"
       },
-      "eta_rueb": "20:30",
+      "eta_rueb": "20:29",
       "eta_schleuse": "01:09",
-      "delta_rueb_schleuse": "04:39",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:40",
+      "delta_start_rueb": "03:49"
     },
     {
       "is_target": false,
