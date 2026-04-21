@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T16:38:49",
+  "generated_at": "2026-04-21T16:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -37,14 +37,14 @@
       "time": "Tue Apr 21 15:38:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:38",
-        "eta_rueb": "20:11",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "20:12",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "20:11",
+      "eta_rueb": "20:12",
       "eta_schleuse": "00:38",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -56,11 +56,16 @@
       "fahrzeug": "SUNSET X",
       "route": "HOS → RÜB",
       "time": "Tue Apr 21 15:06:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:14",
+        "eta_rueb": "20:15",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "03:35"
+      },
+      "eta_rueb": "20:15",
+      "eta_schleuse": "01:14",
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -143,8 +148,8 @@
       "name": "Henning Kaschke",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "LINA",
+      "route": "OUH → OUH",
       "time": "Tue Apr 21 12:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -346,14 +351,14 @@
       "time": "Tue Apr 21 15:38:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:38",
-        "eta_rueb": "20:11",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:45"
+        "eta_rueb": "20:12",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "03:46"
       },
-      "eta_rueb": "20:11",
+      "eta_rueb": "20:12",
       "eta_schleuse": "00:38",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:45"
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "03:46"
     },
     {
       "is_target": false,
@@ -365,11 +370,16 @@
       "fahrzeug": "SUNSET X",
       "route": "HOS → RÜB",
       "time": "Tue Apr 21 15:06:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:14",
+        "eta_rueb": "20:15",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "03:35"
+      },
+      "eta_rueb": "20:15",
+      "eta_schleuse": "01:14",
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
