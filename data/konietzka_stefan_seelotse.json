@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T23:42:47",
+  "generated_at": "2026-04-21T23:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,9 +40,14 @@
       "fahrzeug": "SPARBORG",
       "route": "HOR → RÜB",
       "time": "Tue Apr 21 22:49:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -264,9 +269,14 @@
       "fahrzeug": "SPARBORG",
       "route": "HOR → RÜB",
       "time": "Tue Apr 21 22:49:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
