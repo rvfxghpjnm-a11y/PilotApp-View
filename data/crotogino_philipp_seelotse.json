@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T15:14:55",
+  "generated_at": "2026-04-21T15:16:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Remo Kordt",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "KAMELIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Apr 21 13:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "BALTIC STAR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Tue Apr 21 13:29:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -202,14 +202,14 @@
       "time": "Tue Apr 21 10:33:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:47",
-        "eta_rueb": "16:19",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:09"
+        "eta_rueb": "16:18",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "04:08"
       },
-      "eta_rueb": "16:19",
+      "eta_rueb": "16:18",
       "eta_schleuse": "20:47",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:09"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -384,14 +384,14 @@
       "time": "Tue Apr 21 10:33:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:47",
-        "eta_rueb": "16:19",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:09"
+        "eta_rueb": "16:18",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "04:08"
       },
-      "eta_rueb": "16:19",
+      "eta_rueb": "16:18",
       "eta_schleuse": "20:47",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:09"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
@@ -501,7 +501,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:54",
+      "eta_rueb_kiel": "18:53",
       "eta_rueb": "18:35",
       "ship": "PONEM",
       "q_gruppe": "5",
