@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T02:38:57",
+  "generated_at": "2026-04-22T02:40:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -197,8 +197,8 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Tue Apr 21 17:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -213,8 +213,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Tue Apr 21 17:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -359,7 +359,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "07:07",
       "eta_rueb": "05:50",
       "ship": "DELFIN",
       "q_gruppe": "5",
