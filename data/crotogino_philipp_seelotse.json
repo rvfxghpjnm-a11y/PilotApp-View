@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T08:28:58",
+  "generated_at": "2026-04-22T08:30:58",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Mark Wald",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "LINA",
-      "route": "OUH → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Apr 22 07:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -67,9 +67,14 @@
       "fahrzeug": "BOLDWIND",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 06:55:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -100,14 +105,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 05:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:50",
+        "eta_schleuse": "10:49",
         "eta_rueb": "06:54",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "06:54",
-      "eta_schleuse": "10:50",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "10:49",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:16"
     },
     {
@@ -216,14 +221,14 @@
       "route": "KRH → HOS",
       "time": "Wed Apr 22 02:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:07",
+        "eta_schleuse": "11:06",
         "eta_rueb": "17:20",
-        "delta_rueb_schleuse": "89:47",
+        "delta_rueb_schleuse": "89:46",
         "delta_start_rueb": "86:48"
       },
       "eta_rueb": "17:20",
-      "eta_schleuse": "11:07",
-      "delta_rueb_schleuse": "89:47",
+      "eta_schleuse": "11:06",
+      "delta_rueb_schleuse": "89:46",
       "delta_start_rueb": "86:48"
     },
     {
@@ -252,9 +257,14 @@
       "fahrzeug": "BOLDWIND",
       "route": "KLT → HOS",
       "time": "Wed Apr 22 01:21:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -323,9 +333,14 @@
       "fahrzeug": "BOLDWIND",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 06:55:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -340,14 +355,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 05:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:50",
+        "eta_schleuse": "10:49",
         "eta_rueb": "06:54",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "06:54",
-      "eta_schleuse": "10:50",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "10:49",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:16"
     },
     {
@@ -424,14 +439,14 @@
       "route": "KRH → HOS",
       "time": "Wed Apr 22 02:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:07",
+        "eta_schleuse": "11:06",
         "eta_rueb": "17:20",
-        "delta_rueb_schleuse": "89:47",
+        "delta_rueb_schleuse": "89:46",
         "delta_start_rueb": "86:48"
       },
       "eta_rueb": "17:20",
-      "eta_schleuse": "11:07",
-      "delta_rueb_schleuse": "89:47",
+      "eta_schleuse": "11:06",
+      "delta_rueb_schleuse": "89:46",
       "delta_start_rueb": "86:48"
     },
     {
