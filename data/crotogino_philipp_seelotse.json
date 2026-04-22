@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:22:56",
+  "generated_at": "2026-04-22T21:24:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 22 20:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -131,14 +131,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 18:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:27",
+        "eta_schleuse": "03:29",
         "eta_rueb": "22:46",
-        "delta_rueb_schleuse": "04:41",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "03:32"
       },
       "eta_rueb": "22:46",
-      "eta_schleuse": "03:27",
-      "delta_rueb_schleuse": "04:41",
+      "eta_schleuse": "03:29",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "03:32"
     },
     {
@@ -200,14 +200,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 14:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:51",
+        "eta_schleuse": "01:49",
         "eta_rueb": "21:49",
-        "delta_rueb_schleuse": "04:02",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "21:49",
-      "eta_schleuse": "01:51",
-      "delta_rueb_schleuse": "04:02",
+      "eta_schleuse": "01:49",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:31"
     },
     {
@@ -346,8 +346,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 22 20:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -429,14 +429,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 18:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:27",
+        "eta_schleuse": "03:29",
         "eta_rueb": "22:46",
-        "delta_rueb_schleuse": "04:41",
+        "delta_rueb_schleuse": "04:43",
         "delta_start_rueb": "03:32"
       },
       "eta_rueb": "22:46",
-      "eta_schleuse": "03:27",
-      "delta_rueb_schleuse": "04:41",
+      "eta_schleuse": "03:29",
+      "delta_rueb_schleuse": "04:43",
       "delta_start_rueb": "03:32"
     },
     {
@@ -450,14 +450,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 14:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:51",
+        "eta_schleuse": "01:49",
         "eta_rueb": "21:49",
-        "delta_rueb_schleuse": "04:02",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "21:49",
-      "eta_schleuse": "01:51",
-      "delta_rueb_schleuse": "04:02",
+      "eta_schleuse": "01:49",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:31"
     },
     {
@@ -543,7 +543,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:13",
+      "eta_rueb_kiel": "00:15",
       "eta_rueb": "00:05",
       "ship": "CORAL PEARL",
       "q_gruppe": "4",
