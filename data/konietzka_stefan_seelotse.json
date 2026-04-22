@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T20:36:47",
+  "generated_at": "2026-04-22T20:38:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -146,9 +146,14 @@
       "fahrzeug": "JEKERBORG",
       "route": "HOR → UTG",
       "time": "Wed Apr 22 16:19:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -180,14 +185,14 @@
       "time": "Wed Apr 22 14:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:38",
-        "eta_rueb": "20:44",
-        "delta_rueb_schleuse": "04:54",
-        "delta_start_rueb": "04:16"
+        "eta_rueb": "20:45",
+        "delta_rueb_schleuse": "04:53",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "20:44",
+      "eta_rueb": "20:45",
       "eta_schleuse": "01:38",
-      "delta_rueb_schleuse": "04:54",
-      "delta_start_rueb": "04:16"
+      "delta_rueb_schleuse": "04:53",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -409,14 +414,14 @@
       "time": "Wed Apr 22 14:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:38",
-        "eta_rueb": "20:44",
-        "delta_rueb_schleuse": "04:54",
-        "delta_start_rueb": "04:16"
+        "eta_rueb": "20:45",
+        "delta_rueb_schleuse": "04:53",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "20:44",
+      "eta_rueb": "20:45",
       "eta_schleuse": "01:38",
-      "delta_rueb_schleuse": "04:54",
-      "delta_start_rueb": "04:16"
+      "delta_rueb_schleuse": "04:53",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -522,7 +527,7 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "21:45",
+      "eta_rueb_kiel": "21:46",
       "eta_rueb": "21:40",
       "ship": "JONABORG",
       "q_gruppe": "5",
