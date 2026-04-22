@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T12:34:49",
+  "generated_at": "2026-04-22T12:36:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "ECO GHIBLI",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 11:03:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -227,13 +232,13 @@
       "route": "WAU → WAU",
       "time": "Wed Apr 22 08:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:32",
+        "eta_schleuse": "12:34",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:32",
+      "eta_schleuse": "12:34",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -488,9 +493,14 @@
       "fahrzeug": "ECO GHIBLI",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 11:03:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:22",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -600,13 +610,13 @@
       "route": "WAU → WAU",
       "time": "Wed Apr 22 08:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:32",
+        "eta_schleuse": "12:34",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:32",
+      "eta_schleuse": "12:34",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
