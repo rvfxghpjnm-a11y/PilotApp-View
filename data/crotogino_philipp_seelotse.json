@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T08:06:55",
+  "generated_at": "2026-04-22T08:09:05",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -199,11 +199,16 @@
       "fahrzeug": "BILLE",
       "route": "KRH → HOS",
       "time": "Wed Apr 22 02:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "17:20",
+        "delta_rueb_schleuse": "2284297:26",
+        "delta_start_rueb": "86:48"
+      },
+      "eta_rueb": "17:20",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2284297:26",
+      "delta_start_rueb": "86:48"
     },
     {
       "is_target": false,
@@ -402,11 +407,16 @@
       "fahrzeug": "BILLE",
       "route": "KRH → HOS",
       "time": "Wed Apr 22 02:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "17:20",
+        "delta_rueb_schleuse": "2284297:26",
+        "delta_start_rueb": "86:48"
+      },
+      "eta_rueb": "17:20",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2284297:26",
+      "delta_start_rueb": "86:48"
     },
     {
       "is_target": false,
@@ -477,7 +487,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:30",
+      "eta_rueb_kiel": "10:29",
       "eta_rueb": "10:24",
       "ship": "CAMILLA HOEJ",
       "q_gruppe": "5",
