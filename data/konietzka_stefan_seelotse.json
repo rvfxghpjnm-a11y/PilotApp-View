@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T22:52:48",
+  "generated_at": "2026-04-22T22:54:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
-    "see": 3
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -135,10 +135,10 @@
       "vorname": "Volker",
       "nachname": "Nagel",
       "name": "Volker Nagel",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "RIX VENTURE",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Apr 22 18:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:01",
@@ -415,27 +415,6 @@
       "eta_schleuse": "04:46",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:33"
-    },
-    {
-      "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Nagel",
-      "name": "Volker Nagel",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "RIX VENTURE",
-      "route": "RÜB → HOS",
-      "time": "Wed Apr 22 18:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "00:01",
-        "eta_rueb": "20:29",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "20:29",
-      "eta_schleuse": "00:01",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
