@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T12:44:54",
+  "generated_at": "2026-04-22T12:46:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 16,
     "wach": 2,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -51,9 +51,14 @@
       "fahrzeug": "KEY STREAM",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 11:39:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:21",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:21",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -68,13 +73,13 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 11:09:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:53",
+        "eta_schleuse": "20:56",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:53",
+      "eta_schleuse": "20:56",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -237,13 +242,13 @@
       "route": "WAU → WAU",
       "time": "Wed Apr 22 08:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:42",
+        "eta_schleuse": "12:44",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:42",
+      "eta_schleuse": "12:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -361,27 +366,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Gerd",
-      "nachname": "Pitschmann",
-      "name": "Gerd Pitschmann",
-      "aufgabe": "Seebört",
-      "nr": 21,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Apr 22 05:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Niels",
       "nachname": "Münker",
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "FWN SPIRIT",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 04:59:00 CEST 2026",
@@ -402,7 +391,7 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "BAYMAR",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 04:58:00 CEST 2026",
@@ -423,7 +412,7 @@
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "KRISTELLA",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 02:04:00 CEST 2026",
@@ -450,9 +439,14 @@
       "fahrzeug": "KEY STREAM",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 11:39:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "21:21",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "21:21",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -467,13 +461,13 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 11:09:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:53",
+        "eta_schleuse": "20:56",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:53",
+      "eta_schleuse": "20:56",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -604,13 +598,13 @@
       "route": "WAU → WAU",
       "time": "Wed Apr 22 08:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:42",
+        "eta_schleuse": "12:44",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:42",
+      "eta_schleuse": "12:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -684,7 +678,7 @@
       "nachname": "Münker",
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "FWN SPIRIT",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 04:59:00 CEST 2026",
@@ -705,7 +699,7 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "BAYMAR",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 04:58:00 CEST 2026",
@@ -726,7 +720,7 @@
       "nachname": "Arndt",
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "KRISTELLA",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 02:04:00 CEST 2026",
