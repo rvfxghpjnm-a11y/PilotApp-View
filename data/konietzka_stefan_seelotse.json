@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-22T02:02:49",
+  "generated_at": "2026-04-22T02:04:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 5,
     "wach": 0,
     "see": 8
   },
@@ -122,8 +122,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 21 20:26:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -202,8 +202,8 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 21 16:26:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -231,22 +231,6 @@
       "eta_schleuse": "01:50",
       "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:29"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan-Steffen",
-      "nachname": "Glenewinkel",
-      "name": "Jan-Steffen Glenewinkel",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "YARA KARA",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 21 15:06:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -294,8 +278,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 21 20:26:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -310,8 +294,8 @@
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 21 16:26:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -339,33 +323,10 @@
       "eta_schleuse": "01:50",
       "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:29"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan-Steffen",
-      "nachname": "Glenewinkel",
-      "name": "Jan-Steffen Glenewinkel",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "YARA KARA",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 21 15:06:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "02:00",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "03:54",
       "eta_rueb": "03:45",
