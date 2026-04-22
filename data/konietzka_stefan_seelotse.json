@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:36:45",
+  "generated_at": "2026-04-22T21:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -290,14 +290,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 11:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:33",
+        "eta_schleuse": "23:32",
         "eta_rueb": "19:56",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "19:56",
-      "eta_schleuse": "23:33",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "23:32",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:54"
     },
     {
@@ -529,14 +529,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 11:39:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:33",
+        "eta_schleuse": "23:32",
         "eta_rueb": "19:56",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "19:56",
-      "eta_schleuse": "23:33",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "23:32",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:54"
     },
     {
@@ -586,7 +586,7 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "00:17",
-      "eta_rueb": "00:05",
+      "eta_rueb": "00:10",
       "ship": "CORAL PEARL",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
@@ -604,6 +604,13 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "22:35",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
     }
   ]
 }
