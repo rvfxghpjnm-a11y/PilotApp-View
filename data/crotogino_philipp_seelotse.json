@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T06:07:01",
+  "generated_at": "2026-04-22T06:09:01",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "RONJA",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 04:59:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -175,8 +180,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "BOLDWIND",
+      "route": "KLT → HOS",
       "time": "Wed Apr 22 01:21:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -270,9 +275,14 @@
       "fahrzeug": "RONJA",
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 04:59:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
