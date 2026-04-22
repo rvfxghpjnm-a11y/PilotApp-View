@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T16:02:48",
+  "generated_at": "2026-04-22T16:04:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -265,14 +265,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "COE GISELA",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 22 08:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:02",
+        "eta_rueb": "16:28",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "16:28",
+      "eta_schleuse": "20:02",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -446,14 +451,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "COE GISELA",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 22 08:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:02",
+        "eta_rueb": "16:28",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "16:28",
+      "eta_schleuse": "20:02",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -506,13 +516,6 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
-    },
-    {
-      "eta_rueb_kiel": "16:28",
-      "eta_rueb": "16:30",
-      "ship": "COE GISELA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "19:57",
