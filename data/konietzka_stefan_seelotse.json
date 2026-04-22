@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T01:20:46",
+  "generated_at": "2026-04-23T01:22:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -247,14 +247,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 14:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:36",
+        "eta_schleuse": "01:35",
         "eta_rueb": "21:49",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "21:49",
-      "eta_schleuse": "01:36",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "01:35",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:31"
     }
   ],
@@ -396,19 +396,33 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 14:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:36",
+        "eta_schleuse": "01:35",
         "eta_rueb": "21:49",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "21:49",
-      "eta_schleuse": "01:36",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "01:35",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:31"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "05:35",
+      "ship": "RUNNER",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "06:20",
+      "ship": "EEVA VG",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "07:00",
