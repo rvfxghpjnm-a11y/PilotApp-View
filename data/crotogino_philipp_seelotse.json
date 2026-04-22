@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T20:50:58",
+  "generated_at": "2026-04-22T20:52:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,15 +36,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 19:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:49",
-        "eta_rueb": "00:21",
+        "eta_schleuse": "04:51",
+        "eta_rueb": "00:23",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "00:21",
-      "eta_schleuse": "04:49",
+      "eta_rueb": "00:23",
+      "eta_schleuse": "04:51",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -115,14 +115,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 18:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:29",
+        "eta_schleuse": "03:28",
         "eta_rueb": "22:49",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "22:49",
-      "eta_schleuse": "03:29",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "03:28",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:35"
     },
     {
@@ -151,16 +151,11 @@
       "fahrzeug": "JEKERBORG",
       "route": "HOR → UTG",
       "time": "Wed Apr 22 16:19:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "04:45",
-        "eta_rueb": "00:18",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
-      },
-      "eta_rueb": "00:18",
-      "eta_schleuse": "04:45",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -334,15 +329,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 19:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:49",
-        "eta_rueb": "00:21",
+        "eta_schleuse": "04:51",
+        "eta_rueb": "00:23",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:35"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "00:21",
-      "eta_schleuse": "04:49",
+      "eta_rueb": "00:23",
+      "eta_schleuse": "04:51",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:35"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -397,14 +392,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Apr 22 18:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:29",
+        "eta_schleuse": "03:28",
         "eta_rueb": "22:49",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "22:49",
-      "eta_schleuse": "03:29",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "03:28",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:35"
     },
     {
@@ -506,7 +501,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:15",
+      "eta_rueb_kiel": "00:14",
       "eta_rueb": "00:05",
       "ship": "CORAL PEARL",
       "q_gruppe": "4",
