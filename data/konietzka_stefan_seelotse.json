@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-22T09:44:48",
+  "generated_at": "2026-04-22T09:46:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 0,
     "see": 4
   },
@@ -149,8 +149,8 @@
       "name": "Mark Wald",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Apr 22 07:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -265,8 +265,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Apr 22 05:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -360,30 +360,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
-      "time": "Wed Apr 22 02:04:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Klaus Werner",
-      "nachname": "Haala",
-      "name": "Klaus Werner Haala",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "FRI TIDE",
+      "fahrzeug": "KRISTELLA",
       "route": "RÜB → HOS",
-      "time": "Tue Apr 21 22:49:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "time": "Wed Apr 22 02:04:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "13:45",
+        "eta_rueb": "10:10",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "10:10",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:42"
     }
   ],
   "kanallotsen": [
@@ -674,41 +663,23 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
-      "time": "Wed Apr 22 02:04:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Klaus Werner",
-      "nachname": "Haala",
-      "name": "Klaus Werner Haala",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "FRI TIDE",
+      "fahrzeug": "KRISTELLA",
       "route": "RÜB → HOS",
-      "time": "Tue Apr 21 22:49:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "time": "Wed Apr 22 02:04:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "13:45",
+        "eta_rueb": "10:10",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "10:10",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:42"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "10:11",
-      "eta_rueb": "10:10",
-      "ship": "KRISTELLA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "10:20",
