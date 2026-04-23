@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:32:54",
+  "generated_at": "2026-04-23T23:34:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 23 23:01:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:31",
+        "eta_schleuse": "23:33",
         "eta_rueb": "19:21",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "19:21",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:01"
     },
     {
@@ -85,19 +85,14 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "LONGEON",
-      "route": "RÜB → HOS",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 23 21:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "03:33",
-        "eta_rueb": "23:59",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "05:01"
-      },
-      "eta_rueb": "23:59",
-      "eta_schleuse": "03:33",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "05:01"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -263,15 +258,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:36",
-        "eta_rueb": "00:09",
+        "eta_schleuse": "04:34",
+        "eta_rueb": "00:07",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:39"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "00:09",
-      "eta_schleuse": "04:36",
+      "eta_rueb": "00:07",
+      "eta_schleuse": "04:34",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:39"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -384,14 +379,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:31",
+        "eta_schleuse": "23:33",
         "eta_rueb": "19:21",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "19:21",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:01"
     },
     {
@@ -467,19 +462,14 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "LONGEON",
-      "route": "RÜB → HOS",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 23 21:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "03:33",
-        "eta_rueb": "23:59",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "05:01"
-      },
-      "eta_rueb": "23:59",
-      "eta_schleuse": "03:33",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "05:01"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -613,15 +603,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:36",
-        "eta_rueb": "00:09",
+        "eta_schleuse": "04:34",
+        "eta_rueb": "00:07",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:39"
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "00:09",
-      "eta_schleuse": "04:36",
+      "eta_rueb": "00:07",
+      "eta_schleuse": "04:34",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:39"
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -718,14 +708,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:31",
+        "eta_schleuse": "23:33",
         "eta_rueb": "19:21",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "19:21",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:01"
     },
     {
@@ -790,10 +780,17 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "23:54",
+      "eta_rueb_kiel": "23:52",
       "eta_rueb": "23:30",
       "ship": "ANNALISA P",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "23:59",
+      "eta_rueb": "23:30",
+      "ship": "LONGEON",
+      "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
