@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T11:40:49",
+  "generated_at": "2026-04-23T11:42:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -97,9 +97,14 @@
       "fahrzeug": "STOC MARCIA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 10:37:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:45",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:45",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -527,9 +532,14 @@
       "fahrzeug": "STOC MARCIA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 10:37:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:45",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:45",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -779,7 +789,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:05",
+      "eta_rueb_kiel": "13:04",
       "eta_rueb": "13:00",
       "ship": "TOR VIKING",
       "q_gruppe": "0",
@@ -793,14 +803,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:25",
+      "eta_rueb_kiel": "17:24",
       "eta_rueb": "17:10",
       "ship": "ELBSPRING",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "17:27",
       "eta_rueb": "17:13",
       "ship": "CORAL IVORY",
       "q_gruppe": "4",
