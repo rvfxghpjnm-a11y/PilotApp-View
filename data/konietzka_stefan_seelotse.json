@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T00:02:46",
+  "generated_at": "2026-04-24T00:04:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 0,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -231,10 +231,10 @@
       "vorname": "Jens-Peter",
       "nachname": "Töpfer",
       "name": "Jens-Peter Töpfer",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 13,
       "fahrzeug": "KARION",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Apr 23 20:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:07",
@@ -300,15 +300,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:34",
-        "eta_rueb": "00:07",
+        "eta_schleuse": "04:36",
+        "eta_rueb": "00:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:37"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "00:07",
-      "eta_schleuse": "04:34",
+      "eta_rueb": "00:09",
+      "eta_schleuse": "04:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:37"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -400,14 +400,14 @@
       "route": "RÜB → NHF",
       "time": "Thu Apr 23 15:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:28",
+        "eta_schleuse": "00:27",
         "eta_rueb": "21:16",
-        "delta_rueb_schleuse": "03:12",
+        "delta_rueb_schleuse": "03:11",
         "delta_start_rueb": "05:56"
       },
       "eta_rueb": "21:16",
-      "eta_schleuse": "00:28",
-      "delta_rueb_schleuse": "03:12",
+      "eta_schleuse": "00:27",
+      "delta_rueb_schleuse": "03:11",
       "delta_start_rueb": "05:56"
     }
   ],
@@ -583,27 +583,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Jens-Peter",
-      "nachname": "Töpfer",
-      "name": "Jens-Peter Töpfer",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "KARION",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 23 20:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "01:07",
-        "eta_rueb": "21:44",
-        "delta_rueb_schleuse": "03:23",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "21:44",
-      "eta_schleuse": "01:07",
-      "delta_rueb_schleuse": "03:23",
-      "delta_start_rueb": "04:14"
-    },
-    {
-      "is_target": false,
       "vorname": "Ulrich",
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
@@ -613,15 +592,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:34",
-        "eta_rueb": "00:07",
+        "eta_schleuse": "04:36",
+        "eta_rueb": "00:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:37"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "00:07",
-      "eta_schleuse": "04:34",
+      "eta_rueb": "00:09",
+      "eta_schleuse": "04:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:37"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -697,14 +676,14 @@
       "route": "RÜB → NHF",
       "time": "Thu Apr 23 15:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:28",
+        "eta_schleuse": "00:27",
         "eta_rueb": "21:16",
-        "delta_rueb_schleuse": "03:12",
+        "delta_rueb_schleuse": "03:11",
         "delta_start_rueb": "05:56"
       },
       "eta_rueb": "21:16",
-      "eta_schleuse": "00:28",
-      "delta_rueb_schleuse": "03:12",
+      "eta_schleuse": "00:27",
+      "delta_rueb_schleuse": "03:11",
       "delta_start_rueb": "05:56"
     }
   ],
