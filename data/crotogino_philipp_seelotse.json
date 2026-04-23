@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T14:37:00",
+  "generated_at": "2026-04-23T14:38:59",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -276,14 +276,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BIANCA RAMBOW",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:49",
+        "eta_rueb": "15:03",
+        "delta_rueb_schleuse": "03:46",
+        "delta_start_rueb": "05:05"
+      },
+      "eta_rueb": "15:03",
+      "eta_schleuse": "18:49",
+      "delta_rueb_schleuse": "03:46",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -511,14 +516,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BIANCA RAMBOW",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:49",
+        "eta_rueb": "15:03",
+        "delta_rueb_schleuse": "03:46",
+        "delta_start_rueb": "05:05"
+      },
+      "eta_rueb": "15:03",
+      "eta_schleuse": "18:49",
+      "delta_rueb_schleuse": "03:46",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -577,13 +587,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:03",
-      "eta_rueb": "15:05",
-      "ship": "BIANCA RAMBOW",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "17:16",
       "eta_rueb": "17:10",
       "ship": "ELBSPRING",
@@ -598,7 +601,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:17",
+      "eta_rueb_kiel": "19:16",
       "eta_rueb": "19:10",
       "ship": "MADICKEN",
       "q_gruppe": "5",
