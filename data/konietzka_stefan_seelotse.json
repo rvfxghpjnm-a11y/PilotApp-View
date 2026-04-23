@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T16:44:47",
+  "generated_at": "2026-04-23T16:46:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -255,14 +255,19 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSPRING",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 10:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:20",
+        "eta_rueb": "17:11",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "05:41"
+      },
+      "eta_rueb": "17:11",
+      "eta_schleuse": "21:20",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "05:41"
     },
     {
       "is_target": false,
@@ -437,14 +442,19 @@
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSPRING",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 10:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:20",
+        "eta_rueb": "17:11",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "05:41"
+      },
+      "eta_rueb": "17:11",
+      "eta_schleuse": "21:20",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "05:41"
     },
     {
       "is_target": false,
@@ -491,13 +501,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:11",
-      "eta_rueb": "17:10",
-      "ship": "ELBSPRING",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "17:15",
       "eta_rueb": "17:13",
