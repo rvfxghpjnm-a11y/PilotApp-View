@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T10:28:45",
+  "generated_at": "2026-04-23T10:30:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -320,14 +320,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SEINE HIGHWAY",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 05:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:16",
+        "eta_rueb": "10:42",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "10:42",
+      "eta_schleuse": "14:16",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -340,14 +345,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 23 05:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:27",
+        "eta_schleuse": "10:28",
         "eta_rueb": "06:14",
-        "delta_rueb_schleuse": "04:13",
+        "delta_rueb_schleuse": "04:14",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "06:14",
-      "eta_schleuse": "10:27",
-      "delta_rueb_schleuse": "04:13",
+      "eta_schleuse": "10:28",
+      "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "04:56"
     },
     {
@@ -414,14 +419,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 00:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:27",
+        "eta_schleuse": "10:28",
         "eta_rueb": "06:14",
-        "delta_rueb_schleuse": "04:13",
+        "delta_rueb_schleuse": "04:14",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "06:14",
-      "eta_schleuse": "10:27",
-      "delta_rueb_schleuse": "04:13",
+      "eta_schleuse": "10:28",
+      "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "04:56"
     }
   ],
@@ -675,14 +680,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SEINE HIGHWAY",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 05:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:16",
+        "eta_rueb": "10:42",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "10:42",
+      "eta_schleuse": "14:16",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -716,14 +726,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 00:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:27",
+        "eta_schleuse": "10:28",
         "eta_rueb": "06:14",
-        "delta_rueb_schleuse": "04:13",
+        "delta_rueb_schleuse": "04:14",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "06:14",
-      "eta_schleuse": "10:27",
-      "delta_rueb_schleuse": "04:13",
+      "eta_schleuse": "10:28",
+      "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "04:56"
     }
   ],
