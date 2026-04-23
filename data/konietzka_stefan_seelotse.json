@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T22:24:46",
+  "generated_at": "2026-04-23T22:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 16,
     "wach": 0,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -328,39 +328,23 @@
     },
     {
       "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Vogel",
-      "name": "Peter Vogel",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "CORAL MONACTIS",
-      "route": "KLT → HOS",
-      "time": "Thu Apr 23 13:57:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Mathias",
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "NORDICA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:30",
+        "eta_schleuse": "23:29",
         "eta_rueb": "19:21",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "19:21",
-      "eta_schleuse": "23:30",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "23:29",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:01"
     },
     {
@@ -369,7 +353,7 @@
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "MADICKEN",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 12:56:00 CEST 2026",
@@ -661,19 +645,19 @@
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "NORDICA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:30",
+        "eta_schleuse": "23:29",
         "eta_rueb": "19:21",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "05:01"
       },
       "eta_rueb": "19:21",
-      "eta_schleuse": "23:30",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "23:29",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "05:01"
     },
     {
@@ -682,7 +666,7 @@
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "MADICKEN",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 12:56:00 CEST 2026",
