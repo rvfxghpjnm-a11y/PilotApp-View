@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T12:48:49",
+  "generated_at": "2026-04-23T12:50:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -328,8 +328,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "ASGARD",
-      "route": "WAU → WAU",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 23 06:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -630,8 +630,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "ASGARD",
-      "route": "WAU → WAU",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 23 06:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -726,6 +726,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "12:45",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "13:00",
       "eta_rueb": "13:00",
