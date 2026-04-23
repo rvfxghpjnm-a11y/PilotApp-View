@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T06:58:44",
+  "generated_at": "2026-04-23T07:00:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -129,9 +129,14 @@
       "fahrzeug": "ALEXANDRA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 05:13:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:28",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:28",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -396,9 +401,14 @@
       "fahrzeug": "ALEXANDRA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 05:13:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:28",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:28",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -529,14 +539,14 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "08:29",
+      "eta_rueb_kiel": "08:30",
       "eta_rueb": "08:20",
       "ship": "APATYTH",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:33",
+      "eta_rueb_kiel": "08:34",
       "eta_rueb": "08:23",
       "ship": "BBC MICHIGAN",
       "q_gruppe": "2",
@@ -564,7 +574,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:57",
+      "eta_rueb_kiel": "10:56",
       "eta_rueb": "10:43",
       "ship": "BERGSTRAUM",
       "q_gruppe": "3",
