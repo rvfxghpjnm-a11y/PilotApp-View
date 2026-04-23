@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T06:42:38",
+  "generated_at": "2026-04-23T06:44:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 4
+    "see": 2
   },
   "times": null,
   "lotsen": [
@@ -211,27 +211,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "name": "Jens Röhl",
-      "aufgabe": "Seebört",
-      "nr": 12,
-      "fahrzeug": "ALEXANDRA",
-      "route": "KLT → HOS",
-      "time": "Wed Apr 22 22:58:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Nils",
       "nachname": "Föhring",
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "RUNNER",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 21:43:00 CEST 2026",
@@ -245,22 +229,6 @@
       "eta_schleuse": "09:05",
       "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:12"
-    },
-    {
-      "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "MARBURG",
-      "route": "KLT → HOS",
-      "time": "Wed Apr 22 20:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -429,7 +397,7 @@
       "nachname": "Föhring",
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "RUNNER",
       "route": "RÜB → HOS",
       "time": "Wed Apr 22 21:43:00 CEST 2026",
@@ -483,7 +451,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:53",
+      "eta_rueb_kiel": "10:51",
       "eta_rueb": "10:30",
       "ship": "SEINE HIGHWAY",
       "q_gruppe": "1",
