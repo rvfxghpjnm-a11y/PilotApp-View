@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-23T08:20:38",
+  "generated_at": "2026-04-23T08:22:40",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
     "nachname": "Konietzka",
     "aufgabe": "Seebört",
-    "fahrzeug": "HOS",
-    "from": null,
-    "to": null,
+    "fahrzeug": "Leerfahrt",
+    "from": "HOS",
+    "to": "KLT",
     "time": "Thu Apr 23 05:00:00 CEST 2026",
     "nr": 15
   },
@@ -210,14 +210,14 @@
       "time": "Thu Apr 23 05:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:24",
-        "eta_rueb": "11:07",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "04:07"
+        "eta_rueb": "11:06",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "04:06"
       },
-      "eta_rueb": "11:07",
+      "eta_rueb": "11:06",
       "eta_schleuse": "16:24",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "04:07"
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "04:06"
     },
     {
       "is_target": false,
@@ -289,8 +289,8 @@
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Thu Apr 23 05:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -571,14 +571,14 @@
       "time": "Thu Apr 23 05:13:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:24",
-        "eta_rueb": "11:07",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "04:07"
+        "eta_rueb": "11:06",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "04:06"
       },
-      "eta_rueb": "11:07",
+      "eta_rueb": "11:06",
       "eta_schleuse": "16:24",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "04:07"
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "04:06"
     },
     {
       "is_target": false,
@@ -710,7 +710,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:48",
+      "eta_rueb_kiel": "10:47",
       "eta_rueb": "10:40",
       "ship": "SEINE HIGHWAY",
       "q_gruppe": "1",
