@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T11:20:46",
+  "generated_at": "2026-04-23T11:22:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -80,8 +80,8 @@
       "name": "Christian Wille",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Thu Apr 23 09:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -112,14 +112,19 @@
       "name": "Helge Rambadt",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "HUNTEBORG",
-      "route": "KLT → HOS",
+      "fahrzeug": "APATYTH",
+      "route": "HOS → KLT",
       "time": "Thu Apr 23 09:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "11:53",
+        "eta_rueb": "08:29",
+        "delta_rueb_schleuse": "03:24",
+        "delta_start_rueb": "05:05"
+      },
+      "eta_rueb": "08:29",
+      "eta_schleuse": "11:53",
+      "delta_rueb_schleuse": "03:24",
+      "delta_start_rueb": "05:05"
     },
     {
       "is_target": false,
@@ -175,14 +180,14 @@
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:34",
-        "eta_rueb": "13:36",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:06"
+        "eta_rueb": "13:35",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "04:05"
       },
-      "eta_rueb": "13:36",
+      "eta_rueb": "13:35",
       "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:06"
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -536,14 +541,14 @@
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:34",
-        "eta_rueb": "13:36",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:06"
+        "eta_rueb": "13:35",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "04:05"
       },
-      "eta_rueb": "13:36",
+      "eta_rueb": "13:35",
       "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:06"
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "04:05"
     },
     {
       "is_target": false,
@@ -727,13 +732,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "11:25",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "13:06",
       "eta_rueb": "13:00",
