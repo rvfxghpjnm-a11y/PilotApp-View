@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T17:32:47",
+  "generated_at": "2026-04-23T17:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -78,14 +78,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 15:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:56",
+        "eta_schleuse": "00:55",
         "eta_rueb": "20:28",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:32"
       },
       "eta_rueb": "20:28",
-      "eta_schleuse": "00:56",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "00:55",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:32"
     },
     {
@@ -360,14 +360,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 15:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:56",
+        "eta_schleuse": "00:55",
         "eta_rueb": "20:28",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:32"
       },
       "eta_rueb": "20:28",
-      "eta_schleuse": "00:56",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "00:55",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:32"
     },
     {
@@ -547,6 +547,13 @@
       "eta_rueb_kiel": "21:36",
       "eta_rueb": "21:20",
       "ship": "PRIMA LADY",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "23:45",
+      "eta_rueb": "22:20",
+      "ship": "KARION",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
