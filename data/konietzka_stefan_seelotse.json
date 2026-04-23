@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T11:32:50",
+  "generated_at": "2026-04-23T11:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,14 +153,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:24",
+        "eta_schleuse": "18:23",
         "eta_rueb": "13:31",
-        "delta_rueb_schleuse": "04:53",
+        "delta_rueb_schleuse": "04:52",
         "delta_start_rueb": "04:01"
       },
       "eta_rueb": "13:31",
-      "eta_schleuse": "18:24",
-      "delta_rueb_schleuse": "04:53",
+      "eta_schleuse": "18:23",
+      "delta_rueb_schleuse": "04:52",
       "delta_start_rueb": "04:01"
     },
     {
@@ -174,14 +174,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:30",
+        "eta_schleuse": "18:29",
         "eta_rueb": "13:27",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "03:59"
       },
       "eta_rueb": "13:27",
-      "eta_schleuse": "18:30",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "18:29",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "03:59"
     },
     {
@@ -195,14 +195,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:34",
+        "eta_schleuse": "18:33",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "04:59",
+        "delta_rueb_schleuse": "04:58",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:59",
+      "eta_schleuse": "18:33",
+      "delta_rueb_schleuse": "04:58",
       "delta_start_rueb": "04:05"
     },
     {
@@ -530,14 +530,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:24",
+        "eta_schleuse": "18:23",
         "eta_rueb": "13:31",
-        "delta_rueb_schleuse": "04:53",
+        "delta_rueb_schleuse": "04:52",
         "delta_start_rueb": "04:01"
       },
       "eta_rueb": "13:31",
-      "eta_schleuse": "18:24",
-      "delta_rueb_schleuse": "04:53",
+      "eta_schleuse": "18:23",
+      "delta_rueb_schleuse": "04:52",
       "delta_start_rueb": "04:01"
     },
     {
@@ -551,14 +551,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:30",
+        "eta_schleuse": "18:29",
         "eta_rueb": "13:27",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "03:59"
       },
       "eta_rueb": "13:27",
-      "eta_schleuse": "18:30",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "18:29",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "03:59"
     },
     {
@@ -572,14 +572,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:34",
+        "eta_schleuse": "18:33",
         "eta_rueb": "13:35",
-        "delta_rueb_schleuse": "04:59",
+        "delta_rueb_schleuse": "04:58",
         "delta_start_rueb": "04:05"
       },
       "eta_rueb": "13:35",
-      "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:59",
+      "eta_schleuse": "18:33",
+      "delta_rueb_schleuse": "04:58",
       "delta_start_rueb": "04:05"
     },
     {
@@ -772,10 +772,24 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:16",
+      "eta_rueb_kiel": "15:15",
       "eta_rueb": "15:05",
       "ship": "BIANCA RAMBOW",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "17:25",
+      "eta_rueb": "17:10",
+      "ship": "ELBSPRING",
+      "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "17:13",
+      "ship": "CORAL IVORY",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
