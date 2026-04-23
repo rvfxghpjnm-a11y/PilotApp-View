@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T14:58:50",
+  "generated_at": "2026-04-23T15:00:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 12:56:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:45",
+        "eta_schleuse": "22:46",
         "eta_rueb": "18:17",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "18:17",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "22:46",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "03:35"
     },
     {
@@ -371,14 +371,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 12:56:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:45",
+        "eta_schleuse": "22:46",
         "eta_rueb": "18:17",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "18:17",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "22:46",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "03:35"
     },
     {
@@ -527,6 +527,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "15:40",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "17:16",
       "eta_rueb": "17:10",
       "ship": "ELBSPRING",
@@ -541,7 +548,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:15",
+      "eta_rueb_kiel": "19:24",
       "eta_rueb": "19:10",
       "ship": "MADICKEN",
       "q_gruppe": "5",
