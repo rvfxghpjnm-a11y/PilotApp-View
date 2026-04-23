@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T12:50:46",
+  "generated_at": "2026-04-23T12:52:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -180,8 +180,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "FALCKENSTEIN+HOERN 20",
-      "route": "GNY → BHS",
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Thu Apr 23 09:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -275,19 +275,19 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "BILLE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "TOR VIKING",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:23",
-        "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:28"
+        "eta_schleuse": "16:46",
+        "eta_rueb": "13:00",
+        "delta_rueb_schleuse": "03:46",
+        "delta_start_rueb": "04:48"
       },
-      "eta_rueb": "12:56",
-      "eta_schleuse": "17:23",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:28"
+      "eta_rueb": "13:00",
+      "eta_schleuse": "16:46",
+      "delta_rueb_schleuse": "03:46",
+      "delta_start_rueb": "04:48"
     },
     {
       "is_target": false,
@@ -328,8 +328,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 06:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -609,19 +609,19 @@
       "name": "Hark Borggräfe",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "BILLE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "TOR VIKING",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 07:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:23",
-        "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:28"
+        "eta_schleuse": "16:46",
+        "eta_rueb": "13:00",
+        "delta_rueb_schleuse": "03:46",
+        "delta_start_rueb": "04:48"
       },
-      "eta_rueb": "12:56",
-      "eta_schleuse": "17:23",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:28"
+      "eta_rueb": "13:00",
+      "eta_schleuse": "16:46",
+      "delta_rueb_schleuse": "03:46",
+      "delta_start_rueb": "04:48"
     },
     {
       "is_target": false,
@@ -630,8 +630,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 06:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -726,20 +726,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "12:45",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "13:00",
-      "eta_rueb": "13:00",
-      "ship": "TOR VIKING",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:11",
       "eta_rueb": "15:05",
