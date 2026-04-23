@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T21:23:00",
+  "generated_at": "2026-04-23T21:24:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
     "wach": 2,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 23 20:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:26",
+        "eta_schleuse": "21:27",
         "eta_rueb": "17:15",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "17:15",
-      "eta_schleuse": "21:26",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "21:27",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:43"
     },
     {
@@ -56,16 +56,11 @@
       "fahrzeug": "ELBSPRING",
       "route": "HOS → KLT",
       "time": "Thu Apr 23 20:44:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:21",
-        "eta_rueb": "17:11",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "05:41"
-      },
-      "eta_rueb": "17:11",
-      "eta_schleuse": "21:21",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "05:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -264,27 +259,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Torben",
-      "nachname": "Keyser",
-      "name": "Torben Keyser",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "BALTIC SEA",
-      "route": "KLT → HOS",
-      "time": "Thu Apr 23 13:43:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Mathias",
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "NORDICA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 13:40:00 CEST 2026",
@@ -305,7 +284,7 @@
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "MADICKEN",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 12:56:00 CEST 2026",
@@ -326,7 +305,7 @@
       "nachname": "Börnsen",
       "name": "Curt Börnsen",
       "aufgabe": "Wachgänger",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Thu Apr 23 12:00:00 CEST 2026",
@@ -342,7 +321,7 @@
       "nachname": "Wäntig",
       "name": "Lutz Wäntig",
       "aufgabe": "Wachgänger",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Thu Apr 23 12:00:00 CEST 2026",
@@ -358,19 +337,19 @@
       "nachname": "Koslik",
       "name": "Kevin Koslik",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 11:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:26",
+        "eta_schleuse": "21:27",
         "eta_rueb": "17:15",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "17:15",
-      "eta_schleuse": "21:26",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "21:27",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:43"
     },
     {
@@ -379,20 +358,15 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "ELBSPRING",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 10:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:21",
-        "eta_rueb": "17:11",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "05:41"
-      },
-      "eta_rueb": "17:11",
-      "eta_schleuse": "21:21",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "05:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -581,7 +555,7 @@
       "nachname": "Krügel",
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "NORDICA",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 13:40:00 CEST 2026",
@@ -602,7 +576,7 @@
       "nachname": "Bodmann",
       "name": "Christoph Bodmann",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "MADICKEN",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 12:56:00 CEST 2026",
@@ -623,19 +597,19 @@
       "nachname": "Koslik",
       "name": "Kevin Koslik",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "CORAL IVORY",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 11:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:26",
+        "eta_schleuse": "21:27",
         "eta_rueb": "17:15",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:12",
         "delta_start_rueb": "05:43"
       },
       "eta_rueb": "17:15",
-      "eta_schleuse": "21:26",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "21:27",
+      "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "05:43"
     },
     {
@@ -644,20 +618,15 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "ELBSPRING",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 10:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:21",
-        "eta_rueb": "17:11",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "05:41"
-      },
-      "eta_rueb": "17:11",
-      "eta_schleuse": "21:21",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "05:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
