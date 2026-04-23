@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:12:37",
+  "generated_at": "2026-04-23T08:14:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -89,14 +89,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "OSK RENDSBURG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 06:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:14",
+        "eta_rueb": "08:39",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:21"
+      },
+      "eta_rueb": "08:39",
+      "eta_schleuse": "12:14",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -105,8 +110,8 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CLARA K",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 06:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -445,14 +450,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "OSK RENDSBURG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 06:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:14",
+        "eta_rueb": "08:39",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:21"
+      },
+      "eta_rueb": "08:39",
+      "eta_schleuse": "12:14",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -461,8 +471,8 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CLARA K",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 06:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -699,13 +709,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "08:39",
-      "eta_rueb": "08:28",
-      "ship": "OSK RENDSBURG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:48",
       "eta_rueb": "10:40",
