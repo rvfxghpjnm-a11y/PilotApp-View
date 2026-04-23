@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T05:46:37",
+  "generated_at": "2026-04-23T05:48:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -105,8 +105,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 23 05:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -174,14 +174,19 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EEVA VG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 00:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:34",
+        "eta_rueb": "06:15",
+        "delta_rueb_schleuse": "04:19",
+        "delta_start_rueb": "04:57"
+      },
+      "eta_rueb": "06:15",
+      "eta_schleuse": "10:34",
+      "delta_rueb_schleuse": "04:19",
+      "delta_start_rueb": "04:57"
     },
     {
       "is_target": false,
@@ -325,8 +330,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Apr 23 05:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -362,14 +367,19 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EEVA VG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 00:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:34",
+        "eta_rueb": "06:15",
+        "delta_rueb_schleuse": "04:19",
+        "delta_start_rueb": "04:57"
+      },
+      "eta_rueb": "06:15",
+      "eta_schleuse": "10:34",
+      "delta_rueb_schleuse": "04:19",
+      "delta_start_rueb": "04:57"
     },
     {
       "is_target": false,
@@ -395,13 +405,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "06:15",
-      "eta_rueb": "06:20",
-      "ship": "EEVA VG",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:33",
       "eta_rueb": "06:35",
