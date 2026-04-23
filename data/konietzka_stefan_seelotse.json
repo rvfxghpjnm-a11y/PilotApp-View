@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T20:28:48",
+  "generated_at": "2026-04-23T20:30:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 12,
     "wach": 2,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -67,9 +67,14 @@
       "fahrzeug": "RIX MUNTE",
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:36:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:39",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:39",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -84,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:06",
+        "eta_schleuse": "05:09",
         "eta_rueb": "00:09",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "00:09",
-      "eta_schleuse": "05:06",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "05:09",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:07"
     },
     {
@@ -287,27 +292,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sascha",
-      "nachname": "Külzer",
-      "name": "Sascha Külzer",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Thu Apr 23 11:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Erskine",
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ELBSPRING",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 10:50:00 CEST 2026",
@@ -382,9 +371,14 @@
       "fahrzeug": "RIX MUNTE",
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:36:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:39",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:39",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -399,14 +393,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 23 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:06",
+        "eta_schleuse": "05:09",
         "eta_rueb": "00:09",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "00:09",
-      "eta_schleuse": "05:06",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "05:09",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:07"
     },
     {
@@ -526,7 +520,7 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ELBSPRING",
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 10:50:00 CEST 2026",
@@ -594,14 +588,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:36",
+      "eta_rueb_kiel": "21:35",
       "eta_rueb": "21:30",
       "ship": "ELBSUMMER",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:48",
+      "eta_rueb_kiel": "21:46",
       "eta_rueb": "21:45",
       "ship": "KARION",
       "q_gruppe": "5",
