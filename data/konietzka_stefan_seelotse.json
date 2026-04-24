@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T06:04:46",
+  "generated_at": "2026-04-24T06:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,14 +64,19 @@
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GOTLAND",
+      "route": "RÜB → KRH",
       "time": "Fri Apr 24 05:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:08",
+        "eta_rueb": "06:34",
+        "delta_rueb_schleuse": "00:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "06:34",
+      "eta_schleuse": "07:08",
+      "delta_rueb_schleuse": "00:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -332,14 +337,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 20:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:35",
+        "eta_schleuse": "07:34",
         "eta_rueb": "03:51",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "03:51",
-      "eta_schleuse": "07:35",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "07:34",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:59"
     }
   ],
@@ -383,14 +388,19 @@
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GOTLAND",
+      "route": "RÜB → KRH",
       "time": "Fri Apr 24 05:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:08",
+        "eta_rueb": "06:34",
+        "delta_rueb_schleuse": "00:34",
+        "delta_start_rueb": "04:18"
+      },
+      "eta_rueb": "06:34",
+      "eta_schleuse": "07:08",
+      "delta_rueb_schleuse": "00:34",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -571,26 +581,19 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 23 20:46:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:35",
+        "eta_schleuse": "07:34",
         "eta_rueb": "03:51",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "03:51",
-      "eta_schleuse": "07:35",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "07:34",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:59"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "06:34",
-      "eta_rueb": "06:30",
-      "ship": "GOTLAND",
-      "q_gruppe": "5",
-      "route": "RÜB → KRH"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "06:35",
@@ -620,7 +623,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "09:55",
+      "eta_rueb_kiel": "09:56",
       "eta_rueb": "10:03",
       "ship": "LYDIA",
       "q_gruppe": "4",
