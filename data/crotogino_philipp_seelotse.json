@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T21:22:45",
+  "generated_at": "2026-04-24T21:24:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 14
   },
   "gruppen": {
-    "kanal": 19,
+    "kanal": 18,
     "wach": 0,
     "see": 6
   },
@@ -46,14 +46,14 @@
       "time": "Fri Apr 24 19:40:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:01",
-        "eta_rueb": "02:16",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "05:28"
+        "eta_rueb": "02:14",
+        "delta_rueb_schleuse": "04:47",
+        "delta_start_rueb": "05:26"
       },
-      "eta_rueb": "02:16",
+      "eta_rueb": "02:14",
       "eta_schleuse": "07:01",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "05:28"
+      "delta_rueb_schleuse": "04:47",
+      "delta_start_rueb": "05:26"
     },
     {
       "is_target": false,
@@ -210,19 +210,14 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "STELLAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 24 16:32:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "02:39",
-        "eta_rueb": "21:29",
-        "delta_rueb_schleuse": "05:10",
-        "delta_start_rueb": "03:43"
-      },
-      "eta_rueb": "21:29",
-      "eta_schleuse": "02:39",
-      "delta_rueb_schleuse": "05:10",
-      "delta_start_rueb": "03:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -304,14 +299,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:44",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "00:44",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:23"
     },
     {
@@ -325,14 +320,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:53",
+        "eta_schleuse": "00:51",
         "eta_rueb": "21:08",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "21:08",
-      "eta_schleuse": "00:53",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "00:51",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:36"
     },
     {
@@ -346,14 +341,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:49",
+        "eta_schleuse": "00:48",
         "eta_rueb": "21:00",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "21:00",
-      "eta_schleuse": "00:49",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "00:48",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:18"
     },
     {
@@ -476,22 +471,6 @@
       "eta_schleuse": "23:09",
       "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Dolf",
-      "nachname": "Jenckel",
-      "name": "Dolf Jenckel",
-      "aufgabe": "Kanalbört",
-      "nr": 25,
-      "fahrzeug": "SUBSEA VIKING",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 24 10:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -523,14 +502,14 @@
       "time": "Fri Apr 24 19:40:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:01",
-        "eta_rueb": "02:16",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "05:28"
+        "eta_rueb": "02:14",
+        "delta_rueb_schleuse": "04:47",
+        "delta_start_rueb": "05:26"
       },
-      "eta_rueb": "02:16",
+      "eta_rueb": "02:14",
       "eta_schleuse": "07:01",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "05:28"
+      "delta_rueb_schleuse": "04:47",
+      "delta_start_rueb": "05:26"
     },
     {
       "is_target": false,
@@ -623,19 +602,14 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "STELLAMAR",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Apr 24 16:32:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "02:39",
-        "eta_rueb": "21:29",
-        "delta_rueb_schleuse": "05:10",
-        "delta_start_rueb": "03:43"
-      },
-      "eta_rueb": "21:29",
-      "eta_schleuse": "02:39",
-      "delta_rueb_schleuse": "05:10",
-      "delta_start_rueb": "03:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -701,14 +675,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:44",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "00:44",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:23"
     },
     {
@@ -722,14 +696,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:53",
+        "eta_schleuse": "00:51",
         "eta_rueb": "21:08",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "21:08",
-      "eta_schleuse": "00:53",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "00:51",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:36"
     },
     {
@@ -743,14 +717,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:49",
+        "eta_schleuse": "00:48",
         "eta_rueb": "21:00",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "21:00",
-      "eta_schleuse": "00:49",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "00:48",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:18"
     },
     {
@@ -857,22 +831,6 @@
       "eta_schleuse": "23:09",
       "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:20"
-    },
-    {
-      "is_target": false,
-      "vorname": "Dolf",
-      "nachname": "Jenckel",
-      "name": "Dolf Jenckel",
-      "aufgabe": "Kanalbört",
-      "nr": 25,
-      "fahrzeug": "SUBSEA VIKING",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 24 10:13:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -885,7 +843,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:28",
+      "eta_rueb_kiel": "01:26",
       "eta_rueb": "01:10",
       "ship": "AILA",
       "q_gruppe": "2",
@@ -913,7 +871,7 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "23:01",
+      "eta_rueb_kiel": "23:00",
       "eta_rueb": "22:54",
       "ship": "BALTIC BAY",
       "q_gruppe": "5",
