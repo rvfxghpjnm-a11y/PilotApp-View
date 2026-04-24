@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:18:45",
+  "generated_at": "2026-04-24T17:20:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,9 +12,9 @@
     "nr": 6
   },
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 0,
-    "see": 5
+    "see": 4
   },
   "times": {
     "eta_schleuse": "00:39",
@@ -322,27 +322,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Jakob",
-      "name": "Peter Jakob",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "STELLAMAR",
-      "route": "KLT → HOS",
-      "time": "Fri Apr 24 10:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Lutz",
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Seebört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "ASTRID ERIKA",
       "route": "HOS → UTG",
       "time": "Fri Apr 24 10:15:00 CEST 2026",
@@ -358,7 +342,7 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "SUBSEA VIKING",
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 10:13:00 CEST 2026",
@@ -379,7 +363,7 @@
       "nachname": "Hren",
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "BOLDWIND",
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 08:29:00 CEST 2026",
@@ -393,22 +377,6 @@
       "eta_schleuse": "18:47",
       "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "06:08"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hauke",
-      "nachname": "Jeschek",
-      "name": "Hauke Jeschek",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "ELBMOON",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 24 06:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -667,7 +635,7 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "SUBSEA VIKING",
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 10:13:00 CEST 2026",
@@ -688,7 +656,7 @@
       "nachname": "Hren",
       "name": "Alexander Hren",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "BOLDWIND",
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 08:29:00 CEST 2026",
@@ -702,22 +670,6 @@
       "eta_schleuse": "18:47",
       "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "06:08"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hauke",
-      "nachname": "Jeschek",
-      "name": "Hauke Jeschek",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "ELBMOON",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 24 06:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
