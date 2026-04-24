@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T12:16:55",
+  "generated_at": "2026-04-24T12:19:01",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -165,14 +165,19 @@
       "name": "Lutz Jeske",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "THUN RESOURCE",
-      "route": "KLT → HOS",
+      "fahrzeug": "LADY ADELE",
+      "route": "UTG → HOS",
       "time": "Fri Apr 24 10:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:17",
+        "eta_rueb": "07:41",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "04:13"
+      },
+      "eta_rueb": "07:41",
+      "eta_schleuse": "12:17",
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "04:13"
     },
     {
       "is_target": false,
@@ -445,14 +450,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 03:31:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:17",
+        "eta_schleuse": "13:18",
         "eta_rueb": "09:42",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:06"
       },
       "eta_rueb": "09:42",
-      "eta_schleuse": "13:17",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "13:18",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:06"
     },
     {
@@ -482,14 +487,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Apr 24 01:51:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:16",
+        "eta_schleuse": "12:17",
         "eta_rueb": "07:41",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:36",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "07:41",
-      "eta_schleuse": "12:16",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "12:17",
+      "delta_rueb_schleuse": "04:36",
       "delta_start_rueb": "04:13"
     }
   ],
@@ -754,14 +759,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 03:31:00 CEST 2026",
       "times": {
-        "eta_schleuse": "13:17",
+        "eta_schleuse": "13:18",
         "eta_rueb": "09:42",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:06"
       },
       "eta_rueb": "09:42",
-      "eta_schleuse": "13:17",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "13:18",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:06"
     },
     {
@@ -775,14 +780,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Apr 24 01:51:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:16",
+        "eta_schleuse": "12:17",
         "eta_rueb": "07:41",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:36",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "07:41",
-      "eta_schleuse": "12:16",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "12:17",
+      "delta_rueb_schleuse": "04:36",
       "delta_start_rueb": "04:13"
     }
   ],
@@ -794,13 +799,6 @@
       "ship": "HIPPO + TRD VOYAGER + PARAT",
       "q_gruppe": "3",
       "route": "KRH → RÜB"
-    },
-    {
-      "eta_rueb_kiel": "12:45",
-      "eta_rueb": "12:45",
-      "ship": "MAUREEN S",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "14:57",
