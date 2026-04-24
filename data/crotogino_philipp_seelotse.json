@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T19:56:45",
+  "generated_at": "2026-04-24T19:58:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -99,8 +99,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "BOLDWIND",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 24 18:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -173,8 +173,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "EMS LEADER",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Apr 24 16:44:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -473,14 +473,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 10:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:56",
+        "eta_schleuse": "20:55",
         "eta_rueb": "16:56",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "06:22"
       },
       "eta_rueb": "16:56",
-      "eta_schleuse": "20:56",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "20:55",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "06:22"
     }
   ],
@@ -823,14 +823,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 10:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:56",
+        "eta_schleuse": "20:55",
         "eta_rueb": "16:56",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "06:22"
       },
       "eta_rueb": "16:56",
-      "eta_schleuse": "20:56",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "20:55",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "06:22"
     }
   ],
@@ -851,7 +851,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:04",
+      "eta_rueb_kiel": "21:03",
       "eta_rueb": "21:03",
       "ship": "WILSON PORI",
       "q_gruppe": "5",
