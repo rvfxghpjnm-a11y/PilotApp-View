@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T22:26:44",
+  "generated_at": "2026-04-24T22:28:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -141,14 +141,19 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "RAGNA",
+      "route": "HOS → KLT",
       "time": "Fri Apr 24 18:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:10",
+        "eta_rueb": "19:01",
+        "delta_rueb_schleuse": "04:09",
+        "delta_start_rueb": "05:23"
+      },
+      "eta_rueb": "19:01",
+      "eta_schleuse": "23:10",
+      "delta_rueb_schleuse": "04:09",
+      "delta_start_rueb": "05:23"
     },
     {
       "is_target": false,
@@ -295,14 +300,19 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC BAY",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 24 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:39",
+        "eta_rueb": "22:54",
+        "delta_rueb_schleuse": "03:45",
+        "delta_start_rueb": "05:32"
+      },
+      "eta_rueb": "22:54",
+      "eta_schleuse": "02:39",
+      "delta_rueb_schleuse": "03:45",
+      "delta_start_rueb": "05:32"
     },
     {
       "is_target": false,
@@ -666,14 +676,19 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "BALTIC BAY",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 24 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:39",
+        "eta_rueb": "22:54",
+        "delta_rueb_schleuse": "03:45",
+        "delta_start_rueb": "05:32"
+      },
+      "eta_rueb": "22:54",
+      "eta_schleuse": "02:39",
+      "delta_rueb_schleuse": "03:45",
+      "delta_start_rueb": "05:32"
     },
     {
       "is_target": false,
@@ -882,7 +897,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "03:41",
       "eta_rueb": "03:15",
       "ship": "EXPERT",
       "q_gruppe": "1",
@@ -894,13 +909,6 @@
       "ship": "HIPPO + TRD VOYAGER + PARAT",
       "q_gruppe": "3",
       "route": "KRH → RÜB"
-    },
-    {
-      "eta_rueb_kiel": "22:54",
-      "eta_rueb": "22:54",
-      "ship": "BALTIC BAY",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "23:01",
