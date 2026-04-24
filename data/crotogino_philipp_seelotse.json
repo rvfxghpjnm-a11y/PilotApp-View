@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:48:45",
+  "generated_at": "2026-04-24T17:50:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -72,14 +72,14 @@
       "time": "Fri Apr 24 16:32:00 CEST 2026",
       "times": {
         "eta_schleuse": "02:50",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "21:47",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": null,
+      "eta_rueb": "21:47",
       "eta_schleuse": "02:50",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -209,14 +209,14 @@
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:29",
-        "eta_rueb": "19:17",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "03:43"
+        "eta_rueb": "19:16",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "19:17",
+      "eta_rueb": "19:16",
       "eta_schleuse": "00:29",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "03:43"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -428,14 +428,14 @@
       "time": "Fri Apr 24 16:32:00 CEST 2026",
       "times": {
         "eta_schleuse": "02:50",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "21:47",
+        "delta_rueb_schleuse": "05:03",
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": null,
+      "eta_rueb": "21:47",
       "eta_schleuse": "02:50",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "05:03",
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -549,14 +549,14 @@
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "00:29",
-        "eta_rueb": "19:17",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "03:43"
+        "eta_rueb": "19:16",
+        "delta_rueb_schleuse": "05:13",
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "19:17",
+      "eta_rueb": "19:16",
       "eta_schleuse": "00:29",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "03:43"
+      "delta_rueb_schleuse": "05:13",
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -719,6 +719,13 @@
       "route": "RÜB → UTG"
     },
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "20:30",
+      "ship": "GOTLAND",
+      "q_gruppe": "5",
+      "route": "KRH → HOS"
+    },
+    {
       "eta_rueb_kiel": "21:14",
       "eta_rueb": "21:00",
       "ship": "ALANA",
@@ -740,7 +747,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:17",
+      "eta_rueb_kiel": "23:15",
       "eta_rueb": "23:00",
       "ship": "BALTIC BAY",
       "q_gruppe": "5",
