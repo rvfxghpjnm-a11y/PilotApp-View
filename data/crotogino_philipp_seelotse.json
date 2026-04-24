@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T01:12:43",
+  "generated_at": "2026-04-25T01:14:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 20
   },
   "gruppen": {
-    "kanal": 18,
+    "kanal": 17,
     "wach": 0,
     "see": 6
   },
@@ -46,14 +46,19 @@
       "name": "Mark Wald",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "AMADEUS DIAMOND",
-      "route": "UTG → HOS",
+      "fahrzeug": "RIX BAY",
+      "route": "HOS → KLT",
       "time": "Sat Apr 25 00:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:15",
+        "eta_rueb": "20:57",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "05:23"
+      },
+      "eta_rueb": "20:57",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "05:23"
     },
     {
       "is_target": false,
@@ -425,14 +430,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:13",
+        "eta_schleuse": "01:15",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "01:13",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "05:23"
     },
     {
@@ -443,22 +448,6 @@
       "aufgabe": "Kanalbört",
       "nr": 23,
       "fahrzeug": "ALANA",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 24 14:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "WILSON PORI",
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": null,
@@ -775,14 +764,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:13",
+        "eta_schleuse": "01:15",
         "eta_rueb": "20:57",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:18",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "20:57",
-      "eta_schleuse": "01:13",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "01:15",
+      "delta_rueb_schleuse": "04:18",
       "delta_start_rueb": "05:23"
     },
     {
@@ -793,22 +782,6 @@
       "aufgabe": "Kanalbört",
       "nr": 23,
       "fahrzeug": "ALANA",
-      "route": "RÜB → HOS",
-      "time": "Fri Apr 24 14:15:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 24,
-      "fahrzeug": "WILSON PORI",
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 14:15:00 CEST 2026",
       "times": null,
