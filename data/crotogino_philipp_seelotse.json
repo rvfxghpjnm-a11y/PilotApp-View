@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T00:32:45",
+  "generated_at": "2026-04-25T00:34:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -219,14 +219,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 24 19:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:16",
+        "eta_schleuse": "06:15",
         "eta_rueb": "01:38",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "01:38",
-      "eta_schleuse": "06:16",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "06:15",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "05:20"
     },
     {
@@ -644,14 +644,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 24 19:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:16",
+        "eta_schleuse": "06:15",
         "eta_rueb": "01:38",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "05:20"
       },
       "eta_rueb": "01:38",
-      "eta_schleuse": "06:16",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "06:15",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "05:20"
     },
     {
@@ -860,7 +860,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:24",
+      "eta_rueb_kiel": "01:23",
       "eta_rueb": "01:20",
       "ship": "MARIELYST",
       "q_gruppe": "1",
@@ -893,6 +893,13 @@
       "ship": "HIPPO + TRD VOYAGER + PARAT",
       "q_gruppe": "3",
       "route": "KRH → RÜB"
+    },
+    {
+      "eta_rueb_kiel": "05:44",
+      "eta_rueb": "05:20",
+      "ship": "BALTICBORG",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
     }
   ]
 }
