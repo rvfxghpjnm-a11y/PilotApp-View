@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T10:54:46",
+  "generated_at": "2026-04-24T10:56:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Jan Christiansen",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "CORAL LOPHELIA",
+      "route": "KLT → HOS",
       "time": "Fri Apr 24 10:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -132,14 +132,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 24 08:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:20",
+        "eta_schleuse": "18:22",
         "eta_rueb": "13:36",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:46",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "13:36",
-      "eta_schleuse": "18:20",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "18:22",
+      "delta_rueb_schleuse": "04:46",
       "delta_start_rueb": "04:02"
     },
     {
@@ -233,14 +233,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 24 06:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:17",
+        "eta_schleuse": "16:15",
         "eta_rueb": "11:37",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "03:51"
       },
       "eta_rueb": "11:37",
-      "eta_schleuse": "16:17",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "16:15",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "03:51"
     },
     {
@@ -255,14 +255,14 @@
       "time": "Fri Apr 24 06:27:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:45",
-        "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:21"
+        "eta_rueb": "11:04",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:20"
       },
-      "eta_rueb": "11:05",
+      "eta_rueb": "11:04",
       "eta_schleuse": "15:45",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:21"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:20"
     },
     {
       "is_target": false,
@@ -457,14 +457,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 24 08:29:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:20",
+        "eta_schleuse": "18:22",
         "eta_rueb": "13:36",
-        "delta_rueb_schleuse": "04:44",
+        "delta_rueb_schleuse": "04:46",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "13:36",
-      "eta_schleuse": "18:20",
-      "delta_rueb_schleuse": "04:44",
+      "eta_schleuse": "18:22",
+      "delta_rueb_schleuse": "04:46",
       "delta_start_rueb": "04:02"
     },
     {
@@ -494,14 +494,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Apr 24 06:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:17",
+        "eta_schleuse": "16:15",
         "eta_rueb": "11:37",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "03:51"
       },
       "eta_rueb": "11:37",
-      "eta_schleuse": "16:17",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "16:15",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "03:51"
     },
     {
@@ -516,14 +516,14 @@
       "time": "Fri Apr 24 06:27:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:45",
-        "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:21"
+        "eta_rueb": "11:04",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:20"
       },
-      "eta_rueb": "11:05",
+      "eta_rueb": "11:04",
       "eta_schleuse": "15:45",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:21"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:20"
     },
     {
       "is_target": false,
@@ -645,6 +645,20 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "11:00",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "11:30",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "12:36",
       "eta_rueb": "12:20",
       "ship": "ELBMOON",
@@ -666,7 +680,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:17",
+      "eta_rueb_kiel": "15:18",
       "eta_rueb": "14:25",
       "ship": "URSULA ESSBERGER",
       "q_gruppe": "4",
