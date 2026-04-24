@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T03:24:55",
+  "generated_at": "2026-04-24T03:26:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -152,14 +152,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 23 21:50:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:28",
+        "eta_schleuse": "03:30",
         "eta_rueb": "00:01",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:09"
       },
       "eta_rueb": "00:01",
-      "eta_schleuse": "03:28",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "03:30",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:09"
     },
     {
@@ -238,14 +238,19 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ISLAND CHAMPION",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 20:46:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:40",
+        "eta_rueb": "03:53",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "05:01"
+      },
+      "eta_rueb": "03:53",
+      "eta_schleuse": "07:40",
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "05:01"
     },
     {
       "is_target": false,
@@ -478,14 +483,19 @@
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ISLAND CHAMPION",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 23 20:46:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:40",
+        "eta_rueb": "03:53",
+        "delta_rueb_schleuse": "03:47",
+        "delta_start_rueb": "05:01"
+      },
+      "eta_rueb": "03:53",
+      "eta_schleuse": "07:40",
+      "delta_rueb_schleuse": "03:47",
+      "delta_start_rueb": "05:01"
     },
     {
       "is_target": false,
@@ -532,13 +542,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:53",
-      "eta_rueb": "03:50",
-      "ship": "ISLAND CHAMPION",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:03",
       "eta_rueb": "03:53",
