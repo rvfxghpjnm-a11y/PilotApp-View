@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T17:46:46",
+  "generated_at": "2026-04-25T17:48:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,14 +89,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 14:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:05",
+        "eta_schleuse": "00:04",
         "eta_rueb": "19:37",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "19:37",
-      "eta_schleuse": "00:05",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "00:04",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:37"
     },
     {
@@ -110,15 +110,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 14:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:58",
-        "eta_rueb": "19:27",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:31"
+        "eta_schleuse": "23:56",
+        "eta_rueb": "19:26",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "19:27",
-      "eta_schleuse": "23:58",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:31"
+      "eta_rueb": "19:26",
+      "eta_schleuse": "23:56",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -360,14 +360,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KATJA",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:53",
+        "eta_rueb": "18:14",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "05:08"
+      },
+      "eta_rueb": "18:14",
+      "eta_schleuse": "22:53",
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "05:08"
     },
     {
       "is_target": false,
@@ -514,14 +519,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 14:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:05",
+        "eta_schleuse": "00:04",
         "eta_rueb": "19:37",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "19:37",
-      "eta_schleuse": "00:05",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "00:04",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:37"
     },
     {
@@ -535,15 +540,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 14:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:58",
-        "eta_rueb": "19:27",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:31"
+        "eta_schleuse": "23:56",
+        "eta_rueb": "19:26",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "19:27",
-      "eta_schleuse": "23:58",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:31"
+      "eta_rueb": "19:26",
+      "eta_schleuse": "23:56",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -668,14 +673,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 20,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KATJA",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:53",
+        "eta_rueb": "18:14",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "05:08"
+      },
+      "eta_rueb": "18:14",
+      "eta_schleuse": "22:53",
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "05:08"
     },
     {
       "is_target": false,
@@ -764,13 +774,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "18:14",
-      "eta_rueb": "18:10",
-      "ship": "KATJA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "18:24",
       "eta_rueb": "18:20",
