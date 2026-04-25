@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T13:12:55",
+  "generated_at": "2026-04-25T13:14:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 17,
     "wach": 0,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -186,14 +186,14 @@
       "time": "Sat Apr 25 09:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:45",
-        "eta_rueb": "15:18",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "15:16",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "15:18",
+      "eta_rueb": "15:16",
       "eta_schleuse": "19:45",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -434,27 +434,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Marko",
-      "nachname": "Purwin",
-      "name": "Marko Purwin",
-      "aufgabe": "Seebört",
-      "nr": 24,
-      "fahrzeug": "ELBWIND",
-      "route": "KLT → HOS",
-      "time": "Sat Apr 25 04:49:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Malte",
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "LARIXBORG",
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 03:59:00 CEST 2026",
@@ -563,14 +547,14 @@
       "time": "Sat Apr 25 09:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:45",
-        "eta_rueb": "15:18",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:50"
+        "eta_rueb": "15:16",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:48"
       },
-      "eta_rueb": "15:18",
+      "eta_rueb": "15:16",
       "eta_schleuse": "19:45",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:50"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:48"
     },
     {
       "is_target": false,
@@ -773,7 +757,7 @@
       "nachname": "Krause",
       "name": "Malte Krause",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "LARIXBORG",
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 03:59:00 CEST 2026",
@@ -848,7 +832,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:37",
+      "eta_rueb_kiel": "18:35",
       "eta_rueb": "18:40",
       "ship": "MARBURG",
       "q_gruppe": "1",
