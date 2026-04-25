@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T14:12:48",
+  "generated_at": "2026-04-25T14:14:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -37,8 +37,8 @@
       "name": "Henning Kaschke",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "LARIXBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 25 13:06:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -147,14 +147,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 25 11:49:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:28",
+        "eta_schleuse": "21:43",
         "eta_rueb": "17:01",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:42",
         "delta_start_rueb": "03:15"
       },
       "eta_rueb": "17:01",
-      "eta_schleuse": "21:28",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "21:43",
+      "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "03:15"
     },
     {
@@ -374,14 +374,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 07:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:18",
+        "eta_schleuse": "18:19",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "08:00"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "18:18",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "18:19",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "08:00"
     },
     {
@@ -555,14 +555,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 25 11:49:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:28",
+        "eta_schleuse": "21:43",
         "eta_rueb": "17:01",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:42",
         "delta_start_rueb": "03:15"
       },
       "eta_rueb": "17:01",
-      "eta_schleuse": "21:28",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "21:43",
+      "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "03:15"
     },
     {
@@ -702,14 +702,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 07:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:18",
+        "eta_schleuse": "18:19",
         "eta_rueb": "13:58",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "08:00"
       },
       "eta_rueb": "13:58",
-      "eta_schleuse": "18:18",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "18:19",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "08:00"
     },
     {
@@ -807,7 +807,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:49",
+      "eta_rueb_kiel": "14:48",
       "eta_rueb": "14:55",
       "ship": "RIVER TRADER",
       "q_gruppe": "5",
