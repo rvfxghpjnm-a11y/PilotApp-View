@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T02:36:44",
+  "generated_at": "2026-04-25T02:38:43",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -93,8 +93,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "ALANA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 25 00:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -747,6 +747,13 @@
       "eta_rueb": "07:30",
       "ship": "ESPERANCE",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "07:50",
+      "eta_rueb": "07:33",
+      "ship": "BJORG",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
