@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T15:02:46",
+  "generated_at": "2026-04-25T15:04:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -265,8 +265,8 @@
       "name": "Georg Krahn",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "SVENDBORG",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Apr 25 10:58:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -285,15 +285,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 09:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:38",
-        "eta_rueb": "15:11",
+        "eta_schleuse": "19:37",
+        "eta_rueb": "15:10",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "15:11",
-      "eta_schleuse": "19:38",
+      "eta_rueb": "15:10",
+      "eta_schleuse": "19:37",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -318,8 +318,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:36:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -334,8 +334,8 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:32:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -683,15 +683,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 09:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:38",
-        "eta_rueb": "15:11",
+        "eta_schleuse": "19:37",
+        "eta_rueb": "15:10",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:43"
+        "delta_start_rueb": "03:42"
       },
-      "eta_rueb": "15:11",
-      "eta_schleuse": "19:38",
+      "eta_rueb": "15:10",
+      "eta_schleuse": "19:37",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:43"
+      "delta_start_rueb": "03:42"
     },
     {
       "is_target": false,
@@ -716,8 +716,8 @@
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:36:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -732,8 +732,8 @@
       "name": "Alexander Engel",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:32:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -871,13 +871,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "15:00",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "16:00",
       "eta_rueb": "15:55",
       "ship": "RIX PACIFIC",
@@ -892,7 +885,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:30",
+      "eta_rueb_kiel": "18:29",
       "eta_rueb": "18:05",
       "ship": "MARBURG",
       "q_gruppe": "1",
