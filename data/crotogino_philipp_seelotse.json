@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T03:02:53",
+  "generated_at": "2026-04-25T03:04:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Sat Apr 25 02:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:05",
+        "eta_schleuse": "03:06",
         "eta_rueb": "23:11",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "23:11",
-      "eta_schleuse": "03:05",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "03:06",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:43"
     },
     {
@@ -73,15 +73,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 25 01:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:08",
-        "eta_rueb": "06:40",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:12"
+        "eta_schleuse": "11:06",
+        "eta_rueb": "06:39",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "06:40",
-      "eta_schleuse": "11:08",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:12"
+      "eta_rueb": "06:39",
+      "eta_schleuse": "11:06",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -147,14 +147,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 00:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:15",
+        "eta_schleuse": "11:13",
         "eta_rueb": "05:59",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:14",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "05:59",
-      "eta_schleuse": "11:15",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "11:13",
+      "delta_rueb_schleuse": "05:14",
       "delta_start_rueb": "04:37"
     },
     {
@@ -254,14 +254,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EXPERT",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 24 19:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:16",
+        "eta_rueb": "03:26",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "05:02"
+      },
+      "eta_rueb": "03:26",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "05:02"
     },
     {
       "is_target": false,
@@ -290,14 +295,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:12",
+        "eta_schleuse": "06:11",
         "eta_rueb": "02:40",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "02:40",
-      "eta_schleuse": "06:12",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "06:11",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:20"
     },
     {
@@ -353,14 +358,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 16:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:05",
+        "eta_schleuse": "03:06",
         "eta_rueb": "23:11",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "23:11",
-      "eta_schleuse": "03:05",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "03:06",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:43"
     }
   ],
@@ -376,15 +381,15 @@
       "route": "HOR → RÜB",
       "time": "Sat Apr 25 01:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:08",
-        "eta_rueb": "06:40",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:12"
+        "eta_schleuse": "11:06",
+        "eta_rueb": "06:39",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": "06:40",
-      "eta_schleuse": "11:08",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:12"
+      "eta_rueb": "06:39",
+      "eta_schleuse": "11:06",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -418,14 +423,14 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 00:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:15",
+        "eta_schleuse": "11:13",
         "eta_rueb": "05:59",
-        "delta_rueb_schleuse": "05:16",
+        "delta_rueb_schleuse": "05:14",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "05:59",
-      "eta_schleuse": "11:15",
-      "delta_rueb_schleuse": "05:16",
+      "eta_schleuse": "11:13",
+      "delta_rueb_schleuse": "05:14",
       "delta_start_rueb": "04:37"
     },
     {
@@ -509,14 +514,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EXPERT",
+      "route": "RÜB → HOS",
       "time": "Fri Apr 24 19:28:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:16",
+        "eta_rueb": "03:26",
+        "delta_rueb_schleuse": "03:50",
+        "delta_start_rueb": "05:02"
+      },
+      "eta_rueb": "03:26",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "03:50",
+      "delta_start_rueb": "05:02"
     },
     {
       "is_target": false,
@@ -529,14 +539,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 18:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:12",
+        "eta_schleuse": "06:11",
         "eta_rueb": "02:40",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "02:40",
-      "eta_schleuse": "06:12",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "06:11",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:20"
     },
     {
@@ -592,26 +602,19 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 16:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:05",
+        "eta_schleuse": "03:06",
         "eta_rueb": "23:11",
-        "delta_rueb_schleuse": "03:54",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "23:11",
-      "eta_schleuse": "03:05",
-      "delta_rueb_schleuse": "03:54",
+      "eta_schleuse": "03:06",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:43"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "03:26",
-      "eta_rueb": "03:30",
-      "ship": "EXPERT",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "05:00",
