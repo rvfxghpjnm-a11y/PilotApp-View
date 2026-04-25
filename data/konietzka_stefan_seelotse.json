@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T22:00:49",
+  "generated_at": "2026-04-25T22:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "ODIN",
       "route": "HOR → RÜB",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:35",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:35",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -328,14 +333,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 14:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:57",
+        "eta_schleuse": "00:56",
         "eta_rueb": "20:42",
-        "delta_rueb_schleuse": "04:15",
+        "delta_rueb_schleuse": "04:14",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "20:42",
-      "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "04:15",
+      "eta_schleuse": "00:56",
+      "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "05:08"
     },
     {
@@ -445,9 +450,14 @@
       "fahrzeug": "ODIN",
       "route": "HOR → RÜB",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:35",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:35",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -642,14 +652,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 14:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:57",
+        "eta_schleuse": "00:56",
         "eta_rueb": "20:42",
-        "delta_rueb_schleuse": "04:15",
+        "delta_rueb_schleuse": "04:14",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "20:42",
-      "eta_schleuse": "00:57",
-      "delta_rueb_schleuse": "04:15",
+      "eta_schleuse": "00:56",
+      "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "05:08"
     },
     {
