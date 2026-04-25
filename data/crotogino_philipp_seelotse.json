@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T17:14:59",
+  "generated_at": "2026-04-25T17:16:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 0,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -236,10 +236,10 @@
       "vorname": "Michael",
       "nachname": "Arndt",
       "name": "Michael Arndt",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 13,
       "fahrzeug": "BOSFOR",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Apr 25 12:40:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:19",
@@ -607,27 +607,6 @@
       "eta_schleuse": "18:26",
       "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Arndt",
-      "name": "Michael Arndt",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "BOSFOR",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 25 12:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:19",
-        "eta_rueb": "14:09",
-        "delta_rueb_schleuse": "04:10",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "14:09",
-      "eta_schleuse": "18:19",
-      "delta_rueb_schleuse": "04:10",
-      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
