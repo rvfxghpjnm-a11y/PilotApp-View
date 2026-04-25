@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T20:24:58",
+  "generated_at": "2026-04-25T20:26:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -175,14 +175,19 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NAVIGATOR GUSTO",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 14:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:14",
+        "eta_rueb": "20:52",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "06:34"
+      },
+      "eta_rueb": "20:52",
+      "eta_schleuse": "01:14",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "06:34"
     },
     {
       "is_target": false,
@@ -353,14 +358,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:26",
+        "eta_schleuse": "20:27",
         "eta_rueb": "15:58",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "07:02"
       },
       "eta_rueb": "15:58",
-      "eta_schleuse": "20:26",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "20:27",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "07:02"
     }
   ],
@@ -451,14 +456,19 @@
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NAVIGATOR GUSTO",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 14:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:14",
+        "eta_rueb": "20:52",
+        "delta_rueb_schleuse": "04:22",
+        "delta_start_rueb": "06:34"
+      },
+      "eta_rueb": "20:52",
+      "eta_schleuse": "01:14",
+      "delta_rueb_schleuse": "04:22",
+      "delta_start_rueb": "06:34"
     },
     {
       "is_target": false,
@@ -597,14 +607,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 09:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:26",
+        "eta_schleuse": "20:27",
         "eta_rueb": "15:58",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:29",
         "delta_start_rueb": "07:02"
       },
       "eta_rueb": "15:58",
-      "eta_schleuse": "20:26",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "20:27",
+      "delta_rueb_schleuse": "04:29",
       "delta_start_rueb": "07:02"
     }
   ],
