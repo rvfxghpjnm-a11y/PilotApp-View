@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T17:58:55",
+  "generated_at": "2026-04-25T18:00:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -110,15 +110,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 14:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:58",
-        "eta_rueb": "19:26",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:30"
+        "eta_schleuse": "23:57",
+        "eta_rueb": "19:24",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "19:26",
-      "eta_schleuse": "23:58",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:30"
+      "eta_rueb": "19:24",
+      "eta_schleuse": "23:57",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -169,14 +169,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "X-PRESS ELBE",
-      "route": "KLT → HOS",
+      "fahrzeug": "LAFJELL",
+      "route": "HOS → KLT",
       "time": "Sat Apr 25 14:06:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:05",
+        "eta_rueb": "13:58",
+        "delta_rueb_schleuse": "04:07",
+        "delta_start_rueb": "04:02"
+      },
+      "eta_rueb": "13:58",
+      "eta_schleuse": "18:05",
+      "delta_rueb_schleuse": "04:07",
+      "delta_start_rueb": "04:02"
     },
     {
       "is_target": false,
@@ -456,12 +461,12 @@
         "eta_schleuse": "18:05",
         "eta_rueb": "13:58",
         "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "08:00"
+        "delta_start_rueb": "04:02"
       },
       "eta_rueb": "13:58",
       "eta_schleuse": "18:05",
       "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "08:00"
+      "delta_start_rueb": "04:02"
     }
   ],
   "kanallotsen": [
@@ -545,15 +550,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Apr 25 14:42:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:58",
-        "eta_rueb": "19:26",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "03:30"
+        "eta_schleuse": "23:57",
+        "eta_rueb": "19:24",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "19:26",
-      "eta_schleuse": "23:58",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "03:30"
+      "eta_rueb": "19:24",
+      "eta_schleuse": "23:57",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -774,12 +779,12 @@
         "eta_schleuse": "18:05",
         "eta_rueb": "13:58",
         "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "08:00"
+        "delta_start_rueb": "04:02"
       },
       "eta_rueb": "13:58",
       "eta_schleuse": "18:05",
       "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "08:00"
+      "delta_start_rueb": "04:02"
     }
   ],
   "meldungen_kiel": [],
@@ -806,24 +811,24 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:07",
+      "eta_rueb_kiel": "20:58",
       "eta_rueb": "20:41",
-      "ship": "GT FORSETI",
-      "q_gruppe": "5",
+      "ship": "DELFBORG",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "21:01",
+      "eta_rueb_kiel": "21:00",
       "eta_rueb": "20:45",
       "ship": "NAVIGATOR GUSTO",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:58",
-      "eta_rueb": "20:51",
-      "ship": "DELFBORG",
-      "q_gruppe": "4",
+      "eta_rueb_kiel": "21:07",
+      "eta_rueb": "20:48",
+      "ship": "GT FORSETI",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
