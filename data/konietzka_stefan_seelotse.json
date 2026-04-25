@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T06:52:48",
+  "generated_at": "2026-04-25T06:54:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -80,8 +80,8 @@
       "name": "Marko Purwin",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "FREJ",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Apr 25 04:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -101,14 +101,14 @@
       "time": "Sat Apr 25 03:59:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:09",
-        "eta_rueb": "08:38",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "08:37",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "08:38",
+      "eta_rueb": "08:37",
       "eta_schleuse": "13:09",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -271,8 +271,8 @@
       "name": "Michell Fricke",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "MARIELYST",
-      "route": "HOS → KLT",
+      "fahrzeug": "BALTIC BRIGHT",
+      "route": "KLT → HOS",
       "time": "Fri Apr 24 23:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -400,14 +400,14 @@
       "time": "Sat Apr 25 03:59:00 CEST 2026",
       "times": {
         "eta_schleuse": "13:09",
-        "eta_rueb": "08:38",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:38"
+        "eta_rueb": "08:37",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "03:37"
       },
-      "eta_rueb": "08:38",
+      "eta_rueb": "08:37",
       "eta_schleuse": "13:09",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:38"
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "03:37"
     },
     {
       "is_target": false,
@@ -508,7 +508,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "07:37",
+      "eta_rueb_kiel": "07:36",
       "eta_rueb": "07:30",
       "ship": "ESPERANCE",
       "q_gruppe": "1",
