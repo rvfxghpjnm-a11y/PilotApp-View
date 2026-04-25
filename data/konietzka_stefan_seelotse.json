@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T19:18:46",
+  "generated_at": "2026-04-25T19:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -217,8 +217,8 @@
       "name": "Henning Kaschke",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Sat Apr 25 13:06:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -274,14 +274,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 12:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:08",
+        "eta_schleuse": "23:07",
         "eta_rueb": "19:33",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "19:33",
-      "eta_schleuse": "23:08",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "23:07",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:07"
     },
     {
@@ -529,14 +529,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 12:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:08",
+        "eta_schleuse": "23:07",
         "eta_rueb": "19:33",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "19:33",
-      "eta_schleuse": "23:08",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "23:07",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:07"
     },
     {
@@ -649,21 +649,21 @@
     },
     {
       "eta_rueb_kiel": "23:05",
-      "eta_rueb": "22:30",
+      "eta_rueb": "22:45",
       "ship": "SALAR",
       "q_gruppe": "5",
       "route": "RÜB → GAK"
     },
     {
       "eta_rueb_kiel": "23:09",
-      "eta_rueb": "22:35",
+      "eta_rueb": "22:48",
       "ship": "CONTAINERSHIPS STELLAR",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:12",
-      "eta_rueb": "22:40",
+      "eta_rueb_kiel": "23:11",
+      "eta_rueb": "22:51",
       "ship": "MARJATTA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
