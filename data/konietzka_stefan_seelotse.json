@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T04:08:37",
+  "generated_at": "2026-04-25T04:10:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -78,8 +78,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "AIDANOVA",
+      "route": "KLT → OSK",
       "time": "Sat Apr 25 02:06:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -288,14 +288,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 19:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:12",
+        "eta_schleuse": "07:11",
         "eta_rueb": "03:24",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "03:24",
-      "eta_schleuse": "07:12",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "07:11",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:00"
     },
     {
@@ -527,14 +527,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 19:28:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:12",
+        "eta_schleuse": "07:11",
         "eta_rueb": "03:24",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:00"
       },
       "eta_rueb": "03:24",
-      "eta_schleuse": "07:12",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "07:11",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:00"
     },
     {
@@ -618,7 +618,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:51",
+      "eta_rueb_kiel": "06:52",
       "eta_rueb": "06:30",
       "ship": "RIX UNION",
       "q_gruppe": "4",
