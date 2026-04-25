@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T02:32:44",
+  "generated_at": "2026-04-25T02:34:43",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -17,9 +17,9 @@
     "see": 5
   },
   "times": {
-    "eta_schleuse": "02:33",
+    "eta_schleuse": "02:35",
     "eta_rueb": "22:58",
-    "delta_rueb_schleuse": "03:35",
+    "delta_rueb_schleuse": "03:37",
     "delta_start_rueb": "04:26"
   },
   "lotsen": [
@@ -34,14 +34,14 @@
       "route": "HOS → KLT",
       "time": "Sat Apr 25 02:06:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:33",
+        "eta_schleuse": "02:35",
         "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "22:58",
-      "eta_schleuse": "02:33",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "02:35",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:26"
     },
     {
@@ -188,8 +188,8 @@
       "name": "Yannick Petersen",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "WILSON PORI",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Apr 24 22:42:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -330,14 +330,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 16:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:07",
+        "eta_schleuse": "04:09",
         "eta_rueb": "00:09",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:09",
-      "eta_schleuse": "04:07",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "04:09",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:11"
     },
     {
@@ -372,14 +372,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 16:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:33",
+        "eta_schleuse": "02:35",
         "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "22:58",
-      "eta_schleuse": "02:33",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "02:35",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:26"
     },
     {
@@ -622,14 +622,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 16:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:07",
+        "eta_schleuse": "04:09",
         "eta_rueb": "00:09",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:09",
-      "eta_schleuse": "04:07",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "04:09",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "04:11"
     },
     {
@@ -664,14 +664,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Apr 24 16:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:33",
+        "eta_schleuse": "02:35",
         "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:26"
       },
       "eta_rueb": "22:58",
-      "eta_schleuse": "02:33",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "02:35",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:26"
     },
     {
@@ -708,7 +708,7 @@
       "route": "KRH → RÜB"
     },
     {
-      "eta_rueb_kiel": "05:37",
+      "eta_rueb_kiel": "05:36",
       "eta_rueb": "05:30",
       "ship": "BALTICBORG",
       "q_gruppe": "1",
