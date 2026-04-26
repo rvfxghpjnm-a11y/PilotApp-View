@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T12:00:38",
+  "generated_at": "2026-04-26T12:02:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -45,13 +45,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:04",
+        "eta_schleuse": "20:05",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:04",
+      "eta_schleuse": "20:05",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -66,13 +66,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:07",
+        "eta_schleuse": "20:08",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:07",
+      "eta_schleuse": "20:08",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -87,13 +87,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:11",
+        "eta_schleuse": "20:12",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:11",
+      "eta_schleuse": "20:12",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -220,8 +220,8 @@
       "name": "Henning Blome",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 26 07:04:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -252,14 +252,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARINA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:41",
+        "eta_rueb": "12:23",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:43"
+      },
+      "eta_rueb": "12:23",
+      "eta_schleuse": "16:41",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -351,14 +356,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 02:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:04",
+        "eta_schleuse": "14:01",
         "eta_rueb": "10:12",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "10:12",
-      "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "14:01",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "05:02"
     },
     {
@@ -395,13 +400,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:04",
+        "eta_schleuse": "20:05",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:04",
+      "eta_schleuse": "20:05",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -416,13 +421,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:07",
+        "eta_schleuse": "20:08",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:07",
+      "eta_schleuse": "20:08",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -437,13 +442,13 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:11",
+        "eta_schleuse": "20:12",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "20:11",
+      "eta_schleuse": "20:12",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -554,14 +559,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARINA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "16:41",
+        "eta_rueb": "12:23",
+        "delta_rueb_schleuse": "04:18",
+        "delta_start_rueb": "04:43"
+      },
+      "eta_rueb": "12:23",
+      "eta_schleuse": "16:41",
+      "delta_rueb_schleuse": "04:18",
+      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -637,14 +647,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 02:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:04",
+        "eta_schleuse": "14:01",
         "eta_rueb": "10:12",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:49",
         "delta_start_rueb": "05:02"
       },
       "eta_rueb": "10:12",
-      "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "14:01",
+      "delta_rueb_schleuse": "03:49",
       "delta_start_rueb": "05:02"
     },
     {
@@ -671,13 +681,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "12:23",
-      "eta_rueb": "12:15",
-      "ship": "ARINA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "12:31",
       "eta_rueb": "12:18",
@@ -735,14 +738,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:43",
+      "eta_rueb_kiel": "16:44",
       "eta_rueb": "15:47",
       "ship": "RIX GULF",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:47",
+      "eta_rueb_kiel": "16:48",
       "eta_rueb": "16:48",
       "ship": "HIIUMAA",
       "q_gruppe": "4",
