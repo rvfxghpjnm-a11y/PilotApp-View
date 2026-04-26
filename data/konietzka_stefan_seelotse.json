@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T22:44:45",
+  "generated_at": "2026-04-26T22:46:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,15 +68,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 26 22:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "06:42",
+        "eta_rueb": "02:15",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "02:15",
+      "eta_schleuse": "06:42",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -218,8 +218,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "ORASUND",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 26 15:27:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -344,14 +344,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 13:03:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:25",
+        "eta_schleuse": "23:24",
         "eta_rueb": "19:16",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "00:32"
       },
       "eta_rueb": "19:16",
-      "eta_schleuse": "23:25",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "23:24",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "00:32"
     }
   ],
@@ -367,15 +367,15 @@
       "route": "UTG → RÜB",
       "time": "Sun Apr 26 22:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "06:42",
+        "eta_rueb": "02:15",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "02:15",
+      "eta_schleuse": "06:42",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -515,21 +515,21 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 13:03:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:25",
+        "eta_schleuse": "23:24",
         "eta_rueb": "19:16",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "00:32"
       },
       "eta_rueb": "19:16",
-      "eta_schleuse": "23:25",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "23:24",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "00:32"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:00",
+      "eta_rueb_kiel": "02:02",
       "eta_rueb": "01:30",
       "ship": "ELBRUNNER",
       "q_gruppe": "2",
