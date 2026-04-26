@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:54:44",
+  "generated_at": "2026-04-26T07:56:49",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 10
   },
   "gruppen": {
-    "kanal": 14,
+    "kanal": 12,
     "wach": 0,
     "see": 9
   },
@@ -114,15 +114,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 05:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:34",
-        "eta_rueb": "11:07",
+        "eta_schleuse": "15:33",
+        "eta_rueb": "11:06",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "11:07",
-      "eta_schleuse": "15:34",
+      "eta_rueb": "11:06",
+      "eta_schleuse": "15:33",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -403,38 +403,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens-Peter",
-      "nachname": "Töpfer",
-      "name": "Jens-Peter Töpfer",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "KAURI",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 25 20:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "TAVASTLAND",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -481,15 +449,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 05:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:34",
-        "eta_rueb": "11:07",
+        "eta_schleuse": "15:33",
+        "eta_rueb": "11:06",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "11:07",
-      "eta_schleuse": "15:34",
+      "eta_rueb": "11:06",
+      "eta_schleuse": "15:33",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -674,38 +642,6 @@
       "eta_schleuse": "09:47",
       "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:12"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jens-Peter",
-      "nachname": "Töpfer",
-      "name": "Jens-Peter Töpfer",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "KAURI",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 25 20:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Michell",
-      "nachname": "Fricke",
-      "name": "Michell Fricke",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "TAVASTLAND",
-      "route": "RÜB → HOS",
-      "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -732,7 +668,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:21",
+      "eta_rueb_kiel": "10:20",
       "eta_rueb": "10:12",
       "ship": "LOVISA",
       "q_gruppe": "4",
