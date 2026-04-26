@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T23:14:46",
+  "generated_at": "2026-04-26T23:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,14 +132,14 @@
       "time": "Sun Apr 26 21:56:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:38",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "02:58",
+        "delta_rueb_schleuse": "04:40",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": null,
+      "eta_rueb": "02:58",
       "eta_schleuse": "07:38",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:40",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -206,14 +206,19 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW VALOUR",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 17:41:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:45",
+        "eta_rueb": "23:41",
+        "delta_rueb_schleuse": "04:04",
+        "delta_start_rueb": "06:01"
+      },
+      "eta_rueb": "23:41",
+      "eta_schleuse": "03:45",
+      "delta_rueb_schleuse": "04:04",
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -430,14 +435,14 @@
       "time": "Sun Apr 26 21:56:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:38",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "02:58",
+        "delta_rueb_schleuse": "04:40",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": null,
+      "eta_rueb": "02:58",
       "eta_schleuse": "07:38",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:40",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -467,14 +472,19 @@
       "name": "Sascha Külzer",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW VALOUR",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 17:41:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:45",
+        "eta_rueb": "23:41",
+        "delta_rueb_schleuse": "04:04",
+        "delta_start_rueb": "06:01"
+      },
+      "eta_rueb": "23:41",
+      "eta_schleuse": "03:45",
+      "delta_rueb_schleuse": "04:04",
+      "delta_start_rueb": "06:01"
     },
     {
       "is_target": false,
@@ -587,14 +597,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:41",
-      "eta_rueb": "23:40",
-      "ship": "ARKLOW VALOUR",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:46",
+      "eta_rueb_kiel": "23:47",
       "eta_rueb": "23:43",
       "ship": "CMA CGM RUNDALE",
       "q_gruppe": "0",
