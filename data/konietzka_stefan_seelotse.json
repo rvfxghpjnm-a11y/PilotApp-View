@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T18:06:38",
+  "generated_at": "2026-04-26T18:08:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -226,8 +226,8 @@
       "name": "Helge Buch",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "ARINA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 26 13:47:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -242,8 +242,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "AIDABELLA",
-      "route": "OSK → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 26 13:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -258,8 +258,8 @@
       "name": "Erskine Schuh",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KERDA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Apr 26 13:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -958,7 +958,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:21",
+      "eta_rueb_kiel": "19:19",
       "eta_rueb": "19:00",
       "ship": "NEERBORG",
       "q_gruppe": "4",
