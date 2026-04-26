@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T04:38:46",
+  "generated_at": "2026-04-26T04:40:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -173,14 +173,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 23:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:26",
+        "eta_schleuse": "05:25",
         "eta_rueb": "01:17",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:49"
       },
       "eta_rueb": "01:17",
-      "eta_schleuse": "05:26",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "05:25",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:49"
     },
     {
@@ -215,14 +215,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 23:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:19",
+        "eta_schleuse": "05:18",
         "eta_rueb": "01:09",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "01:09",
-      "eta_schleuse": "05:19",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "05:18",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "05:07"
     },
     {
@@ -349,8 +349,8 @@
       "name": "Volker Nagel",
       "aufgabe": "Seebört",
       "nr": 19,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "EDITH",
+      "route": "KLT → HOS",
       "time": "Sat Apr 25 22:14:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -381,8 +381,8 @@
       "name": "Malte Krause",
       "aufgabe": "Seebört",
       "nr": 21,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "AEROE",
+      "route": "KLT → HOS",
       "time": "Sat Apr 25 21:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -603,14 +603,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 23:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:26",
+        "eta_schleuse": "05:25",
         "eta_rueb": "01:17",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:49"
       },
       "eta_rueb": "01:17",
-      "eta_schleuse": "05:26",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "05:25",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:49"
     },
     {
@@ -645,14 +645,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 23:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:19",
+        "eta_schleuse": "05:18",
         "eta_rueb": "01:09",
-        "delta_rueb_schleuse": "04:10",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "01:09",
-      "eta_schleuse": "05:19",
-      "delta_rueb_schleuse": "04:10",
+      "eta_schleuse": "05:18",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "05:07"
     },
     {
@@ -823,7 +823,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:57",
+      "eta_rueb_kiel": "05:56",
       "eta_rueb": "05:50",
       "ship": "PLYCA",
       "q_gruppe": "0",
