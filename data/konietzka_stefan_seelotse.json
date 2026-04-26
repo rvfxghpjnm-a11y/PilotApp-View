@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T05:58:46",
+  "generated_at": "2026-04-26T06:00:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,11 +88,16 @@
       "fahrzeug": "UNDEN",
       "route": "HOR → RÜB",
       "time": "Sun Apr 26 03:32:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:23",
+        "eta_rueb": "08:56",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:54"
+      },
+      "eta_rueb": "08:56",
+      "eta_schleuse": "13:23",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -561,11 +566,16 @@
       "fahrzeug": "UNDEN",
       "route": "HOR → RÜB",
       "time": "Sun Apr 26 03:32:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "13:23",
+        "eta_rueb": "08:56",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:54"
+      },
+      "eta_rueb": "08:56",
+      "eta_schleuse": "13:23",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
