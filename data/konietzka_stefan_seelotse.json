@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:40:46",
+  "generated_at": "2026-04-26T07:42:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,16 +19,11 @@
       "fahrzeug": "KAURI",
       "route": "HOS → KLT",
       "time": "Sun Apr 26 07:07:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:40",
-        "eta_rueb": "03:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "03:13",
-      "eta_schleuse": "07:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -40,16 +35,11 @@
       "fahrzeug": "TAVASTLAND",
       "route": "HOS → KLT",
       "time": "Sun Apr 26 07:04:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:37",
-        "eta_rueb": "03:05",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "03:05",
-      "eta_schleuse": "07:37",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "04:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -378,16 +368,11 @@
       "fahrzeug": "KAURI",
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:40",
-        "eta_rueb": "03:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "03:13",
-      "eta_schleuse": "07:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -415,16 +400,11 @@
       "fahrzeug": "TAVASTLAND",
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:37",
-        "eta_rueb": "03:05",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "03:05",
-      "eta_schleuse": "07:37",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "04:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -643,16 +623,11 @@
       "fahrzeug": "KAURI",
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:40",
-        "eta_rueb": "03:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "03:13",
-      "eta_schleuse": "07:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -680,16 +655,11 @@
       "fahrzeug": "TAVASTLAND",
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:37",
-        "eta_rueb": "03:05",
-        "delta_rueb_schleuse": "04:32",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "03:05",
-      "eta_schleuse": "07:37",
-      "delta_rueb_schleuse": "04:32",
-      "delta_start_rueb": "04:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -727,6 +697,13 @@
       "eta_rueb": "13:10",
       "ship": "KERDA",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "12:39",
+      "eta_rueb": "13:15",
+      "ship": "ARINA",
+      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
