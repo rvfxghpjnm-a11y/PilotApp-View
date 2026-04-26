@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T11:56:37",
+  "generated_at": "2026-04-26T11:58:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -44,9 +44,14 @@
       "fahrzeug": "SYDSTRAUM",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:04",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:04",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -60,9 +65,14 @@
       "fahrzeug": "JOHANN",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:07",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:07",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -76,9 +86,14 @@
       "fahrzeug": "JUDITH",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:11",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:11",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -379,9 +394,14 @@
       "fahrzeug": "SYDSTRAUM",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:04",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:04",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -395,9 +415,14 @@
       "fahrzeug": "JOHANN",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:07",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:07",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -411,9 +436,14 @@
       "fahrzeug": "JUDITH",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "20:11",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "20:11",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -712,7 +742,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:46",
+      "eta_rueb_kiel": "16:47",
       "eta_rueb": "16:48",
       "ship": "HIIUMAA",
       "q_gruppe": "4",
