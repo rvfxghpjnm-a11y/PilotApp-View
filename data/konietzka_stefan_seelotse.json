@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T16:34:37",
+  "generated_at": "2026-04-26T16:36:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -89,14 +89,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KEY MARMARA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 15:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:32",
+        "eta_rueb": "17:00",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "17:00",
+      "eta_schleuse": "21:32",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -178,14 +183,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 26 13:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:36",
+        "eta_schleuse": "16:37",
         "eta_rueb": "12:22",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:15",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "12:22",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:42"
     },
     {
@@ -215,14 +220,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 26 13:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:34",
+        "eta_schleuse": "16:35",
         "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "12:18",
-      "eta_schleuse": "16:34",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "16:35",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:16"
     },
     {
@@ -546,14 +551,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:36",
+        "eta_schleuse": "16:37",
         "eta_rueb": "12:22",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:15",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "12:22",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:42"
     },
     {
@@ -567,14 +572,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:34",
+        "eta_schleuse": "16:35",
         "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "12:18",
-      "eta_schleuse": "16:34",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "16:35",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:16"
     }
   ],
@@ -650,14 +655,19 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KEY MARMARA",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 15:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:32",
+        "eta_rueb": "17:00",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "17:00",
+      "eta_schleuse": "21:32",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -985,14 +995,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:36",
+        "eta_schleuse": "16:37",
         "eta_rueb": "12:22",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:15",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "12:22",
-      "eta_schleuse": "16:36",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "16:37",
+      "delta_rueb_schleuse": "04:15",
       "delta_start_rueb": "04:42"
     },
     {
@@ -1006,26 +1016,19 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:34",
+        "eta_schleuse": "16:35",
         "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "12:18",
-      "eta_schleuse": "16:34",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "16:35",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:16"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:00",
-      "eta_rueb": "16:54",
-      "ship": "KEY MARMARA",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "17:03",
       "eta_rueb": "16:57",
@@ -1034,7 +1037,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:23",
+      "eta_rueb_kiel": "19:25",
       "eta_rueb": "19:00",
       "ship": "NEERBORG",
       "q_gruppe": "4",
