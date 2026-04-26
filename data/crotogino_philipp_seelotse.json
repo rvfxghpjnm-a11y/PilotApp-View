@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:42:52",
+  "generated_at": "2026-04-26T19:44:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 14,
     "wach": 0,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -78,14 +78,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 15:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:50",
+        "eta_schleuse": "00:46",
         "eta_rueb": "20:19",
-        "delta_rueb_schleuse": "04:31",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "20:19",
-      "eta_schleuse": "00:50",
-      "delta_rueb_schleuse": "04:31",
+      "eta_schleuse": "00:46",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:37"
     },
     {
@@ -301,27 +301,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Konietzka",
-      "name": "Stefan Konietzka",
-      "aufgabe": "Seebört",
-      "nr": 16,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Sun Apr 26 11:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Carsten",
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "ORASUND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
@@ -342,7 +326,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "RIX GULF",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
@@ -358,7 +342,7 @@
       "nachname": "Kordt",
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "HIIUMAA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
@@ -428,14 +412,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 15:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:50",
+        "eta_schleuse": "00:46",
         "eta_rueb": "20:19",
-        "delta_rueb_schleuse": "04:31",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "20:19",
-      "eta_schleuse": "00:50",
-      "delta_rueb_schleuse": "04:31",
+      "eta_schleuse": "00:46",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:37"
     },
     {
@@ -607,7 +591,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "ORASUND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
@@ -628,7 +612,7 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "RIX GULF",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
@@ -644,7 +628,7 @@
       "nachname": "Kordt",
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "HIIUMAA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
@@ -677,7 +661,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:43",
+      "eta_rueb_kiel": "23:42",
       "eta_rueb": "23:25",
       "ship": "ARKLOW VALOUR",
       "q_gruppe": "5",
