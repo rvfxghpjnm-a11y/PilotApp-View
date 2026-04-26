@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:18:46",
+  "generated_at": "2026-04-26T07:20:45",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -82,15 +82,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 05:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:37",
-        "eta_rueb": "11:11",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:55"
+        "eta_schleuse": "15:34",
+        "eta_rueb": "11:07",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:51"
       },
-      "eta_rueb": "11:11",
-      "eta_schleuse": "15:37",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:55"
+      "eta_rueb": "11:07",
+      "eta_schleuse": "15:34",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:51"
     },
     {
       "is_target": false,
@@ -102,9 +102,14 @@
       "fahrzeug": "AEROE",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 05:45:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:37",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -335,16 +340,11 @@
       "fahrzeug": "ODERBORG",
       "route": "UTG → HOS",
       "time": "Sat Apr 25 23:40:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "01:13",
-        "delta_rueb_schleuse": "2284121:33",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "01:13",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2284121:33",
-      "delta_start_rueb": "05:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -496,15 +496,15 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 05:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:37",
-        "eta_rueb": "11:11",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:55"
+        "eta_schleuse": "15:34",
+        "eta_rueb": "11:07",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:51"
       },
-      "eta_rueb": "11:11",
-      "eta_schleuse": "15:37",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:55"
+      "eta_rueb": "11:07",
+      "eta_schleuse": "15:34",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:51"
     },
     {
       "is_target": false,
@@ -516,9 +516,14 @@
       "fahrzeug": "AEROE",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 05:45:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:37",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:37",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
