@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T16:32:37",
+  "generated_at": "2026-04-26T16:34:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -105,14 +105,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SAR LOKE",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 15:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:28",
+        "eta_rueb": "16:54",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "16:54",
+      "eta_schleuse": "21:28",
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -210,14 +215,14 @@
       "route": "HOS → KLT",
       "time": "Sun Apr 26 13:45:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:32",
+        "eta_schleuse": "16:34",
         "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "12:18",
-      "eta_schleuse": "16:32",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "16:34",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:16"
     },
     {
@@ -520,14 +525,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:39",
+        "eta_schleuse": "16:41",
         "eta_rueb": "12:30",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "12:30",
-      "eta_schleuse": "16:39",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "16:41",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:48"
     },
     {
@@ -562,14 +567,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:32",
+        "eta_schleuse": "16:34",
         "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "12:18",
-      "eta_schleuse": "16:32",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "16:34",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:16"
     }
   ],
@@ -661,14 +666,19 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SAR LOKE",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 15:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:28",
+        "eta_rueb": "16:54",
+        "delta_rueb_schleuse": "04:34",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "16:54",
+      "eta_schleuse": "21:28",
+      "delta_rueb_schleuse": "04:34",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -954,14 +964,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:48:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:39",
+        "eta_schleuse": "16:41",
         "eta_rueb": "12:30",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:11",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "12:30",
-      "eta_schleuse": "16:39",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "16:41",
+      "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "04:48"
     },
     {
@@ -996,26 +1006,19 @@
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 05:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:32",
+        "eta_schleuse": "16:34",
         "eta_rueb": "12:18",
-        "delta_rueb_schleuse": "04:14",
+        "delta_rueb_schleuse": "04:16",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "12:18",
-      "eta_schleuse": "16:32",
-      "delta_rueb_schleuse": "04:14",
+      "eta_schleuse": "16:34",
+      "delta_rueb_schleuse": "04:16",
       "delta_start_rueb": "05:16"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "16:54",
-      "eta_rueb": "16:51",
-      "ship": "SAR LOKE",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "17:00",
       "eta_rueb": "16:54",
