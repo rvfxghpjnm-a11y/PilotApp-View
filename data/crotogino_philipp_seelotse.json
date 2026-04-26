@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-26T19:38:54",
+  "generated_at": "2026-04-26T19:40:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
     "see": 5
   },
@@ -78,14 +78,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 15:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:50",
         "eta_rueb": "20:19",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "20:19",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "00:50",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "03:37"
     },
     {
@@ -230,16 +230,11 @@
       "fahrzeug": "RIX GULF",
       "route": "HOS → KLT",
       "time": "Sun Apr 26 14:00:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:31",
-        "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "15:33",
-      "eta_schleuse": "19:31",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -285,32 +280,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "AMADEUS AMETHIST",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 26 13:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:27",
-        "eta_rueb": "14:37",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "14:37",
-      "eta_schleuse": "19:27",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "04:23"
-    },
-    {
-      "is_target": false,
       "vorname": "Torben",
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "NEERBORG",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 13:03:00 CEST 2026",
@@ -331,7 +305,7 @@
       "nachname": "Konietzka",
       "name": "Stefan Konietzka",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sun Apr 26 11:00:00 CEST 2026",
@@ -347,7 +321,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ORASUND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
@@ -368,20 +342,15 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "RIX GULF",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:31",
-        "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "15:33",
-      "eta_schleuse": "19:31",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -389,7 +358,7 @@
       "nachname": "Kordt",
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "HIIUMAA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
@@ -410,20 +379,15 @@
       "nachname": "Christiansen",
       "name": "Jan Christiansen",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "AMADEUS GOLD",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 08:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:23",
-        "eta_rueb": "14:33",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "04:53"
-      },
-      "eta_rueb": "14:33",
-      "eta_schleuse": "19:23",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "04:53"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -480,14 +444,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 15:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:50",
         "eta_rueb": "20:19",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "20:19",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "00:50",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "03:37"
     },
     {
@@ -634,32 +598,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Woitanowski",
-      "name": "Tim Woitanowski",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "AMADEUS AMETHIST",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 26 13:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:27",
-        "eta_rueb": "14:37",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "14:37",
-      "eta_schleuse": "19:27",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "04:23"
-    },
-    {
-      "is_target": false,
       "vorname": "Torben",
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "NEERBORG",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 13:03:00 CEST 2026",
@@ -680,7 +623,7 @@
       "nachname": "Weise",
       "name": "Carsten Weise",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "ORASUND",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:17:00 CEST 2026",
@@ -701,20 +644,15 @@
       "nachname": "Hewig",
       "name": "Marius Paul Hewig",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "RIX GULF",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:08:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:31",
-        "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:58",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "15:33",
-      "eta_schleuse": "19:31",
-      "delta_rueb_schleuse": "03:58",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -722,7 +660,7 @@
       "nachname": "Kordt",
       "name": "Remo Kordt",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "HIIUMAA",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 10:02:00 CEST 2026",
@@ -743,20 +681,15 @@
       "nachname": "Christiansen",
       "name": "Jan Christiansen",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "AMADEUS GOLD",
       "route": "RÜB → HOS",
       "time": "Sun Apr 26 08:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "19:23",
-        "eta_rueb": "14:33",
-        "delta_rueb_schleuse": "04:50",
-        "delta_start_rueb": "04:53"
-      },
-      "eta_rueb": "14:33",
-      "eta_schleuse": "19:23",
-      "delta_rueb_schleuse": "04:50",
-      "delta_start_rueb": "04:53"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
