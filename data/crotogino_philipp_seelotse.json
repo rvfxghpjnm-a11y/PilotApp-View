@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T18:14:52",
+  "generated_at": "2026-04-26T18:16:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,14 +169,19 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "KEY BAY",
+      "route": "HOS → KLT",
       "time": "Sun Apr 26 14:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:47",
+        "eta_rueb": "14:19",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "05:17"
+      },
+      "eta_rueb": "14:19",
+      "eta_schleuse": "18:47",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "05:17"
     },
     {
       "is_target": false,
@@ -185,14 +190,19 @@
       "name": "Sven Reimer",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "BRAVEWIND",
-      "route": "KLT → HOS",
+      "fahrzeug": "ECO MISTRAL",
+      "route": "HOS → KLT",
       "time": "Sun Apr 26 14:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:55",
+        "eta_rueb": "14:24",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "04:50"
+      },
+      "eta_rueb": "14:24",
+      "eta_schleuse": "18:55",
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "04:50"
     },
     {
       "is_target": false,
