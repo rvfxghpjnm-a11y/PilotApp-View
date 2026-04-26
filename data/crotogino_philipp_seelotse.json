@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T13:50:43",
+  "generated_at": "2026-04-26T13:52:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -46,14 +46,30 @@
     },
     {
       "is_target": false,
+      "vorname": "Peter",
+      "nachname": "Böttcher",
+      "name": "Peter Böttcher",
+      "aufgabe": "Seebört",
+      "nr": 2,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
+      "time": "Sun Apr 26 13:45:00 CEST 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
       "vorname": "Erskine",
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Seebört",
-      "nr": 2,
+      "nr": 3,
       "fahrzeug": "LUNAMAR",
       "route": "HOS → KLT",
-      "time": "Sun Apr 26 13:47:00 CEST 2026",
+      "time": "Sun Apr 26 13:45:00 CEST 2026",
       "times": {
         "eta_schleuse": "14:07",
         "eta_rueb": "10:12",
@@ -64,22 +80,6 @@
       "eta_schleuse": "14:07",
       "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "05:02"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Böttcher",
-      "name": "Peter Böttcher",
-      "aufgabe": "Seebört",
-      "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
-      "time": "Sun Apr 26 13:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -873,7 +873,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:29",
+      "eta_rueb_kiel": "14:27",
       "eta_rueb": "14:26",
       "ship": "MIA MARIA",
       "q_gruppe": "5",
