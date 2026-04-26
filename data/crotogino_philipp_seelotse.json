@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T02:38:55",
+  "generated_at": "2026-04-26T02:40:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -280,14 +280,14 @@
       "time": "Sat Apr 25 22:29:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:19",
-        "eta_rueb": "04:09",
-        "delta_rueb_schleuse": "05:10",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "04:08",
+        "delta_rueb_schleuse": "05:11",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "04:09",
+      "eta_rueb": "04:08",
       "eta_schleuse": "09:19",
-      "delta_rueb_schleuse": "05:10",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "05:11",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -401,14 +401,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:36",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "09:06"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "07:36",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "09:06"
     },
     {
@@ -418,14 +418,19 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TAVASTLAND",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:40",
+        "eta_rueb": "03:07",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "03:07",
+      "eta_schleuse": "07:40",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -806,14 +811,14 @@
       "time": "Sat Apr 25 22:29:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:19",
-        "eta_rueb": "04:09",
-        "delta_rueb_schleuse": "05:10",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "04:08",
+        "delta_rueb_schleuse": "05:11",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "04:09",
+      "eta_rueb": "04:08",
       "eta_schleuse": "09:19",
-      "delta_rueb_schleuse": "05:10",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "05:11",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -879,14 +884,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:32",
+        "eta_schleuse": "07:36",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "04:30",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "09:06"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "07:32",
-      "delta_rueb_schleuse": "04:30",
+      "eta_schleuse": "07:36",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "09:06"
     },
     {
@@ -896,14 +901,19 @@
       "name": "Michell Fricke",
       "aufgabe": "Kanalbört",
       "nr": 23,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "TAVASTLAND",
+      "route": "RÜB → HOS",
       "time": "Sat Apr 25 20:34:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "07:40",
+        "eta_rueb": "03:07",
+        "delta_rueb_schleuse": "04:33",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "03:07",
+      "eta_schleuse": "07:40",
+      "delta_rueb_schleuse": "04:33",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -951,13 +961,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "03:07",
-      "eta_rueb": "03:05",
-      "ship": "TAVASTLAND",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "03:15",
       "eta_rueb": "03:10",
       "ship": "KAURI",
@@ -965,14 +968,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:05",
+      "eta_rueb_kiel": "06:04",
       "eta_rueb": "05:15",
       "ship": "PLYCA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:08",
+      "eta_rueb_kiel": "06:07",
       "eta_rueb": "05:20",
       "ship": "DOLFIJN",
       "q_gruppe": "5",
