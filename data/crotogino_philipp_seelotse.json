@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T23:06:55",
+  "generated_at": "2026-04-26T23:08:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,9 +88,14 @@
       "fahrzeug": "NETA A.",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 21:56:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -376,9 +381,14 @@
       "fahrzeug": "NETA A.",
       "route": "HOS → RÜB",
       "time": "Sun Apr 26 21:56:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "07:38",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "07:38",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -530,14 +540,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:43",
+      "eta_rueb_kiel": "23:41",
       "eta_rueb": "23:40",
       "ship": "ARKLOW VALOUR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:46",
+      "eta_rueb_kiel": "23:44",
       "eta_rueb": "23:43",
       "ship": "CMA CGM RUNDALE",
       "q_gruppe": "0",
