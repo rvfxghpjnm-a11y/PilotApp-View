@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T22:50:46",
+  "generated_at": "2026-04-27T22:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -111,19 +111,14 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "PERNILLE",
-      "route": "HOR → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 27 17:41:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "03:09",
-        "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "03:50"
-      },
-      "eta_rueb": "22:58",
-      "eta_schleuse": "03:09",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "03:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -184,14 +179,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 16:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:16",
+        "eta_schleuse": "02:15",
         "eta_rueb": "21:55",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:51"
       },
       "eta_rueb": "21:55",
-      "eta_schleuse": "02:16",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:51"
     },
     {
@@ -217,8 +212,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 27 13:06:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -319,19 +314,14 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "PERNILLE",
-      "route": "HOR → RÜB",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 27 17:41:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "03:09",
-        "eta_rueb": "22:58",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "03:50"
-      },
-      "eta_rueb": "22:58",
-      "eta_schleuse": "03:09",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "03:50"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -344,14 +334,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 16:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:16",
+        "eta_schleuse": "02:15",
         "eta_rueb": "21:55",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:51"
       },
       "eta_rueb": "21:55",
-      "eta_schleuse": "02:16",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "02:15",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:51"
     },
     {
@@ -361,8 +351,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 27 13:06:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -428,13 +418,6 @@
       "ship": "VB BREMERHAVEN+DOCK+VB PIONEER",
       "q_gruppe": "0",
       "route": "LÜW → RÜB"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "22:50",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
     }
   ]
 }
