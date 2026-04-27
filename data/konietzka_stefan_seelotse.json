@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T05:03:31",
+  "generated_at": "2026-04-27T05:04:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
-    "see": 6
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -88,10 +88,10 @@
       "vorname": "Peter",
       "nachname": "Hahn",
       "name": "Peter Hahn",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 5,
       "fahrzeug": "ELBRUNNER",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Mon Apr 27 00:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "05:52",
@@ -307,27 +307,6 @@
       "eta_schleuse": "12:25",
       "delta_rueb_schleuse": "05:06",
       "delta_start_rueb": "03:41"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hahn",
-      "name": "Peter Hahn",
-      "aufgabe": "Kanalbört",
-      "nr": 5,
-      "fahrzeug": "ELBRUNNER",
-      "route": "RÜB → HOS",
-      "time": "Mon Apr 27 00:25:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:52",
-        "eta_rueb": "01:52",
-        "delta_rueb_schleuse": "04:00",
-        "delta_start_rueb": "05:08"
-      },
-      "eta_rueb": "01:52",
-      "eta_schleuse": "05:52",
-      "delta_rueb_schleuse": "04:00",
-      "delta_start_rueb": "05:08"
     },
     {
       "is_target": false,
