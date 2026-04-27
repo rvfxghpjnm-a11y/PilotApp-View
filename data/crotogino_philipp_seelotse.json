@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T21:16:54",
+  "generated_at": "2026-04-27T21:18:59",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 0,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -143,24 +143,29 @@
       "name": "Niels Münker",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "VARKAN EGE",
+      "route": "HOS → KLT",
       "time": "Mon Apr 27 16:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:44",
+        "eta_rueb": "17:40",
+        "delta_rueb_schleuse": "04:04",
+        "delta_start_rueb": "04:28"
+      },
+      "eta_rueb": "17:40",
+      "eta_schleuse": "21:44",
+      "delta_rueb_schleuse": "04:04",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
       "vorname": "Ulrich",
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "RHEINTAL",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Mon Apr 27 16:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "21:53",
@@ -438,27 +443,6 @@
       "eta_schleuse": "03:14",
       "delta_rueb_schleuse": "04:11",
       "delta_start_rueb": "03:55"
-    },
-    {
-      "is_target": false,
-      "vorname": "Ulrich",
-      "nachname": "Diekmann",
-      "name": "Ulrich Diekmann",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "RHEINTAL",
-      "route": "RÜB → HOS",
-      "time": "Mon Apr 27 16:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "21:53",
-        "eta_rueb": "17:48",
-        "delta_rueb_schleuse": "04:05",
-        "delta_start_rueb": "04:30"
-      },
-      "eta_rueb": "17:48",
-      "eta_schleuse": "21:53",
-      "delta_rueb_schleuse": "04:05",
-      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
