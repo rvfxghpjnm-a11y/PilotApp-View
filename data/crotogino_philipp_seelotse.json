@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T07:42:56",
+  "generated_at": "2026-04-27T07:44:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "ALAND",
       "route": "HOS → RÜB",
       "time": "Mon Apr 27 06:23:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -83,9 +88,14 @@
       "fahrzeug": "SWEDICA HAV",
       "route": "HOR → KRH",
       "time": "Mon Apr 27 06:19:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -286,9 +296,14 @@
       "fahrzeug": "ALAND",
       "route": "HOS → RÜB",
       "time": "Mon Apr 27 06:23:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -318,9 +333,14 @@
       "fahrzeug": "SWEDICA HAV",
       "route": "HOR → KRH",
       "time": "Mon Apr 27 06:19:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "11:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "11:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
