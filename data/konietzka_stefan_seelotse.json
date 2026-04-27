@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T08:02:47",
+  "generated_at": "2026-04-27T08:04:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,14 +169,19 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HENDRIKA MARGARETHA",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 27 02:27:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:32",
+        "eta_rueb": "08:26",
+        "delta_rueb_schleuse": "04:06",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "08:26",
+      "eta_schleuse": "12:32",
+      "delta_rueb_schleuse": "04:06",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -226,14 +231,14 @@
       "route": "RÜB → UTG",
       "time": "Mon Apr 27 00:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:14",
+        "eta_schleuse": "10:13",
         "eta_rueb": "06:22",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "06:22",
-      "eta_schleuse": "10:14",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "10:13",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "04:24"
     },
     {
@@ -408,14 +413,19 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HENDRIKA MARGARETHA",
+      "route": "RÜB → HOS",
       "time": "Mon Apr 27 02:27:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "12:32",
+        "eta_rueb": "08:26",
+        "delta_rueb_schleuse": "04:06",
+        "delta_start_rueb": "04:22"
+      },
+      "eta_rueb": "08:26",
+      "eta_schleuse": "12:32",
+      "delta_rueb_schleuse": "04:06",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -449,14 +459,14 @@
       "route": "RÜB → UTG",
       "time": "Mon Apr 27 00:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:14",
+        "eta_schleuse": "10:13",
         "eta_rueb": "06:22",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "04:24"
       },
       "eta_rueb": "06:22",
-      "eta_schleuse": "10:14",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "10:13",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "04:24"
     },
     {
@@ -504,13 +514,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "08:27",
-      "eta_rueb": "08:25",
-      "ship": "HENDRIKA MARGARETHA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "08:34",
       "eta_rueb": "08:28",
