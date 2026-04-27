@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-27T04:26:56",
+  "generated_at": "2026-04-27T04:28:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
     "see": 6
   },
@@ -78,14 +78,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 00:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:56",
+        "eta_schleuse": "05:55",
         "eta_rueb": "01:52",
-        "delta_rueb_schleuse": "04:04",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "01:52",
-      "eta_schleuse": "05:56",
-      "delta_rueb_schleuse": "04:04",
+      "eta_schleuse": "05:55",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:08"
     },
     {
@@ -246,22 +246,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "CMA CGM RUNDALE",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 26 17:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -318,14 +302,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 00:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:56",
+        "eta_schleuse": "05:55",
         "eta_rueb": "01:52",
-        "delta_rueb_schleuse": "04:04",
+        "delta_rueb_schleuse": "04:03",
         "delta_start_rueb": "05:08"
       },
       "eta_rueb": "01:52",
-      "eta_schleuse": "05:56",
-      "delta_rueb_schleuse": "04:04",
+      "eta_schleuse": "05:55",
+      "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "05:08"
     },
     {
@@ -406,28 +390,12 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "CMA CGM RUNDALE",
-      "route": "RÜB → HOS",
-      "time": "Sun Apr 26 17:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:09",
+      "eta_rueb_kiel": "06:10",
       "eta_rueb": "05:55",
       "ship": "MARIA DEYMANN",
       "q_gruppe": "5",
@@ -448,7 +416,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "06:31",
+      "eta_rueb_kiel": "06:30",
       "eta_rueb": "06:15",
       "ship": "GIOCONDA",
       "q_gruppe": "4",
