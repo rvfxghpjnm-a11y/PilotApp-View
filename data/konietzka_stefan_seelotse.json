@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T02:50:46",
+  "generated_at": "2026-04-27T02:52:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -94,15 +94,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 27 00:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:09",
+        "eta_schleuse": "09:36",
+        "eta_rueb": "05:08",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:41"
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "05:09",
-      "eta_schleuse": "09:37",
+      "eta_rueb": "05:08",
+      "eta_schleuse": "09:36",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:41"
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -116,14 +116,14 @@
       "time": "Mon Apr 27 00:06:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:42",
-        "eta_rueb": "05:06",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "05:05",
+        "delta_rueb_schleuse": "04:37",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "05:06",
+      "eta_rueb": "05:05",
       "eta_schleuse": "09:42",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "04:37",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -228,8 +228,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 21:56:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -244,8 +244,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 21:44:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -398,15 +398,15 @@
       "route": "HOS → RÜB",
       "time": "Mon Apr 27 00:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:37",
-        "eta_rueb": "05:09",
+        "eta_schleuse": "09:36",
+        "eta_rueb": "05:08",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:41"
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "05:09",
-      "eta_schleuse": "09:37",
+      "eta_rueb": "05:08",
+      "eta_schleuse": "09:36",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:41"
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -420,14 +420,14 @@
       "time": "Mon Apr 27 00:06:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:42",
-        "eta_rueb": "05:06",
-        "delta_rueb_schleuse": "04:36",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "05:05",
+        "delta_rueb_schleuse": "04:37",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "05:06",
+      "eta_rueb": "05:05",
       "eta_schleuse": "09:42",
-      "delta_rueb_schleuse": "04:36",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "04:37",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -452,8 +452,8 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 21:56:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -468,8 +468,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Sun Apr 26 21:44:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -522,13 +522,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "02:50",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:09",
       "eta_rueb": "06:00",
