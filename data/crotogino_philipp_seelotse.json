@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T12:46:56",
+  "generated_at": "2026-04-28T12:49:03",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,9 +99,14 @@
       "fahrzeug": "SWEDICA HAV",
       "route": "KRH → RÜB",
       "time": "Tue Apr 28 11:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -377,9 +382,14 @@
       "fahrzeug": "SWEDICA HAV",
       "route": "KRH → RÜB",
       "time": "Tue Apr 28 11:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -519,7 +529,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:54",
+      "eta_rueb_kiel": "13:53",
       "eta_rueb": "13:45",
       "ship": "TERRAMAR",
       "q_gruppe": "4",
