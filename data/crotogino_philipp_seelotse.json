@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T03:56:45",
+  "generated_at": "2026-04-28T03:58:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -120,14 +120,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW ARTIST",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 28 02:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:01",
+        "eta_rueb": "04:27",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "04:27",
+      "eta_schleuse": "08:01",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -349,14 +354,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ARKLOW ARTIST",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 28 02:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:01",
+        "eta_rueb": "04:27",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "04:27",
+      "eta_schleuse": "08:01",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -467,17 +477,17 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:27",
-      "eta_rueb": "04:21",
-      "ship": "ARKLOW ARTIST",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "04:30",
       "eta_rueb": "04:24",
       "ship": "BREMEN",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "04:45",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
       "route": "RÜB → HOS"
     },
     {
