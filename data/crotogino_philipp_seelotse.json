@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-28T05:54:46",
+  "generated_at": "2026-04-28T05:56:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
     "nachname": "Crotogino",
     "aufgabe": "Kanalbört",
-    "fahrzeug": "VB PIONEER",
-    "from": "RÜB",
-    "to": "KRH",
+    "fahrzeug": "RÜB",
+    "from": null,
+    "to": null,
     "time": "Tue Apr 28 02:50:00 CEST 2026",
     "nr": 9
   },
@@ -45,14 +45,14 @@
       "route": "HOS → KLT",
       "time": "Tue Apr 28 05:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:57",
+        "eta_schleuse": "05:58",
         "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "02:29",
-      "eta_schleuse": "05:57",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "05:58",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:33"
     },
     {
@@ -65,16 +65,11 @@
       "fahrzeug": "SARDIUS",
       "route": "HOS → KLT",
       "time": "Tue Apr 28 05:19:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:53",
-        "eta_rueb": "02:21",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "02:21",
-      "eta_schleuse": "05:53",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "05:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -147,8 +142,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "VB BREMERHAVEN",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 02:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -163,8 +158,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "VB PIONEER",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 02:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -241,14 +236,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 20:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:57",
+        "eta_schleuse": "05:58",
         "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "02:29",
-      "eta_schleuse": "05:57",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "05:58",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:33"
     },
     {
@@ -261,16 +256,11 @@
       "fahrzeug": "SARDIUS",
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 17:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:53",
-        "eta_rueb": "02:21",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "02:21",
-      "eta_schleuse": "05:53",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "05:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -329,8 +319,8 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "VB BREMERHAVEN",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 02:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -345,8 +335,8 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "VB PIONEER",
-      "route": "RÜB → KRH",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 02:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -407,14 +397,14 @@
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 20:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:57",
+        "eta_schleuse": "05:58",
         "eta_rueb": "02:29",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:33"
       },
       "eta_rueb": "02:29",
-      "eta_schleuse": "05:57",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "05:58",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:33"
     },
     {
@@ -427,16 +417,11 @@
       "fahrzeug": "SARDIUS",
       "route": "RÜB → HOS",
       "time": "Mon Apr 27 17:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "05:53",
-        "eta_rueb": "02:21",
-        "delta_rueb_schleuse": "03:32",
-        "delta_start_rueb": "05:17"
-      },
-      "eta_rueb": "02:21",
-      "eta_schleuse": "05:53",
-      "delta_rueb_schleuse": "03:32",
-      "delta_start_rueb": "05:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
