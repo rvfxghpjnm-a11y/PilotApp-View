@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T06:58:46",
+  "generated_at": "2026-04-28T07:00:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 1,
-    "see": 4
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -195,10 +195,10 @@
       "vorname": "Yannick",
       "nachname": "Petersen",
       "name": "Yannick Petersen",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 12,
       "fahrzeug": "ARKLOW ARTIST",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Tue Apr 28 02:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "07:59",
@@ -313,27 +313,6 @@
       "eta_schleuse": "08:04",
       "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Yannick",
-      "nachname": "Petersen",
-      "name": "Yannick Petersen",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "ARKLOW ARTIST",
-      "route": "RÜB → HOS",
-      "time": "Tue Apr 28 02:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "07:59",
-        "eta_rueb": "04:25",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "04:25",
-      "eta_schleuse": "07:59",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:39"
     }
   ],
   "meldungen_kiel": [],
