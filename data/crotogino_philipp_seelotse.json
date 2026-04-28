@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T16:31:01",
+  "generated_at": "2026-04-28T16:32:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "ELBOCEAN",
       "route": "HOS → RÜB",
       "time": "Tue Apr 28 15:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -338,9 +343,14 @@
       "fahrzeug": "ELBOCEAN",
       "route": "HOS → RÜB",
       "time": "Tue Apr 28 15:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "01:00",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "01:00",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
