@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T12:32:46",
+  "generated_at": "2026-04-28T12:34:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -170,14 +170,14 @@
       "time": "Tue Apr 28 09:59:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:30",
-        "eta_rueb": "15:52",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:38"
+        "eta_rueb": "15:51",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "04:37"
       },
-      "eta_rueb": "15:52",
+      "eta_rueb": "15:51",
       "eta_schleuse": "20:30",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:38"
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -212,14 +212,14 @@
       "time": "Tue Apr 28 09:38:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:34",
-        "eta_rueb": "15:56",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:32"
+        "eta_rueb": "15:55",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "04:31"
       },
-      "eta_rueb": "15:56",
+      "eta_rueb": "15:55",
       "eta_schleuse": "20:34",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:32"
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -228,8 +228,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "VB BREMERHAVEN+DOCK+VB PIONEER",
-      "route": "LÜW → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 06:09:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -244,8 +244,8 @@
       "name": "Jörn Lielienthal",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "VB BREMERHAVEN+DOCK+VB PIONEER",
-      "route": "LÜW → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 05:34:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -432,14 +432,14 @@
       "time": "Tue Apr 28 09:59:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:30",
-        "eta_rueb": "15:52",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:38"
+        "eta_rueb": "15:51",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "04:37"
       },
-      "eta_rueb": "15:52",
+      "eta_rueb": "15:51",
       "eta_schleuse": "20:30",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:38"
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -474,14 +474,14 @@
       "time": "Tue Apr 28 09:38:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:34",
-        "eta_rueb": "15:56",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:32"
+        "eta_rueb": "15:55",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "04:31"
       },
-      "eta_rueb": "15:56",
+      "eta_rueb": "15:55",
       "eta_schleuse": "20:34",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:32"
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -490,8 +490,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "VB BREMERHAVEN+DOCK+VB PIONEER",
-      "route": "LÜW → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 06:09:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -506,8 +506,8 @@
       "name": "Jörn Lielienthal",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "VB BREMERHAVEN+DOCK+VB PIONEER",
-      "route": "LÜW → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 05:34:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -520,7 +520,7 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "12:40",
+      "eta_rueb": "12:35",
       "ship": "Leerfahrt",
       "q_gruppe": "",
       "route": "RÜB → HOS"
@@ -540,7 +540,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:01",
+      "eta_rueb_kiel": "14:00",
       "eta_rueb": "13:51",
       "ship": "THEODOR ESSBERGER",
       "q_gruppe": "4",
@@ -554,7 +554,7 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "14:14",
+      "eta_rueb_kiel": "14:12",
       "eta_rueb": "13:57",
       "ship": "RIX FLEVO",
       "q_gruppe": "5",
