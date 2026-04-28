@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T01:08:46",
+  "generated_at": "2026-04-29T01:10:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,16 +19,11 @@
       "fahrzeug": "X-PRESS AGILITY",
       "route": "HOS → KLT",
       "time": "Wed Apr 29 00:34:30 CEST 2026",
-      "times": {
-        "eta_schleuse": "01:05",
-        "eta_rueb": "21:32",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:44"
-      },
-      "eta_rueb": "21:32",
-      "eta_schleuse": "01:05",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:44"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -40,11 +35,16 @@
       "fahrzeug": "APATYTH",
       "route": "HOS → RÜB",
       "time": "Tue Apr 28 23:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:06",
+        "eta_rueb": "04:35",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:25"
+      },
+      "eta_rueb": "04:35",
+      "eta_schleuse": "09:06",
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -56,11 +56,16 @@
       "fahrzeug": "CAROLINA",
       "route": "HOR → RÜB",
       "time": "Tue Apr 28 23:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:10",
+        "eta_rueb": "04:40",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "04:40",
+      "eta_schleuse": "09:10",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -183,16 +188,11 @@
       "fahrzeug": "X-PRESS AGILITY",
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 15:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "01:05",
-        "eta_rueb": "21:32",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:44"
-      },
-      "eta_rueb": "21:32",
-      "eta_schleuse": "01:05",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:44"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -206,11 +206,16 @@
       "fahrzeug": "APATYTH",
       "route": "HOS → RÜB",
       "time": "Tue Apr 28 23:55:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:06",
+        "eta_rueb": "04:35",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:25"
+      },
+      "eta_rueb": "04:35",
+      "eta_schleuse": "09:06",
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -222,11 +227,16 @@
       "fahrzeug": "CAROLINA",
       "route": "HOR → RÜB",
       "time": "Tue Apr 28 23:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:10",
+        "eta_rueb": "04:40",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "04:40",
+      "eta_schleuse": "09:10",
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -317,16 +327,11 @@
       "fahrzeug": "X-PRESS AGILITY",
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 15:35:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "01:05",
-        "eta_rueb": "21:32",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:44"
-      },
-      "eta_rueb": "21:32",
-      "eta_schleuse": "01:05",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:44"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
