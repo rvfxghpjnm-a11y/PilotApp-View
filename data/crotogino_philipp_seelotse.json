@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T10:26:56",
+  "generated_at": "2026-04-28T10:28:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 6,
     "wach": 1,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -101,8 +101,8 @@
       "name": "Jörn Lielienthal",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VB BREMERHAVEN+DOCK+VB PIONEER",
+      "route": "LÜW → RÜB",
       "time": "Tue Apr 28 05:34:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -144,27 +144,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Marco",
-      "nachname": "Feldes",
-      "name": "Marco Feldes",
-      "aufgabe": "Seebört",
-      "nr": 9,
-      "fahrzeug": "WILHELMINE ESSBERGER",
-      "route": "KLT → HOS",
-      "time": "Tue Apr 28 05:16:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Jan",
       "nachname": "Stürenburg",
       "name": "Jan Stürenburg",
       "aufgabe": "Wachgänger",
-      "nr": 10,
+      "nr": 9,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Tue Apr 28 04:00:00 CEST 2026",
@@ -180,7 +164,7 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Seebört",
-      "nr": 11,
+      "nr": 10,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Tue Apr 28 03:00:00 CEST 2026",
@@ -196,7 +180,7 @@
       "nachname": "Petersen",
       "name": "Yannick Petersen",
       "aufgabe": "Seebört",
-      "nr": 12,
+      "nr": 11,
       "fahrzeug": "OPTIMA",
       "route": "KLT → HOS",
       "time": "Tue Apr 28 02:50:00 CEST 2026",
@@ -300,8 +284,8 @@
       "name": "Jörn Lielienthal",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VB BREMERHAVEN+DOCK+VB PIONEER",
+      "route": "LÜW → RÜB",
       "time": "Tue Apr 28 05:34:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -325,6 +309,13 @@
       "ship": "SWEDICA HAV",
       "q_gruppe": "5",
       "route": "KRH → RÜB"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:00",
+      "ship": "SALAR",
+      "q_gruppe": "5",
+      "route": "GAK → RÜB"
     },
     {
       "eta_rueb_kiel": "13:58",
