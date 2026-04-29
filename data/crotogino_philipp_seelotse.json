@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T19:00:56",
+  "generated_at": "2026-04-29T19:02:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,15 +68,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Apr 29 18:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:55",
-        "eta_rueb": "22:28",
+        "eta_schleuse": "02:57",
+        "eta_rueb": "22:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:52"
+        "delta_start_rueb": "05:54"
       },
-      "eta_rueb": "22:28",
-      "eta_schleuse": "02:55",
+      "eta_rueb": "22:30",
+      "eta_schleuse": "02:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:52"
+      "delta_start_rueb": "05:54"
     },
     {
       "is_target": false,
@@ -138,8 +138,8 @@
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 11:39:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -154,8 +154,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 11:31:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -282,15 +282,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Apr 29 18:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:55",
-        "eta_rueb": "22:28",
+        "eta_schleuse": "02:57",
+        "eta_rueb": "22:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:52"
+        "delta_start_rueb": "05:54"
       },
-      "eta_rueb": "22:28",
-      "eta_schleuse": "02:55",
+      "eta_rueb": "22:30",
+      "eta_schleuse": "02:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:52"
+      "delta_start_rueb": "05:54"
     },
     {
       "is_target": false,
@@ -336,8 +336,8 @@
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 11:39:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -352,8 +352,8 @@
       "name": "Eike Matysik",
       "aufgabe": "Kanalbört",
       "nr": 9,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 11:31:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -398,13 +398,6 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "19:00",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "20:04",
