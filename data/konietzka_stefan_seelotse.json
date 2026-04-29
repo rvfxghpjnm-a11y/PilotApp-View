@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T05:10:47",
+  "generated_at": "2026-04-29T05:12:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,8 +69,8 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALEXANDER B",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 28 23:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -85,14 +85,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MOSTRAUM",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 28 23:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:07",
+        "eta_rueb": "05:34",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "05:34",
+      "eta_schleuse": "09:07",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -182,8 +187,8 @@
       "name": "Jan-Steffen Glenewinkel",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ALEXANDER B",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 28 23:55:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -198,14 +203,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MOSTRAUM",
+      "route": "RÜB → HOS",
       "time": "Tue Apr 28 23:38:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:07",
+        "eta_rueb": "05:34",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:20"
+      },
+      "eta_rueb": "05:34",
+      "eta_schleuse": "09:07",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:20"
     },
     {
       "is_target": false,
@@ -273,20 +283,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:34",
-      "eta_rueb": "05:25",
-      "ship": "MOSTRAUM",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "05:30",
-      "ship": "ALEXANDER B",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "09:58",
       "eta_rueb": "09:35",
