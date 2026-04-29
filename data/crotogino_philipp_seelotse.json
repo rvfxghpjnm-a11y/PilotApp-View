@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T02:30:55",
+  "generated_at": "2026-04-29T02:32:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Apr 29 00:34:30 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -37,14 +37,14 @@
       "time": "Tue Apr 28 23:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:57",
-        "eta_rueb": "04:30",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:20"
+        "eta_rueb": "04:29",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:19"
       },
-      "eta_rueb": "04:30",
+      "eta_rueb": "04:29",
       "eta_schleuse": "08:57",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:20"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:19"
     },
     {
       "is_target": false,
@@ -142,14 +142,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 18:41:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:21",
+        "eta_schleuse": "05:20",
         "eta_rueb": "01:42",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "05:42"
       },
       "eta_rueb": "01:42",
-      "eta_schleuse": "05:21",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "05:20",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "05:42"
     },
     {
@@ -187,14 +187,14 @@
       "time": "Tue Apr 28 23:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "08:57",
-        "eta_rueb": "04:30",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:20"
+        "eta_rueb": "04:29",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:19"
       },
-      "eta_rueb": "04:30",
+      "eta_rueb": "04:29",
       "eta_schleuse": "08:57",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:20"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:19"
     },
     {
       "is_target": false,
@@ -260,14 +260,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 18:41:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:21",
+        "eta_schleuse": "05:20",
         "eta_rueb": "01:42",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "05:42"
       },
       "eta_rueb": "01:42",
-      "eta_schleuse": "05:21",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "05:20",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "05:42"
     },
     {
@@ -309,7 +309,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:41",
+      "eta_rueb_kiel": "05:40",
       "eta_rueb": "05:25",
       "ship": "MOSTRAUM",
       "q_gruppe": "3",
