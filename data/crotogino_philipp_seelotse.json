@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T11:08:58",
+  "generated_at": "2026-04-29T11:11:05",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "AZURYTH",
       "route": "HOS → RÜB",
       "time": "Wed Apr 29 09:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -329,9 +334,14 @@
       "fahrzeug": "AZURYTH",
       "route": "HOS → RÜB",
       "time": "Wed Apr 29 09:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
