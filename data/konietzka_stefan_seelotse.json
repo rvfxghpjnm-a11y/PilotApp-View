@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T04:24:46",
+  "generated_at": "2026-04-29T04:26:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,19 +64,14 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "CAROLINA",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 23:38:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:01",
-        "eta_rueb": "04:30",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:20"
-      },
-      "eta_rueb": "04:30",
-      "eta_schleuse": "09:01",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -193,19 +188,14 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "CAROLINA",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Tue Apr 28 23:38:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:01",
-        "eta_rueb": "04:30",
-        "delta_rueb_schleuse": "04:31",
-        "delta_start_rueb": "03:20"
-      },
-      "eta_rueb": "04:30",
-      "eta_schleuse": "09:01",
-      "delta_rueb_schleuse": "04:31",
-      "delta_start_rueb": "03:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -276,7 +266,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:37",
+      "eta_rueb_kiel": "05:36",
       "eta_rueb": "05:25",
       "ship": "MOSTRAUM",
       "q_gruppe": "3",
