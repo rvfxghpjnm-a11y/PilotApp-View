@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T18:14:55",
+  "generated_at": "2026-04-29T18:16:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -146,9 +146,14 @@
       "fahrzeug": "JONABORG",
       "route": "HOR → UTG",
       "time": "Wed Apr 29 11:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
