@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T11:14:46",
+  "generated_at": "2026-04-29T11:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -67,9 +67,14 @@
       "fahrzeug": "ECO KHAMSIN",
       "route": "HOS → RÜB",
       "time": "Wed Apr 29 09:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:22",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -318,9 +323,14 @@
       "fahrzeug": "ECO KHAMSIN",
       "route": "HOS → RÜB",
       "time": "Wed Apr 29 09:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:22",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
