@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T17:22:50",
+  "generated_at": "2026-04-29T17:24:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 0,
-    "see": 2
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -53,14 +53,14 @@
       "time": "Wed Apr 29 15:21:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:30",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "21:03",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:45"
       },
-      "eta_rueb": null,
+      "eta_rueb": "21:03",
       "eta_schleuse": "01:30",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:45"
     },
     {
       "is_target": false,
@@ -109,10 +109,10 @@
       "vorname": "Gerd",
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "JONABORG",
+      "route": "HOR → UTG",
       "time": "Wed Apr 29 11:25:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -224,14 +224,14 @@
       "time": "Wed Apr 29 15:21:00 CEST 2026",
       "times": {
         "eta_schleuse": "01:30",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "21:03",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:45"
       },
-      "eta_rueb": null,
+      "eta_rueb": "21:03",
       "eta_schleuse": "01:30",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:45"
     },
     {
       "is_target": false,
@@ -274,22 +274,6 @@
       "eta_schleuse": "23:30",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:05"
-    },
-    {
-      "is_target": false,
-      "vorname": "Gerd",
-      "nachname": "Pitschmann",
-      "name": "Gerd Pitschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Wed Apr 29 11:25:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
