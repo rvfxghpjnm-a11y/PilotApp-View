@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T09:05:02",
+  "generated_at": "2026-04-29T09:06:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Wed Apr 29 08:31:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:05",
+        "eta_schleuse": "09:06",
         "eta_rueb": "05:33",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "05:33",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "09:06",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:19"
     },
     {
@@ -56,16 +56,11 @@
       "fahrzeug": "VALENTINA",
       "route": "HOS → KLT",
       "time": "Wed Apr 29 08:27:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:01",
-        "eta_rueb": "05:25",
-        "delta_rueb_schleuse": "03:36",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "05:25",
-      "eta_schleuse": "09:01",
-      "delta_rueb_schleuse": "03:36",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -74,8 +69,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 29 08:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -248,14 +243,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 23:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:05",
+        "eta_schleuse": "09:06",
         "eta_rueb": "05:33",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "05:33",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "09:06",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:19"
     },
     {
@@ -268,16 +263,11 @@
       "fahrzeug": "VALENTINA",
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 20:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:01",
-        "eta_rueb": "05:25",
-        "delta_rueb_schleuse": "03:36",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "05:25",
-      "eta_schleuse": "09:01",
-      "delta_rueb_schleuse": "03:36",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -304,8 +294,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 29 08:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -382,14 +372,14 @@
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 23:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:05",
+        "eta_schleuse": "09:06",
         "eta_rueb": "05:33",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:19"
       },
       "eta_rueb": "05:33",
-      "eta_schleuse": "09:05",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "09:06",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:19"
     },
     {
@@ -402,16 +392,11 @@
       "fahrzeug": "VALENTINA",
       "route": "RÜB → HOS",
       "time": "Tue Apr 28 20:48:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "09:01",
-        "eta_rueb": "05:25",
-        "delta_rueb_schleuse": "03:36",
-        "delta_start_rueb": "04:13"
-      },
-      "eta_rueb": "05:25",
-      "eta_schleuse": "09:01",
-      "delta_rueb_schleuse": "03:36",
-      "delta_start_rueb": "04:13"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -424,7 +409,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:02",
+      "eta_rueb_kiel": "13:01",
       "eta_rueb": "12:50",
       "ship": "ELBSUN",
       "q_gruppe": "1",
