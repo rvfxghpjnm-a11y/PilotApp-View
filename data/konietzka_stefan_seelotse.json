@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T18:58:50",
+  "generated_at": "2026-04-29T19:00:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,15 +68,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Apr 29 18:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:52",
-        "eta_rueb": "22:25",
+        "eta_schleuse": "02:55",
+        "eta_rueb": "22:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:49"
+        "delta_start_rueb": "05:52"
       },
-      "eta_rueb": "22:25",
-      "eta_schleuse": "02:52",
+      "eta_rueb": "22:28",
+      "eta_schleuse": "02:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:49"
+      "delta_start_rueb": "05:52"
     },
     {
       "is_target": false,
@@ -138,19 +138,14 @@
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "QIKIQTAALUK W.",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 29 11:39:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "23:31",
-        "eta_rueb": "19:04",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "19:04",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -232,14 +227,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 09:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:00",
+        "eta_schleuse": "19:59",
         "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "16:32",
-      "eta_schleuse": "20:00",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:59",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:20"
     }
   ],
@@ -287,15 +282,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Apr 29 18:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:52",
-        "eta_rueb": "22:25",
+        "eta_schleuse": "02:55",
+        "eta_rueb": "22:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:49"
+        "delta_start_rueb": "05:52"
       },
-      "eta_rueb": "22:25",
-      "eta_schleuse": "02:52",
+      "eta_rueb": "22:28",
+      "eta_schleuse": "02:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:49"
+      "delta_start_rueb": "05:52"
     },
     {
       "is_target": false,
@@ -341,19 +336,14 @@
       "name": "Peter Vogel",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "QIKIQTAALUK W.",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Apr 29 11:39:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "23:31",
-        "eta_rueb": "19:04",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:10"
-      },
-      "eta_rueb": "19:04",
-      "eta_schleuse": "23:31",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:10"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -382,14 +372,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 09:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:00",
+        "eta_schleuse": "19:59",
         "eta_rueb": "16:32",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "16:32",
-      "eta_schleuse": "20:00",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "19:59",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:20"
     }
   ],
@@ -408,6 +398,13 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "19:00",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "20:04",
