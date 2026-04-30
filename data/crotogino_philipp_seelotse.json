@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T17:44:46",
+  "generated_at": "2026-04-30T17:46:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -28,9 +28,14 @@
       "fahrzeug": "RIX TERRA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:37:23 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -46,14 +51,14 @@
       "time": "Thu Apr 30 16:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "02:44",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "22:14",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": null,
+      "eta_rueb": "22:14",
       "eta_schleuse": "02:44",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -289,8 +294,8 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LEVENSAU",
+      "route": "AHL → HOS",
       "time": "Thu Apr 30 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -400,9 +405,14 @@
       "fahrzeug": "RIX TERRA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:37:23 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -418,14 +428,14 @@
       "time": "Thu Apr 30 16:25:00 CEST 2026",
       "times": {
         "eta_schleuse": "02:44",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "22:14",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "04:34"
       },
-      "eta_rueb": null,
+      "eta_rueb": "22:14",
       "eta_schleuse": "02:44",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "04:34"
     },
     {
       "is_target": false,
@@ -571,8 +581,8 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LEVENSAU",
+      "route": "AHL → HOS",
       "time": "Thu Apr 30 11:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -657,13 +667,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "18:30",
-      "ship": "LEVENSAU",
-      "q_gruppe": "5",
-      "route": "AHL → HOS"
-    },
     {
       "eta_rueb_kiel": "18:46",
       "eta_rueb": "18:40",
