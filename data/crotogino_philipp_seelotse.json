@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T11:02:42",
+  "generated_at": "2026-04-30T11:04:43",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,9 +12,9 @@
     "nr": 3
   },
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": {
     "eta_schleuse": "18:05",
@@ -155,10 +155,10 @@
       "vorname": "Christian",
       "nachname": "Wille",
       "name": "Christian Wille",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 8,
       "fahrzeug": "BBC BELEM",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Apr 30 06:50:00 CEST 2026",
       "times": {
         "eta_schleuse": "11:43",
@@ -215,8 +215,8 @@
       "name": "Sven Reimer",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "EMS POWER + EMS  PONTON 10 + PARAT",
-      "route": "KLT → LDW",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Apr 30 06:09:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -514,27 +514,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Christian",
-      "nachname": "Wille",
-      "name": "Christian Wille",
-      "aufgabe": "Kanalbört",
-      "nr": 8,
-      "fahrzeug": "BBC BELEM",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 30 06:50:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "11:43",
-        "eta_rueb": "08:19",
-        "delta_rueb_schleuse": "03:24",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "08:19",
-      "eta_schleuse": "11:43",
-      "delta_rueb_schleuse": "03:24",
-      "delta_start_rueb": "04:15"
-    },
-    {
-      "is_target": false,
       "vorname": "Tom",
       "nachname": "Demant",
       "name": "Tom Demant",
@@ -658,7 +637,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:35",
+      "eta_rueb_kiel": "14:37",
       "eta_rueb": "14:30",
       "ship": "ELBSPRING",
       "q_gruppe": "0",
