@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T04:12:54",
+  "generated_at": "2026-04-30T04:14:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,14 +106,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "XING HAI WAN",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:15",
+        "eta_rueb": "04:39",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "05:19"
+      },
+      "eta_rueb": "04:39",
+      "eta_schleuse": "08:15",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "05:19"
     },
     {
       "is_target": false,
@@ -277,14 +282,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "XING HAI WAN",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:36:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:15",
+        "eta_rueb": "04:39",
+        "delta_rueb_schleuse": "03:36",
+        "delta_start_rueb": "05:19"
+      },
+      "eta_rueb": "04:39",
+      "eta_schleuse": "08:15",
+      "delta_rueb_schleuse": "03:36",
+      "delta_start_rueb": "05:19"
     },
     {
       "is_target": false,
@@ -353,13 +363,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:39",
-      "eta_rueb": "05:00",
-      "ship": "XING HAI WAN",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "06:07",
       "eta_rueb": "06:15",
       "ship": "KATI",
@@ -372,6 +375,13 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:30",
+      "ship": "NINA B",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
