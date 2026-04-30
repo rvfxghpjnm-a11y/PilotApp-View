@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T17:38:47",
+  "generated_at": "2026-04-30T17:40:48",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -44,9 +44,14 @@
       "fahrzeug": "KENDRA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -411,9 +416,14 @@
       "fahrzeug": "KENDRA",
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "02:44",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "02:44",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -655,7 +665,7 @@
       "route": "AHL → HOS"
     },
     {
-      "eta_rueb_kiel": "18:47",
+      "eta_rueb_kiel": "18:46",
       "eta_rueb": "18:40",
       "ship": "VLIERBORG",
       "q_gruppe": "5",
@@ -669,14 +679,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:54",
+      "eta_rueb_kiel": "18:53",
       "eta_rueb": "18:46",
       "ship": "HEINRICH ESSBERGER",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:53",
+      "eta_rueb_kiel": "20:52",
       "eta_rueb": "20:40",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
