@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T10:10:36",
+  "generated_at": "2026-04-30T10:12:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -616,7 +616,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:35",
+      "eta_rueb_kiel": "12:34",
       "eta_rueb": "12:25",
       "ship": "ELBWAVE",
       "q_gruppe": "1",
@@ -628,6 +628,20 @@
       "ship": "LÜTJE HÖRN",
       "q_gruppe": "5",
       "route": "LEM → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "14:20",
+      "ship": "HAVILA FANO",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "14:48",
+      "eta_rueb": "14:30",
+      "ship": "ELBSPRING",
+      "q_gruppe": "0",
+      "route": "RÜB → HOS"
     }
   ]
 }
