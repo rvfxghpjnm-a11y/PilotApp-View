@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T19:38:46",
+  "generated_at": "2026-04-30T19:40:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 11,
     "wach": 1,
-    "see": 8
+    "see": 10
   },
   "times": null,
   "lotsen": [
@@ -152,10 +152,10 @@
       "vorname": "Christoph",
       "nachname": "Malik",
       "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "LAUWERSBORG",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:06",
@@ -173,10 +173,10 @@
       "vorname": "Hauke",
       "nachname": "Jeschek",
       "name": "Hauke Jeschek",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 10,
       "fahrzeug": "ELBINSEL",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:12",
@@ -492,48 +492,6 @@
       "eta_schleuse": "02:02",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:55"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "LAUWERSBORG",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 30 15:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:06",
-        "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:34"
-      },
-      "eta_rueb": "16:40",
-      "eta_schleuse": "20:06",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:34"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hauke",
-      "nachname": "Jeschek",
-      "name": "Hauke Jeschek",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "ELBINSEL",
-      "route": "RÜB → HOS",
-      "time": "Thu Apr 30 15:05:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "20:12",
-        "eta_rueb": "16:45",
-        "delta_rueb_schleuse": "03:27",
-        "delta_start_rueb": "04:31"
-      },
-      "eta_rueb": "16:45",
-      "eta_schleuse": "20:12",
-      "delta_rueb_schleuse": "03:27",
-      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
