@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:38:46",
+  "generated_at": "2026-04-30T16:40:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -68,14 +68,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:15",
+        "eta_schleuse": "20:14",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:15",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "20:14",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:34"
     },
     {
@@ -424,14 +424,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:15",
+        "eta_schleuse": "20:14",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:15",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "20:14",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:34"
     },
     {
@@ -659,7 +659,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:51",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "18:30",
+      "ship": "LEVENSAU",
+      "q_gruppe": "5",
+      "route": "AHL → HOS"
+    },
+    {
+      "eta_rueb_kiel": "18:50",
       "eta_rueb": "18:35",
       "ship": "VLIERBORG",
       "q_gruppe": "5",
@@ -673,7 +680,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:57",
+      "eta_rueb_kiel": "18:56",
       "eta_rueb": "18:41",
       "ship": "HEINRICH ESSBERGER",
       "q_gruppe": "4",
