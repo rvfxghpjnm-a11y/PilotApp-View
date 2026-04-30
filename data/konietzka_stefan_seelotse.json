@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:18:47",
+  "generated_at": "2026-04-30T16:20:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -53,14 +53,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:20",
+        "eta_rueb": "16:46",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:32"
+      },
+      "eta_rueb": "16:46",
+      "eta_schleuse": "20:20",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -388,14 +393,19 @@
       "name": "Hauke Jeschek",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:20",
+        "eta_rueb": "16:46",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:32"
+      },
+      "eta_rueb": "16:46",
+      "eta_schleuse": "20:20",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -617,13 +627,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:46",
-      "eta_rueb": "16:35",
-      "ship": "ELBINSEL",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "18:52",
       "eta_rueb": "18:35",
       "ship": "VLIERBORG",
@@ -631,7 +634,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:55",
+      "eta_rueb_kiel": "18:54",
       "eta_rueb": "18:38",
       "ship": "BUGOE",
       "q_gruppe": "4",
