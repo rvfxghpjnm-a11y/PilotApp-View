@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T18:16:46",
+  "generated_at": "2026-04-30T18:18:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -259,14 +259,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VLIERBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 11:18:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:17",
+        "eta_rueb": "18:44",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:50"
+      },
+      "eta_rueb": "18:44",
+      "eta_schleuse": "22:17",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:50"
     },
     {
       "is_target": false,
@@ -279,13 +284,13 @@
       "route": "AHL → HOS",
       "time": "Thu Apr 30 11:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:46",
+        "eta_schleuse": "20:53",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "18:46",
+      "eta_schleuse": "20:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -504,14 +509,19 @@
       "name": "Henning Kaschke",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "VLIERBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 11:18:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "22:17",
+        "eta_rueb": "18:44",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:50"
+      },
+      "eta_rueb": "18:44",
+      "eta_schleuse": "22:17",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:50"
     },
     {
       "is_target": false,
@@ -524,13 +534,13 @@
       "route": "AHL → HOS",
       "time": "Thu Apr 30 11:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:46",
+        "eta_schleuse": "20:53",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "18:46",
+      "eta_schleuse": "20:53",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -586,14 +596,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "18:45",
-      "eta_rueb": "18:40",
-      "ship": "VLIERBORG",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "18:48",
+      "eta_rueb_kiel": "18:47",
       "eta_rueb": "18:43",
       "ship": "BUGOE",
       "q_gruppe": "4",
@@ -607,7 +610,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:51",
+      "eta_rueb_kiel": "20:50",
       "eta_rueb": "20:40",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
@@ -636,7 +639,7 @@
     },
     {
       "eta_rueb_kiel": "22:33",
-      "eta_rueb": "22:10",
+      "eta_rueb": "22:15",
       "ship": "BALTIC SUN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
