@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T20:14:55",
+  "generated_at": "2026-04-30T20:16:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -142,14 +142,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:37:23 CEST 2026",
       "times": {
-        "eta_schleuse": "01:56",
+        "eta_schleuse": "01:54",
         "eta_rueb": "21:28",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "21:28",
-      "eta_schleuse": "01:56",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "01:54",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:42"
     },
     {
@@ -200,14 +200,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:16",
+        "eta_schleuse": "20:17",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:16",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "20:17",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:34"
     },
     {
@@ -238,14 +238,19 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX ATLANTIC",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 14:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:35",
+        "eta_rueb": "20:42",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:30"
+      },
+      "eta_rueb": "20:42",
+      "eta_schleuse": "00:35",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -530,14 +535,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:37:23 CEST 2026",
       "times": {
-        "eta_schleuse": "01:56",
+        "eta_schleuse": "01:54",
         "eta_rueb": "21:28",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "21:28",
-      "eta_schleuse": "01:56",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "01:54",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:42"
     },
     {
@@ -568,14 +573,19 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "RIX ATLANTIC",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 14:23:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "00:35",
+        "eta_rueb": "20:42",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "04:30"
+      },
+      "eta_rueb": "20:42",
+      "eta_schleuse": "00:35",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "04:30"
     },
     {
       "is_target": false,
@@ -680,13 +690,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "20:42",
-      "eta_rueb": "20:40",
-      "ship": "RIX ATLANTIC",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "21:30",
