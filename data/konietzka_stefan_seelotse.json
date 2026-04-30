@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T04:14:37",
+  "generated_at": "2026-04-30T04:16:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -140,14 +140,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:58",
+        "eta_schleuse": "06:57",
         "eta_rueb": "03:26",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:26",
-      "eta_schleuse": "06:58",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:10"
     },
     {
@@ -316,14 +316,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:58",
+        "eta_schleuse": "06:57",
         "eta_rueb": "03:26",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:26",
-      "eta_schleuse": "06:58",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:10"
     },
     {
@@ -372,7 +372,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:07",
+      "eta_rueb_kiel": "06:06",
       "eta_rueb": "06:15",
       "ship": "KATI",
       "q_gruppe": "4",
@@ -390,6 +390,20 @@
       "eta_rueb": "08:30",
       "ship": "NINA B",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:28",
+      "eta_rueb": "08:33",
+      "ship": "AGUIMES",
+      "q_gruppe": "4",
+      "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "08:33",
+      "eta_rueb": "08:35",
+      "ship": "BBC BELEM",
+      "q_gruppe": "3",
       "route": "RÜB → HOS"
     }
   ]
