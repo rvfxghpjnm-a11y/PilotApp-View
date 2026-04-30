@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T12:16:50",
+  "generated_at": "2026-04-30T12:18:44",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -189,8 +189,8 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LÜTJE HÖRN",
+      "route": "LEM → HOS",
       "time": "Thu Apr 30 07:02:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -472,8 +472,8 @@
       "name": "Jan Kurfeld",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LÜTJE HÖRN",
+      "route": "LEM → HOS",
       "time": "Thu Apr 30 07:02:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -543,13 +543,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "13:00",
-      "ship": "LÜTJE HÖRN",
-      "q_gruppe": "5",
-      "route": "LEM → HOS"
-    },
-    {
       "eta_rueb_kiel": "14:39",
       "eta_rueb": "14:20",
       "ship": "HAVILA FANO",
@@ -578,7 +571,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "16:59",
       "eta_rueb": "16:35",
       "ship": "ELBINSEL",
       "q_gruppe": "1",
