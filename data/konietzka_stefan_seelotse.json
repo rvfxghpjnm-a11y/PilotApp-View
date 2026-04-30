@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T07:40:38",
+  "generated_at": "2026-04-30T07:42:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -185,8 +185,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "ARKLOW WILLOW",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Apr 30 05:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -323,8 +323,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NINA B",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 01:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -516,8 +516,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "NINA B",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 01:20:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -549,13 +549,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "08:10",
-      "ship": "NINA B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "08:16",
       "eta_rueb": "08:15",
