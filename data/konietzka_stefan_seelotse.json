@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T05:28:36",
+  "generated_at": "2026-04-30T05:30:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -29,14 +29,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 30 05:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:49",
+        "eta_schleuse": "05:47",
         "eta_rueb": "02:20",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "02:20",
-      "eta_schleuse": "05:49",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "05:47",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:40"
     },
     {
@@ -46,8 +46,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Apr 30 05:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -62,8 +62,8 @@
       "name": "Gregor Meise",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Apr 30 05:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -78,8 +78,8 @@
       "name": "Jens-Peter Töpfer",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Apr 30 05:05:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -283,14 +283,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 18:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:49",
+        "eta_schleuse": "05:47",
         "eta_rueb": "02:20",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "02:20",
-      "eta_schleuse": "05:49",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "05:47",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:40"
     }
   ],
@@ -459,14 +459,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 18:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:49",
+        "eta_schleuse": "05:47",
         "eta_rueb": "02:20",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "02:20",
-      "eta_schleuse": "05:49",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "05:47",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:40"
     }
   ],
