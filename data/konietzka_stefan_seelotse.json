@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T06:38:36",
+  "generated_at": "2026-04-30T06:40:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -50,14 +50,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 30 06:09:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:43",
+        "eta_schleuse": "06:44",
         "eta_rueb": "02:36",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "03:16"
       },
       "eta_rueb": "02:36",
-      "eta_schleuse": "06:43",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "06:44",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "03:16"
     },
     {
@@ -258,8 +258,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -320,14 +320,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 20:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:43",
+        "eta_schleuse": "06:44",
         "eta_rueb": "02:36",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "03:16"
       },
       "eta_rueb": "02:36",
-      "eta_schleuse": "06:43",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "06:44",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "03:16"
     }
   ],
@@ -434,8 +434,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -496,26 +496,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 20:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "06:43",
+        "eta_schleuse": "06:44",
         "eta_rueb": "02:36",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "03:16"
       },
       "eta_rueb": "02:36",
-      "eta_schleuse": "06:43",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "06:44",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "03:16"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "06:35",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "08:00",
@@ -531,7 +524,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:21",
+      "eta_rueb_kiel": "08:20",
       "eta_rueb": "08:15",
       "ship": "AGUIMES",
       "q_gruppe": "4",
