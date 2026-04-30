@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:06:38",
+  "generated_at": "2026-04-30T09:08:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -352,14 +352,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 03:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:45",
+        "eta_schleuse": "11:43",
         "eta_rueb": "08:14",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "08:14",
-      "eta_schleuse": "11:45",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "11:43",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:14"
     },
     {
@@ -613,14 +613,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 03:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:45",
+        "eta_schleuse": "11:43",
         "eta_rueb": "08:14",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "08:14",
-      "eta_schleuse": "11:45",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "11:43",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:14"
     },
     {
@@ -658,10 +658,17 @@
     },
     {
       "eta_rueb_kiel": "12:36",
-      "eta_rueb": "12:35",
+      "eta_rueb": "12:25",
       "ship": "ELBWAVE",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:00",
+      "ship": "LÜTJE HÖRN",
+      "q_gruppe": "5",
+      "route": "LEM → HOS"
     }
   ]
 }
