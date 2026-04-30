@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:14:47",
+  "generated_at": "2026-04-30T16:16:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,14 +32,19 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAUWERSBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:15",
+        "eta_rueb": "16:41",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:35"
+      },
+      "eta_rueb": "16:41",
+      "eta_schleuse": "20:15",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -68,15 +73,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 14:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:28",
-        "eta_rueb": "19:17",
+        "eta_schleuse": "23:27",
+        "eta_rueb": "19:16",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "03:57"
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "19:17",
-      "eta_schleuse": "23:28",
+      "eta_rueb": "19:16",
+      "eta_schleuse": "23:27",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "03:57"
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -362,14 +367,19 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LAUWERSBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "20:15",
+        "eta_rueb": "16:41",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:35"
+      },
+      "eta_rueb": "16:41",
+      "eta_schleuse": "20:15",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -398,15 +408,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 14:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:28",
-        "eta_rueb": "19:17",
+        "eta_schleuse": "23:27",
+        "eta_rueb": "19:16",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "03:57"
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "19:17",
-      "eta_schleuse": "23:28",
+      "eta_rueb": "19:16",
+      "eta_schleuse": "23:27",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "03:57"
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -606,13 +616,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "16:41",
-      "eta_rueb": "16:30",
-      "ship": "LAUWERSBORG",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "16:46",
       "eta_rueb": "16:35",
