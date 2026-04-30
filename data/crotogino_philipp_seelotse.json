@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:22:43",
+  "generated_at": "2026-04-30T09:24:43",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -16,7 +16,12 @@
     "wach": 1,
     "see": 7
   },
-  "times": null,
+  "times": {
+    "eta_schleuse": "18:01",
+    "eta_rueb": null,
+    "delta_rueb_schleuse": null,
+    "delta_start_rueb": null
+  },
   "lotsen": [
     {
       "is_target": false,
@@ -44,9 +49,14 @@
       "fahrzeug": "IDA RAMBOW",
       "route": "HOR → RÜB",
       "time": "Thu Apr 30 08:24:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:01",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:01",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -78,14 +88,14 @@
       "time": "Thu Apr 30 07:04:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:58",
-        "eta_rueb": "12:49",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:19"
+        "eta_rueb": "12:48",
+        "delta_rueb_schleuse": "05:10",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "12:49",
+      "eta_rueb": "12:48",
       "eta_schleuse": "17:58",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:19"
+      "delta_rueb_schleuse": "05:10",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -98,15 +108,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 30 07:02:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:50",
-        "eta_rueb": "12:23",
+        "eta_schleuse": "16:49",
+        "eta_rueb": "12:22",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "12:23",
-      "eta_schleuse": "16:50",
+      "eta_rueb": "12:22",
+      "eta_schleuse": "16:49",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -417,9 +427,14 @@
       "fahrzeug": "IDA RAMBOW",
       "route": "HOR → RÜB",
       "time": "Thu Apr 30 08:24:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:01",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:01",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -451,14 +466,14 @@
       "time": "Thu Apr 30 07:04:00 CEST 2026",
       "times": {
         "eta_schleuse": "17:58",
-        "eta_rueb": "12:49",
-        "delta_rueb_schleuse": "05:09",
-        "delta_start_rueb": "04:19"
+        "eta_rueb": "12:48",
+        "delta_rueb_schleuse": "05:10",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "12:49",
+      "eta_rueb": "12:48",
       "eta_schleuse": "17:58",
-      "delta_rueb_schleuse": "05:09",
-      "delta_start_rueb": "04:19"
+      "delta_rueb_schleuse": "05:10",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -471,15 +486,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Apr 30 07:02:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:50",
-        "eta_rueb": "12:23",
+        "eta_schleuse": "16:49",
+        "eta_rueb": "12:22",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:51"
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "12:23",
-      "eta_schleuse": "16:50",
+      "eta_rueb": "12:22",
+      "eta_schleuse": "16:49",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:51"
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -633,7 +648,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:32",
+      "eta_rueb_kiel": "10:31",
       "eta_rueb": "10:30",
       "ship": "SVENDBORG",
       "q_gruppe": "1",
@@ -647,7 +662,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:35",
+      "eta_rueb_kiel": "12:34",
       "eta_rueb": "12:25",
       "ship": "ELBWAVE",
       "q_gruppe": "1",
