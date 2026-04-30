@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T18:04:46",
+  "generated_at": "2026-04-30T18:06:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -224,14 +224,14 @@
       "route": "HOS → KLT",
       "time": "Thu Apr 30 13:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:05",
+        "eta_schleuse": "18:07",
         "eta_rueb": "14:33",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "14:33",
-      "eta_schleuse": "18:05",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:07",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:27"
     },
     {
@@ -341,14 +341,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 07:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:05",
+        "eta_schleuse": "18:07",
         "eta_rueb": "14:33",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "14:33",
-      "eta_schleuse": "18:05",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:07",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:27"
     },
     {
@@ -586,14 +586,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 07:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:05",
+        "eta_schleuse": "18:07",
         "eta_rueb": "14:33",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "14:33",
-      "eta_schleuse": "18:05",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:07",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:27"
     },
     {
@@ -678,6 +678,13 @@
       "eta_rueb": "21:50",
       "ship": "DP WORLD LIMASSOL",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "22:10",
+      "ship": "BALTIC SUN",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
