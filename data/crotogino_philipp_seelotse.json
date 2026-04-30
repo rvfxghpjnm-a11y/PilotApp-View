@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T12:14:44",
+  "generated_at": "2026-04-30T12:16:50",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,9 +12,9 @@
     "nr": 7
   },
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 2,
-    "see": 4
+    "see": 5
   },
   "times": {
     "eta_schleuse": "18:02",
@@ -152,7 +152,7 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "-",
+      "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Apr 30 07:38:00 CEST 2026",
       "times": null,
@@ -235,10 +235,10 @@
       "vorname": "Tom",
       "nachname": "Demant",
       "name": "Tom Demant",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "AMISIA",
-      "route": "RÜB → UTG",
+      "fahrzeug": "ATLANTIS",
+      "route": "NWK → KLT",
       "time": "Thu Apr 30 06:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -273,14 +273,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 05:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:02",
+        "eta_schleuse": "14:01",
         "eta_rueb": "10:33",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "10:33",
-      "eta_schleuse": "14:02",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "14:01",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:13"
     },
     {
@@ -435,7 +435,7 @@
       "name": "Caspar-Maria Krüger",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "-",
+      "fahrzeug": "RÜB",
       "route": null,
       "time": "Thu Apr 30 07:38:00 CEST 2026",
       "times": null,
@@ -499,22 +499,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Tom",
-      "nachname": "Demant",
-      "name": "Tom Demant",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "AMISIA",
-      "route": "RÜB → UTG",
-      "time": "Thu Apr 30 06:50:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Justus",
       "nachname": "Heyder",
       "name": "Justus Heyder",
@@ -524,14 +508,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 05:35:00 CEST 2026",
       "times": {
-        "eta_schleuse": "14:02",
+        "eta_schleuse": "14:01",
         "eta_rueb": "10:33",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "10:33",
-      "eta_schleuse": "14:02",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "14:01",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:13"
     },
     {
@@ -585,6 +569,20 @@
       "ship": "LARISSA B",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": "16:54",
+      "eta_rueb": "16:30",
+      "ship": "LAUWERSBORG",
+      "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:35",
+      "ship": "ELBINSEL",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
     }
   ]
 }
