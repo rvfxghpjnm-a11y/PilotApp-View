@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T05:36:35",
+  "generated_at": "2026-04-30T05:38:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -126,14 +126,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KATI",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 04:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:39",
+        "eta_rueb": "06:05",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:25"
+      },
+      "eta_rueb": "06:05",
+      "eta_schleuse": "09:39",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -350,14 +355,19 @@
       "name": "Stephan Wulff",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "KATI",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 04:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:39",
+        "eta_rueb": "06:05",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:25"
+      },
+      "eta_rueb": "06:05",
+      "eta_schleuse": "09:39",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -505,13 +515,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:05",
-      "eta_rueb": "06:15",
-      "ship": "KATI",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": null,
       "eta_rueb": "08:00",
       "ship": "ASGARD",
@@ -526,21 +529,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:25",
+      "eta_rueb_kiel": "08:24",
       "eta_rueb": "08:33",
       "ship": "AGUIMES",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:29",
+      "eta_rueb_kiel": "08:28",
       "eta_rueb": "08:35",
       "ship": "BBC BELEM",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:34",
+      "eta_rueb_kiel": "08:33",
       "eta_rueb": "08:38",
       "ship": "AMISIA",
       "q_gruppe": "4",
