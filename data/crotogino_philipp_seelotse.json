@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T19:50:56",
+  "generated_at": "2026-04-30T19:53:04",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "DEO VOLENTE",
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 18:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:09",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -445,9 +450,14 @@
       "fahrzeug": "DEO VOLENTE",
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 18:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:09",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
