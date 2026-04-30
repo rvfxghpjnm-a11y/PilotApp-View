@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T18:00:46",
+  "generated_at": "2026-04-30T18:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -78,14 +78,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:10",
+        "eta_schleuse": "20:09",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:10",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "20:09",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:34"
     },
     {
@@ -135,10 +135,10 @@
       "vorname": "Lutz",
       "nachname": "Jeske",
       "name": "Lutz Jeske",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "BALTIC STAR",
-      "route": "KRH → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Apr 30 13:55:00 CEST 2026",
       "times": {
         "eta_schleuse": "18:26",
@@ -439,14 +439,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:10",
+        "eta_schleuse": "20:09",
         "eta_rueb": "16:40",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "16:40",
-      "eta_schleuse": "20:10",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "20:09",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:34"
     },
     {
@@ -490,27 +490,6 @@
       "eta_schleuse": "23:25",
       "delta_rueb_schleuse": "04:12",
       "delta_start_rueb": "03:53"
-    },
-    {
-      "is_target": false,
-      "vorname": "Lutz",
-      "nachname": "Jeske",
-      "name": "Lutz Jeske",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "BALTIC STAR",
-      "route": "KRH → HOS",
-      "time": "Thu Apr 30 13:55:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:26",
-        "eta_rueb": "14:42",
-        "delta_rueb_schleuse": "51:44",
-        "delta_start_rueb": "48:46"
-      },
-      "eta_rueb": "14:42",
-      "eta_schleuse": "18:26",
-      "delta_rueb_schleuse": "51:44",
-      "delta_start_rueb": "48:46"
     },
     {
       "is_target": false,
@@ -680,7 +659,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:52",
+      "eta_rueb_kiel": "20:51",
       "eta_rueb": "20:40",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
