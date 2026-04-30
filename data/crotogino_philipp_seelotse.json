@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T03:38:53",
+  "generated_at": "2026-04-30T03:40:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,8 +69,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WAL",
+      "route": "LÜW → RÜB",
       "time": "Wed Apr 29 22:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -105,14 +105,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:00",
+        "eta_schleuse": "06:59",
         "eta_rueb": "03:26",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:26",
-      "eta_schleuse": "07:00",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "06:59",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:10"
     },
     {
@@ -235,8 +235,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "WAL",
+      "route": "LÜW → RÜB",
       "time": "Wed Apr 29 22:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -271,14 +271,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Apr 29 22:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:00",
+        "eta_schleuse": "06:59",
         "eta_rueb": "03:26",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:26",
-      "eta_schleuse": "07:00",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "06:59",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:10"
     },
     {
@@ -326,13 +326,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "04:00",
-      "ship": "WAL",
-      "q_gruppe": "3",
-      "route": "LÜW → RÜB"
-    },
     {
       "eta_rueb_kiel": "04:41",
       "eta_rueb": "05:00",
