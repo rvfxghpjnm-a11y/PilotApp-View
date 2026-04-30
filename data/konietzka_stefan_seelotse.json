@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T18:54:50",
+  "generated_at": "2026-04-30T18:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 13,
     "wach": 1,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -46,10 +46,10 @@
       "vorname": "Peter",
       "nachname": "Böttcher",
       "name": "Peter Böttcher",
-      "aufgabe": "Seebört",
+      "aufgabe": "Kanalbört",
       "nr": 3,
       "fahrzeug": "DEO VOLENTE",
-      "route": "LDW → HOS",
+      "route": "HOS → RÜB",
       "time": "Thu Apr 30 18:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -68,14 +68,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:37:23 CEST 2026",
       "times": {
-        "eta_schleuse": "02:36",
+        "eta_schleuse": "02:35",
         "eta_rueb": "21:34",
-        "delta_rueb_schleuse": "05:02",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "21:34",
-      "eta_schleuse": "02:36",
-      "delta_rueb_schleuse": "05:02",
+      "eta_schleuse": "02:35",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "03:48"
     },
     {
@@ -147,14 +147,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:12",
+        "eta_schleuse": "20:11",
         "eta_rueb": "16:45",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "16:45",
-      "eta_schleuse": "20:12",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "20:11",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:31"
     },
     {
@@ -415,6 +415,22 @@
     },
     {
       "is_target": false,
+      "vorname": "Peter",
+      "nachname": "Böttcher",
+      "name": "Peter Böttcher",
+      "aufgabe": "Kanalbört",
+      "nr": 3,
+      "fahrzeug": "DEO VOLENTE",
+      "route": "HOS → RÜB",
+      "time": "Thu Apr 30 18:15:00 CEST 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
       "vorname": "Remo",
       "nachname": "Kordt",
       "name": "Remo Kordt",
@@ -424,14 +440,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Apr 30 16:37:23 CEST 2026",
       "times": {
-        "eta_schleuse": "02:36",
+        "eta_schleuse": "02:35",
         "eta_rueb": "21:34",
-        "delta_rueb_schleuse": "05:02",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "21:34",
-      "eta_schleuse": "02:36",
-      "delta_rueb_schleuse": "05:02",
+      "eta_schleuse": "02:35",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "03:48"
     },
     {
@@ -487,14 +503,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:12",
+        "eta_schleuse": "20:11",
         "eta_rueb": "16:45",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:31"
       },
       "eta_rueb": "16:45",
-      "eta_schleuse": "20:12",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "20:11",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:31"
     },
     {
