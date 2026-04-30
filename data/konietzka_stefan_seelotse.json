@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T10:00:38",
+  "generated_at": "2026-04-30T10:02:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -290,14 +290,19 @@
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SVENDBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 04:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:03",
+        "eta_rueb": "10:29",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "10:29",
+      "eta_schleuse": "14:03",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -326,14 +331,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 03:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:38",
+        "eta_schleuse": "11:37",
         "eta_rueb": "08:14",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "08:14",
-      "eta_schleuse": "11:38",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "11:37",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:14"
     },
     {
@@ -546,14 +551,19 @@
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SVENDBORG",
+      "route": "RÜB → HOS",
       "time": "Thu Apr 30 04:45:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:03",
+        "eta_rueb": "10:29",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "10:29",
+      "eta_schleuse": "14:03",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -566,14 +576,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 03:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:38",
+        "eta_schleuse": "11:37",
         "eta_rueb": "08:14",
-        "delta_rueb_schleuse": "03:24",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "08:14",
-      "eta_schleuse": "11:38",
-      "delta_rueb_schleuse": "03:24",
+      "eta_schleuse": "11:37",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:14"
     },
     {
@@ -595,13 +605,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "10:29",
-      "eta_rueb": "10:30",
-      "ship": "SVENDBORG",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "10:36",
       "eta_rueb": "10:33",
