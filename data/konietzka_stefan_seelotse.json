@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T21:46:55",
+  "generated_at": "2026-05-01T21:48:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -197,8 +197,8 @@
       "name": "Jürgen Marth",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "GRIFTBOR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri May 01 14:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -213,8 +213,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri May 01 13:57:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -249,14 +249,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 01 12:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "22:24",
         "eta_rueb": "18:16",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:46"
       },
       "eta_rueb": "18:16",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "22:24",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:46"
     },
     {
@@ -405,14 +405,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 01 12:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "22:23",
+        "eta_schleuse": "22:24",
         "eta_rueb": "18:16",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:46"
       },
       "eta_rueb": "18:16",
-      "eta_schleuse": "22:23",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "22:24",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:46"
     },
     {
@@ -440,21 +440,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:47",
+      "eta_rueb_kiel": "00:46",
       "eta_rueb": "00:40",
       "ship": "TITAN VISION",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:50",
+      "eta_rueb_kiel": "00:49",
       "eta_rueb": "00:43",
       "ship": "BERGSTRAUM",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:11",
+      "eta_rueb_kiel": "01:10",
       "eta_rueb": "00:55",
       "ship": "NURI SONAY",
       "q_gruppe": "2",
