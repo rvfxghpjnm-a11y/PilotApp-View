@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:24:46",
+  "generated_at": "2026-05-01T21:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -117,19 +117,14 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "LADY ADELE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri May 01 16:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "01:57",
-        "eta_rueb": "21:30",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
-      },
-      "eta_rueb": "21:30",
-      "eta_schleuse": "01:57",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -229,27 +224,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Domeier",
-      "name": "Stefan Domeier",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "NORDIC SAGA",
-      "route": "KLT → HOS",
-      "time": "Fri May 01 14:10:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Peter",
       "nachname": "Jakob",
       "name": "Peter Jakob",
       "aufgabe": "Seebört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "FERESA",
       "route": "HOS → KLT",
       "time": "Fri May 01 13:57:00 CEST 2026",
@@ -265,7 +244,7 @@
       "nachname": "Christiansen",
       "name": "Jan Christiansen",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "RIX MUNTE",
       "route": "HOS → KLT",
       "time": "Fri May 01 13:52:00 CEST 2026",
@@ -281,7 +260,7 @@
       "nachname": "Spiekermann",
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "GOLFSTRAUM",
       "route": "RÜB → HOS",
       "time": "Fri May 01 12:08:00 CEST 2026",
@@ -302,7 +281,7 @@
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "LADY MENNA",
       "route": "RÜB → HOS",
       "time": "Fri May 01 12:00:00 CEST 2026",
@@ -395,19 +374,14 @@
       "name": "Lutz Wäntig",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "LADY ADELE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri May 01 16:56:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "01:57",
-        "eta_rueb": "21:30",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
-      },
-      "eta_rueb": "21:30",
-      "eta_schleuse": "01:57",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -447,7 +421,7 @@
       "nachname": "Spiekermann",
       "name": "Fred Spiekermann",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "GOLFSTRAUM",
       "route": "RÜB → HOS",
       "time": "Fri May 01 12:08:00 CEST 2026",
@@ -468,7 +442,7 @@
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "LADY MENNA",
       "route": "RÜB → HOS",
       "time": "Fri May 01 12:00:00 CEST 2026",
@@ -501,7 +475,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:13",
+      "eta_rueb_kiel": "01:12",
       "eta_rueb": "00:55",
       "ship": "NURI SONAY",
       "q_gruppe": "2",
