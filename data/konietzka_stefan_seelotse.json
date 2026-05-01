@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T00:16:46",
+  "generated_at": "2026-05-02T00:18:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -40,9 +40,14 @@
       "fahrzeug": "AMADEUS AQUAMARIJN",
       "route": "HOR → RÜB",
       "time": "Fri May 01 23:11:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -78,15 +83,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 22:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:23",
-        "eta_rueb": "03:56",
+        "eta_schleuse": "08:25",
+        "eta_rueb": "03:58",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:50"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "03:56",
-      "eta_schleuse": "08:23",
+      "eta_rueb": "03:58",
+      "eta_schleuse": "08:25",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:50"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -343,9 +348,14 @@
       "fahrzeug": "AMADEUS AQUAMARIJN",
       "route": "HOR → RÜB",
       "time": "Fri May 01 23:11:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:18",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -381,15 +391,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 22:47:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:23",
-        "eta_rueb": "03:56",
+        "eta_schleuse": "08:25",
+        "eta_rueb": "03:58",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:50"
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "03:56",
-      "eta_schleuse": "08:23",
+      "eta_rueb": "03:58",
+      "eta_schleuse": "08:25",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:50"
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
