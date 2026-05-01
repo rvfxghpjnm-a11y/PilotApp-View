@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T09:26:59",
+  "generated_at": "2026-05-01T09:28:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,15 +41,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 08:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:28",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "17:25",
+        "eta_rueb": "12:58",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "17:28",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "12:58",
+      "eta_schleuse": "17:25",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -264,8 +264,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 03:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -296,8 +296,8 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 03:09:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -355,15 +355,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 08:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:28",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "17:25",
+        "eta_rueb": "12:58",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "17:28",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "12:58",
+      "eta_schleuse": "17:25",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -498,8 +498,8 @@
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
       "nr": 14,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 03:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -514,8 +514,8 @@
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 03:09:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -527,13 +527,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "09:45",
-      "ship": "EN AVANT 10 + EN AVANT 1 + H-331",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "11:39",
       "eta_rueb": "11:25",
       "ship": "PREGOL HAV",
@@ -541,7 +534,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:57",
+      "eta_rueb_kiel": "14:01",
       "eta_rueb": "13:30",
       "ship": "KEIT",
       "q_gruppe": "4",
