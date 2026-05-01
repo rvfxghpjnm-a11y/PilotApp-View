@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T21:58:47",
+  "generated_at": "2026-05-01T22:00:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,9 +88,14 @@
       "fahrzeug": "MARBURG",
       "route": "HOS → RÜB",
       "time": "Fri May 01 20:29:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:27",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:27",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -202,14 +207,19 @@
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PHILIPP ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 16:02:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:20",
+        "eta_rueb": "22:27",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "05:25"
+      },
+      "eta_rueb": "22:27",
+      "eta_schleuse": "02:20",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "05:25"
     },
     {
       "is_target": false,
@@ -218,8 +228,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "PALLIETER",
-      "route": "HOS → KLT",
+      "fahrzeug": "ALANA",
+      "route": "KLT → HOS",
       "time": "Fri May 01 14:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -361,9 +371,14 @@
       "fahrzeug": "MARBURG",
       "route": "HOS → RÜB",
       "time": "Fri May 01 20:29:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:27",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:27",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -422,14 +437,19 @@
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PHILIPP ESSBERGER",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 16:02:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "02:20",
+        "eta_rueb": "22:27",
+        "delta_rueb_schleuse": "03:53",
+        "delta_start_rueb": "05:25"
+      },
+      "eta_rueb": "22:27",
+      "eta_schleuse": "02:20",
+      "delta_rueb_schleuse": "03:53",
+      "delta_start_rueb": "05:25"
     },
     {
       "is_target": false,
@@ -477,14 +497,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:46",
+      "eta_rueb_kiel": "00:45",
       "eta_rueb": "00:40",
       "ship": "TITAN VISION",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:49",
+      "eta_rueb_kiel": "00:48",
       "eta_rueb": "00:43",
       "ship": "BERGSTRAUM",
       "q_gruppe": "3",
@@ -495,13 +515,6 @@
       "eta_rueb": "00:55",
       "ship": "NURI SONAY",
       "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "22:27",
-      "eta_rueb": "22:20",
-      "ship": "PHILIPP ESSBERGER",
-      "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
   ]
