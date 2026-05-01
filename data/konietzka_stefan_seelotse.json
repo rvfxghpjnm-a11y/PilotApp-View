@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T01:36:46",
+  "generated_at": "2026-05-02T01:38:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -196,19 +196,14 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "LAURA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri May 01 20:44:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:12",
-        "eta_rueb": "01:43",
-        "delta_rueb_schleuse": "04:29",
-        "delta_start_rueb": "03:33"
-      },
-      "eta_rueb": "01:43",
-      "eta_schleuse": "06:12",
-      "delta_rueb_schleuse": "04:29",
-      "delta_start_rueb": "03:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -531,19 +526,14 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "LAURA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri May 01 20:44:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "06:12",
-        "eta_rueb": "01:43",
-        "delta_rueb_schleuse": "04:29",
-        "delta_start_rueb": "03:33"
-      },
-      "eta_rueb": "01:43",
-      "eta_schleuse": "06:12",
-      "delta_rueb_schleuse": "04:29",
-      "delta_start_rueb": "03:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -665,6 +655,13 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "01:40",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
+    {
       "eta_rueb_kiel": "05:01",
       "eta_rueb": "04:47",
       "ship": "HUNTEBORG",
@@ -686,7 +683,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:11",
+      "eta_rueb_kiel": "05:10",
       "eta_rueb": "04:56",
       "ship": "SINE BRES",
       "q_gruppe": "5",
