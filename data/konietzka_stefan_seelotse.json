@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T19:30:47",
+  "generated_at": "2026-05-01T19:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 1,
-    "see": 5
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -72,10 +72,10 @@
       "vorname": "Sören",
       "nachname": "Engler",
       "name": "Sören Engler",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 4,
       "fahrzeug": "HUMBER SPRINTER",
-      "route": "HOS → RÜB",
+      "route": "HOS → NHF",
       "time": "Fri May 01 16:31:00 CEST 2026",
       "times": {
         "eta_schleuse": "02:08",
@@ -469,27 +469,6 @@
       "eta_schleuse": "02:05",
       "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:40"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Engler",
-      "name": "Sören Engler",
-      "aufgabe": "Kanalbört",
-      "nr": 4,
-      "fahrzeug": "HUMBER SPRINTER",
-      "route": "HOS → RÜB",
-      "time": "Fri May 01 16:31:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "02:08",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
-      "eta_rueb": null,
-      "eta_schleuse": "02:08",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
