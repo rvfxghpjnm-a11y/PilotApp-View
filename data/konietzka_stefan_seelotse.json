@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T14:16:37",
+  "generated_at": "2026-05-01T14:18:38",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,7 +12,7 @@
     "nr": 9
   },
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 3,
     "see": 4
   },
@@ -372,22 +372,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri May 01 03:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -628,22 +612,6 @@
       "eta_schleuse": "16:24",
       "delta_rueb_schleuse": "04:49",
       "delta_start_rueb": "04:25"
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Skairies",
-      "name": "Thomas Skairies",
-      "aufgabe": "Kanalbört",
-      "nr": 21,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri May 01 03:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -670,21 +638,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:17",
+      "eta_rueb_kiel": "16:16",
       "eta_rueb": "16:10",
       "ship": "PALLIETER",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:20",
+      "eta_rueb_kiel": "16:19",
       "eta_rueb": "16:13",
       "ship": "GRIFTBOR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:23",
+      "eta_rueb_kiel": "16:22",
       "eta_rueb": "16:15",
       "ship": "BALTIC WIND",
       "q_gruppe": "5",
