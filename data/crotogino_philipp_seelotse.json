@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T08:52:58",
+  "generated_at": "2026-05-01T08:54:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "RIX STREAM",
       "route": "HOR → RÜB",
       "time": "Fri May 01 07:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -148,15 +153,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 05:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:08",
-        "eta_rueb": "10:41",
+        "eta_schleuse": "15:07",
+        "eta_rueb": "10:40",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:41"
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "10:41",
-      "eta_schleuse": "15:08",
+      "eta_rueb": "10:40",
+      "eta_schleuse": "15:07",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:41"
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -190,14 +195,14 @@
       "route": "HOR → RÜB",
       "time": "Fri May 01 05:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:11",
+        "eta_schleuse": "15:10",
         "eta_rueb": "10:44",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "10:44",
-      "eta_schleuse": "15:11",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "15:10",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:42"
     },
     {
@@ -307,14 +312,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 22:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:53",
+        "eta_schleuse": "08:55",
         "eta_rueb": "04:35",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "04:35",
-      "eta_schleuse": "08:53",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "08:55",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:17"
     }
   ],
@@ -393,9 +398,14 @@
       "fahrzeug": "RIX STREAM",
       "route": "HOR → RÜB",
       "time": "Fri May 01 07:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "17:17",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "17:17",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -410,15 +420,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 05:36:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:08",
-        "eta_rueb": "10:41",
+        "eta_schleuse": "15:07",
+        "eta_rueb": "10:40",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:41"
+        "delta_start_rueb": "03:40"
       },
-      "eta_rueb": "10:41",
-      "eta_schleuse": "15:08",
+      "eta_rueb": "10:40",
+      "eta_schleuse": "15:07",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:41"
+      "delta_start_rueb": "03:40"
     },
     {
       "is_target": false,
@@ -452,14 +462,14 @@
       "route": "HOR → RÜB",
       "time": "Fri May 01 05:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:11",
+        "eta_schleuse": "15:10",
         "eta_rueb": "10:44",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "10:44",
-      "eta_schleuse": "15:11",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "15:10",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:42"
     },
     {
@@ -505,14 +515,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Apr 30 22:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "08:53",
+        "eta_schleuse": "08:55",
         "eta_rueb": "04:35",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "04:35",
-      "eta_schleuse": "08:53",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "08:55",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:17"
     }
   ],
