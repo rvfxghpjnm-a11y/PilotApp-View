@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T15:22:37",
+  "generated_at": "2026-05-01T15:24:36",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -118,11 +118,16 @@
       "fahrzeug": "MAUREEN S",
       "route": "HOR → RÜB",
       "time": "Fri May 01 13:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:19",
+        "eta_rueb": "18:52",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:28"
+      },
+      "eta_rueb": "18:52",
+      "eta_schleuse": "23:19",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -453,11 +458,16 @@
       "fahrzeug": "MAUREEN S",
       "route": "HOR → RÜB",
       "time": "Fri May 01 13:52:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:19",
+        "eta_rueb": "18:52",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:28"
+      },
+      "eta_rueb": "18:52",
+      "eta_schleuse": "23:19",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
