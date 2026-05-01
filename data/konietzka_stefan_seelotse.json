@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T00:02:45",
+  "generated_at": "2026-05-02T00:04:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "ALANA",
       "route": "HOS → RÜB",
       "time": "Fri May 01 22:56:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -329,9 +334,14 @@
       "fahrzeug": "ALANA",
       "route": "HOS → RÜB",
       "time": "Fri May 01 22:56:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "08:33",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "08:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
