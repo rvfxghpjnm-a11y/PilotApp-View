@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T16:30:54",
+  "generated_at": "2026-05-01T16:32:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -263,15 +263,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 11:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:19",
-        "eta_rueb": "16:52",
+        "eta_schleuse": "21:18",
+        "eta_rueb": "16:51",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "16:52",
-      "eta_schleuse": "21:19",
+      "eta_rueb": "16:51",
+      "eta_schleuse": "21:18",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -425,16 +425,11 @@
       "fahrzeug": "PREGOL HAV",
       "route": "RÜB → HOS",
       "time": "Fri May 01 05:36:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:28",
-        "eta_rueb": "11:35",
-        "delta_rueb_schleuse": "04:53",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "11:35",
-      "eta_schleuse": "16:28",
-      "delta_rueb_schleuse": "04:53",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -628,15 +623,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 11:58:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:19",
-        "eta_rueb": "16:52",
+        "eta_schleuse": "21:18",
+        "eta_rueb": "16:51",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:40"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "16:52",
-      "eta_schleuse": "21:19",
+      "eta_rueb": "16:51",
+      "eta_schleuse": "21:18",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:40"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -774,16 +769,11 @@
       "fahrzeug": "PREGOL HAV",
       "route": "RÜB → HOS",
       "time": "Fri May 01 05:36:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:28",
-        "eta_rueb": "11:35",
-        "delta_rueb_schleuse": "04:53",
-        "delta_start_rueb": "04:25"
-      },
-      "eta_rueb": "11:35",
-      "eta_schleuse": "16:28",
-      "delta_rueb_schleuse": "04:53",
-      "delta_start_rueb": "04:25"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -796,7 +786,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "18:21",
+      "eta_rueb_kiel": "18:19",
       "eta_rueb": "18:13",
       "ship": "GOLFSTRAUM",
       "q_gruppe": "3",
