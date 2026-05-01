@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-01T14:20:52",
+  "generated_at": "2026-05-01T14:22:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
-    "wach": 3,
+    "wach": 1,
     "see": 4
   },
   "times": null,
@@ -121,14 +121,14 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 12:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:43",
+        "eta_schleuse": "21:33",
         "eta_rueb": "17:05",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "03:53"
       },
       "eta_rueb": "17:05",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "21:33",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "03:53"
     },
     {
@@ -326,38 +326,6 @@
       "eta_schleuse": "16:23",
       "delta_rueb_schleuse": "04:48",
       "delta_start_rueb": "04:25"
-    },
-    {
-      "is_target": false,
-      "vorname": "Eike",
-      "nachname": "Matysik",
-      "name": "Eike Matysik",
-      "aufgabe": "Wachgänger",
-      "nr": 19,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Fri May 01 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Erskine",
-      "nachname": "Schuh",
-      "name": "Erskine Schuh",
-      "aufgabe": "Wachgänger",
-      "nr": 20,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Fri May 01 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -441,14 +409,14 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 12:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:43",
+        "eta_schleuse": "21:33",
         "eta_rueb": "17:05",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "03:53"
       },
       "eta_rueb": "17:05",
-      "eta_schleuse": "21:43",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "21:33",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "03:53"
     },
     {
@@ -610,14 +578,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:09",
+      "eta_rueb_kiel": "16:08",
       "eta_rueb": "16:05",
       "ship": "RIX MUNTE",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:12",
+      "eta_rueb_kiel": "16:11",
       "eta_rueb": "16:08",
       "ship": "FERESA",
       "q_gruppe": "3",
