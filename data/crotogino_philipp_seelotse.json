@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T10:48:55",
+  "generated_at": "2026-05-01T10:50:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -41,15 +41,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 08:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:22",
-        "eta_rueb": "12:55",
+        "eta_schleuse": "17:21",
+        "eta_rueb": "12:54",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "12:55",
-      "eta_schleuse": "17:22",
+      "eta_rueb": "12:54",
+      "eta_schleuse": "17:21",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -137,8 +137,8 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "LYDIA",
+      "route": "KLT → HOS",
       "time": "Fri May 01 06:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -324,15 +324,15 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 08:08:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:22",
-        "eta_rueb": "12:55",
+        "eta_schleuse": "17:21",
+        "eta_rueb": "12:54",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "12:55",
-      "eta_schleuse": "17:22",
+      "eta_rueb": "12:54",
+      "eta_schleuse": "17:21",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -481,7 +481,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "11:36",
       "eta_rueb": "11:35",
       "ship": "PREGOL HAV",
       "q_gruppe": "5",
