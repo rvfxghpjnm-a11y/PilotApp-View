@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T18:34:56",
+  "generated_at": "2026-05-01T18:36:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -116,8 +116,8 @@
       "name": "Helge Buch",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "KEIT",
+      "route": "HOS → KLT",
       "time": "Fri May 01 14:45:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -389,14 +389,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 01 08:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:59",
+        "eta_schleuse": "19:58",
         "eta_rueb": "16:03",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "16:03",
-      "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "19:58",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:55"
     },
     {
@@ -722,14 +722,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 01 08:07:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:59",
+        "eta_schleuse": "19:58",
         "eta_rueb": "16:03",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:55"
       },
       "eta_rueb": "16:03",
-      "eta_schleuse": "19:59",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "19:58",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:55"
     },
     {
@@ -756,6 +756,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "19:10",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "22:36",
       "eta_rueb": "22:20",
