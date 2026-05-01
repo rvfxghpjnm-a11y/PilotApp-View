@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T12:18:35",
+  "generated_at": "2026-05-01T12:20:37",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 12,
     "wach": 3,
-    "see": 4
+    "see": 3
   },
   "times": null,
   "lotsen": [
@@ -125,14 +125,14 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:31",
+        "eta_schleuse": "17:30",
         "eta_rueb": "12:57",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "12:57",
-      "eta_schleuse": "17:31",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "17:30",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:33"
     },
     {
@@ -227,27 +227,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Bodmann",
-      "name": "Christoph Bodmann",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "LYDIA",
-      "route": "KLT → HOS",
-      "time": "Fri May 01 06:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Sebastian",
       "nachname": "Klein",
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "LADY HESTIA",
       "route": "KLT → HOS",
       "time": "Fri May 01 06:35:00 CEST 2026",
@@ -263,7 +247,7 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "PREGOL HAV",
       "route": "RÜB → HOS",
       "time": "Fri May 01 05:36:00 CEST 2026",
@@ -284,7 +268,7 @@
       "nachname": "Matysik",
       "name": "Eike Matysik",
       "aufgabe": "Wachgänger",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Fri May 01 04:00:00 CEST 2026",
@@ -300,7 +284,7 @@
       "nachname": "Schuh",
       "name": "Erskine Schuh",
       "aufgabe": "Wachgänger",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Fri May 01 04:00:00 CEST 2026",
@@ -316,7 +300,7 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
       "route": "RÜB → HOS",
       "time": "Fri May 01 03:30:00 CEST 2026",
@@ -332,7 +316,7 @@
       "nachname": "Föhring",
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
       "route": "RÜB → HOS",
       "time": "Fri May 01 03:09:00 CEST 2026",
@@ -419,14 +403,14 @@
       "route": "HOS → RÜB",
       "time": "Fri May 01 08:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:31",
+        "eta_schleuse": "17:30",
         "eta_rueb": "12:57",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:33"
       },
       "eta_rueb": "12:57",
-      "eta_schleuse": "17:31",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "17:30",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:33"
     },
     {
@@ -509,7 +493,7 @@
       "nachname": "Jenckel",
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "PREGOL HAV",
       "route": "RÜB → HOS",
       "time": "Fri May 01 05:36:00 CEST 2026",
@@ -530,7 +514,7 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
       "route": "RÜB → HOS",
       "time": "Fri May 01 03:30:00 CEST 2026",
@@ -546,7 +530,7 @@
       "nachname": "Föhring",
       "name": "Nils Föhring",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "EN AVANT 10 + EN AVANT 1 + H-331",
       "route": "RÜB → HOS",
       "time": "Fri May 01 03:09:00 CEST 2026",
@@ -602,7 +586,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:32",
+      "eta_rueb_kiel": "16:31",
       "eta_rueb": "16:15",
       "ship": "BALTIC WIND",
       "q_gruppe": "5",
