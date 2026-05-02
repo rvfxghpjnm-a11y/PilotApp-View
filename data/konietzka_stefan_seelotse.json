@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T12:50:50",
+  "generated_at": "2026-05-02T12:52:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -195,14 +195,14 @@
       "route": "HOS → RÜB",
       "time": "Sat May 02 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:45",
+        "eta_schleuse": "17:46",
         "eta_rueb": "13:05",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "13:05",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "17:46",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:25"
     },
     {
@@ -212,19 +212,14 @@
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "ANNALISA P",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat May 02 08:11:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:02",
-        "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "03:26"
-      },
-      "eta_rueb": "12:56",
-      "eta_schleuse": "18:02",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "03:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -456,14 +451,14 @@
       "route": "HOS → RÜB",
       "time": "Sat May 02 08:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:45",
+        "eta_schleuse": "17:46",
         "eta_rueb": "13:05",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:25"
       },
       "eta_rueb": "13:05",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "17:46",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:25"
     },
     {
@@ -473,19 +468,14 @@
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "ANNALISA P",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat May 02 08:11:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:02",
-        "eta_rueb": "12:56",
-        "delta_rueb_schleuse": "05:06",
-        "delta_start_rueb": "03:26"
-      },
-      "eta_rueb": "12:56",
-      "eta_schleuse": "18:02",
-      "delta_rueb_schleuse": "05:06",
-      "delta_start_rueb": "03:26"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -570,7 +560,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:54",
+      "eta_rueb_kiel": "16:53",
       "eta_rueb": "16:35",
       "ship": "GEULBORG",
       "q_gruppe": "5",
