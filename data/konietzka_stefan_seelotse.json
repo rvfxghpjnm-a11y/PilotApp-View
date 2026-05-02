@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T04:28:46",
+  "generated_at": "2026-05-02T04:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -286,14 +286,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCOT CARRIER",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 22:56:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:36",
+        "eta_rueb": "04:57",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "04:37"
+      },
+      "eta_rueb": "04:57",
+      "eta_schleuse": "09:36",
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -360,14 +365,14 @@
       "time": "Fri May 01 20:44:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:33",
-        "eta_rueb": "04:50",
-        "delta_rueb_schleuse": "04:43",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "04:49",
+        "delta_rueb_schleuse": "04:44",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "04:50",
+      "eta_rueb": "04:49",
       "eta_schleuse": "09:33",
-      "delta_rueb_schleuse": "04:43",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "04:44",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -600,14 +605,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SCOT CARRIER",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 22:56:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:36",
+        "eta_rueb": "04:57",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "04:37"
+      },
+      "eta_rueb": "04:57",
+      "eta_schleuse": "09:36",
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "04:37"
     },
     {
       "is_target": false,
@@ -642,14 +652,14 @@
       "time": "Fri May 01 20:44:00 CEST 2026",
       "times": {
         "eta_schleuse": "09:33",
-        "eta_rueb": "04:50",
-        "delta_rueb_schleuse": "04:43",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "04:49",
+        "delta_rueb_schleuse": "04:44",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "04:50",
+      "eta_rueb": "04:49",
       "eta_schleuse": "09:33",
-      "delta_rueb_schleuse": "04:43",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "04:44",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -717,13 +727,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "04:57",
-      "eta_rueb": "04:53",
-      "ship": "SCOT CARRIER",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "05:00",
       "eta_rueb": "04:56",
