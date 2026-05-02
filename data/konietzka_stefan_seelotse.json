@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T07:16:46",
+  "generated_at": "2026-05-02T07:18:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,15 +52,15 @@
       "route": "HOS → RÜB",
       "time": "Sat May 02 06:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:14",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "15:17",
+        "eta_rueb": "10:50",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "15:14",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "10:50",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -227,14 +227,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 02 01:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:33",
+        "eta_schleuse": "12:09",
         "eta_rueb": "07:14",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:55",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "07:14",
-      "eta_schleuse": "11:33",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "12:09",
+      "delta_rueb_schleuse": "04:55",
       "delta_start_rueb": "04:12"
     },
     {
@@ -248,14 +248,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 02 00:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:42",
+        "eta_schleuse": "12:05",
         "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "07:08",
-      "eta_schleuse": "10:42",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "12:05",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:08"
     },
     {
@@ -392,15 +392,15 @@
       "route": "HOS → RÜB",
       "time": "Sat May 02 06:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:14",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "15:17",
+        "eta_rueb": "10:50",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "15:14",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "10:50",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -455,14 +455,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 02 01:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "11:33",
+        "eta_schleuse": "12:09",
         "eta_rueb": "07:14",
-        "delta_rueb_schleuse": "04:19",
+        "delta_rueb_schleuse": "04:55",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "07:14",
-      "eta_schleuse": "11:33",
-      "delta_rueb_schleuse": "04:19",
+      "eta_schleuse": "12:09",
+      "delta_rueb_schleuse": "04:55",
       "delta_start_rueb": "04:12"
     },
     {
@@ -476,14 +476,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 02 00:55:00 CEST 2026",
       "times": {
-        "eta_schleuse": "10:42",
+        "eta_schleuse": "12:05",
         "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "07:08",
-      "eta_schleuse": "10:42",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "12:05",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:08"
     },
     {
@@ -595,7 +595,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "09:22",
+      "eta_rueb_kiel": "09:21",
       "eta_rueb": "09:10",
       "ship": "ARKLOW VENUS",
       "q_gruppe": "5",
