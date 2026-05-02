@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T04:20:46",
+  "generated_at": "2026-05-02T04:22:47",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -338,14 +338,19 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HUNTEBORG",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 20:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:36",
+        "eta_rueb": "04:50",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "04:50",
+      "eta_schleuse": "09:36",
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -610,14 +615,19 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HUNTEBORG",
+      "route": "RÜB → HOS",
       "time": "Fri May 01 20:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:36",
+        "eta_rueb": "04:50",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "04:24"
+      },
+      "eta_rueb": "04:50",
+      "eta_schleuse": "09:36",
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -685,13 +695,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "04:50",
-      "eta_rueb": "04:47",
-      "ship": "HUNTEBORG",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:53",
       "eta_rueb": "04:50",
