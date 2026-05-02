@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T06:44:46",
+  "generated_at": "2026-05-02T06:46:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -83,9 +83,14 @@
       "fahrzeug": "JOHANN ESSBERGER",
       "route": "HOS → UTG",
       "time": "Sat May 02 04:15:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:40",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -112,7 +117,7 @@
       "name": "Christoph Malik",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "-",
+      "fahrzeug": "HOS",
       "route": null,
       "time": "Sat May 02 04:13:00 CEST 2026",
       "times": null,
