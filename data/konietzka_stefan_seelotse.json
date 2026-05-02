@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T08:46:46",
+  "generated_at": "2026-05-02T08:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,14 +101,14 @@
       "time": "Sat May 02 06:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:21",
-        "eta_rueb": "10:53",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "10:52",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "10:53",
+      "eta_rueb": "10:52",
       "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -121,14 +121,14 @@
       "route": "HOS → RÜB",
       "time": "Sat May 02 06:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:24",
+        "eta_schleuse": "15:23",
         "eta_rueb": "10:50",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "10:50",
-      "eta_schleuse": "15:24",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "15:23",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:36"
     },
     {
@@ -138,14 +138,19 @@
       "name": "Yannick Petersen",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SCOT CARRIER",
+      "route": "HOS → KLT",
       "time": "Sat May 02 04:22:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:28",
+        "eta_rueb": "04:56",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:36"
+      },
+      "eta_rueb": "04:56",
+      "eta_schleuse": "09:28",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:36"
     },
     {
       "is_target": false,
@@ -154,14 +159,19 @@
       "name": "Niels Münker",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SCOT PIONEER",
+      "route": "HOS → KLT",
       "time": "Sat May 02 04:19:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:24",
+        "eta_rueb": "04:52",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:32"
+      },
+      "eta_rueb": "04:52",
+      "eta_schleuse": "09:24",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -218,14 +228,19 @@
       "name": "Philipp Crotogino",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HUNTEBORG",
+      "route": "HOS → KLT",
       "time": "Sat May 02 04:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:21",
+        "eta_rueb": "04:49",
+        "delta_rueb_schleuse": "04:32",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "04:49",
+      "eta_schleuse": "09:21",
+      "delta_rueb_schleuse": "04:32",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -412,14 +427,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 01 20:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:20",
+        "eta_schleuse": "09:21",
         "eta_rueb": "04:49",
-        "delta_rueb_schleuse": "04:31",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "04:49",
-      "eta_schleuse": "09:20",
-      "delta_rueb_schleuse": "04:31",
+      "eta_schleuse": "09:21",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "04:23"
     }
   ],
@@ -500,14 +515,14 @@
       "time": "Sat May 02 06:15:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:21",
-        "eta_rueb": "10:53",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:31"
+        "eta_rueb": "10:52",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:30"
       },
-      "eta_rueb": "10:53",
+      "eta_rueb": "10:52",
       "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:31"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -520,14 +535,14 @@
       "route": "HOS → RÜB",
       "time": "Sat May 02 06:00:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:24",
+        "eta_schleuse": "15:23",
         "eta_rueb": "10:50",
-        "delta_rueb_schleuse": "04:34",
+        "delta_rueb_schleuse": "04:33",
         "delta_start_rueb": "03:36"
       },
       "eta_rueb": "10:50",
-      "eta_schleuse": "15:24",
-      "delta_rueb_schleuse": "04:34",
+      "eta_schleuse": "15:23",
+      "delta_rueb_schleuse": "04:33",
       "delta_start_rueb": "03:36"
     },
     {
@@ -699,14 +714,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 01 20:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "09:20",
+        "eta_schleuse": "09:21",
         "eta_rueb": "04:49",
-        "delta_rueb_schleuse": "04:31",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "04:49",
-      "eta_schleuse": "09:20",
-      "delta_rueb_schleuse": "04:31",
+      "eta_schleuse": "09:21",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "04:23"
     }
   ],
