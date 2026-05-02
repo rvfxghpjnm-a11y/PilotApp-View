@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T10:30:47",
+  "generated_at": "2026-05-02T10:32:46",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -28,9 +28,14 @@
       "fahrzeug": "JOHANN ESSBERGER",
       "route": "UTG → RÜB",
       "time": "Sat May 02 09:45:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -400,9 +405,14 @@
       "fahrzeug": "JOHANN ESSBERGER",
       "route": "UTG → RÜB",
       "time": "Sat May 02 09:45:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:46",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
