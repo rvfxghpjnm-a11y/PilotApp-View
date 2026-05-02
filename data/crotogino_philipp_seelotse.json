@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T02:36:55",
+  "generated_at": "2026-05-02T02:39:02",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "ANNIKA BRAREN",
       "route": "HOR → RÜB",
       "time": "Sat May 02 01:11:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:43",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:43",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -51,9 +56,14 @@
       "fahrzeug": "FAIRPLAY 27",
       "route": "HOR → RÜB",
       "time": "Sat May 02 00:56:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:47",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:47",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -349,9 +359,14 @@
       "fahrzeug": "ANNIKA BRAREN",
       "route": "HOR → RÜB",
       "time": "Sat May 02 01:11:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:43",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:43",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -365,9 +380,14 @@
       "fahrzeug": "FAIRPLAY 27",
       "route": "HOR → RÜB",
       "time": "Sat May 02 00:56:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:47",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:47",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -575,7 +595,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:57",
+      "eta_rueb_kiel": "04:56",
       "eta_rueb": "04:47",
       "ship": "HUNTEBORG",
       "q_gruppe": "4",
