@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T00:10:47",
+  "generated_at": "2026-05-04T00:12:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 8,
     "wach": 0,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -16,8 +16,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun May 03 23:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -225,22 +225,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Volker",
-      "nachname": "Nagel",
-      "name": "Volker Nagel",
-      "aufgabe": "Seebört",
-      "nr": 13,
-      "fahrzeug": "SPANACO SIMPLICITY",
-      "route": "KLT → HOS",
-      "time": "Sun May 03 15:44:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -403,7 +387,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "02:34",
+      "eta_rueb_kiel": "02:33",
       "eta_rueb": "02:25",
       "ship": "PAULA",
       "q_gruppe": "5",
