@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T21:56:52",
+  "generated_at": "2026-05-04T21:58:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -115,9 +115,14 @@
       "fahrzeug": "BIANCA RAMBOW",
       "route": "HOS → RÜB",
       "time": "Mon May 04 20:54:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:56",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:56",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -392,9 +397,14 @@
       "fahrzeug": "BIANCA RAMBOW",
       "route": "HOS → RÜB",
       "time": "Mon May 04 20:54:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "06:56",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "06:56",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -597,7 +607,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:39",
+      "eta_rueb_kiel": "01:38",
       "eta_rueb": "01:25",
       "ship": "LADY HANNEKE",
       "q_gruppe": "5",
