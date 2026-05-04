@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T12:42:46",
+  "generated_at": "2026-05-04T12:44:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -147,15 +147,15 @@
       "route": "HOS → RÜB",
       "time": "Mon May 04 08:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:56",
-        "eta_rueb": "13:29",
+        "eta_schleuse": "17:55",
+        "eta_rueb": "13:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:23"
+        "delta_start_rueb": "03:22"
       },
-      "eta_rueb": "13:29",
-      "eta_schleuse": "17:56",
+      "eta_rueb": "13:28",
+      "eta_schleuse": "17:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:23"
+      "delta_start_rueb": "03:22"
     },
     {
       "is_target": false,
@@ -308,15 +308,15 @@
       "route": "HOS → RÜB",
       "time": "Mon May 04 08:52:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:56",
-        "eta_rueb": "13:29",
+        "eta_schleuse": "17:55",
+        "eta_rueb": "13:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:23"
+        "delta_start_rueb": "03:22"
       },
-      "eta_rueb": "13:29",
-      "eta_schleuse": "17:56",
+      "eta_rueb": "13:28",
+      "eta_schleuse": "17:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:23"
+      "delta_start_rueb": "03:22"
     },
     {
       "is_target": false,
@@ -372,6 +372,13 @@
       "eta_rueb": "15:40",
       "ship": "LUISE DEYMANN",
       "q_gruppe": "5",
+      "route": "RÜB → UTG"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "17:00",
+      "ship": "JSP SAMSOE",
+      "q_gruppe": "4",
       "route": "RÜB → UTG"
     }
   ]
