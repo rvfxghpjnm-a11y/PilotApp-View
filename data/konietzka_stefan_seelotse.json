@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T14:50:55",
+  "generated_at": "2026-05-05T14:52:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -27,11 +27,27 @@
     },
     {
       "is_target": false,
+      "vorname": "Olaf",
+      "nachname": "Köhler",
+      "name": "Olaf Köhler",
+      "aufgabe": "Kanalbört",
+      "nr": 2,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → RÜB",
+      "time": "Tue May 05 14:50:00 CEST 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
       "vorname": "Heiko",
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
-      "nr": 2,
+      "nr": 3,
       "fahrzeug": "BOKA FALCON",
       "route": "UTG → RÜB",
       "time": "Tue May 05 13:30:00 CEST 2026",
@@ -52,7 +68,7 @@
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
       "aufgabe": "Seebört",
-      "nr": 3,
+      "nr": 4,
       "fahrzeug": "STAV VIKING",
       "route": "HOS → KLT",
       "time": "Tue May 05 13:25:00 CEST 2026",
@@ -68,7 +84,7 @@
       "nachname": "Vogel",
       "name": "Peter Vogel",
       "aufgabe": "Seebört",
-      "nr": 4,
+      "nr": 5,
       "fahrzeug": "SCOT MARINER",
       "route": "HOS → KLT",
       "time": "Tue May 05 13:23:00 CEST 2026",
@@ -84,19 +100,19 @@
       "nachname": "Thomaßen",
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
-      "nr": 5,
+      "nr": 6,
       "fahrzeug": "LUISE DEYMANN",
       "route": "TOT → KRH",
       "time": "Tue May 05 12:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:58",
+        "eta_schleuse": "15:56",
         "eta_rueb": "15:34",
-        "delta_rueb_schleuse": "24:24",
+        "delta_rueb_schleuse": "24:22",
         "delta_start_rueb": "21:06"
       },
       "eta_rueb": "15:34",
-      "eta_schleuse": "15:58",
-      "delta_rueb_schleuse": "24:24",
+      "eta_schleuse": "15:56",
+      "delta_rueb_schleuse": "24:22",
       "delta_start_rueb": "21:06"
     },
     {
@@ -105,7 +121,7 @@
       "nachname": "Stürenburg",
       "name": "Jan Stürenburg",
       "aufgabe": "Seebört",
-      "nr": 6,
+      "nr": 7,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Tue May 05 11:00:00 CEST 2026",
@@ -121,19 +137,19 @@
       "nachname": "Feldes",
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
-      "nr": 7,
+      "nr": 8,
       "fahrzeug": "X-PRESS AGILITY",
       "route": "HOS → RÜB",
       "time": "Tue May 05 10:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:47",
+        "eta_schleuse": "19:46",
         "eta_rueb": "15:20",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:26"
       },
       "eta_rueb": "15:20",
-      "eta_schleuse": "19:47",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "19:46",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:26"
     },
     {
@@ -142,20 +158,20 @@
       "nachname": "Engler",
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
-      "nr": 8,
+      "nr": 9,
       "fahrzeug": "MARIE LEHMANN",
       "route": "HOS → RÜB",
       "time": "Tue May 05 10:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:39",
-        "eta_rueb": "15:12",
+        "eta_schleuse": "19:38",
+        "eta_rueb": "15:11",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:28"
+        "delta_start_rueb": "03:27"
       },
-      "eta_rueb": "15:12",
-      "eta_schleuse": "19:39",
+      "eta_rueb": "15:11",
+      "eta_schleuse": "19:38",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:28"
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -163,20 +179,20 @@
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
-      "nr": 9,
+      "nr": 10,
       "fahrzeug": "RIX STAR",
       "route": "HOR → RÜB",
       "time": "Tue May 05 09:43:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:43",
-        "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "15:15",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "15:16",
+      "eta_rueb": "15:15",
       "eta_schleuse": "19:43",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -184,7 +200,7 @@
       "nachname": "Engel",
       "name": "Alexander Engel",
       "aufgabe": "Seebört",
-      "nr": 10,
+      "nr": 11,
       "fahrzeug": "ATLANTIS",
       "route": "NWK → KLT",
       "time": "Tue May 05 08:30:00 CEST 2026",
@@ -200,7 +216,7 @@
       "nachname": "Domeier",
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 12,
       "fahrzeug": "IDA RAMBOW",
       "route": "RÜB → HOS",
       "time": "Tue May 05 05:37:00 CEST 2026",
@@ -214,22 +230,6 @@
       "eta_schleuse": "16:10",
       "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:24"
-    },
-    {
-      "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Köhler",
-      "name": "Olaf Köhler",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -251,11 +251,27 @@
     },
     {
       "is_target": false,
+      "vorname": "Olaf",
+      "nachname": "Köhler",
+      "name": "Olaf Köhler",
+      "aufgabe": "Kanalbört",
+      "nr": 2,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → RÜB",
+      "time": "Tue May 05 14:50:00 CEST 2026",
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
+    },
+    {
+      "is_target": false,
       "vorname": "Heiko",
       "nachname": "Hoffmann",
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
-      "nr": 2,
+      "nr": 3,
       "fahrzeug": "BOKA FALCON",
       "route": "UTG → RÜB",
       "time": "Tue May 05 13:30:00 CEST 2026",
@@ -276,19 +292,19 @@
       "nachname": "Thomaßen",
       "name": "Stephan Thomaßen",
       "aufgabe": "Kanalbört",
-      "nr": 5,
+      "nr": 6,
       "fahrzeug": "LUISE DEYMANN",
       "route": "TOT → KRH",
       "time": "Tue May 05 12:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:58",
+        "eta_schleuse": "15:56",
         "eta_rueb": "15:34",
-        "delta_rueb_schleuse": "24:24",
+        "delta_rueb_schleuse": "24:22",
         "delta_start_rueb": "21:06"
       },
       "eta_rueb": "15:34",
-      "eta_schleuse": "15:58",
-      "delta_rueb_schleuse": "24:24",
+      "eta_schleuse": "15:56",
+      "delta_rueb_schleuse": "24:22",
       "delta_start_rueb": "21:06"
     },
     {
@@ -297,19 +313,19 @@
       "nachname": "Feldes",
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
-      "nr": 7,
+      "nr": 8,
       "fahrzeug": "X-PRESS AGILITY",
       "route": "HOS → RÜB",
       "time": "Tue May 05 10:25:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:47",
+        "eta_schleuse": "19:46",
         "eta_rueb": "15:20",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "03:26"
       },
       "eta_rueb": "15:20",
-      "eta_schleuse": "19:47",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "19:46",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "03:26"
     },
     {
@@ -318,20 +334,20 @@
       "nachname": "Engler",
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
-      "nr": 8,
+      "nr": 9,
       "fahrzeug": "MARIE LEHMANN",
       "route": "HOS → RÜB",
       "time": "Tue May 05 10:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "19:39",
-        "eta_rueb": "15:12",
+        "eta_schleuse": "19:38",
+        "eta_rueb": "15:11",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:28"
+        "delta_start_rueb": "03:27"
       },
-      "eta_rueb": "15:12",
-      "eta_schleuse": "19:39",
+      "eta_rueb": "15:11",
+      "eta_schleuse": "19:38",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:28"
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -339,20 +355,20 @@
       "nachname": "Wachsmuth",
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
-      "nr": 9,
+      "nr": 10,
       "fahrzeug": "RIX STAR",
       "route": "HOR → RÜB",
       "time": "Tue May 05 09:43:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:43",
-        "eta_rueb": "15:16",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:32"
+        "eta_rueb": "15:15",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:31"
       },
-      "eta_rueb": "15:16",
+      "eta_rueb": "15:15",
       "eta_schleuse": "19:43",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:32"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -360,7 +376,7 @@
       "nachname": "Domeier",
       "name": "Stefan Domeier",
       "aufgabe": "Kanalbört",
-      "nr": 11,
+      "nr": 12,
       "fahrzeug": "IDA RAMBOW",
       "route": "RÜB → HOS",
       "time": "Tue May 05 05:37:00 CEST 2026",
@@ -374,22 +390,6 @@
       "eta_schleuse": "16:10",
       "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:24"
-    },
-    {
-      "is_target": false,
-      "vorname": "Olaf",
-      "nachname": "Köhler",
-      "name": "Olaf Köhler",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
