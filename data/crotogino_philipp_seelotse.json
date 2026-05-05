@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-05T05:02:56",
+  "generated_at": "2026-05-05T05:04:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 6,
     "wach": 0,
     "see": 7
   },
@@ -95,14 +95,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FAST ANNA SOFIA",
+      "route": "RÜB → HOS",
       "time": "Mon May 04 23:18:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:09",
+        "eta_rueb": "05:30",
+        "delta_rueb_schleuse": "03:39",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "05:30",
+      "eta_schleuse": "09:09",
+      "delta_rueb_schleuse": "03:39",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -115,14 +120,14 @@
       "route": "HOS → KLT",
       "time": "Mon May 04 23:13:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:01",
+        "eta_schleuse": "05:02",
         "eta_rueb": "01:28",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "01:28",
-      "eta_schleuse": "05:01",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "05:02",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:48"
     },
     {
@@ -207,27 +212,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Dietrich",
-      "name": "Thomas Dietrich",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "Mon May 04 20:54:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Niklas",
       "nachname": "Dalecki",
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "STOLT SANDPIPER",
       "route": "RÜB → HOS",
       "time": "Mon May 04 20:35:00 CEST 2026",
@@ -248,19 +237,19 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "LADY HANNEKE",
       "route": "RÜB → HOS",
       "time": "Mon May 04 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:01",
+        "eta_schleuse": "05:02",
         "eta_rueb": "01:28",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "01:28",
-      "eta_schleuse": "05:01",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "05:02",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:48"
     }
   ],
@@ -335,30 +324,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FAST ANNA SOFIA",
+      "route": "RÜB → HOS",
       "time": "Mon May 04 23:18:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Thomas",
-      "nachname": "Dietrich",
-      "name": "Thomas Dietrich",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "-",
-      "route": null,
-      "time": "Mon May 04 20:54:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:09",
+        "eta_rueb": "05:30",
+        "delta_rueb_schleuse": "03:39",
+        "delta_start_rueb": "04:16"
+      },
+      "eta_rueb": "05:30",
+      "eta_schleuse": "09:09",
+      "delta_rueb_schleuse": "03:39",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -366,7 +344,7 @@
       "nachname": "Dalecki",
       "name": "Niklas Dalecki",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "STOLT SANDPIPER",
       "route": "RÜB → HOS",
       "time": "Mon May 04 20:35:00 CEST 2026",
@@ -387,31 +365,24 @@
       "nachname": "Skairies",
       "name": "Thomas Skairies",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "LADY HANNEKE",
       "route": "RÜB → HOS",
       "time": "Mon May 04 18:37:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:01",
+        "eta_schleuse": "05:02",
         "eta_rueb": "01:28",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:48"
       },
       "eta_rueb": "01:28",
-      "eta_schleuse": "05:01",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "05:02",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:48"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:30",
-      "eta_rueb": "05:30",
-      "ship": "FAST ANNA SOFIA",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "09:44",
       "eta_rueb": "09:30",
