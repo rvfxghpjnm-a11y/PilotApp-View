@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T23:14:49",
+  "generated_at": "2026-05-06T23:16:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -148,8 +148,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "OBERON",
-      "route": "RÜB → RDP",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed May 06 19:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -168,14 +168,14 @@
       "route": "RÜB → NHF",
       "time": "Wed May 06 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:37",
+        "eta_schleuse": "23:38",
         "eta_rueb": "20:15",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "20:15",
-      "eta_schleuse": "23:37",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "23:38",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:47"
     },
     {
@@ -226,15 +226,15 @@
       "route": "HOS → RÜB",
       "time": "Wed May 06 18:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:30",
-        "eta_rueb": "00:03",
+        "eta_schleuse": "04:28",
+        "eta_rueb": "00:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:03"
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": "00:03",
-      "eta_schleuse": "04:30",
+      "eta_rueb": "00:01",
+      "eta_schleuse": "04:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:03"
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -247,14 +247,14 @@
       "route": "HOS → KLT",
       "time": "Wed May 06 18:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:14",
+        "eta_schleuse": "23:15",
         "eta_rueb": "19:41",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "19:41",
-      "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "23:15",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:27"
     },
     {
@@ -310,14 +310,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 06 16:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:24",
+        "eta_schleuse": "03:23",
         "eta_rueb": "23:39",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "23:39",
-      "eta_schleuse": "03:24",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "03:23",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:17"
     },
     {
@@ -331,14 +331,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 06 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:14",
+        "eta_schleuse": "23:15",
         "eta_rueb": "19:41",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "19:41",
-      "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "23:15",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:27"
     }
   ],
@@ -466,8 +466,8 @@
       "name": "Jonas Krämer",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "OBERON",
-      "route": "RÜB → RDP",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed May 06 19:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -486,14 +486,14 @@
       "route": "RÜB → NHF",
       "time": "Wed May 06 19:15:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:37",
+        "eta_schleuse": "23:38",
         "eta_rueb": "20:15",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:23",
         "delta_start_rueb": "04:47"
       },
       "eta_rueb": "20:15",
-      "eta_schleuse": "23:37",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "23:38",
+      "delta_rueb_schleuse": "03:23",
       "delta_start_rueb": "04:47"
     },
     {
@@ -528,15 +528,15 @@
       "route": "HOS → RÜB",
       "time": "Wed May 06 18:44:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:30",
-        "eta_rueb": "00:03",
+        "eta_schleuse": "04:28",
+        "eta_rueb": "00:01",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:03"
+        "delta_start_rueb": "04:01"
       },
-      "eta_rueb": "00:03",
-      "eta_schleuse": "04:30",
+      "eta_rueb": "00:01",
+      "eta_schleuse": "04:28",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:03"
+      "delta_start_rueb": "04:01"
     },
     {
       "is_target": false,
@@ -570,14 +570,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 06 16:23:00 CEST 2026",
       "times": {
-        "eta_schleuse": "03:24",
+        "eta_schleuse": "03:23",
         "eta_rueb": "23:39",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "23:39",
-      "eta_schleuse": "03:24",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "03:23",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:17"
     },
     {
@@ -591,14 +591,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 06 13:40:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:14",
+        "eta_schleuse": "23:15",
         "eta_rueb": "19:41",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:27"
       },
       "eta_rueb": "19:41",
-      "eta_schleuse": "23:14",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "23:15",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:27"
     }
   ],
@@ -606,7 +606,7 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "04:04",
-      "eta_rueb": "03:15",
+      "eta_rueb": "03:40",
       "ship": "JOHANN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
@@ -617,13 +617,6 @@
       "ship": "LÜTJE HÖRN",
       "q_gruppe": "5",
       "route": "LEM → HOS"
-    },
-    {
-      "eta_rueb_kiel": "23:43",
-      "eta_rueb": "23:40",
-      "ship": "ALDEBARAN J",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
     }
   ]
 }
