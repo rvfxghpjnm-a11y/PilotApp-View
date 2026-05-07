@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T02:10:54",
+  "generated_at": "2026-05-07T02:13:02",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,11 +19,16 @@
       "fahrzeug": "RIX TANGO",
       "route": "NHF → HOS",
       "time": "Thu May 07 02:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "18:46",
+        "eta_rueb": "20:15",
+        "delta_rueb_schleuse": "2283862:31",
+        "delta_start_rueb": "04:47"
+      },
+      "eta_rueb": "20:15",
+      "eta_schleuse": "18:46",
+      "delta_rueb_schleuse": "2283862:31",
+      "delta_start_rueb": "04:47"
     },
     {
       "is_target": false,
@@ -389,7 +394,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:02",
+      "eta_rueb_kiel": "06:00",
       "eta_rueb": "05:53",
       "ship": "VERTOM ISA",
       "q_gruppe": "5",
