@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T19:46:50",
+  "generated_at": "2026-05-07T19:48:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Hinnerk Hansen",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu May 07 19:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -90,14 +90,14 @@
       "time": "Thu May 07 17:54:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:07",
-        "eta_rueb": "23:12",
-        "delta_rueb_schleuse": "04:55",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "23:15",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "23:12",
+      "eta_rueb": "23:15",
       "eta_schleuse": "04:07",
-      "delta_rueb_schleuse": "04:55",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -362,14 +362,14 @@
       "time": "Thu May 07 17:54:00 CEST 2026",
       "times": {
         "eta_schleuse": "04:07",
-        "eta_rueb": "23:12",
-        "delta_rueb_schleuse": "04:55",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "23:15",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "23:12",
+      "eta_rueb": "23:15",
       "eta_schleuse": "04:07",
-      "delta_rueb_schleuse": "04:55",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -523,10 +523,17 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:12",
+      "eta_rueb_kiel": "00:14",
       "eta_rueb": "00:00",
       "ship": "LADY ADELE",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "00:15",
+      "ship": "SAMPOGRACHT",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
