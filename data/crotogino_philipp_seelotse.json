@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T12:14:50",
+  "generated_at": "2026-05-08T12:16:56",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 15,
     "wach": 1,
-    "see": 10
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -61,14 +61,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 08 10:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:18",
+        "eta_schleuse": "15:17",
         "eta_rueb": "11:41",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "11:41",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:21"
     },
     {
@@ -369,31 +369,15 @@
       "route": "RÜB → HOS",
       "time": "Fri May 08 05:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:15",
+        "eta_schleuse": "15:14",
         "eta_rueb": "10:42",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "10:42",
-      "eta_schleuse": "15:15",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "15:14",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "04:16"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hüpers",
-      "name": "Peter Hüpers",
-      "aufgabe": "Seebört",
-      "nr": 22,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Fri May 08 05:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -401,7 +385,7 @@
       "nachname": "Weise",
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "RIX STAR",
       "route": "RÜB → HOS",
       "time": "Fri May 08 04:55:00 CEST 2026",
@@ -422,7 +406,7 @@
       "nachname": "Kubica",
       "name": "Gregor Kubica",
       "aufgabe": "Wachgänger",
-      "nr": 24,
+      "nr": 23,
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "route": "HOS → HOS",
       "time": "Fri May 08 04:00:00 CEST 2026",
@@ -438,7 +422,7 @@
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Fri May 08 03:43:00 CEST 2026",
@@ -454,7 +438,7 @@
       "nachname": "Steffens",
       "name": "Micha Steffens",
       "aufgabe": "Seebört",
-      "nr": 26,
+      "nr": 25,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Fri May 08 03:00:00 CEST 2026",
@@ -493,14 +477,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 08 10:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:18",
+        "eta_schleuse": "15:17",
         "eta_rueb": "11:41",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:21"
       },
       "eta_rueb": "11:41",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "15:17",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:21"
     },
     {
@@ -689,14 +673,14 @@
       "route": "RÜB → HOS",
       "time": "Fri May 08 05:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "15:15",
+        "eta_schleuse": "15:14",
         "eta_rueb": "10:42",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "10:42",
-      "eta_schleuse": "15:15",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "15:14",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "04:16"
     },
     {
@@ -705,7 +689,7 @@
       "nachname": "Weise",
       "name": "Tom Weise",
       "aufgabe": "Kanalbört",
-      "nr": 23,
+      "nr": 22,
       "fahrzeug": "RIX STAR",
       "route": "RÜB → HOS",
       "time": "Fri May 08 04:55:00 CEST 2026",
@@ -726,7 +710,7 @@
       "nachname": "Diekmann",
       "name": "Ulrich Diekmann",
       "aufgabe": "Kanalbört",
-      "nr": 25,
+      "nr": 24,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Fri May 08 03:43:00 CEST 2026",
@@ -740,7 +724,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:23",
+      "eta_rueb_kiel": "13:22",
       "eta_rueb": "13:15",
       "ship": "ANTRACYTH",
       "q_gruppe": "4",
@@ -768,7 +752,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:40",
+      "eta_rueb_kiel": "15:39",
       "eta_rueb": "15:15",
       "ship": "BRUCE",
       "q_gruppe": "2",
