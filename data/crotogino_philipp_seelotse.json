@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T09:47:09",
+  "generated_at": "2026-05-09T09:48:58",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -303,8 +303,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PARAT+HOERN 10",
+      "route": "LÜW → LÜW",
       "time": "Sat May 09 02:39:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -323,14 +323,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 09 02:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:39",
+        "eta_schleuse": "12:38",
         "eta_rueb": "08:39",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:51"
       },
       "eta_rueb": "08:39",
-      "eta_schleuse": "12:39",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "12:38",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:51"
     },
     {
@@ -586,8 +586,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
       "nr": 18,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PARAT+HOERN 10",
+      "route": "LÜW → LÜW",
       "time": "Sat May 09 02:39:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -606,14 +606,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 09 02:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:39",
+        "eta_schleuse": "12:38",
         "eta_rueb": "08:39",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:51"
       },
       "eta_rueb": "08:39",
-      "eta_schleuse": "12:39",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "12:38",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:51"
     },
     {
@@ -640,13 +640,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "10:30",
-      "ship": "PARAT+HOERN 10",
-      "q_gruppe": "3",
-      "route": "LÜW → LÜW"
-    },
     {
       "eta_rueb_kiel": "11:17",
       "eta_rueb": "11:10",
