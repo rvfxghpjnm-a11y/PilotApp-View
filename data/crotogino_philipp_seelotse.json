@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T15:06:58",
+  "generated_at": "2026-05-09T15:08:58",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
     "see": 5
   },
@@ -35,9 +35,14 @@
       "fahrzeug": "EKNOE",
       "route": "HOS → RÜB",
       "time": "Sat May 09 13:49:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "23:36",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "23:36",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -253,14 +258,14 @@
       "route": "HOS → RÜB",
       "time": "Sat May 09 09:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:34",
+        "eta_schleuse": "20:33",
         "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "16:16",
-      "eta_schleuse": "20:34",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "20:33",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:16"
     },
     {
@@ -275,14 +280,14 @@
       "time": "Sat May 09 09:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:45",
-        "eta_rueb": "16:05",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "05:07"
+        "eta_rueb": "16:07",
+        "delta_rueb_schleuse": "04:38",
+        "delta_start_rueb": "05:09"
       },
-      "eta_rueb": "16:05",
+      "eta_rueb": "16:07",
       "eta_schleuse": "20:45",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "05:07"
+      "delta_rueb_schleuse": "04:38",
+      "delta_start_rueb": "05:09"
     },
     {
       "is_target": false,
@@ -365,27 +370,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "PEAK BORDEAUX",
-      "route": "RÜB → UTG",
-      "time": "Sat May 09 04:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Olaf",
       "nachname": "Köhler",
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Sat May 09 02:39:00 CEST 2026",
@@ -423,9 +412,14 @@
       "fahrzeug": "EKNOE",
       "route": "HOS → RÜB",
       "time": "Sat May 09 13:49:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "23:36",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "23:36",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -577,14 +571,14 @@
       "route": "HOS → RÜB",
       "time": "Sat May 09 09:38:00 CEST 2026",
       "times": {
-        "eta_schleuse": "20:34",
+        "eta_schleuse": "20:33",
         "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "05:16"
       },
       "eta_rueb": "16:16",
-      "eta_schleuse": "20:34",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "20:33",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "05:16"
     },
     {
@@ -599,14 +593,14 @@
       "time": "Sat May 09 09:35:00 CEST 2026",
       "times": {
         "eta_schleuse": "20:45",
-        "eta_rueb": "16:05",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "05:07"
+        "eta_rueb": "16:07",
+        "delta_rueb_schleuse": "04:38",
+        "delta_start_rueb": "05:09"
       },
-      "eta_rueb": "16:05",
+      "eta_rueb": "16:07",
       "eta_schleuse": "20:45",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "05:07"
+      "delta_rueb_schleuse": "04:38",
+      "delta_start_rueb": "05:09"
     },
     {
       "is_target": false,
@@ -673,27 +667,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Tim",
-      "nachname": "Merschmann",
-      "name": "Tim Merschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "PEAK BORDEAUX",
-      "route": "RÜB → UTG",
-      "time": "Sat May 09 04:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Olaf",
       "nachname": "Köhler",
       "name": "Olaf Köhler",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "Leerfahrt",
       "route": "RÜB → HOS",
       "time": "Sat May 09 02:39:00 CEST 2026",
@@ -740,6 +718,13 @@
       "ship": "WESTEWIND",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:37",
+      "eta_rueb": "19:20",
+      "ship": "ODERBORG",
+      "q_gruppe": "5",
+      "route": "RÜB → UTG"
     }
   ]
 }
