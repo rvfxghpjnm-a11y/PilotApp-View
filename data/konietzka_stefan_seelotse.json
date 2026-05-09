@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T05:48:48",
+  "generated_at": "2026-05-09T05:50:52",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "ELBRUNNER",
       "route": "HOS → RÜB",
       "time": "Sat May 09 04:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -401,9 +406,14 @@
       "fahrzeug": "ELBRUNNER",
       "route": "HOS → RÜB",
       "time": "Sat May 09 04:35:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
