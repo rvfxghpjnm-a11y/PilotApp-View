@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T00:40:47",
+  "generated_at": "2026-05-10T00:42:48",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -304,8 +304,8 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "BRUFJELL",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat May 09 19:11:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -384,8 +384,8 @@
       "name": "Niels Münker",
       "aufgabe": "Seebört",
       "nr": 20,
-      "fahrzeug": "ELBWATER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat May 09 16:40:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -420,14 +420,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 09 16:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:08",
+        "eta_schleuse": "02:10",
         "eta_rueb": "22:41",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "22:41",
-      "eta_schleuse": "02:08",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "02:10",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:57"
     },
     {
@@ -717,14 +717,14 @@
       "route": "RÜB → HOS",
       "time": "Sat May 09 16:10:00 CEST 2026",
       "times": {
-        "eta_schleuse": "02:08",
+        "eta_schleuse": "02:10",
         "eta_rueb": "22:41",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "22:41",
-      "eta_schleuse": "02:08",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "02:10",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:57"
     },
     {
@@ -759,14 +759,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:50",
+      "eta_rueb_kiel": "03:46",
       "eta_rueb": "03:40",
       "ship": "BOSFOR",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:53",
+      "eta_rueb_kiel": "03:50",
       "eta_rueb": "03:43",
       "ship": "SKALAR",
       "q_gruppe": "1",
