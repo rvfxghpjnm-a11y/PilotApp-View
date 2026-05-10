@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T18:08:49",
+  "generated_at": "2026-05-10T18:11:00",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -121,14 +121,14 @@
       "route": "HOS → RÜB",
       "time": "Sun May 10 15:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:40",
+        "eta_schleuse": "01:41",
         "eta_rueb": "21:13",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "03:53"
       },
       "eta_rueb": "21:13",
-      "eta_schleuse": "01:40",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "01:41",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "03:53"
     },
     {
@@ -163,15 +163,15 @@
       "route": "HOS → RÜB",
       "time": "Sun May 10 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:30",
-        "eta_rueb": "21:02",
+        "eta_schleuse": "01:31",
+        "eta_rueb": "21:03",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:57"
       },
-      "eta_rueb": "21:02",
-      "eta_schleuse": "01:30",
+      "eta_rueb": "21:03",
+      "eta_schleuse": "01:31",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:57"
     },
     {
       "is_target": false,
@@ -530,14 +530,14 @@
       "route": "HOS → RÜB",
       "time": "Sun May 10 15:43:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:40",
+        "eta_schleuse": "01:41",
         "eta_rueb": "21:13",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "03:53"
       },
       "eta_rueb": "21:13",
-      "eta_schleuse": "01:40",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "01:41",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "03:53"
     },
     {
@@ -572,15 +572,15 @@
       "route": "HOS → RÜB",
       "time": "Sun May 10 15:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "01:30",
-        "eta_rueb": "21:02",
+        "eta_schleuse": "01:31",
+        "eta_rueb": "21:03",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:56"
+        "delta_start_rueb": "03:57"
       },
-      "eta_rueb": "21:02",
-      "eta_schleuse": "01:30",
+      "eta_rueb": "21:03",
+      "eta_schleuse": "01:31",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:56"
+      "delta_start_rueb": "03:57"
     },
     {
       "is_target": false,
@@ -765,7 +765,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "20:34",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "07:00",
+      "ship": "JUIST (A1440)",
+      "q_gruppe": "5",
+      "route": "KRH → RÜB"
+    },
+    {
+      "eta_rueb_kiel": "20:32",
       "eta_rueb": "20:25",
       "ship": "KOMODO",
       "q_gruppe": "4",
