@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T06:13:03",
+  "generated_at": "2026-05-10T06:15:02",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "ROCAMAR",
       "route": "HOS → RÜB",
       "time": "Sun May 10 05:05:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:31",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -163,14 +168,14 @@
       "route": "HOS → RÜB",
       "time": "Sun May 10 02:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:13",
+        "eta_schleuse": "12:12",
         "eta_rueb": "07:38",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "03:38"
       },
       "eta_rueb": "07:38",
-      "eta_schleuse": "12:13",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "12:12",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "03:38"
     },
     {
@@ -247,9 +252,14 @@
       "fahrzeug": "ROCAMAR",
       "route": "KLT → HOS",
       "time": "Sat May 09 23:50:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:31",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -355,9 +365,14 @@
       "fahrzeug": "ROCAMAR",
       "route": "HOS → RÜB",
       "time": "Sun May 10 05:05:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "14:31",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "14:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -435,14 +450,14 @@
       "route": "HOS → RÜB",
       "time": "Sun May 10 02:30:00 CEST 2026",
       "times": {
-        "eta_schleuse": "12:13",
+        "eta_schleuse": "12:12",
         "eta_rueb": "07:38",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "03:38"
       },
       "eta_rueb": "07:38",
-      "eta_schleuse": "12:13",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "12:12",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "03:38"
     },
     {
@@ -555,21 +570,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:44",
+      "eta_rueb_kiel": "06:45",
       "eta_rueb": "06:40",
       "ship": "PULPCA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:46",
+      "eta_rueb_kiel": "06:48",
       "eta_rueb": "06:43",
       "ship": "LADY AMI",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:50",
+      "eta_rueb_kiel": "06:51",
       "eta_rueb": "06:46",
       "ship": "ELECTRAMAR",
       "q_gruppe": "4",
