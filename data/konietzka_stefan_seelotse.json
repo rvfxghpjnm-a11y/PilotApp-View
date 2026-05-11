@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T01:30:41",
+  "generated_at": "2026-05-12T01:32:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,8 +85,8 @@
       "name": "Olaf Köhler",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Mon May 11 23:15:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -221,14 +221,14 @@
       "route": "HOS → RÜB",
       "time": "Mon May 11 20:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:17",
+        "eta_schleuse": "07:16",
         "eta_rueb": "02:08",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:08",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "02:08",
-      "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "05:08",
       "delta_start_rueb": "04:36"
     },
     {
@@ -476,14 +476,14 @@
       "route": "HOS → RÜB",
       "time": "Mon May 11 20:19:00 CEST 2026",
       "times": {
-        "eta_schleuse": "07:17",
+        "eta_schleuse": "07:16",
         "eta_rueb": "02:08",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:08",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "02:08",
-      "eta_schleuse": "07:17",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "07:16",
+      "delta_rueb_schleuse": "05:08",
       "delta_start_rueb": "04:36"
     },
     {
@@ -574,7 +574,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "04:03",
+      "eta_rueb_kiel": "04:02",
       "eta_rueb": "03:50",
       "ship": "DP WORLD LIMASSOL",
       "q_gruppe": "0",
