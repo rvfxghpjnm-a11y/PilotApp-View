@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T09:48:44",
+  "generated_at": "2026-05-11T09:50:40",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -12,7 +12,7 @@
     "nr": 4
   },
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 2,
     "see": 6
   },
@@ -56,14 +56,14 @@
       "time": "Mon May 11 08:20:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:03",
-        "eta_rueb": "13:45",
-        "delta_rueb_schleuse": "05:18",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "13:46",
+        "delta_rueb_schleuse": "05:17",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "13:45",
+      "eta_rueb": "13:46",
       "eta_schleuse": "19:03",
-      "delta_rueb_schleuse": "05:18",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "05:17",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": false,
@@ -134,15 +134,15 @@
       "route": "HOR → RÜB",
       "time": "Mon May 11 07:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:39",
-        "eta_rueb": "12:12",
+        "eta_schleuse": "16:38",
+        "eta_rueb": "12:11",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:30"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "12:12",
-      "eta_schleuse": "16:39",
+      "eta_rueb": "12:11",
+      "eta_schleuse": "16:38",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:30"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -413,22 +413,6 @@
       "eta_schleuse": "10:45",
       "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "ARTEMIS",
-      "route": "RÜB → HOS",
-      "time": "Sun May 10 21:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -465,14 +449,14 @@
       "time": "Mon May 11 08:20:00 CEST 2026",
       "times": {
         "eta_schleuse": "19:03",
-        "eta_rueb": "13:45",
-        "delta_rueb_schleuse": "05:18",
-        "delta_start_rueb": "04:17"
+        "eta_rueb": "13:46",
+        "delta_rueb_schleuse": "05:17",
+        "delta_start_rueb": "04:18"
       },
-      "eta_rueb": "13:45",
+      "eta_rueb": "13:46",
       "eta_schleuse": "19:03",
-      "delta_rueb_schleuse": "05:18",
-      "delta_start_rueb": "04:17"
+      "delta_rueb_schleuse": "05:17",
+      "delta_start_rueb": "04:18"
     },
     {
       "is_target": true,
@@ -527,15 +511,15 @@
       "route": "HOR → RÜB",
       "time": "Mon May 11 07:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "16:39",
-        "eta_rueb": "12:12",
+        "eta_schleuse": "16:38",
+        "eta_rueb": "12:11",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:30"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "12:12",
-      "eta_schleuse": "16:39",
+      "eta_rueb": "12:11",
+      "eta_schleuse": "16:38",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:30"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -678,22 +662,6 @@
       "eta_schleuse": "10:45",
       "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Alexander",
-      "nachname": "Stoislow",
-      "name": "Alexander Stoislow",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "ARTEMIS",
-      "route": "RÜB → HOS",
-      "time": "Sun May 10 21:30:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
