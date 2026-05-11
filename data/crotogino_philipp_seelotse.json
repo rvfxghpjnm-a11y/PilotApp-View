@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T09:28:41",
+  "generated_at": "2026-05-11T09:30:40",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -33,9 +33,14 @@
       "fahrzeug": "X-PRESS TAGUS",
       "route": "HOS → RÜB",
       "time": "Mon May 11 08:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -447,9 +452,14 @@
       "fahrzeug": "X-PRESS TAGUS",
       "route": "HOS → RÜB",
       "time": "Mon May 11 08:25:00 CEST 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:14",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
