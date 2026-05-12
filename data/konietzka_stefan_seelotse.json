@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:10:42",
+  "generated_at": "2026-05-12T22:12:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Tue May 12 19:30:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -212,8 +212,8 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue May 12 17:01:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -399,8 +399,8 @@
       "name": "Thomas Dietrich",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue May 12 17:01:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -463,7 +463,7 @@
       "route": "RDP → RÜB"
     },
     {
-      "eta_rueb_kiel": "23:07",
+      "eta_rueb_kiel": "23:06",
       "eta_rueb": "23:00",
       "ship": "ACEROMAR",
       "q_gruppe": "5",
