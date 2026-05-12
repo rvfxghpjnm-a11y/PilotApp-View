@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T10:28:43",
+  "generated_at": "2026-05-12T10:30:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -57,15 +57,15 @@
       "route": "HOS → RÜB",
       "time": "Tue May 12 08:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:49",
-        "eta_rueb": "13:22",
+        "eta_schleuse": "17:46",
+        "eta_rueb": "13:19",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:42"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "13:22",
-      "eta_schleuse": "17:49",
+      "eta_rueb": "13:19",
+      "eta_schleuse": "17:46",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:42"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -148,14 +148,14 @@
       "time": "Tue May 12 06:02:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:22",
-        "eta_rueb": "10:56",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:28"
+        "eta_rueb": "10:54",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "10:56",
+      "eta_rueb": "10:54",
       "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:28"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -334,15 +334,15 @@
       "route": "HOS → RÜB",
       "time": "Tue May 12 08:04:00 CEST 2026",
       "times": {
-        "eta_schleuse": "17:49",
-        "eta_rueb": "13:22",
+        "eta_schleuse": "17:46",
+        "eta_rueb": "13:19",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:42"
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "13:22",
-      "eta_schleuse": "17:49",
+      "eta_rueb": "13:19",
+      "eta_schleuse": "17:46",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:42"
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -377,14 +377,14 @@
       "time": "Tue May 12 06:02:00 CEST 2026",
       "times": {
         "eta_schleuse": "15:22",
-        "eta_rueb": "10:56",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:28"
+        "eta_rueb": "10:54",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "10:56",
+      "eta_rueb": "10:54",
       "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:28"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -490,6 +490,13 @@
       "ship": "DIAMOND",
       "q_gruppe": "5",
       "route": "RDP → RÜB"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "10:45",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "12:08",
