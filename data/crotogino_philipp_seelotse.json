@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:08:48",
+  "generated_at": "2026-05-12T22:10:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -228,8 +228,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue May 12 14:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -248,14 +248,14 @@
       "route": "RÜB → HOS",
       "time": "Tue May 12 14:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:13",
+        "eta_schleuse": "23:11",
         "eta_rueb": "19:45",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "19:45",
-      "eta_schleuse": "23:13",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "23:11",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:27"
     }
   ],
@@ -415,8 +415,8 @@
       "name": "Torsten Fehse",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Tue May 12 14:50:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -435,14 +435,14 @@
       "route": "RÜB → HOS",
       "time": "Tue May 12 14:12:00 CEST 2026",
       "times": {
-        "eta_schleuse": "23:13",
+        "eta_schleuse": "23:11",
         "eta_rueb": "19:45",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "19:45",
-      "eta_schleuse": "23:13",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "23:11",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:27"
     }
   ],
@@ -461,13 +461,6 @@
       "ship": "DIAMOND",
       "q_gruppe": "5",
       "route": "RDP → RÜB"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "21:56",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "23:07",
