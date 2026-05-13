@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-13T22:23:01",
+  "generated_at": "2026-05-13T22:25:07",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 13,
-    "wach": 2,
+    "wach": 1,
     "see": 5
   },
   "times": null,
@@ -137,15 +137,15 @@
       "route": "HOS → RÜB",
       "time": "Wed May 13 19:03:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:20",
-        "eta_rueb": "23:53",
+        "eta_schleuse": "04:19",
+        "eta_rueb": "23:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:45"
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "23:53",
-      "eta_schleuse": "04:20",
+      "eta_rueb": "23:52",
+      "eta_schleuse": "04:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:45"
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -174,14 +174,14 @@
       "route": "HOS → RÜB",
       "time": "Wed May 13 18:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:00",
+        "eta_schleuse": "04:59",
         "eta_rueb": "23:58",
-        "delta_rueb_schleuse": "05:02",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "23:58",
-      "eta_schleuse": "05:00",
-      "delta_rueb_schleuse": "05:02",
+      "eta_schleuse": "04:59",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "03:48"
     },
     {
@@ -264,14 +264,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 13 14:22:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:49",
+        "eta_schleuse": "00:47",
         "eta_rueb": "21:10",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "21:10",
-      "eta_schleuse": "00:49",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "00:47",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:54"
     },
     {
@@ -285,14 +285,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 13 14:22:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:43",
         "eta_rueb": "21:07",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:07",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "00:43",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:43"
     },
     {
@@ -323,24 +323,8 @@
       "name": "Florian Koch",
       "aufgabe": "Wachgänger",
       "nr": 18,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
-      "time": "Wed May 13 12:00:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Rambadt",
-      "name": "Helge Rambadt",
-      "aufgabe": "Wachgänger",
-      "nr": 19,
-      "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
-      "route": "HOS → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed May 13 12:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -354,7 +338,7 @@
       "nachname": "Suermann",
       "name": "Nik Suermann",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "BALTIC ARROW",
       "route": "RÜB → HOS",
       "time": "Wed May 13 11:55:00 CEST 2026",
@@ -478,15 +462,15 @@
       "route": "HOS → RÜB",
       "time": "Wed May 13 19:03:00 CEST 2026",
       "times": {
-        "eta_schleuse": "04:20",
-        "eta_rueb": "23:53",
+        "eta_schleuse": "04:19",
+        "eta_rueb": "23:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:45"
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "23:53",
-      "eta_schleuse": "04:20",
+      "eta_rueb": "23:52",
+      "eta_schleuse": "04:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:45"
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -499,14 +483,14 @@
       "route": "HOS → RÜB",
       "time": "Wed May 13 18:57:00 CEST 2026",
       "times": {
-        "eta_schleuse": "05:00",
+        "eta_schleuse": "04:59",
         "eta_rueb": "23:58",
-        "delta_rueb_schleuse": "05:02",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "23:58",
-      "eta_schleuse": "05:00",
-      "delta_rueb_schleuse": "05:02",
+      "eta_schleuse": "04:59",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "03:48"
     },
     {
@@ -536,14 +520,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 13 14:22:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:49",
+        "eta_schleuse": "00:47",
         "eta_rueb": "21:10",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "21:10",
-      "eta_schleuse": "00:49",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "00:47",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:54"
     },
     {
@@ -557,14 +541,14 @@
       "route": "RÜB → HOS",
       "time": "Wed May 13 14:22:00 CEST 2026",
       "times": {
-        "eta_schleuse": "00:46",
+        "eta_schleuse": "00:43",
         "eta_rueb": "21:07",
-        "delta_rueb_schleuse": "03:39",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "21:07",
-      "eta_schleuse": "00:46",
-      "delta_rueb_schleuse": "03:39",
+      "eta_schleuse": "00:43",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:43"
     },
     {
@@ -594,7 +578,7 @@
       "nachname": "Suermann",
       "name": "Nik Suermann",
       "aufgabe": "Kanalbört",
-      "nr": 20,
+      "nr": 19,
       "fahrzeug": "BALTIC ARROW",
       "route": "RÜB → HOS",
       "time": "Wed May 13 11:55:00 CEST 2026",
@@ -613,14 +597,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:46",
+      "eta_rueb_kiel": "01:45",
       "eta_rueb": "01:35",
       "ship": "X-PRESS AGILITY",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:50",
+      "eta_rueb_kiel": "03:49",
       "eta_rueb": "03:35",
       "ship": "W NORTH",
       "q_gruppe": "4",
