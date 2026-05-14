@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T14:26:54",
+  "generated_at": "2026-05-14T14:28:58",
   "status": "seelotse",
   "person": {
     "vorname": "Philipp",
@@ -246,19 +246,14 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RIX STAR",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu May 14 09:15:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:56",
-        "eta_rueb": "14:29",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:23"
-      },
-      "eta_rueb": "14:29",
-      "eta_schleuse": "18:56",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -511,19 +506,14 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RIX STAR",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu May 14 09:15:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "18:56",
-        "eta_rueb": "14:29",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:23"
-      },
-      "eta_rueb": "14:29",
-      "eta_schleuse": "18:56",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -557,7 +547,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:25",
+      "eta_rueb_kiel": "15:24",
       "eta_rueb": "15:20",
       "ship": "SYDBORG",
       "q_gruppe": "5",
