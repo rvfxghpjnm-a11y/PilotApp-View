@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T05:19:09",
+  "generated_at": "2026-05-14T05:21:00",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -180,8 +180,8 @@
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MEDEM",
+      "route": "GAK → RÜB",
       "time": "Wed May 13 21:18:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -356,8 +356,8 @@
       "name": "Mathias Krügel",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MEDEM",
+      "route": "GAK → RÜB",
       "time": "Wed May 13 21:18:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -432,25 +432,11 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:46",
-      "eta_rueb": "05:40",
-      "ship": "FEED HELGELAND",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": null,
       "eta_rueb": "05:43",
       "ship": "MV AGUIMES",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "06:00",
-      "ship": "MEDEM",
-      "q_gruppe": "5",
-      "route": "GAK → RÜB"
     },
     {
       "eta_rueb_kiel": "06:07",
