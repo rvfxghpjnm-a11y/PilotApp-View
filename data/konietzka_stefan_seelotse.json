@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T01:26:38",
+  "generated_at": "2026-05-16T01:28:39",
   "status": "seelotse",
   "person": {
     "vorname": "Stefan",
@@ -12,9 +12,9 @@
     "nr": 14
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 2,
-    "see": 5
+    "see": 6
   },
   "times": {
     "eta_schleuse": "05:09",
@@ -135,8 +135,8 @@
       "name": "Stephan Thomaßen",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "WES GESA",
+      "route": "HOS → KLT",
       "time": "Fri May 15 20:00:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -181,10 +181,10 @@
       "vorname": "Mark",
       "nachname": "Wald",
       "name": "Mark Wald",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "MOSTRAUM",
+      "route": "HOS → KLT",
       "time": "Fri May 15 19:35:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -247,8 +247,8 @@
       "name": "Klaus Werner Haala",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri May 15 17:49:00 CEST 2026",
       "times": null,
       "eta_rueb": null,
@@ -464,22 +464,6 @@
       "delta_start_rueb": "03:50"
     },
     {
-      "is_target": false,
-      "vorname": "Mark",
-      "nachname": "Wald",
-      "name": "Mark Wald",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri May 15 19:35:00 CEST 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
       "is_target": true,
       "vorname": "Stefan",
       "nachname": "Konietzka",
@@ -590,7 +574,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:23",
+      "eta_rueb_kiel": "05:22",
       "eta_rueb": "05:03",
       "ship": "JOHN T. ESSBERGER",
       "q_gruppe": "4",
