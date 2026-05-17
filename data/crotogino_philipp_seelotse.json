@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T16:01:11",
+  "generated_at": "2026-05-17T16:03:06",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 12,
     "wach": 1,
-    "see": 7
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -236,14 +236,14 @@
       "route": "HOS → RÜB",
       "time": "Sun May 17 11:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:31",
+        "eta_schleuse": "21:32",
         "eta_rueb": "16:55",
-        "delta_rueb_schleuse": "04:36",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "16:55",
-      "eta_schleuse": "21:31",
-      "delta_rueb_schleuse": "04:36",
+      "eta_schleuse": "21:32",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "03:41"
     },
     {
@@ -264,34 +264,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hüpers",
-      "name": "Peter Hüpers",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "MALACCA HIGHWAY",
-      "route": "RÜB → HOS",
-      "time": "Sun May 17 11:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:38",
-        "eta_rueb": "13:01",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "05:27"
-      },
-      "eta_rueb": "13:01",
-      "eta_schleuse": "16:38",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "05:27"
-    },
-    {
-      "is_target": false,
       "vorname": "Hark",
       "nachname": "Borggräfe",
       "name": "Hark Borggräfe",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
+      "aufgabe": "Seebört",
+      "nr": 14,
       "fahrzeug": "ARKLOW ARTIST",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sun May 17 11:20:00 CEST 2026",
       "times": {
         "eta_schleuse": "16:32",
@@ -303,6 +282,27 @@
       "eta_schleuse": "16:32",
       "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:31"
+    },
+    {
+      "is_target": false,
+      "vorname": "Peter",
+      "nachname": "Hüpers",
+      "name": "Peter Hüpers",
+      "aufgabe": "Seebört",
+      "nr": 15,
+      "fahrzeug": "MALACCA HIGHWAY",
+      "route": "HOS → KLT",
+      "time": "Sun May 17 11:20:00 CEST 2026",
+      "times": {
+        "eta_schleuse": "16:38",
+        "eta_rueb": "13:01",
+        "delta_rueb_schleuse": "03:37",
+        "delta_start_rueb": "05:27"
+      },
+      "eta_rueb": "13:01",
+      "eta_schleuse": "16:38",
+      "delta_rueb_schleuse": "03:37",
+      "delta_start_rueb": "05:27"
     },
     {
       "is_target": false,
@@ -331,14 +331,14 @@
       "route": "RÜB → HOS",
       "time": "Sun May 17 08:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:31",
+        "eta_schleuse": "18:30",
         "eta_rueb": "14:59",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "14:59",
-      "eta_schleuse": "18:31",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:30",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:17"
     },
     {
@@ -564,57 +564,15 @@
       "route": "HOS → RÜB",
       "time": "Sun May 17 11:33:00 CEST 2026",
       "times": {
-        "eta_schleuse": "21:31",
+        "eta_schleuse": "21:32",
         "eta_rueb": "16:55",
-        "delta_rueb_schleuse": "04:36",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "03:41"
       },
       "eta_rueb": "16:55",
-      "eta_schleuse": "21:31",
-      "delta_rueb_schleuse": "04:36",
+      "eta_schleuse": "21:32",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "03:41"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Hüpers",
-      "name": "Peter Hüpers",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "MALACCA HIGHWAY",
-      "route": "RÜB → HOS",
-      "time": "Sun May 17 11:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:38",
-        "eta_rueb": "13:01",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "05:27"
-      },
-      "eta_rueb": "13:01",
-      "eta_schleuse": "16:38",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "05:27"
-    },
-    {
-      "is_target": false,
-      "vorname": "Hark",
-      "nachname": "Borggräfe",
-      "name": "Hark Borggräfe",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "ARKLOW ARTIST",
-      "route": "RÜB → HOS",
-      "time": "Sun May 17 11:20:00 CEST 2026",
-      "times": {
-        "eta_schleuse": "16:32",
-        "eta_rueb": "12:53",
-        "delta_rueb_schleuse": "03:39",
-        "delta_start_rueb": "04:31"
-      },
-      "eta_rueb": "12:53",
-      "eta_schleuse": "16:32",
-      "delta_rueb_schleuse": "03:39",
-      "delta_start_rueb": "04:31"
     },
     {
       "is_target": false,
@@ -627,14 +585,14 @@
       "route": "RÜB → HOS",
       "time": "Sun May 17 08:05:00 CEST 2026",
       "times": {
-        "eta_schleuse": "18:31",
+        "eta_schleuse": "18:30",
         "eta_rueb": "14:59",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "14:59",
-      "eta_schleuse": "18:31",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "18:30",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:17"
     },
     {
